@@ -9,7 +9,7 @@
 - **Curated Plugin List**: Generated from the list of plugins at [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim).
 - **Intuitive Interface**: Allows users to easily browse, search, install, and uninstall Neovim plugins through the telescope interface.
 - **Automatic Configuration**: If a plugin adheres to the unofficial configuration standard, `activate.nvim` can automatically generate a default setup. This aims to reduce the initial setup time for new plugins.
-  **Automatic Plugin List Updates**: A github action periodically checks to see if there
+- **Automatic Plugin List Updates**: A github action periodically checks to see if there
   are any updates in the `awesome-neovim` repository and updates this plugins `data.json` file which is then sync'd down to Neovim by `lazy.nvim`, just like any other plugin.
 
 ## How It Works
