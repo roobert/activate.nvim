@@ -117,7 +117,7 @@ M.list_plugins = function()
 	local items = utils.get_all_plugins()
 	create_picker(
 		"[(1) All Plugins] - Category | Status | Plugin | Author",
-		"<CR> = Install plugin and/or edit the config, [?] = for help",
+		"<CR> = Install plugin and/or edit the config, [h]elp",
 		items,
 		utils.all_plugins_mappings
 	)
@@ -127,7 +127,7 @@ M.list_installed_plugins = function()
 	local items = utils.get_installed_plugins()
 	create_picker(
 		"[(2) Installed Plugins] - Category | Status | Plugin | Author",
-		"<CR> = Edit the config, [?] = for help",
+		"<CR> = Edit the config, [h]elp",
 		items,
 		utils.installed_plugins_mappings
 	)
@@ -137,7 +137,7 @@ M.list_installed_and_configured_plugins = function()
 	local items = utils.get_installed_and_configured_plugins()
 	create_picker(
 		"[(3) Installed and Configured Plugins] - Category | Status | Plugin | Author",
-		"<CR> = Edit the config, [?] = for help",
+		"<CR> = Edit the config, [h]elp",
 		items,
 		utils.installed_plugins_mappings
 	)

@@ -2,6 +2,43 @@ local M = {}
 
 local HOME_DIR = os.getenv("HOME")
 
+local api = vim.api
+
+local function display_popup(content)
+	if type(content) == "string" then
+		content = content:gsub("^      ", ""):gsub("\n      +", "\n")
+		content = vim.split(content, "\n")
+	end
+
+	local bufnr = api.nvim_create_buf(false, true)
+	api.nvim_buf_set_lines(bufnr, 0, -1, false, content)
+
+	local width = vim.o.columns
+	local height = vim.o.lines
+
+	local win_height = math.min(#content + 2, height - 4)
+	local row = math.floor((height - win_height) / 2)
+
+	local win_width = math.min(80, width - 4)
+	local col = math.floor((width - win_width) / 2)
+
+	local win_opts = {
+		relative = "editor",
+		row = row,
+		col = col,
+		width = win_width,
+		height = win_height,
+		style = "minimal",
+		border = "single",
+	}
+
+	api.nvim_open_win(bufnr, true, win_opts)
+
+	local exit_command = "<CMD>close<CR>|<CMD>lua require('activate').list_plugins()<CR>"
+	api.nvim_buf_set_keymap(bufnr, "n", "q", exit_command, { noremap = true, silent = true })
+	api.nvim_buf_set_keymap(bufnr, "n", "<Esc>", exit_command, { noremap = true, silent = true })
+end
+
 M.get_plugin_status = function(plugin_name, config)
 	local plugin_path = string.format("%s/.local/share/nvim/lazy/%s", HOME_DIR, plugin_name)
 	local config_path = string.format("%s/.config/nvim/lua/plugins/%s", HOME_DIR, config)
@@ -264,6 +301,28 @@ M.cycle_views = function()
 	end
 end
 
+local function help()
+	local content = [[
+      # activate.nvim
+
+      ## Keybindings
+
+        <CR>  = Install plugin and/or edit the config
+
+        1     = All Plugins view
+        2     = Installed Plugins view
+        3     = Installed and Configured Plugins view
+        <Tab> = Cycle views
+
+        [I]   = Install plugin, don't open config
+        [U]   = Uninstall plugin and config
+        [h]   = Help
+
+        <esc> = exit
+    ]]
+	display_popup(content)
+end
+
 M.all_plugins_mappings = function(prompt_bufnr, map)
 	local action_state = require("telescope.actions.state")
 
@@ -306,6 +365,8 @@ M.all_plugins_mappings = function(prompt_bufnr, map)
 	map("n", "2", filter_by_installed_plugins)
 	map("n", "3", filter_by_installed_and_configured_plugins)
 
+	map("n", "h", help)
+
 	return true
 end
 
@@ -335,6 +396,8 @@ M.installed_plugins_mappings = function(_, map)
 	map("n", "2", filter_by_installed_plugins)
 	map("n", "3", filter_by_installed_and_configured_plugins)
 
+	map("n", "h", help)
+
 	return true
 end
 
@@ -363,6 +426,8 @@ M.installed_and_configured_plugins_mappings = function(_, map)
 	map("n", "1", filter_by_all_plugins)
 	map("n", "2", filter_by_installed_plugins)
 	map("n", "3", filter_by_installed_and_configured_plugins)
+
+	map("n", "h", help)
 
 	return true
 end
