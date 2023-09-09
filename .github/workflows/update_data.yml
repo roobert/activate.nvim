@@ -1,0 +1,34 @@
+name: Update awesome-neovim JSON Data
+
+on:
+  schedule:
+    - cron: "* */6 * * *"
+
+permissions:
+  contents: write
+jobs:
+  update-and-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.12.0-rc.2
+
+      - name: Pull awesome-neovim repo and regenerate data file
+        run: |
+          git clone https://github.com/rockerBOO/awesome-neovim
+          python bin/md2json.py > data/data.json
+
+      - name: Push changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Action"
+
+          git add -A
+          git commit -m "Update awesome-neovim data file" || echo "No changes to commit"
+          git push
