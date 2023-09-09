@@ -6,19 +6,21 @@
 
 ## Features
 
-- **Curated Plugin List**: Utilizes a curated list of plugins from the [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) repository.
+- **Curated Plugin List**: Generated from the list of plugins at [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim).
 - **Intuitive Interface**: Allows users to easily browse, search, install, and uninstall Neovim plugins through the telescope interface.
-- **Automated Configuration**: If a plugin adheres to the unofficial configuration standard, `activate.nvim` can automatically generate a default setup. This aims to reduce the initial setup time for new plugins.
+- **Automatic Configuration**: If a plugin adheres to the unofficial configuration standard, `activate.nvim` can automatically generate a default setup. This aims to reduce the initial setup time for new plugins.
+  **Automatic Plugin List Updates**: A github action periodically checks to see if there
+  are any updates in the `awesome-neovim` repository and updates this plugins `data.json` file which is then sync'd down to Neovim by `lazy.nvim`, just like any other plugin.
 
 ## How It Works
 
 ### Plugin Updates
 
-After a plugin is installed using activate.nvim, its updates are managed by `lazy.nvim`. This ensures plugins are kept up-to-date.
+After a plugin is installed using `activate.nvim`, its updates are managed by `lazy.nvim`. This ensures plugins are kept up-to-date.
 
 ### Database Refresh
 
-To provide the latest plugins, a Github pipeline checks the awesome-neovim repository every three hours for updates. If changes are detected, the `data/data.json` file is updated. As a result, `lazy.nvim` will recognize the changes to activate.nvim, ensuring that the latest plugins are always accessible.
+To provide the latest plugins, a Github pipeline checks the awesome-neovim repository every three hours for updates. If changes are detected, the `data/data.json` file is updated. As a result, `lazy.nvim` will recognize the changes to `activate.nvim`, ensuring that the latest plugins are always accessible.
 
 ### Unofficial Standard: `setup.lua.example`
 
