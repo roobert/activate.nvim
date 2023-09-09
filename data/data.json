@@ -443,6 +443,14 @@
             "description": "A pretty diagnostics list to help you solve all the trouble your code is causing."
         },
         {
+            "path": "piersolenski/wtf.nvim",
+            "owner": "piersolenski",
+            "name": "wtf.nvim",
+            "config": "wtf_nvim.lua",
+            "url": "https://github.com/piersolenski/wtf.nvim",
+            "description": "AI powered diagnostic debugging, helps explain complex errors and offers custom tailored solutions."
+        },
+        {
             "path": "folke/lsp-colors.nvim",
             "owner": "folke",
             "name": "lsp-colors.nvim",
@@ -525,6 +533,22 @@
             "config": "ChatGPT_nvim.lua",
             "url": "https://github.com/jackMort/ChatGPT.nvim",
             "description": "Effortless Natural Language Generation with OpenAI's ChatGPT API."
+        },
+        {
+            "path": "CamdenClark/flyboy",
+            "owner": "CamdenClark",
+            "name": "flyboy",
+            "config": "flyboy.lua",
+            "url": "https://github.com/CamdenClark/flyboy",
+            "description": "Simple interaction with ChatGPT in a markdown buffer. Supports GPT-4 and Azure OpenAI."
+        },
+        {
+            "path": "gsuuon/llm.nvim",
+            "owner": "gsuuon",
+            "name": "llm.nvim",
+            "config": "llm_nvim.lua",
+            "url": "https://github.com/gsuuon/llm.nvim",
+            "description": "Integrate LLM's via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp."
         }
     ],
     "Programming Languages Support": [
@@ -599,6 +623,14 @@
             "config": "tsc_nvim.lua",
             "url": "https://github.com/dmmulroy/tsc.nvim",
             "description": "Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (TSC) with results loaded into a quickfix list."
+        },
+        {
+            "path": "chuwy/ucm.nvim",
+            "owner": "chuwy",
+            "name": "ucm.nvim",
+            "config": "ucm_nvim.lua",
+            "url": "https://github.com/chuwy/ucm.nvim",
+            "description": "Navigating [Unison](https://unison-lang.org/) projects."
         },
         {
             "path": "ray-x/go.nvim",
@@ -999,6 +1031,14 @@
             "config": "karen_yank_nvim.lua",
             "url": "https://github.com/tenxsoydev/karen-yank.nvim",
             "description": "More intentional register handling with delete, cut and yank mappings."
+        },
+        {
+            "path": "desdic/macrothis.nvim",
+            "owner": "desdic",
+            "name": "macrothis.nvim",
+            "config": "macrothis_nvim.lua",
+            "url": "https://github.com/desdic/macrothis.nvim",
+            "description": "Save and load macros/registers."
         }
     ],
     "Marks": [
@@ -1573,6 +1613,14 @@
             "config": "vscode_nvim.lua",
             "url": "https://github.com/Mofiqul/vscode.nvim",
             "description": "A Lua port of vim-code-dark colorscheme with vscode light and dark theme."
+        },
+        {
+            "path": "askfiy/visual_studio_code",
+            "owner": "askfiy",
+            "name": "visual_studio_code",
+            "config": "visual_studio_code.lua",
+            "url": "https://github.com/askfiy/visual_studio_code",
+            "description": "A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode. "
         },
         {
             "path": "marko-cerovac/material.nvim",
@@ -2279,6 +2327,14 @@
             "description": "A dark pastel color scheme inspired by the woods. Built using lush and supports Tree-sitter, diagnostics, CMP, Git-Signs, Telescope, Which-key, Lazy, and more."
         },
         {
+            "path": "Verf/deepwhite.nvim",
+            "owner": "Verf",
+            "name": "deepwhite.nvim",
+            "config": "deepwhite_nvim.lua",
+            "url": "https://github.com/Verf/deepwhite.nvim",
+            "description": "A light colorscheme inspired by [flatwhite-syntax](https://github.com/biletskyy/flatwhite-syntax) and [elegant-emacs](https://github.com/rougier/elegant-emacs)."
+        },
+        {
             "path": "tjdevries/gruvbuddy.nvim",
             "owner": "tjdevries",
             "name": "gruvbuddy.nvim",
@@ -2665,6 +2721,14 @@
             "description": "A bufferline extension to cycle through windowless buffers to give a more traditional tab based experience."
         },
         {
+            "path": "mg979/tabline.nvim",
+            "owner": "mg979",
+            "name": "tabline.nvim",
+            "config": "tabline_nvim.lua",
+            "url": "https://github.com/mg979/tabline.nvim",
+            "description": "A comprehensive tabline for rendering and managing tabs, buffers or arglist, and featuring buffer filtering, fzf integration and session management."
+        },
+        {
             "path": "yamatsum/nvim-cursorline",
             "owner": "yamatsum",
             "name": "nvim-cursorline",
@@ -2877,6 +2941,14 @@
             "config": "image_preview_nvim.lua",
             "url": "https://github.com/adelarsq/image_preview.nvim",
             "description": "Image preview based on terminal's Image Protocol support."
+        },
+        {
+            "path": "niuiic/code-shot.nvim",
+            "owner": "niuiic",
+            "name": "code-shot.nvim",
+            "config": "code_shot_nvim.lua",
+            "url": "https://github.com/niuiic/code-shot.nvim",
+            "description": "Take a picture of the code."
         }
     ],
     "Note Taking": [
@@ -2983,6 +3055,14 @@
             "config": "obsidian_nvim.lua",
             "url": "https://github.com/epwalsh/obsidian.nvim",
             "description": "Plugin for Obsidian, written in Lua."
+        },
+        {
+            "path": "IlyasYOY/obs.nvim",
+            "owner": "IlyasYOY",
+            "name": "obs.nvim",
+            "config": "obs_nvim.lua",
+            "url": "https://github.com/IlyasYOY/obs.nvim",
+            "description": "Your Obsidian notes at the speed of thought."
         },
         {
             "path": "jghauser/papis.nvim",
@@ -3451,6 +3531,14 @@
             "description": "\"On this day\" style calendar, which provides information about worldwide history of working class movements and liberation struggles."
         },
         {
+            "path": "subnut/nvim-ghost.nvim",
+            "owner": "subnut",
+            "name": "nvim-ghost.nvim",
+            "config": "nvim_ghost_nvim.lua",
+            "url": "https://github.com/subnut/nvim-ghost.nvim",
+            "description": "GhostText support with zero dependencies."
+        },
+        {
             "path": "malbertzard/inline-fold.nvim",
             "owner": "malbertzard",
             "name": "inline-fold.nvim",
@@ -3465,6 +3553,14 @@
             "config": "nvim_origami.lua",
             "url": "https://github.com/chrisgrieser/nvim-origami",
             "description": "Fold with relentless elegance."
+        },
+        {
+            "path": "GCBallesteros/NotebookNavigator.nvim",
+            "owner": "GCBallesteros",
+            "name": "NotebookNavigator.nvim",
+            "config": "NotebookNavigator_nvim.lua",
+            "url": "https://github.com/GCBallesteros/NotebookNavigator.nvim",
+            "description": "Navigate and execute code cells."
         }
     ],
     "Terminal Integration": [
@@ -3865,6 +3961,14 @@
             "config": "compiler_nvim.lua",
             "url": "https://github.com/Zeioth/compiler.nvim",
             "description": "Compiler for building and running your code without having to configure anything."
+        },
+        {
+            "path": "jaytyrrell13/static.nvim",
+            "owner": "jaytyrrell13",
+            "name": "static.nvim",
+            "config": "static_nvim.lua",
+            "url": "https://github.com/jaytyrrell13/static.nvim",
+            "description": "Run static site generator commands."
         }
     ],
     "Neovim Lua Development": [
@@ -4095,6 +4199,14 @@
             "config": "crates_nvim.lua",
             "url": "https://github.com/Saecki/crates.nvim",
             "description": "Rust dependency management for `Cargo.toml`."
+        },
+        {
+            "path": "piersolenski/telescope-import.nvim",
+            "owner": "piersolenski",
+            "name": "telescope-import.nvim",
+            "config": "telescope_import_nvim.lua",
+            "url": "https://github.com/piersolenski/telescope-import.nvim",
+            "description": "Import modules faster based on what you've already imported in your project."
         }
     ],
     "Git": [
@@ -4115,11 +4227,11 @@
             "description": "Git integration: signs, hunk actions, blame, etc."
         },
         {
-            "path": "TimUntersberger/neogit",
-            "owner": "TimUntersberger",
+            "path": "NeogitOrg/neogit",
+            "owner": "NeogitOrg",
             "name": "neogit",
             "config": "neogit.lua",
-            "url": "https://github.com/TimUntersberger/neogit",
+            "url": "https://github.com/NeogitOrg/neogit",
             "description": "A Magit clone that may change some things to fit the Vim philosophy."
         },
         {
@@ -4193,6 +4305,14 @@
             "config": "gitlinker_nvim.lua",
             "url": "https://github.com/linrongbin16/gitlinker.nvim",
             "description": "Generate sharable file permalinks (with line ranges) for git host websites, a fork of \"ruifm's gitlinker\", refactored with pattern based rule engine, windows support and other enhancements."
+        },
+        {
+            "path": "9seconds/repolink.nvim",
+            "owner": "9seconds",
+            "name": "repolink.nvim",
+            "config": "repolink_nvim.lua",
+            "url": "https://github.com/9seconds/repolink.nvim",
+            "description": "Generate shareable HTTP permalinks for various Git web frontends."
         },
         {
             "path": "pwntester/octo.nvim",
@@ -4762,7 +4882,1259 @@
             "name": "binary-swap.nvim",
             "config": "binary_swap_nvim.lua",
             "url": "https://github.com/Wansmer/binary-swap.nvim",
-            "description": "Swapping operands and operators in binary expressi"
+            "description": "Swapping operands and operators in binary expressions: comparison and mathematical operations."
+        },
+        {
+            "path": "nacro90/numb.nvim",
+            "owner": "nacro90",
+            "name": "numb.nvim",
+            "config": "numb_nvim.lua",
+            "url": "https://github.com/nacro90/numb.nvim",
+            "description": "Peek lines in a non-obtrusive way."
+        },
+        {
+            "path": "ethanholz/nvim-lastplace",
+            "owner": "ethanholz",
+            "name": "nvim-lastplace",
+            "config": "nvim_lastplace.lua",
+            "url": "https://github.com/ethanholz/nvim-lastplace",
+            "description": "Reopen files at your last edit position."
+        },
+        {
+            "path": "Allendang/nvim-expand-expr",
+            "owner": "Allendang",
+            "name": "nvim-expand-expr",
+            "config": "nvim_expand_expr.lua",
+            "url": "https://github.com/AllenDang/nvim-expand-expr",
+            "description": "Expand and repeat expression to multiple lines."
+        },
+        {
+            "path": "h-hg/fcitx.nvim",
+            "owner": "h-hg",
+            "name": "fcitx.nvim",
+            "config": "fcitx_nvim.lua",
+            "url": "https://github.com/h-hg/fcitx.nvim",
+            "description": "Switching and restoring fcitx state for each buffer separately."
+        },
+        {
+            "path": "keaising/im-select.nvim",
+            "owner": "keaising",
+            "name": "im-select.nvim",
+            "config": "im_select_nvim.lua",
+            "url": "https://github.com/keaising/im-select.nvim",
+            "description": "Switching and restoring input method automatically depends on Neovim's edit mode."
+        },
+        {
+            "path": "echasnovski/mini.trailspace",
+            "owner": "echasnovski",
+            "name": "mini.trailspace",
+            "config": "mini_trailspace.lua",
+            "url": "https://github.com/echasnovski/mini.trailspace",
+            "description": "Module of `mini.nvim` for automatic highlighting of trailing whitespace with functionality to remove it."
+        },
+        {
+            "path": "smjonas/live-command.nvim",
+            "owner": "smjonas",
+            "name": "live-command.nvim",
+            "config": "live_command_nvim.lua",
+            "url": "https://github.com/smjonas/live-command.nvim",
+            "description": "Text editing with immediate visual feedback: preview commands such as `:norm`, `:g`, macros and more."
+        },
+        {
+            "path": "filipdutescu/renamer.nvim",
+            "owner": "filipdutescu",
+            "name": "renamer.nvim",
+            "config": "renamer_nvim.lua",
+            "url": "https://github.com/filipdutescu/renamer.nvim",
+            "description": "VS Code-like renaming UI, written in Lua."
+        },
+        {
+            "path": "gbprod/cutlass.nvim",
+            "owner": "gbprod",
+            "name": "cutlass.nvim",
+            "config": "cutlass_nvim.lua",
+            "url": "https://github.com/gbprod/cutlass.nvim",
+            "description": "Plugin that adds a 'cut' operation separate from 'delete'."
+        },
+        {
+            "path": "gbprod/substitute.nvim",
+            "owner": "gbprod",
+            "name": "substitute.nvim",
+            "config": "substitute_nvim.lua",
+            "url": "https://github.com/gbprod/substitute.nvim",
+            "description": "Neovim plugin introducing a new operator motions to quickly replace and exchange text."
+        },
+        {
+            "path": "echasnovski/mini.operators",
+            "owner": "echasnovski",
+            "name": "mini.operators",
+            "config": "mini_operators.lua",
+            "url": "https://github.com/echasnovski/mini.operators",
+            "description": "Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate."
+        },
+        {
+            "path": "gbprod/yanky.nvim",
+            "owner": "gbprod",
+            "name": "yanky.nvim",
+            "config": "yanky_nvim.lua",
+            "url": "https://github.com/gbprod/yanky.nvim",
+            "description": "Improved Yank and Put functionalities."
+        },
+        {
+            "path": "sQVe/sort.nvim",
+            "owner": "sQVe",
+            "name": "sort.nvim",
+            "config": "sort_nvim.lua",
+            "url": "https://github.com/sQVe/sort.nvim",
+            "description": "Sorting plugin that intelligently supports line-wise and delimiter sorting."
+        },
+        {
+            "path": "booperlv/nvim-gomove",
+            "owner": "booperlv",
+            "name": "nvim-gomove",
+            "config": "nvim_gomove.lua",
+            "url": "https://github.com/booperlv/nvim-gomove",
+            "description": "A complete plugin for moving and duplicating blocks and lines, with complete fold handling, reindenting, and undoing in one go."
+        },
+        {
+            "path": "willothy/moveline.nvim",
+            "owner": "willothy",
+            "name": "moveline.nvim",
+            "config": "moveline_nvim.lua",
+            "url": "https://github.com/willothy/moveline.nvim",
+            "description": "Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust."
+        },
+        {
+            "path": "echasnovski/mini.move",
+            "owner": "echasnovski",
+            "name": "mini.move",
+            "config": "mini_move.lua",
+            "url": "https://github.com/echasnovski/mini.move",
+            "description": "Module of `mini.nvim` to move any selection (charwise, linewise, blockwise, current line in Normal mode) in any direction. Handles both `v:count` and undo history."
+        },
+        {
+            "path": "anuvyklack/pretty-fold.nvim",
+            "owner": "anuvyklack",
+            "name": "pretty-fold.nvim",
+            "config": "pretty_fold_nvim.lua",
+            "url": "https://github.com/anuvyklack/pretty-fold.nvim",
+            "description": "Foldtext customization."
+        },
+        {
+            "path": "bennypowers/nvim-regexplainer",
+            "owner": "bennypowers",
+            "name": "nvim-regexplainer",
+            "config": "nvim_regexplainer.lua",
+            "url": "https://github.com/bennypowers/nvim-regexplainer",
+            "description": "Explain the regular expression under the cursor."
+        },
+        {
+            "path": "gbprod/stay-in-place.nvim",
+            "owner": "gbprod",
+            "name": "stay-in-place.nvim",
+            "config": "stay_in_place_nvim.lua",
+            "url": "https://github.com/gbprod/stay-in-place.nvim",
+            "description": "Neovim plugin that prevent cursor from moving when using shift and filter actions."
+        },
+        {
+            "path": "echasnovski/mini.ai",
+            "owner": "echasnovski",
+            "name": "mini.ai",
+            "config": "mini_ai.lua",
+            "url": "https://github.com/echasnovski/mini.ai",
+            "description": "Module of `mini.nvim` for extending and creating `a`/`i` textobjects. It enhances some builtin textobjects, creates extensive set of new ones (like `a*`, `a<Space>`, `a?`, and more), and allows user to create their own (via Lua patterns or functions). Supports dot-repeat, different search methods, consecutive application, and more."
+        },
+        {
+            "path": "Wansmer/treesj",
+            "owner": "Wansmer",
+            "name": "treesj",
+            "config": "treesj.lua",
+            "url": "https://github.com/Wansmer/treesj",
+            "description": "Splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc. Using Tree-Sitter. Inspired by greatest splitjoin.vim."
+        },
+        {
+            "path": "bennypowers/splitjoin.nvim",
+            "owner": "bennypowers",
+            "name": "splitjoin.nvim",
+            "config": "splitjoin_nvim.lua",
+            "url": "https://github.com/bennypowers/splitjoin.nvim",
+            "description": "Split and join various syntax structures."
+        },
+        {
+            "path": "echasnovski/mini.splitjoin",
+            "owner": "echasnovski",
+            "name": "mini.splitjoin",
+            "config": "mini_splitjoin.lua",
+            "url": "https://github.com/echasnovski/mini.splitjoin",
+            "description": "Module of `mini.nvim` to split and join arguments. Has customizable pre and post hooks. Works inside comments."
+        },
+        {
+            "path": "shortcuts/no-neck-pain.nvim",
+            "owner": "shortcuts",
+            "name": "no-neck-pain.nvim",
+            "config": "no_neck_pain_nvim.lua",
+            "url": "https://github.com/shortcuts/no-neck-pain.nvim",
+            "description": "Center the currently focused buffer to the middle of your terminal."
+        },
+        {
+            "path": "debugloop/telescope-undo.nvim",
+            "owner": "debugloop",
+            "name": "telescope-undo.nvim",
+            "config": "telescope_undo_nvim.lua",
+            "url": "https://github.com/debugloop/telescope-undo.nvim",
+            "description": "A telescope extension to visualize your undo tree and fuzzy-search changes in it."
+        },
+        {
+            "path": "chrisgrieser/nvim-various-textobjs",
+            "owner": "chrisgrieser",
+            "name": "nvim-various-textobjs",
+            "config": "nvim_various_textobjs.lua",
+            "url": "https://github.com/chrisgrieser/nvim-various-textobjs",
+            "description": "Bundle of about a dozen custom text objects."
+        },
+        {
+            "path": "XXiaoA/ns-textobject.nvim",
+            "owner": "XXiaoA",
+            "name": "ns-textobject.nvim",
+            "config": "ns_textobject_nvim.lua",
+            "url": "https://github.com/XXiaoA/ns-textobject.nvim",
+            "description": "Awesome textobject plugin works with nvim-surround."
+        },
+        {
+            "path": "~nedia/auto-save.nvim",
+            "owner": "~nedia",
+            "name": "auto-save.nvim",
+            "config": "auto_save_nvim.lua",
+            "url": "https://git.sr.ht/~nedia/auto-save.nvim",
+            "description": "Extremely simple auto saving on `InsertLeave` & `TextChanged`. Based on Pocco81/AutoSave but lighter."
+        },
+        {
+            "path": "echasnovski/mini.basics",
+            "owner": "echasnovski",
+            "name": "mini.basics",
+            "config": "mini_basics.lua",
+            "url": "https://github.com/echasnovski/mini.basics",
+            "description": "Module of `mini.nvim` with customizable configuration presets for common options, mappings, and autocommands."
+        },
+        {
+            "path": "niuiic/part-edit.nvim",
+            "owner": "niuiic",
+            "name": "part-edit.nvim",
+            "config": "part_edit_nvim.lua",
+            "url": "https://github.com/niuiic/part-edit.nvim",
+            "description": "Edit a part of a file individually."
+        },
+        {
+            "path": "niuiic/divider.nvim",
+            "owner": "niuiic",
+            "name": "divider.nvim",
+            "config": "divider_nvim.lua",
+            "url": "https://github.com/niuiic/divider.nvim",
+            "description": "Custom code divider line."
+        },
+        {
+            "path": "chrisgrieser/nvim-alt-substitute",
+            "owner": "chrisgrieser",
+            "name": "nvim-alt-substitute",
+            "config": "nvim_alt_substitute.lua",
+            "url": "https://github.com/chrisgrieser/nvim-alt-substitute",
+            "description": "A substitute of vim's `:substitute` that uses Lua patterns instead of vim regex. Supports incremental preview."
+        },
+        {
+            "path": "ckolkey/ts-node-action",
+            "owner": "ckolkey",
+            "name": "ts-node-action",
+            "config": "ts_node_action.lua",
+            "url": "https://github.com/ckolkey/ts-node-action",
+            "description": "A framework for executing functional transformations on Tree-sitter nodes - Has a lot of built-in actions for transforming text."
+        },
+        {
+            "path": "tomiis4/hypersonic.nvim",
+            "owner": "tomiis4",
+            "name": "hypersonic.nvim",
+            "config": "hypersonic_nvim.lua",
+            "url": "https://github.com/tomiis4/hypersonic.nvim",
+            "description": "Provides explanation for RegExp."
+        },
+        {
+            "path": "00sapo/visual.nvim",
+            "owner": "00sapo",
+            "name": "visual.nvim",
+            "config": "visual_nvim.lua",
+            "url": "https://github.com/00sapo/visual.nvim",
+            "description": "Provides keybindings for creating a Kakoune/Helix-like experience: first select and then choose the editing command."
+        },
+        {
+            "path": "numToStr/Comment.nvim",
+            "owner": "numToStr",
+            "name": "Comment.nvim",
+            "config": "Comment_nvim.lua",
+            "url": "https://github.com/numToStr/Comment.nvim",
+            "description": "Smart and Powerful comment plugin. Supports commentstring, motions, dot-repeat and more."
+        },
+        {
+            "path": "b3nj5m1n/kommentary",
+            "owner": "b3nj5m1n",
+            "name": "kommentary",
+            "config": "kommentary.lua",
+            "url": "https://github.com/b3nj5m1n/kommentary",
+            "description": "Commenting plugin written in Lua."
+        },
+        {
+            "path": "gennaro-tedesco/nvim-commaround",
+            "owner": "gennaro-tedesco",
+            "name": "nvim-commaround",
+            "config": "nvim_commaround.lua",
+            "url": "https://github.com/gennaro-tedesco/nvim-commaround",
+            "description": "Fast and light commenting plugin written in Lua."
+        },
+        {
+            "path": "folke/todo-comments.nvim",
+            "owner": "folke",
+            "name": "todo-comments.nvim",
+            "config": "todo_comments_nvim.lua",
+            "url": "https://github.com/folke/todo-comments.nvim",
+            "description": "Highlight, list and search todo comments in your projects."
+        },
+        {
+            "path": "terrortylor/nvim-comment",
+            "owner": "terrortylor",
+            "name": "nvim-comment",
+            "config": "nvim_comment.lua",
+            "url": "https://github.com/terrortylor/nvim-comment",
+            "description": "Toggle comments using the built-in commentstring option."
+        },
+        {
+            "path": "winston0410/commented.nvim",
+            "owner": "winston0410",
+            "name": "commented.nvim",
+            "config": "commented_nvim.lua",
+            "url": "https://github.com/winston0410/commented.nvim",
+            "description": "A commenting plugin that supports counts and multiple comment patterns and much more."
+        },
+        {
+            "path": "s1n7ax/nvim-comment-frame",
+            "owner": "s1n7ax",
+            "name": "nvim-comment-frame",
+            "config": "nvim_comment_frame.lua",
+            "url": "https://github.com/s1n7ax/nvim-comment-frame",
+            "description": "Adds a comment frame based on the source file."
+        },
+        {
+            "path": "danymat/neogen",
+            "owner": "danymat",
+            "name": "neogen",
+            "config": "neogen.lua",
+            "url": "https://github.com/danymat/neogen",
+            "description": "A better annotation generator. Supports multiple languages and annotation conventions."
+        },
+        {
+            "path": "echasnovski/mini.comment",
+            "owner": "echasnovski",
+            "name": "mini.comment",
+            "config": "mini_comment.lua",
+            "url": "https://github.com/echasnovski/mini.comment",
+            "description": "Module of `mini.nvim` for per-line commenting. Fully supports dot-repeat."
+        },
+        {
+            "path": "LudoPinelli/comment-box.nvim",
+            "owner": "LudoPinelli",
+            "name": "comment-box.nvim",
+            "config": "comment_box_nvim.lua",
+            "url": "https://github.com/LudoPinelli/comment-box.nvim",
+            "description": "Clarify and beautify your comments using boxes and lines."
+        },
+        {
+            "path": "JoosepAlviste/nvim-ts-context-commentstring",
+            "owner": "JoosepAlviste",
+            "name": "nvim-ts-context-commentstring",
+            "config": "nvim_ts_context_commentstring.lua",
+            "url": "https://github.com/JoosepAlviste/nvim-ts-context-commentstring",
+            "description": "Sets the `commentstring` option based on the cursor location in the file. The location is checked via treesitter queries."
+        },
+        {
+            "path": "LucasTavaresA/SingleComment.nvim",
+            "owner": "LucasTavaresA",
+            "name": "SingleComment.nvim",
+            "config": "SingleComment_nvim.lua",
+            "url": "https://github.com/LucasTavaresA/SingleComment.nvim",
+            "description": "Always single line, comment sensitive, indentation preserving commenting."
+        },
+        {
+            "path": "Zeioth/dooku.nvim",
+            "owner": "Zeioth",
+            "name": "dooku.nvim",
+            "config": "dooku_nvim.lua",
+            "url": "https://github.com/Zeioth/dooku.nvim",
+            "description": "Generate and open your HTML code documentation."
+        }
+    ],
+    "Formatting": [
+        {
+            "path": "gpanders/editorconfig.nvim",
+            "owner": "gpanders",
+            "name": "editorconfig.nvim",
+            "config": "editorconfig_nvim.lua",
+            "url": "https://github.com/gpanders/editorconfig.nvim",
+            "description": "An EditorConfig plugin written in Fennel."
+        },
+        {
+            "path": "mhartington/formatter.nvim",
+            "owner": "mhartington",
+            "name": "formatter.nvim",
+            "config": "formatter_nvim.lua",
+            "url": "https://github.com/mhartington/formatter.nvim",
+            "description": "A format runner written in Lua."
+        },
+        {
+            "path": "lukas-reineke/lsp-format.nvim",
+            "owner": "lukas-reineke",
+            "name": "lsp-format.nvim",
+            "config": "lsp_format_nvim.lua",
+            "url": "https://github.com/lukas-reineke/lsp-format.nvim",
+            "description": "A wrapper around Neovims native LSP formatting."
+        },
+        {
+            "path": "sbdchd/neoformat",
+            "owner": "sbdchd",
+            "name": "neoformat",
+            "config": "neoformat.lua",
+            "url": "https://github.com/sbdchd/neoformat",
+            "description": "A (Neo)vim plugin for formatting code."
+        },
+        {
+            "path": "cappyzawa/trim.nvim",
+            "owner": "cappyzawa",
+            "name": "trim.nvim",
+            "config": "trim_nvim.lua",
+            "url": "https://github.com/cappyzawa/trim.nvim",
+            "description": "This plugin trims trailing whitespace and lines."
+        },
+        {
+            "path": "mcauley-penney/tidy.nvim",
+            "owner": "mcauley-penney",
+            "name": "tidy.nvim",
+            "config": "tidy_nvim.lua",
+            "url": "https://github.com/mcauley-penney/tidy.nvim",
+            "description": "Clear trailing whitespace and empty lines at end of file on every save."
+        },
+        {
+            "path": "MunifTanjim/prettier.nvim",
+            "owner": "MunifTanjim",
+            "name": "prettier.nvim",
+            "config": "prettier_nvim.lua",
+            "url": "https://github.com/MunifTanjim/prettier.nvim",
+            "description": "Prettier integration."
+        },
+        {
+            "path": "echasnovski/mini.align",
+            "owner": "echasnovski",
+            "name": "mini.align",
+            "config": "mini_align.lua",
+            "url": "https://github.com/echasnovski/mini.align",
+            "description": "Module of `mini.nvim` for aligning text interactively (with or without instant preview)."
+        },
+        {
+            "path": "emileferreira/nvim-strict",
+            "owner": "emileferreira",
+            "name": "nvim-strict",
+            "config": "nvim_strict.lua",
+            "url": "https://github.com/emileferreira/nvim-strict",
+            "description": "Strict, native code style formatting which exposes deep nesting, overlong lines, trailing whitespace, trailing empty lines, todos and inconsistent indentation."
+        },
+        {
+            "path": "~nedia/auto-format.nvim",
+            "owner": "~nedia",
+            "name": "auto-format.nvim",
+            "config": "auto_format_nvim.lua",
+            "url": "https://git.sr.ht/~nedia/auto-format.nvim",
+            "description": "Does no formatting by itself, but sets up an autocmd to format on save, preferring null-ls over LSP client formatting."
+        },
+        {
+            "path": "tenxsoydev/tabs-vs-spaces.nvim",
+            "owner": "tenxsoydev",
+            "name": "tabs-vs-spaces.nvim",
+            "config": "tabs_vs_spaces_nvim.lua",
+            "url": "https://github.com/tenxsoydev/tabs-vs-spaces.nvim",
+            "description": "Hint and fix deviating indentation."
+        },
+        {
+            "path": "bennypowers/svgo.nvim",
+            "owner": "bennypowers",
+            "name": "svgo.nvim",
+            "config": "svgo_nvim.lua",
+            "url": "https://github.com/bennypowers/svgo.nvim",
+            "description": "Optimize SVG files."
+        },
+        {
+            "path": "niuiic/format.nvim",
+            "owner": "niuiic",
+            "name": "format.nvim",
+            "config": "format_nvim.lua",
+            "url": "https://github.com/niuiic/format.nvim",
+            "description": "An asynchronous, multitasking, and highly configurable formatting plugin."
+        },
+        {
+            "path": "elentok/format-on-save.nvim",
+            "owner": "elentok",
+            "name": "format-on-save.nvim",
+            "config": "format_on_save_nvim.lua",
+            "url": "https://github.com/elentok/format-on-save.nvim",
+            "description": "A synchronous formatter that combines LSP and non-LSP formatting (e.g. shfmt, stylua, prettier), focused specifically on format-on-save."
+        },
+        {
+            "path": "stevearc/conform.nvim",
+            "owner": "stevearc",
+            "name": "conform.nvim",
+            "config": "conform_nvim.lua",
+            "url": "https://github.com/stevearc/conform.nvim",
+            "description": "A lightweight formatting engine that plays nice with LSP."
+        },
+        {
+            "path": "nvimdev/indentmini.nvim",
+            "owner": "nvimdev",
+            "name": "indentmini.nvim",
+            "config": "indentmini_nvim.lua",
+            "url": "https://github.com/nvimdev/indentmini.nvim",
+            "description": "A minimal and blazing fast indentline plugin by using nvim_set_decoration_provide api."
+        },
+        {
+            "path": "lukas-reineke/indent-blankline.nvim",
+            "owner": "lukas-reineke",
+            "name": "indent-blankline.nvim",
+            "config": "indent_blankline_nvim.lua",
+            "url": "https://github.com/lukas-reineke/indent-blankline.nvim",
+            "description": "IndentLine replacement in Lua with more features and treesitter support."
+        },
+        {
+            "path": "LucasTavaresA/simpleIndentGuides.nvim",
+            "owner": "LucasTavaresA",
+            "name": "simpleIndentGuides.nvim",
+            "config": "simpleIndentGuides_nvim.lua",
+            "url": "https://github.com/LucasTavaresA/simpleIndentGuides.nvim",
+            "description": "Indentation guides using the builtin variables."
+        },
+        {
+            "path": "echasnovski/mini.indentscope",
+            "owner": "echasnovski",
+            "name": "mini.indentscope",
+            "config": "mini_indentscope.lua",
+            "url": "https://github.com/echasnovski/mini.indentscope",
+            "description": "Module of `mini.nvim` for visualizing and operating on indent scope. Supports customization of debounce delay, animation style, and different granularity of options for scope computing algorithm."
+        },
+        {
+            "path": "NMAC427/guess-indent.nvim",
+            "owner": "NMAC427",
+            "name": "guess-indent.nvim",
+            "config": "guess_indent_nvim.lua",
+            "url": "https://github.com/NMAC427/guess-indent.nvim",
+            "description": "Automatic indentation style detection."
+        },
+        {
+            "path": "Darazaki/indent-o-matic",
+            "owner": "Darazaki",
+            "name": "indent-o-matic",
+            "config": "indent_o_matic.lua",
+            "url": "https://github.com/Darazaki/indent-o-matic",
+            "description": "Dumb automatic fast indentation detection written in Lua."
+        },
+        {
+            "path": "Abstract-IDE/penvim",
+            "owner": "Abstract-IDE",
+            "name": "penvim",
+            "config": "penvim.lua",
+            "url": "https://github.com/Abstract-IDE/penvim",
+            "description": "Project's root directory and documents Indentation detector with project based config loader."
+        },
+        {
+            "path": "yaocccc/nvim-hlchunk",
+            "owner": "yaocccc",
+            "name": "nvim-hlchunk",
+            "config": "nvim_hlchunk.lua",
+            "url": "https://github.com/yaocccc/nvim-hlchunk",
+            "description": "Highlight a `{}` chunk."
+        },
+        {
+            "path": "shellRaining/hlchunk.nvim",
+            "owner": "shellRaining",
+            "name": "hlchunk.nvim",
+            "config": "hlchunk_nvim.lua",
+            "url": "https://github.com/shellRaining/hlchunk.nvim",
+            "description": "A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc."
+        }
+    ],
+    "Command Line": [
+        {
+            "path": "notomo/cmdbuf.nvim",
+            "owner": "notomo",
+            "name": "cmdbuf.nvim",
+            "config": "cmdbuf_nvim.lua",
+            "url": "https://github.com/notomo/cmdbuf.nvim",
+            "description": "Alternative command-line-window plugin."
+        },
+        {
+            "path": "gelguy/wilder.nvim",
+            "owner": "gelguy",
+            "name": "wilder.nvim",
+            "config": "wilder_nvim.lua",
+            "url": "https://github.com/gelguy/wilder.nvim",
+            "description": "A plugin for fuzzy command line autocompletion."
+        }
+    ],
+    "Session": [
+        {
+            "path": "rmagatti/auto-session",
+            "owner": "rmagatti",
+            "name": "auto-session",
+            "config": "auto_session.lua",
+            "url": "https://github.com/rmagatti/auto-session",
+            "description": "A small automated session manager."
+        },
+        {
+            "path": "echasnovski/mini.sessions",
+            "owner": "echasnovski",
+            "name": "mini.sessions",
+            "config": "mini_sessions.lua",
+            "url": "https://github.com/echasnovski/mini.sessions",
+            "description": "Module of `mini.nvim` for session management (read, write, delete)."
+        },
+        {
+            "path": "gennaro-tedesco/nvim-possession",
+            "owner": "gennaro-tedesco",
+            "name": "nvim-possession",
+            "config": "nvim_possession.lua",
+            "url": "https://github.com/gennaro-tedesco/nvim-possession",
+            "description": "The no-nonsense session manager."
+        },
+        {
+            "path": "olimorris/persisted.nvim",
+            "owner": "olimorris",
+            "name": "persisted.nvim",
+            "config": "persisted_nvim.lua",
+            "url": "https://github.com/olimorris/persisted.nvim",
+            "description": "Simple session management with git branching, autosave/autoload and Telescope support."
+        },
+        {
+            "path": "Shatur/neovim-session-manager",
+            "owner": "Shatur",
+            "name": "neovim-session-manager",
+            "config": "neovim_session_manager.lua",
+            "url": "https://github.com/Shatur/neovim-session-manager",
+            "description": "A simple wrapper around :mksession."
+        },
+        {
+            "path": "jedrzejboczar/possession.nvim",
+            "owner": "jedrzejboczar",
+            "name": "possession.nvim",
+            "config": "possession_nvim.lua",
+            "url": "https://github.com/jedrzejboczar/possession.nvim",
+            "description": "Flexible session management with arbitrary persistent data stored as JSON."
+        },
+        {
+            "path": "niuiic/multiple-session.nvim",
+            "owner": "niuiic",
+            "name": "multiple-session.nvim",
+            "config": "multiple_session_nvim.lua",
+            "url": "https://github.com/niuiic/multiple-session.nvim",
+            "description": "Provides multi-session management capabilities."
+        },
+        {
+            "path": "RutaTang/spectacle.nvim",
+            "owner": "RutaTang",
+            "name": "spectacle.nvim",
+            "config": "spectacle_nvim.lua",
+            "url": "https://github.com/RutaTang/spectacle.nvim",
+            "description": "Easily manage multiple sessions with telescope integration."
+        }
+    ],
+    "Remote Development": [
+        {
+            "path": "chipsenkbeil/distant.nvim",
+            "owner": "chipsenkbeil",
+            "name": "distant.nvim",
+            "config": "distant_nvim.lua",
+            "url": "https://github.com/chipsenkbeil/distant.nvim",
+            "description": "Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment."
+        },
+        {
+            "path": "jamestthompson3/nvim-remote-containers",
+            "owner": "jamestthompson3",
+            "name": "nvim-remote-containers",
+            "config": "nvim_remote_containers.lua",
+            "url": "https://github.com/jamestthompson3/nvim-remote-containers",
+            "description": "Develop inside docker containers, just like VSCode."
+        },
+        {
+            "path": "esensar/nvim-dev-container",
+            "owner": "esensar",
+            "name": "nvim-dev-container",
+            "config": "nvim_dev_container.lua",
+            "url": "https://github.com/esensar/nvim-dev-container",
+            "description": "Neovim devcontainer.json and general development container support."
+        },
+        {
+            "path": "miversen33/netman.nvim",
+            "owner": "miversen33",
+            "name": "netman.nvim",
+            "config": "netman_nvim.lua",
+            "url": "https://github.com/miversen33/netman.nvim",
+            "description": "Lua powered Network Resource Manager."
+        },
+        {
+            "path": "OscarCreator/rsync.nvim",
+            "owner": "OscarCreator",
+            "name": "rsync.nvim",
+            "config": "rsync_nvim.lua",
+            "url": "https://github.com/OscarCreator/rsync.nvim",
+            "description": "Automatically sync up/down project to a remote with rsync."
+        }
+    ],
+    "Split and Window": [
+        {
+            "path": "~henriquehbr/ataraxis.lua",
+            "owner": "~henriquehbr",
+            "name": "ataraxis.lua",
+            "config": "ataraxis_lua.lua",
+            "url": "https://sr.ht/~henriquehbr/ataraxis.lua",
+            "description": "A zen mode for improving code readability on Neovim."
+        },
+        {
+            "path": "gitlab.com/yorickpeterse/nvim-window",
+            "owner": "gitlab.com",
+            "name": "yorickpeterse",
+            "config": "yorickpeterse.lua",
+            "url": "https://gitlab.com/yorickpeterse/nvim-window",
+            "description": "Easily jump between Neovim windows."
+        },
+        {
+            "path": "sindrets/winshift.nvim",
+            "owner": "sindrets",
+            "name": "winshift.nvim",
+            "config": "winshift_nvim.lua",
+            "url": "https://github.com/sindrets/winshift.nvim",
+            "description": "Rearrange your windows with ease."
+        },
+        {
+            "path": "beauwilliams/focus.nvim",
+            "owner": "beauwilliams",
+            "name": "focus.nvim",
+            "config": "focus_nvim.lua",
+            "url": "https://github.com/beauwilliams/focus.nvim",
+            "description": "Auto-Focusing and Auto-Resizing Splits/Windows written in Lua! Vim splits on steroids."
+        },
+        {
+            "path": "anuvyklack/windows.nvim",
+            "owner": "anuvyklack",
+            "name": "windows.nvim",
+            "config": "windows_nvim.lua",
+            "url": "https://github.com/anuvyklack/windows.nvim",
+            "description": "Automatically expand width of the current window. Maximizes and restore it. And all this with nice animations!"
+        },
+        {
+            "path": "nvim-zh/colorful-winsep.nvim",
+            "owner": "nvim-zh",
+            "name": "colorful-winsep.nvim",
+            "config": "colorful_winsep_nvim.lua",
+            "url": "https://github.com/nvim-zh/colorful-winsep.nvim",
+            "description": "A configurable color split line."
+        },
+        {
+            "path": "nyngwang/NeoNoName.lua",
+            "owner": "nyngwang",
+            "name": "NeoNoName.lua",
+            "config": "NeoNoName_lua.lua",
+            "url": "https://github.com/nyngwang/NeoNoName.lua",
+            "description": "Layout preserving buffer deletion."
+        },
+        {
+            "path": "famiu/bufdelete.nvim",
+            "owner": "famiu",
+            "name": "bufdelete.nvim",
+            "config": "bufdelete_nvim.lua",
+            "url": "https://github.com/famiu/bufdelete.nvim",
+            "description": "Delete Neovim buffers without losing your window layout."
+        },
+        {
+            "path": "echasnovski/mini.bufremove",
+            "owner": "echasnovski",
+            "name": "mini.bufremove",
+            "config": "mini_bufremove.lua",
+            "url": "https://github.com/echasnovski/mini.bufremove",
+            "description": "Module of `mini.nvim` for buffer removing (unshow, delete, wipeout) while saving window layout."
+        },
+        {
+            "path": "aserowy/tmux.nvim",
+            "owner": "aserowy",
+            "name": "tmux.nvim",
+            "config": "tmux_nvim.lua",
+            "url": "https://github.com/aserowy/tmux.nvim",
+            "description": "Tmux integration features pane movement and resizing."
+        },
+        {
+            "path": "danielpieper/telescope-tmuxinator.nvim",
+            "owner": "danielpieper",
+            "name": "telescope-tmuxinator.nvim",
+            "config": "telescope_tmuxinator_nvim.lua",
+            "url": "https://github.com/danielpieper/telescope-tmuxinator.nvim",
+            "description": "Integration for tmuxinator with telescope.nvim."
+        },
+        {
+            "path": "hkupty/nvimux",
+            "owner": "hkupty",
+            "name": "nvimux",
+            "config": "nvimux.lua",
+            "url": "https://github.com/hkupty/nvimux",
+            "description": "Neovim as tmux replacement."
+        },
+        {
+            "path": "numToStr/Navigator.nvim",
+            "owner": "numToStr",
+            "name": "Navigator.nvim",
+            "config": "Navigator_nvim.lua",
+            "url": "https://github.com/numToStr/Navigator.nvim",
+            "description": "Smoothly navigate between Neovim splits and Tmux panes."
+        },
+        {
+            "path": "declancm/windex.nvim",
+            "owner": "declancm",
+            "name": "windex.nvim",
+            "config": "windex_nvim.lua",
+            "url": "https://github.com/declancm/windex.nvim",
+            "description": "Collection of window functions which includes moving between, closing and maximizing Neovim splits and Tmux panes."
+        },
+        {
+            "path": "otavioschwanck/tmux-awesome-manager.nvim",
+            "owner": "otavioschwanck",
+            "name": "tmux-awesome-manager.nvim",
+            "config": "tmux_awesome_manager_nvim.lua",
+            "url": "https://github.com/otavioschwanck/tmux-awesome-manager.nvim",
+            "description": "Run your workflow commands like yarn install, rails console, yarn add, bundle install, etc."
+        }
+    ],
+    "Game": [
+        {
+            "path": "ThePrimeagen/vim-be-good",
+            "owner": "ThePrimeagen",
+            "name": "vim-be-good",
+            "config": "vim_be_good.lua",
+            "url": "https://github.com/ThePrimeagen/vim-be-good",
+            "description": "Vim-be-good is a Neovim plugin designed to make you better at Vim Movements."
+        },
+        {
+            "path": "alec-gibson/nvim-tetris",
+            "owner": "alec-gibson",
+            "name": "nvim-tetris",
+            "config": "nvim_tetris.lua",
+            "url": "https://github.com/alec-gibson/nvim-tetris",
+            "description": "Bringing emacs' greatest feature to Neovim - Tetris!."
+        },
+        {
+            "path": "seandewar/nvimesweeper",
+            "owner": "seandewar",
+            "name": "nvimesweeper",
+            "config": "nvimesweeper.lua",
+            "url": "https://github.com/seandewar/nvimesweeper",
+            "description": "Play Minesweeper in your favourite text editor."
+        },
+        {
+            "path": "seandewar/killersheep.nvim",
+            "owner": "seandewar",
+            "name": "killersheep.nvim",
+            "config": "killersheep_nvim.lua",
+            "url": "https://github.com/seandewar/killersheep.nvim",
+            "description": "Neovim port of killersheep."
+        },
+        {
+            "path": "rktjmp/shenzhen-solitaire.nvim",
+            "owner": "rktjmp",
+            "name": "shenzhen-solitaire.nvim",
+            "config": "shenzhen_solitaire_nvim.lua",
+            "url": "https://github.com/rktjmp/shenzhen-solitaire.nvim",
+            "description": "Shenzhen I/O Solitaire port."
+        },
+        {
+            "path": "Eandrju/cellular-automaton.nvim",
+            "owner": "Eandrju",
+            "name": "cellular-automaton.nvim",
+            "config": "cellular_automaton_nvim.lua",
+            "url": "https://github.com/Eandrju/cellular-automaton.nvim",
+            "description": "It lets you execute aesthetically pleasing, cellular automaton animations based on the content of Neovim buffer."
+        },
+        {
+            "path": "alanfortlink/blackjack.nvim",
+            "owner": "alanfortlink",
+            "name": "blackjack.nvim",
+            "config": "blackjack_nvim.lua",
+            "url": "https://github.com/alanfortlink/blackjack.nvim",
+            "description": "Classic Black Jack game."
+        },
+        {
+            "path": "jim-fx/sudoku.nvim",
+            "owner": "jim-fx",
+            "name": "sudoku.nvim",
+            "config": "sudoku_nvim.lua",
+            "url": "https://github.com/jim-fx/sudoku.nvim",
+            "description": "Classic sudoku puzzle."
+        },
+        {
+            "path": "p00f/cphelper.nvim",
+            "owner": "p00f",
+            "name": "cphelper.nvim",
+            "config": "cphelper_nvim.lua",
+            "url": "https://github.com/p00f/cphelper.nvim",
+            "description": "Neovim helper for competitive programming written in Lua."
+        },
+        {
+            "path": "xeluxee/competitest.nvim",
+            "owner": "xeluxee",
+            "name": "competitest.nvim",
+            "config": "competitest_nvim.lua",
+            "url": "https://github.com/xeluxee/competitest.nvim",
+            "description": "A plugin to automate testcases management and checking for Competitive Programming contests."
+        },
+        {
+            "path": "Dhanus3133/Leetbuddy.nvim",
+            "owner": "Dhanus3133",
+            "name": "Leetbuddy.nvim",
+            "config": "Leetbuddy_nvim.lua",
+            "url": "https://github.com/Dhanus3133/Leetbuddy.nvim",
+            "description": "Solve Leetcode problems within Neovim."
+        }
+    ],
+    "Workflow": [
+        {
+            "path": "m4xshen/hardtime.nvim",
+            "owner": "m4xshen",
+            "name": "hardtime.nvim",
+            "config": "hardtime_nvim.lua",
+            "url": "https://github.com/m4xshen/hardtime.nvim",
+            "description": "Helping you establish good command workflow and habit."
+        },
+        {
+            "path": "antonk52/bad-practices.nvim",
+            "owner": "antonk52",
+            "name": "bad-practices.nvim",
+            "config": "bad_practices_nvim.lua",
+            "url": "https://github.com/antonk52/bad-practices.nvim",
+            "description": "Helping you give up bad practices in Vim."
+        }
+    ],
+    "Preconfigured Configuration": [
+        {
+            "path": "Abstract-IDE/Abstract",
+            "owner": "Abstract-IDE",
+            "name": "Abstract",
+            "config": "Abstract.lua",
+            "url": "https://github.com/Abstract-IDE/Abstract",
+            "description": "Abstract, The Neovim configuration to achieve the power of Modern IDE."
+        },
+        {
+            "path": "SpaceVim/SpaceVim",
+            "owner": "SpaceVim",
+            "name": "SpaceVim",
+            "config": "SpaceVim.lua",
+            "url": "https://spacevim.org",
+            "description": "A community-driven modular Vim/Neovim distribution, like spacemacs but for Vim/Neovim."
+        },
+        {
+            "path": "CosmicNvim/CosmicNvim",
+            "owner": "CosmicNvim",
+            "name": "CosmicNvim",
+            "config": "CosmicNvim.lua",
+            "url": "https://github.com/CosmicNvim/CosmicNvim",
+            "description": "CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a \ud83d\udcab COSMIC programming experience!"
+        },
+        {
+            "path": "artart222/CodeArt",
+            "owner": "artart222",
+            "name": "CodeArt",
+            "config": "CodeArt.lua",
+            "url": "https://github.com/artart222/CodeArt",
+            "description": "A fast general-purpose IDE written entirely in Lua with an installer for Linux/Windows/macOS and built in `:CodeArtUpdate` command for updating it."
+        },
+        {
+            "path": "LazyVim/LazyVim",
+            "owner": "LazyVim",
+            "name": "LazyVim",
+            "config": "LazyVim.lua",
+            "url": "https://github.com/LazyVim/LazyVim",
+            "description": "Full-fledged IDE powered by **lazy.nvim** to make it easy to customize and extend your config."
+        },
+        {
+            "path": "NTBBloodbath/doom-nvim",
+            "owner": "NTBBloodbath",
+            "name": "doom-nvim",
+            "config": "doom_nvim.lua",
+            "url": "https://github.com/NTBBloodbath/doom-nvim",
+            "description": "Port of the doom-emacs framework, its goal is to add useful functions to Neovim to start working in a stable and efficient development environment without spending a lot of time configuring everything."
+        },
+        {
+            "path": "crivotz/nv-ide",
+            "owner": "crivotz",
+            "name": "nv-ide",
+            "config": "nv_ide.lua",
+            "url": "https://github.com/crivotz/nv-ide",
+            "description": "Neovim custom configuration, oriented for full stack developers (rails, ruby, php, html, css, SCSS, JavaScript)."
+        },
+        {
+            "path": "LunarVim/LunarVim",
+            "owner": "LunarVim",
+            "name": "LunarVim",
+            "config": "LunarVim.lua",
+            "url": "https://github.com/LunarVim/LunarVim",
+            "description": "This project aims to help one transition away from VSCode, and into a superior text editing experience."
+        },
+        {
+            "path": "hackorum/VapourNvim",
+            "owner": "hackorum",
+            "name": "VapourNvim",
+            "config": "VapourNvim.lua",
+            "url": "https://github.com/hackorum/VapourNvim",
+            "description": "A Neovim config for THE ULTIMATE Vim IDE-like experience."
+        },
+        {
+            "path": "vi-tality/neovitality",
+            "owner": "vi-tality",
+            "name": "neovitality",
+            "config": "neovitality.lua",
+            "url": "https://github.com/vi-tality/neovitality",
+            "description": "A full-featured Neovim distribution, packaged with Nix Flake for easy installation and reproducibility."
+        },
+        {
+            "path": "siduck76/NvChad",
+            "owner": "siduck76",
+            "name": "NvChad",
+            "config": "NvChad.lua",
+            "url": "https://github.com/siduck76/NvChad",
+            "description": "An attempt to make Neovim cli as functional as an IDE while being very beautiful and less bloated."
+        },
+        {
+            "path": "nvoid-lua/nvoid",
+            "owner": "nvoid-lua",
+            "name": "nvoid",
+            "config": "nvoid.lua",
+            "url": "https://github.com/nvoid-lua/nvoid",
+            "description": "Simple Neovim config written in Lua with all the modern features available in any **IDE**"
+        },
+        {
+            "path": "cstsunfu/.sea.nvim",
+            "owner": "cstsunfu",
+            "name": ".sea.nvim",
+            "config": "_sea_nvim.lua",
+            "url": "https://github.com/cstsunfu/.sea.nvim",
+            "description": "A modular Neovim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number)."
+        },
+        {
+            "path": "shaeinst/roshnivim",
+            "owner": "shaeinst",
+            "name": "roshnivim",
+            "config": "roshnivim.lua",
+            "url": "https://github.com/shaeinst/roshnivim",
+            "description": "Roshnivim, can be called neovim's distro, is a predefined configs so that you don't need 1000hr to setup neovim as an IDE."
+        },
+        {
+            "path": "AstroNvim/AstroNvim",
+            "owner": "AstroNvim",
+            "name": "AstroNvim",
+            "config": "AstroNvim.lua",
+            "url": "https://github.com/AstroNvim/AstroNvim",
+            "description": "AstroNvim is an aesthetic and feature-rich Neovim config that is extensible and easy to use with a great set of plugins."
+        },
+        {
+            "path": "shaunsingh/nyoom.nvim",
+            "owner": "shaunsingh",
+            "name": "nyoom.nvim",
+            "config": "nyoom_nvim.lua",
+            "url": "https://github.com/shaunsingh/nyoom.nvim",
+            "description": "Blazing fast, configurable, minimal and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience."
+        },
+        {
+            "path": "OxygeNvim/OxygeNvim",
+            "owner": "OxygeNvim",
+            "name": "OxygeNvim",
+            "config": "OxygeNvim.lua",
+            "url": "https://github.com/OxygeNvim/OxygeNvim",
+            "description": "A configuration for all kinds of development with rock solid defaults."
+        },
+        {
+            "path": "jrychn/moduleVim",
+            "owner": "jrychn",
+            "name": "moduleVim",
+            "config": "moduleVim.lua",
+            "url": "https://github.com/jrychn/ModuleVim",
+            "description": "A very easy to use"
+        },
+        {
+            "path": "askfiy/nvim",
+            "owner": "askfiy",
+            "name": "nvim",
+            "config": "nvim.lua",
+            "url": "https://github.com/askfiy/nvim",
+            "description": "An excellent Neovim configuration, which is as powerful as Vscode, is lightning fast \u26a1\ufe0f."
+        },
+        {
+            "path": "imbacraft/dusk.nvim",
+            "owner": "imbacraft",
+            "name": "dusk.nvim",
+            "config": "dusk_nvim.lua",
+            "url": "https://github.com/imbacraft/dusk.nvim",
+            "description": "Dusk is a lightweight, aesthetically minimal Neovim config, written in Lua, able to provide for web and Java development."
+        },
+        {
+            "path": "nvim-lua/kickstart.nvim",
+            "owner": "nvim-lua",
+            "name": "kickstart.nvim",
+            "config": "kickstart_nvim.lua",
+            "url": "https://github.com/nvim-lua/kickstart.nvim",
+            "description": "A launch point for your personal Neovim configuration."
+        },
+        {
+            "path": "cunderw/nvim",
+            "owner": "cunderw",
+            "name": "nvim",
+            "config": "nvim.lua",
+            "url": "https://github.com/cunderw/nvim",
+            "description": "Neovim custom configuration, focused on JS/TS, Go, and Java development. Very IDE like."
+        },
+        {
+            "path": "otavioschwanck/mood-nvim",
+            "owner": "otavioschwanck",
+            "name": "mood-nvim",
+            "config": "mood_nvim.lua",
+            "url": "https://github.com/otavioschwanck/mood-nvim",
+            "description": "Ready to use configuration for Ruby on Rails, JavaScript and Typescript."
+        },
+        {
+            "path": "ldelossa/nvim-ide",
+            "owner": "ldelossa",
+            "name": "nvim-ide",
+            "config": "nvim_ide.lua",
+            "url": "https://github.com/ldelossa/nvim-ide",
+            "description": "A full featured IDE layer heavily inspired by VSCode."
+        },
+        {
+            "path": "jonathandion/web-dev.nvim",
+            "owner": "jonathandion",
+            "name": "web-dev.nvim",
+            "config": "web_dev_nvim.lua",
+            "url": "https://github.com/jonathandion/web-dev.nvim",
+            "description": "Small, simple and flexible configuration for web development \u2728."
+        },
+        {
+            "path": "linrongbin16/lin.nvim",
+            "owner": "linrongbin16",
+            "name": "lin.nvim",
+            "config": "lin_nvim.lua",
+            "url": "https://github.com/linrongbin16/lin.nvim",
+            "description": "A highly configured Neovim distribution integrated with tons of utilities for development, inspired by spf13-vim."
+        },
+        {
+            "path": "doctorfree/nvim-lazyman",
+            "owner": "doctorfree",
+            "name": "nvim-lazyman",
+            "config": "nvim_lazyman.lua",
+            "url": "https://github.com/doctorfree/nvim-lazyman",
+            "description": "Neovim configuration manager and modular configuration, supports over 40 preconfigured configurations."
+        },
+        {
+            "path": "NormalNvim/NormalNvim",
+            "owner": "NormalNvim",
+            "name": "NormalNvim",
+            "config": "NormalNvim.lua",
+            "url": "https://github.com/NormalNvim/NormalNvim",
+            "description": "Focused on stability for your daily work. From the creator of Compiler.nvim."
+        }
+    ],
+    "Version Manager": [
+        {
+            "path": "MordechaiHadad/bob",
+            "owner": "MordechaiHadad",
+            "name": "bob",
+            "config": "bob.lua",
+            "url": "https://github.com/MordechaiHadad/bob",
+            "description": "A cross platform and easy to use Neovim version manager."
+        },
+        {
+            "path": "NTBBloodbath/nvenv",
+            "owner": "NTBBloodbath",
+            "name": "nvenv",
+            "config": "nvenv.lua",
+            "url": "https://github.com/NTBBloodbath/nvenv",
+            "description": "A lightweight and blazing fast Neovim version manager."
+        },
+        {
+            "path": "shohi/neva",
+            "owner": "shohi",
+            "name": "neva",
+            "config": "neva.lua",
+            "url": "https://github.com/shohi/neva",
+            "description": "A Neovim version manager written in Lua."
+        }
+    ],
+    "Boilerplate": [
+        {
+            "path": "gennaro-tedesco/boilit",
+            "owner": "gennaro-tedesco",
+            "name": "boilit",
+            "config": "boilit.lua",
+            "url": "https://github.com/gennaro-tedesco/boilit",
+            "description": "Create boilerplate structure plugins."
+        },
+        {
+            "path": "m00qek/plugin-template.nvim",
+            "owner": "m00qek",
+            "name": "plugin-template.nvim",
+            "config": "plugin_template_nvim.lua",
+            "url": "https://github.com/m00qek/plugin-template.nvim",
+            "description": "A plugin template that setups test infrastructure and GitHub Actions."
+        },
+        {
+            "path": "ellisonleao/nvim-plugin-template",
+            "owner": "ellisonleao",
+            "name": "nvim-plugin-template",
+            "config": "nvim_plugin_template.lua",
+            "url": "https://github.com/ellisonleao/nvim-plugin-template",
+            "description": "Another neovim plugin template, using GitHub's template feature."
+        },
+        {
+            "path": "Vimawesome",
+            "owner": "",
+            "name": "Vimawesome",
+            "config": "Vimawesome.lua",
+            "url": "https://vimawesome.com/",
+            "description": "Showcases various plugins for Vim and has a [neovim tag](https://vimawesome.com/?q=tag:neovim) for other plugins targeting Neovim."
+        },
+        {
+            "path": "awesome-vim",
+            "owner": "",
+            "name": "awesome-vim",
+            "config": "awesome_vim.lua",
+            "url": "https://github.com/akrawchyk/awesome-vim#tools",
+            "description": "Short list of Vim plugins and helpful guides."
+        },
+        {
+            "path": "vim-plugin-list",
+            "owner": "",
+            "name": "vim-plugin-list",
+            "config": "vim_plugin_list.lua",
+            "url": "https://github.com/altermo/vim-plugin-list",
+            "description": "List of Vim and Neovim plugins."
+        },
+        {
+            "path": "Neovimcraft",
+            "owner": "",
+            "name": "Neovimcraft",
+            "config": "Neovimcraft.lua",
+            "url": "https://neovimcraft.com",
+            "description": "A site dedicated to searching specific plugins and guides for building plugins in Lua."
+        },
+        {
+            "path": "Dotfyle",
+            "owner": "",
+            "name": "Dotfyle",
+            "config": "Dotfyle.lua",
+            "url": "https://dotfyle.com",
+            "description": "Dotfyle is a site for sharing and discovering Neovim configs and plugins."
         }
     ]
 }
