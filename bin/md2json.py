@@ -1,8 +1,4 @@
 #!/usr/bin/env python
-#
-# TODO:
-# * some plugins are under sub-sections
-# * Plugin something doesn't split properly on ###
 
 import json
 import re
