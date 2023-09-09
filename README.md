@@ -1,8 +1,10 @@
 # 🚀 activate.nvim
 
-![activate.nvim demo](https://github.com/roobert/activate.nvim/assets/226654/6c9c6f77-7375-4e83-8a41-8784c47f3ade)
+![activate.nvim demo](https://github.com/roobert/activate.nvim/assets/226654/7ae4890e-50d1-4e45-bf7e-7b39e47374ff)
 
 `activate.nvim` is a plugin installation system for Neovim, designed to complement [folke/lazy.nvim](https://github.com/folke/lazy.nvim).
+
+## Demos
 
 ## Features
 
@@ -16,7 +18,7 @@
 
 ### Plugin Updates
 
-After a plugin is installed using `activate.nvim`, its updates are managed by `lazy.nvim`. This ensures plugins are kept up-to-date.
+After a plugin is installed using `activate.nvim`, plugin updates are managed by `lazy.nvim` in the same way as any other plugin.
 
 ### Database Refresh
 
