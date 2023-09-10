@@ -39,6 +39,14 @@
             "config": "lazy_nvim.lua",
             "url": "https://github.com/folke/lazy.nvim",
             "description": "A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more \ud83d\udca4."
+        },
+        {
+            "path": "roobert/activate.nvim",
+            "owner": "roobert",
+            "name": "activate.nvim",
+            "config": "activate_nvim.lua",
+            "url": "https://github.com/roobert/activate.nvim",
+            "description": "A plugin installation system designed to complement `folke/lazy.nvim`."
         }
     ],
     "LSP": [
