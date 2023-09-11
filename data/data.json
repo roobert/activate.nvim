@@ -2343,6 +2343,14 @@
             "description": "A light colorscheme inspired by [flatwhite-syntax](https://github.com/biletskyy/flatwhite-syntax) and [elegant-emacs](https://github.com/rougier/elegant-emacs)."
         },
         {
+            "path": "judaew/ronny.nvim",
+            "owner": "judaew",
+            "name": "ronny.nvim",
+            "config": "ronny_nvim.lua",
+            "url": "https://github.com/judaew/ronny.nvim",
+            "description": "A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg."
+        },
+        {
             "path": "tjdevries/gruvbuddy.nvim",
             "owner": "tjdevries",
             "name": "gruvbuddy.nvim",
