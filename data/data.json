@@ -1,12 +1,12 @@
 {
     "Plugin Manager": [
         {
-            "path": "wbthomason/packer.nvim",
-            "owner": "wbthomason",
-            "name": "packer.nvim",
-            "config": "packer_nvim.lua",
-            "url": "https://github.com/wbthomason/packer.nvim",
-            "description": "A use-package inspired plugin manager. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config."
+            "path": "lewis6991/pckr.nvim",
+            "owner": "lewis6991",
+            "name": "pckr.nvim",
+            "config": "pckr_nvim.lua",
+            "url": "https://github.com/lewis6991/pckr.nvim",
+            "description": "Spiritual successor of `wbthomason/packer.nvim`."
         },
         {
             "path": "savq/paq-nvim",
