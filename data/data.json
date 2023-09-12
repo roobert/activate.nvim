@@ -2351,6 +2351,14 @@
             "description": "A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg."
         },
         {
+            "path": "ribru17/bamboo.nvim",
+            "owner": "ribru17",
+            "name": "bamboo.nvim",
+            "config": "bamboo_nvim.lua",
+            "url": "https://github.com/ribru17/bamboo.nvim",
+            "description": "A warm green theme."
+        },
+        {
             "path": "tjdevries/gruvbuddy.nvim",
             "owner": "tjdevries",
             "name": "gruvbuddy.nvim",
