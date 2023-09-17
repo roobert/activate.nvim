@@ -3585,6 +3585,14 @@
             "config": "NotebookNavigator_nvim.lua",
             "url": "https://github.com/GCBallesteros/NotebookNavigator.nvim",
             "description": "Navigate and execute code cells."
+        },
+        {
+            "path": "LintaoAmons/scratch.nvim",
+            "owner": "LintaoAmons",
+            "name": "scratch.nvim",
+            "config": "scratch_nvim.lua",
+            "url": "https://github.com/LintaoAmons/scratch.nvim",
+            "description": "Create and manage scratch files."
         }
     ],
     "Terminal Integration": [
