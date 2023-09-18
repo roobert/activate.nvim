@@ -3799,11 +3799,11 @@
             "description": "The goal of nvim-bqf is to make Neovim's quickfix window better."
         },
         {
-            "path": "gitlab.com/yorickpeterse/nvim-pqf",
-            "owner": "gitlab.com",
-            "name": "yorickpeterse",
-            "config": "yorickpeterse.lua",
-            "url": "https://gitlab.com/yorickpeterse/nvim-pqf",
+            "path": "yorickpeterse/nvim-pqf",
+            "owner": "yorickpeterse",
+            "name": "nvim-pqf",
+            "config": "nvim_pqf.lua",
+            "url": "https://github.com/yorickpeterse/nvim-pqf",
             "description": "Prettier quickfix/location list windows."
         },
         {
@@ -5577,6 +5577,14 @@
             "config": "spectacle_nvim.lua",
             "url": "https://github.com/RutaTang/spectacle.nvim",
             "description": "Easily manage multiple sessions with telescope integration."
+        },
+        {
+            "path": "coffebar/neovim-project",
+            "owner": "coffebar",
+            "name": "neovim-project",
+            "config": "neovim_project.lua",
+            "url": "https://github.com/coffebar/neovim-project",
+            "description": "Declarative project management, automatic saving of sessions, uses Telescope."
         }
     ],
     "Remote Development": [
@@ -5631,11 +5639,11 @@
             "description": "A zen mode for improving code readability on Neovim."
         },
         {
-            "path": "gitlab.com/yorickpeterse/nvim-window",
-            "owner": "gitlab.com",
-            "name": "yorickpeterse",
-            "config": "yorickpeterse.lua",
-            "url": "https://gitlab.com/yorickpeterse/nvim-window",
+            "path": "yorickpeterse/nvim-window",
+            "owner": "yorickpeterse",
+            "name": "nvim-window",
+            "config": "nvim_window.lua",
+            "url": "https://github.com/yorickpeterse/nvim-window",
             "description": "Easily jump between Neovim windows."
         },
         {
