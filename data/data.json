@@ -3593,6 +3593,14 @@
             "config": "scratch_nvim.lua",
             "url": "https://github.com/LintaoAmons/scratch.nvim",
             "description": "Create and manage scratch files."
+        },
+        {
+            "path": "luckasRanarison/nvim-devdocs",
+            "owner": "luckasRanarison",
+            "name": "nvim-devdocs",
+            "config": "nvim_devdocs.lua",
+            "url": "https://github.com/luckasRanarison/nvim-devdocs",
+            "description": "Preview devdocs.io documentations directly in Markdown format."
         }
     ],
     "Terminal Integration": [
