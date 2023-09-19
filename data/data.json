@@ -379,6 +379,14 @@
             "description": "Status line component showing the number of LSP definition and reference of the token under the cursor."
         },
         {
+            "path": "Wansmer/symbol-usage.nvim",
+            "owner": "Wansmer",
+            "name": "symbol-usage.nvim",
+            "config": "symbol_usage_nvim.lua",
+            "url": "https://github.com/Wansmer/symbol-usage.nvim",
+            "description": "Display references, definitions and implementations of document symbols."
+        },
+        {
             "path": "creativenull/efmls-configs-nvim",
             "owner": "creativenull",
             "name": "efmls-configs-nvim",
@@ -5205,6 +5213,14 @@
             "description": "Provides keybindings for creating a Kakoune/Helix-like experience: first select and then choose the editing command."
         },
         {
+            "path": "chrisgrieser/nvim-puppeteer",
+            "owner": "chrisgrieser",
+            "name": "nvim-puppeteer",
+            "config": "nvim_puppeteer.lua",
+            "url": "https://github.com/chrisgrieser/nvim-puppeteer",
+            "description": "Automatically convert strings to f-strings or template strings and back."
+        },
+        {
             "path": "numToStr/Comment.nvim",
             "owner": "numToStr",
             "name": "Comment.nvim",
@@ -6091,6 +6107,14 @@
             "config": "NormalNvim.lua",
             "url": "https://github.com/NormalNvim/NormalNvim",
             "description": "Focused on stability for your daily work. From the creator of Compiler.nvim."
+        },
+        {
+            "path": "chrisgrieser/nvim-kickstart-python",
+            "owner": "chrisgrieser",
+            "name": "nvim-kickstart-python",
+            "config": "nvim_kickstart_python.lua",
+            "url": "https://github.com/chrisgrieser/nvim-kickstart-python",
+            "description": "A launch point for your Neovim configuration for Python."
         }
     ],
     "Version Manager": [
