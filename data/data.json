@@ -1636,7 +1636,7 @@
             "name": "visual_studio_code",
             "config": "visual_studio_code.lua",
             "url": "https://github.com/askfiy/visual_studio_code",
-            "description": "A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode. "
+            "description": "A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode."
         },
         {
             "path": "marko-cerovac/material.nvim",
@@ -3323,6 +3323,14 @@
             "description": "Displays a notification window with context when cycling buffers."
         },
         {
+            "path": "sontungexpt/url-open",
+            "owner": "sontungexpt",
+            "name": "url-open",
+            "config": "url_open.lua",
+            "url": "https://github.com/sontungexpt/url-open",
+            "description": "Open URLs under the cursor and create highlight effects for them."
+        },
+        {
             "path": "crusj/bookmarks.nvim",
             "owner": "crusj",
             "name": "bookmarks.nvim",
@@ -3635,6 +3643,14 @@
             "config": "flatten_nvim.lua",
             "url": "https://github.com/willothy/flatten.nvim",
             "description": "Open files from terminal buffers in your current Neovim instance instead of launching a nested instance."
+        },
+        {
+            "path": "willothy/wezterm.nvim",
+            "owner": "willothy",
+            "name": "wezterm.nvim",
+            "config": "wezterm_nvim.lua",
+            "url": "https://github.com/willothy/wezterm.nvim",
+            "description": "Functions for interacting with Wezterm."
         },
         {
             "path": "akinsho/nvim-toggleterm.lua",
