@@ -2367,6 +2367,14 @@
             "description": "A warm green theme."
         },
         {
+            "path": "cryptomilk/nightcity.nvim",
+            "owner": "cryptomilk",
+            "name": "nightcity.nvim",
+            "config": "nightcity_nvim.lua",
+            "url": "https://github.com/cryptomilk/nightcity.nvim",
+            "description": "A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support."
+        },
+        {
             "path": "tjdevries/gruvbuddy.nvim",
             "owner": "tjdevries",
             "name": "gruvbuddy.nvim",
@@ -3747,6 +3755,14 @@
             "config": "term_edit_nvim.lua",
             "url": "https://github.com/chomosuke/term-edit.nvim",
             "description": "Allowing you to edit your command in the terminal just like any other buffer."
+        },
+        {
+            "path": "mikesmithgh/kitty-scrollback.nvim",
+            "owner": "mikesmithgh",
+            "name": "kitty-scrollback.nvim",
+            "config": "kitty_scrollback_nvim.lua",
+            "url": "https://github.com/mikesmithgh/kitty-scrollback.nvim",
+            "description": "Open your Kitty scrollback buffer. Ameowzing."
         }
     ],
     "Debugging": [
@@ -4377,6 +4393,14 @@
             "config": "repolink_nvim.lua",
             "url": "https://github.com/9seconds/repolink.nvim",
             "description": "Generate shareable HTTP permalinks for various Git web frontends."
+        },
+        {
+            "path": "chrisgrieser/nvim-tinygit",
+            "owner": "chrisgrieser",
+            "name": "nvim-tinygit",
+            "config": "nvim_tinygit.lua",
+            "url": "https://github.com/chrisgrieser/nvim-tinygit",
+            "description": "Lightweight and nimble git client."
         },
         {
             "path": "pwntester/octo.nvim",
