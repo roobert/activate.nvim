@@ -2713,12 +2713,12 @@
             "description": "A \"buffer and tab\" tabline."
         },
         {
-            "path": "noib3/cokeline.nvim",
-            "owner": "noib3",
-            "name": "cokeline.nvim",
-            "config": "cokeline_nvim.lua",
-            "url": "https://github.com/noib3/cokeline.nvim",
-            "description": "A Neovim bufferline for people with addictive personalities."
+            "path": "willothy/nvim-cokeline",
+            "owner": "willothy",
+            "name": "nvim-cokeline",
+            "config": "nvim_cokeline.lua",
+            "url": "https://github.com/willothy/nvim-cokeline",
+            "description": "A bufferline for people with addictive personalities."
         },
         {
             "path": "tomiis4/BufferTabs.nvim",
