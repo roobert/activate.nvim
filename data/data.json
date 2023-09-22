@@ -473,6 +473,14 @@
             "config": "lsp_colors_nvim.lua",
             "url": "https://github.com/folke/lsp-colors.nvim",
             "description": "A plugin that adds missing LSP diagnostics highlight groups for color schemes that don't yet support the builtin LSP client."
+        },
+        {
+            "path": "chrisgrieser/nvim-rulebook",
+            "owner": "chrisgrieser",
+            "name": "nvim-rulebook",
+            "config": "nvim_rulebook.lua",
+            "url": "https://github.com/chrisgrieser/nvim-rulebook",
+            "description": "Add inline-comments to ignore rules, or lookup rule documentation online."
         }
     ],
     "Completion": [
