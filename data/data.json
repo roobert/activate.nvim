@@ -6215,6 +6215,16 @@
             "config": "nvim_plugin_template.lua",
             "url": "https://github.com/ellisonleao/nvim-plugin-template",
             "description": "Another neovim plugin template, using GitHub's template feature."
+        }
+    ],
+    "OS-specific": [
+        {
+            "path": "chrisgrieser/alfred-neovim-utilities",
+            "owner": "chrisgrieser",
+            "name": "alfred-neovim-utilities",
+            "config": "alfred_neovim_utilities.lua",
+            "url": "https://github.com/chrisgrieser/alfred-neovim-utilities",
+            "description": "Search Neovim plugins and online `:help `via Alfred (macOS)."
         },
         {
             "path": "Vimawesome",
