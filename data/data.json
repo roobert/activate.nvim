@@ -2793,6 +2793,14 @@
             "description": "Part of nvim-cursorline. Highlight the word under the cursor."
         },
         {
+            "path": "sontungexpt/stcursorword",
+            "owner": "sontungexpt",
+            "name": "stcursorword",
+            "config": "stcursorword.lua",
+            "url": "https://github.com/sontungexpt/stcursorword",
+            "description": "Highlight the word under the cursor (Improved and compact version of nvim-cursorline)."
+        },
+        {
             "path": "RRethy/vim-illuminate",
             "owner": "RRethy",
             "name": "vim-illuminate",
