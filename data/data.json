@@ -2439,6 +2439,14 @@
             "description": "Define Neovim themes as a DSL in Lua, with real-time feedback."
         },
         {
+            "path": "roobert/palette.nvim",
+            "owner": "roobert",
+            "name": "palette.nvim",
+            "config": "palette_nvim.lua",
+            "url": "https://github.com/roobert/palette.nvim",
+            "description": "A beautiful, versatile, systematic, theme system."
+        },
+        {
             "path": "Iron-E/nvim-highlite",
             "owner": "Iron-E",
             "name": "nvim-highlite",
@@ -4417,6 +4425,14 @@
             "config": "nvim_tinygit.lua",
             "url": "https://github.com/chrisgrieser/nvim-tinygit",
             "description": "Lightweight and nimble git client."
+        },
+        {
+            "path": "niuiic/git-log.nvim",
+            "owner": "niuiic",
+            "name": "git-log.nvim",
+            "config": "git_log_nvim.lua",
+            "url": "https://github.com/niuiic/git-log.nvim",
+            "description": "Check git log of the selected code."
         },
         {
             "path": "pwntester/octo.nvim",
