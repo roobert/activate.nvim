@@ -403,6 +403,14 @@
             "description": "An unofficial collection of linters and formatters configured for diagnostic-languageserver to work with builtin LSP."
         },
         {
+            "path": "hinell/lsp-timeout.nvim",
+            "owner": "hinell",
+            "name": "lsp-timeout.nvim",
+            "config": "lsp_timeout_nvim.lua",
+            "url": "https://github.com/hinell/lsp-timeout.nvim",
+            "description": "Automatically start/stop idle/unused LSP servers; keeps RAM usage low."
+        },
+        {
             "path": "anott03/nvim-lspinstall",
             "owner": "anott03",
             "name": "nvim-lspinstall",
@@ -573,6 +581,14 @@
             "config": "llm_nvim.lua",
             "url": "https://github.com/gsuuon/llm.nvim",
             "description": "Integrate LLM's via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp."
+        },
+        {
+            "path": "dense-analysis/neural",
+            "owner": "dense-analysis",
+            "name": "neural",
+            "config": "neural.lua",
+            "url": "https://github.com/dense-analysis/neural",
+            "description": "Integrate LLMs for generating code, interacting with chat bots, and more."
         }
     ],
     "Programming Languages Support": [
@@ -2381,6 +2397,14 @@
             "config": "nightcity_nvim.lua",
             "url": "https://github.com/cryptomilk/nightcity.nvim",
             "description": "A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support."
+        },
+        {
+            "path": "polirritmico/monokai-nightasty.nvim",
+            "owner": "polirritmico",
+            "name": "monokai-nightasty.nvim",
+            "config": "monokai_nightasty_nvim.lua",
+            "url": "https://github.com/polirritmico/monokai-nightasty.nvim",
+            "description": "A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins."
         },
         {
             "path": "tjdevries/gruvbuddy.nvim",
@@ -5115,6 +5139,22 @@
             "config": "nvim_gomove.lua",
             "url": "https://github.com/booperlv/nvim-gomove",
             "description": "A complete plugin for moving and duplicating blocks and lines, with complete fold handling, reindenting, and undoing in one go."
+        },
+        {
+            "path": "hinell/duplicate.nvim",
+            "owner": "hinell",
+            "name": "duplicate.nvim",
+            "config": "duplicate_nvim.lua",
+            "url": "https://github.com/hinell/duplicate.nvim",
+            "description": "Duplicate lines & blocks of lines easily; undo & unfolding support; full OOP."
+        },
+        {
+            "path": "hinell/move.nvim",
+            "owner": "hinell",
+            "name": "move.nvim",
+            "config": "move_nvim.lua",
+            "url": "https://github.com/hinell/move.nvim",
+            "description": "Move chunks of text around; fork of [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim)."
         },
         {
             "path": "willothy/moveline.nvim",
