@@ -2705,6 +2705,14 @@
             "description": "A fast, light, customizable Neovim statusline and tabline(buffers) plugin."
         },
         {
+            "path": "MunifTanjim/nougat.nvim",
+            "owner": "MunifTanjim",
+            "name": "nougat.nvim",
+            "config": "nougat_nvim.lua",
+            "url": "https://github.com/MunifTanjim/nougat.nvim",
+            "description": "Hyperextensible Statusline / Tabline / Winbar."
+        },
+        {
             "path": "romgrk/barbar.nvim",
             "owner": "romgrk",
             "name": "barbar.nvim",
