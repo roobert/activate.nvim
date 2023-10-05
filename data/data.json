@@ -1459,14 +1459,6 @@
             "description": "Telescope picker to jump to any repository (git or other) on the file system."
         },
         {
-            "path": "MunifTanjim/exrc.nvim",
-            "owner": "MunifTanjim",
-            "name": "exrc.nvim",
-            "config": "exrc_nvim.lua",
-            "url": "https://github.com/MunifTanjim/exrc.nvim",
-            "description": "Secure Project Local Config."
-        },
-        {
             "path": "otavioschwanck/telescope-alternate.nvim",
             "owner": "otavioschwanck",
             "name": "telescope-alternate.nvim",
@@ -1505,14 +1497,6 @@
             "config": "telescope_rooter_nvim.lua",
             "url": "https://github.com/desdic/telescope-rooter.nvim",
             "description": "Makes sure to always start telescope (and only telescope) from the project/root directory."
-        },
-        {
-            "path": "jinzhongjia/PS_manager.nvim",
-            "owner": "jinzhongjia",
-            "name": "PS_manager.nvim",
-            "config": "PS_manager_nvim.lua",
-            "url": "https://github.com/jinzhongjia/PS_manager.nvim",
-            "description": "Multi-project management, switch pwd automatically."
         }
     ],
     "Color": [
@@ -3265,14 +3249,6 @@
             "config": "nvim_biscuits.lua",
             "url": "https://github.com/code-biscuits/nvim-biscuits",
             "description": "A Neovim port of Assorted Biscuits. Ends up with more supported languages too."
-        },
-        {
-            "path": "Pocco81/AbbrevMan.nvim",
-            "owner": "Pocco81",
-            "name": "AbbrevMan.nvim",
-            "config": "AbbrevMan_nvim.lua",
-            "url": "https://github.com/Pocco81/AbbrevMan.nvim",
-            "description": "Manage Vim abbreviations."
         },
         {
             "path": "kazhala/close-buffers.nvim",
@@ -6131,14 +6107,6 @@
             "config": "nyoom_nvim.lua",
             "url": "https://github.com/shaunsingh/nyoom.nvim",
             "description": "Blazing fast, configurable, minimal and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience."
-        },
-        {
-            "path": "OxygeNvim/OxygeNvim",
-            "owner": "OxygeNvim",
-            "name": "OxygeNvim",
-            "config": "OxygeNvim.lua",
-            "url": "https://github.com/OxygeNvim/OxygeNvim",
-            "description": "A configuration for all kinds of development with rock solid defaults."
         },
         {
             "path": "jrychn/moduleVim",
