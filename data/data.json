@@ -673,6 +673,14 @@
             "description": "Navigating [Unison](https://unison-lang.org/) projects."
         },
         {
+            "path": "niuiic/typst-preview.nvim",
+            "owner": "niuiic",
+            "name": "typst-preview.nvim",
+            "config": "typst_preview_nvim.lua",
+            "url": "https://github.com/niuiic/typst-preview.nvim",
+            "description": "Preview typst documents, respond to file changes."
+        },
+        {
             "path": "ray-x/go.nvim",
             "owner": "ray-x",
             "name": "go.nvim",
