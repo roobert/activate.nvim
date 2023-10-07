@@ -3665,6 +3665,14 @@
             "config": "nvim_devdocs.lua",
             "url": "https://github.com/luckasRanarison/nvim-devdocs",
             "description": "Preview devdocs.io documentations directly in Markdown format."
+        },
+        {
+            "path": "VidocqH/data-viewer.nvim",
+            "owner": "VidocqH",
+            "name": "data-viewer.nvim",
+            "config": "data_viewer_nvim.lua",
+            "url": "https://github.com/VidocqH/data-viewer.nvim",
+            "description": "Provide a simple table view to inspect data files such as `csv`, `tsv`."
         }
     ],
     "Terminal Integration": [
