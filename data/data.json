@@ -1203,6 +1203,14 @@
             "config": "nvim_spectre.lua",
             "url": "https://github.com/windwp/nvim-spectre",
             "description": "Search and replace panel."
+        },
+        {
+            "path": "nvimdev/hlsearch.nvim",
+            "owner": "nvimdev",
+            "name": "hlsearch.nvim",
+            "config": "hlsearch_nvim.lua",
+            "url": "https://github.com/nvimdev/hlsearch.nvim",
+            "description": "Auto remove search highlight and rehighlight when using n or N."
         }
     ],
     "Fuzzy Finder": [
