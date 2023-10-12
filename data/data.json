@@ -3207,6 +3207,14 @@
             "config": "obsidian.lua",
             "url": "https://github.com/ada0l/obsidian",
             "description": "Base Obsidian functionality."
+        },
+        {
+            "path": "gsuuon/note.nvim",
+            "owner": "gsuuon",
+            "name": "note.nvim",
+            "config": "note_nvim.lua",
+            "url": "https://github.com/gsuuon/note.nvim",
+            "description": "Daily tasks with deep-linking and project spaces."
         }
     ],
     "Utility": [
