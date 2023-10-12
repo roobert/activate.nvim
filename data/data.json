@@ -5779,6 +5779,14 @@
             "config": "rsync_nvim.lua",
             "url": "https://github.com/OscarCreator/rsync.nvim",
             "description": "Automatically sync up/down project to a remote with rsync."
+        },
+        {
+            "path": "niuiic/remote.nvim",
+            "owner": "niuiic",
+            "name": "remote.nvim",
+            "config": "remote_nvim.lua",
+            "url": "https://github.com/niuiic/remote.nvim",
+            "description": "Edit remote files with local configuration."
         }
     ],
     "Split and Window": [
