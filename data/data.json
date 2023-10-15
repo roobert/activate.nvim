@@ -1,5 +1,5 @@
 {
-    "Plugin Manager": [
+    "Manager": [
         {
             "path": "lewis6991/pckr.nvim",
             "owner": "lewis6991",
@@ -49,7 +49,7 @@
             "description": "A plugin installation system designed to complement `folke/lazy.nvim`."
         }
     ],
-    "LSP": [
+    "(requires Neovim 0.5)": [
         {
             "path": "neovim/nvim-lspconfig",
             "owner": "neovim",
@@ -489,9 +489,7 @@
             "config": "nvim_rulebook.lua",
             "url": "https://github.com/chrisgrieser/nvim-rulebook",
             "description": "Add inline-comments to ignore rules, or lookup rule documentation online."
-        }
-    ],
-    "Completion": [
+        },
         {
             "path": "ms-jpq/coq_nvim",
             "owner": "ms-jpq",
@@ -539,9 +537,7 @@
             "config": "copilot_lua.lua",
             "url": "https://github.com/zbirenbaum/copilot.lua",
             "description": "Fully featured Lua replacement for [GitHub/copilot.vim](https://github.com/github/copilot.vim)."
-        }
-    ],
-    "AI": [
+        },
         {
             "path": "Robitx/gp.nvim",
             "owner": "Robitx",
@@ -589,9 +585,7 @@
             "config": "neural.lua",
             "url": "https://github.com/dense-analysis/neural",
             "description": "Integrate LLMs for generating code, interacting with chat bots, and more."
-        }
-    ],
-    "Programming Languages Support": [
+        },
         {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
@@ -679,7 +673,9 @@
             "config": "typst_preview_nvim.lua",
             "url": "https://github.com/niuiic/typst-preview.nvim",
             "description": "Preview typst documents, respond to file changes."
-        },
+        }
+    ],
+    "Golang": [
         {
             "path": "ray-x/go.nvim",
             "owner": "ray-x",
@@ -735,7 +731,9 @@
             "config": "hierarchy_tree_go_nvim.lua",
             "url": "https://github.com/crusj/hierarchy-tree-go.nvim",
             "description": "Neovim plugin for Golang, callHierarchy UI tree."
-        },
+        }
+    ],
+    "YAML": [
         {
             "path": "someone-stole-my-name/yaml-companion.nvim",
             "owner": "someone-stole-my-name",
@@ -751,7 +749,9 @@
             "config": "yaml_nvim.lua",
             "url": "https://github.com/cuducos/yaml.nvim",
             "description": "Utils to work with YAML files."
-        },
+        }
+    ],
+    "Web Development": [
         {
             "path": "NTBBloodbath/rest.nvim",
             "owner": "NTBBloodbath",
@@ -775,7 +775,9 @@
             "config": "tailwindcss_colorizer_cmp_nvim.lua",
             "url": "https://github.com/roobert/tailwindcss-colorizer-cmp.nvim",
             "description": "Add vscode-style TailwindCSS completion to nvim-cmp."
-        },
+        }
+    ],
+    "Markdown and LaTeX": [
         {
             "path": "ellisonleao/glow.nvim",
             "owner": "ellisonleao",
@@ -903,9 +905,7 @@
             "config": "markmap_nvim.lua",
             "url": "https://github.com/Zeioth/markmap.nvim",
             "description": "Visualize your Markdown as mindmaps."
-        }
-    ],
-    "Language": [
+        },
         {
             "path": "potamides/pantran.nvim",
             "owner": "potamides",
@@ -921,9 +921,7 @@
             "config": "translate_nvim.lua",
             "url": "https://github.com/niuiic/translate.nvim",
             "description": "Invoke any translation engine via shell command."
-        }
-    ],
-    "Syntax": [
+        },
         {
             "path": "nvim-treesitter/nvim-treesitter",
             "owner": "nvim-treesitter",
@@ -995,9 +993,7 @@
             "config": "agrolens_nvim.lua",
             "url": "https://github.com/desdic/agrolens.nvim",
             "description": "Navigate via Tree-sitter nodes using Telescope."
-        }
-    ],
-    "Snippet": [
+        },
         {
             "path": "norcalli/snippets.nvim",
             "owner": "norcalli",
@@ -1045,9 +1041,7 @@
             "config": "rayso_nvim.lua",
             "url": "https://github.com/TobinPalmer/rayso.nvim",
             "description": "Create code snippets in Neovim using [ray.so](https://ray.so)."
-        }
-    ],
-    "Register": [
+        },
         {
             "path": "gennaro-tedesco/nvim-peekup",
             "owner": "gennaro-tedesco",
@@ -1087,9 +1081,7 @@
             "config": "macrothis_nvim.lua",
             "url": "https://github.com/desdic/macrothis.nvim",
             "description": "Save and load macros/registers."
-        }
-    ],
-    "Marks": [
+        },
         {
             "path": "cbochs/grapple.nvim",
             "owner": "cbochs",
@@ -1137,9 +1129,7 @@
             "config": "bookmarks_nvim.lua",
             "url": "https://github.com/tomasky/bookmarks.nvim",
             "description": "Bookmarks with global file storage, written in Lua."
-        }
-    ],
-    "Search": [
+        },
         {
             "path": "kevinhwang91/nvim-hlslens",
             "owner": "kevinhwang91",
@@ -1211,9 +1201,7 @@
             "config": "hlsearch_nvim.lua",
             "url": "https://github.com/nvimdev/hlsearch.nvim",
             "description": "Auto remove search highlight and rehighlight when using n or N."
-        }
-    ],
-    "Fuzzy Finder": [
+        },
         {
             "path": "nvim-telescope/telescope.nvim",
             "owner": "nvim-telescope",
@@ -1277,9 +1265,7 @@
             "config": "fzfx_nvim.lua",
             "url": "https://github.com/linrongbin16/fzfx.nvim",
             "description": "E(x)tended commands missing in fzf.vim, a brand new fzf plugin build from scratch, focused on usability, customization and performance."
-        }
-    ],
-    "File Explorer": [
+        },
         {
             "path": "kyazdani42/nvim-tree.lua",
             "owner": "kyazdani42",
@@ -1415,9 +1401,7 @@
             "config": "mini_files.lua",
             "url": "https://github.com/echasnovski/mini.files",
             "description": "Module of `mini.nvim` providing file explorer with column view capable of manipulating file system by editing text. Can create/delete/rename/copy/move files/directories inside and across directories."
-        }
-    ],
-    "Project": [
+        },
         {
             "path": "pluffie/neoproj",
             "owner": "pluffie",
@@ -1513,9 +1497,7 @@
             "config": "telescope_rooter_nvim.lua",
             "url": "https://github.com/desdic/telescope-rooter.nvim",
             "description": "Makes sure to always start telescope (and only telescope) from the project/root directory."
-        }
-    ],
-    "Color": [
+        },
         {
             "path": "NvChad/nvim-colorizer.lua",
             "owner": "NvChad",
@@ -1621,7 +1603,7 @@
             "description": "Module of `mini.nvim` to highlight patterns in text with configurable highlighters. Works asynchronously with configurable debounce delay."
         }
     ],
-    "Colorscheme": [
+    "Tree-sitter Supported Colorscheme": [
         {
             "path": "shaeinst/roshnivim-cs",
             "owner": "shaeinst",
@@ -2405,7 +2387,9 @@
             "config": "monokai_nightasty_nvim.lua",
             "url": "https://github.com/polirritmico/monokai-nightasty.nvim",
             "description": "A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins."
-        },
+        }
+    ],
+    "Lua Colorscheme": [
         {
             "path": "tjdevries/gruvbuddy.nvim",
             "owner": "tjdevries",
@@ -2437,7 +2421,9 @@
             "config": "cobalt2_nvim.lua",
             "url": "https://github.com/lalitmee/cobalt2.nvim",
             "description": "A port of cobalt2 colorscheme using colorbuddy."
-        },
+        }
+    ],
+    "Colorscheme Creation": [
         {
             "path": "tjdevries/colorbuddy.nvim",
             "owner": "tjdevries",
@@ -2509,7 +2495,9 @@
             "config": "mini_hues.lua",
             "url": "https://github.com/echasnovski/mini.hues",
             "description": "Module of `mini.nvim` to generate configurable color scheme. Takes only background and foreground colors as required arguments. Can adjust number of hues for non-base colors, saturation, accent color, plugin integration."
-        },
+        }
+    ],
+    "Colorscheme Switchers": [
         {
             "path": "4e554c4c/darkman.nvim",
             "owner": "4e554c4c",
@@ -2533,9 +2521,7 @@
             "config": "themery_nvim.lua",
             "url": "https://github.com/zaldih/themery.nvim",
             "description": "A new way to change the colorscheme on the fly like in vscode."
-        }
-    ],
-    "Bars and Lines": [
+        },
         {
             "path": "Bekaboo/deadcolumn.nvim",
             "owner": "Bekaboo",
@@ -2591,7 +2577,9 @@
             "config": "statuscol_nvim.lua",
             "url": "https://github.com/luukvbaal/statuscol.nvim",
             "description": "Configurable 'statuscolumn' with builtin segments and click handlers."
-        },
+        }
+    ],
+    "Statusline": [
         {
             "path": "NTBBloodbath/galaxyline.nvim",
             "owner": "NTBBloodbath",
@@ -2711,7 +2699,9 @@
             "config": "nougat_nvim.lua",
             "url": "https://github.com/MunifTanjim/nougat.nvim",
             "description": "Hyperextensible Statusline / Tabline / Winbar."
-        },
+        }
+    ],
+    "Tabline": [
         {
             "path": "romgrk/barbar.nvim",
             "owner": "romgrk",
@@ -2815,7 +2805,9 @@
             "config": "tabline_nvim.lua",
             "url": "https://github.com/mg979/tabline.nvim",
             "description": "A comprehensive tabline for rendering and managing tabs, buffers or arglist, and featuring buffer filtering, fzf integration and session management."
-        },
+        }
+    ],
+    "Cursorline": [
         {
             "path": "yamatsum/nvim-cursorline",
             "owner": "yamatsum",
@@ -2871,9 +2863,7 @@
             "config": "murmur_lua.lua",
             "url": "https://github.com/nyngwang/murmur.lua",
             "description": "Super-fast cursor word highlighting with callbacks(I call them murmurs) included."
-        }
-    ],
-    "Startup": [
+        },
         {
             "path": "nvimdev/dashboard-nvim",
             "owner": "nvimdev",
@@ -2921,9 +2911,7 @@
             "config": "veil_nvim.lua",
             "url": "https://github.com/willothy/veil.nvim",
             "description": "A blazingly fast, animated, and infinitely customizable startup / dashboard plugin."
-        }
-    ],
-    "Icon": [
+        },
         {
             "path": "kyazdani42/nvim-web-devicons",
             "owner": "kyazdani42",
@@ -2947,9 +2935,7 @@
             "config": "icon_picker_nvim.lua",
             "url": "https://github.com/ziontee113/icon-picker.nvim",
             "description": "Help you pick \ud835\udc68\ud835\udd43\ud835\udebb Font Characters, Symbols \u03a3, Nerd Font Icons \ue62b & Emojis \u2728."
-        }
-    ],
-    "Media": [
+        },
         {
             "path": "ekickx/clipboard-image.nvim",
             "owner": "ekickx",
@@ -3045,9 +3031,7 @@
             "config": "code_shot_nvim.lua",
             "url": "https://github.com/niuiic/code-shot.nvim",
             "description": "Take a picture of the code."
-        }
-    ],
-    "Note Taking": [
+        },
         {
             "path": "0styx0/abbreinder.nvim",
             "owner": "0styx0",
@@ -3215,9 +3199,7 @@
             "config": "note_nvim.lua",
             "url": "https://github.com/gsuuon/note.nvim",
             "description": "Daily tasks with deep-linking and project spaces."
-        }
-    ],
-    "Utility": [
+        },
         {
             "path": "gaborvecsei/usage-tracker.nvim",
             "owner": "gaborvecsei",
@@ -3697,9 +3679,7 @@
             "config": "gentags_lua.lua",
             "url": "https://github.com/JMarkin/gentags.lua",
             "description": "Auto generate tag files by ctags."
-        }
-    ],
-    "Terminal Integration": [
+        },
         {
             "path": "LoricAndre/OneTerm.nvim",
             "owner": "LoricAndre",
@@ -3835,9 +3815,7 @@
             "config": "kitty_scrollback_nvim.lua",
             "url": "https://github.com/mikesmithgh/kitty-scrollback.nvim",
             "description": "Open your Kitty scrollback buffer. Ameowzing."
-        }
-    ],
-    "Debugging": [
+        },
         {
             "path": "mfussenegger/nvim-dap",
             "owner": "mfussenegger",
@@ -3909,7 +3887,9 @@
             "config": "dap_utils.lua",
             "url": "https://github.com/niuiic/dap-utils.nvim",
             "description": "Utilities to provide a better experience for using nvim-dap."
-        },
+        }
+    ],
+    "Quickfix": [
         {
             "path": "kevinhwang91/nvim-bqf",
             "owner": "kevinhwang91",
@@ -3941,9 +3921,7 @@
             "config": "qfview_nvim.lua",
             "url": "https://github.com/ashfinal/qfview.nvim",
             "description": "Pretty quickfix/location view with consistent path-shorten and folding."
-        }
-    ],
-    "Test": [
+        },
         {
             "path": "David-Kunz/jester",
             "owner": "David-Kunz",
@@ -3975,9 +3953,7 @@
             "config": "nvim_coverage.lua",
             "url": "https://github.com/andythigpen/nvim-coverage",
             "description": "Displays coverage information in the sign column."
-        }
-    ],
-    "Code Runner": [
+        },
         {
             "path": "michaelb/sniprun",
             "owner": "michaelb",
@@ -4121,9 +4097,7 @@
             "config": "static_nvim.lua",
             "url": "https://github.com/jaytyrrell13/static.nvim",
             "description": "Run static site generator commands."
-        }
-    ],
-    "Neovim Lua Development": [
+        },
         {
             "path": "folke/neodev.nvim",
             "owner": "folke",
@@ -4283,9 +4257,7 @@
             "config": "treesitter_utils.lua",
             "url": "https://github.com/NFrid/treesitter-utils",
             "description": "Some useful Treesitter methods."
-        }
-    ],
-    "Fennel": [
+        },
         {
             "path": "Olical/aniseed",
             "owner": "Olical",
@@ -4333,9 +4305,7 @@
             "config": "hibiscus_nvim.lua",
             "url": "https://github.com/udayvir-singh/hibiscus.nvim",
             "description": "Flavored :hibiscus: Fennel macro library."
-        }
-    ],
-    "Dependency Management": [
+        },
         {
             "path": "vuki656/package-info.nvim",
             "owner": "vuki656",
@@ -4359,9 +4329,7 @@
             "config": "telescope_import_nvim.lua",
             "url": "https://github.com/piersolenski/telescope-import.nvim",
             "description": "Import modules faster based on what you've already imported in your project."
-        }
-    ],
-    "Git": [
+        },
         {
             "path": "f-person/git-blame.nvim",
             "owner": "f-person",
@@ -4481,7 +4449,9 @@
             "config": "git_log_nvim.lua",
             "url": "https://github.com/niuiic/git-log.nvim",
             "description": "Check git log of the selected code."
-        },
+        }
+    ],
+    "GitHub": [
         {
             "path": "pwntester/octo.nvim",
             "owner": "pwntester",
@@ -4513,9 +4483,7 @@
             "config": "gh_actions_nvim.lua",
             "url": "https://github.com/topaxi/gh-actions.nvim",
             "description": "View and dispatch GitHub Actions workflow runs."
-        }
-    ],
-    "Motion": [
+        },
         {
             "path": "phaazon/hop.nvim",
             "owner": "phaazon",
@@ -4659,7 +4627,9 @@
             "config": "nvim_spider.lua",
             "url": "https://github.com/chrisgrieser/nvim-spider",
             "description": "Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation."
-        },
+        }
+    ],
+    "Treesitter Based": [
         {
             "path": "mfussenegger/nvim-ts-hint-textobject",
             "owner": "mfussenegger",
@@ -4683,9 +4653,7 @@
             "config": "tree_climber_nvim.lua",
             "url": "https://github.com/drybalka/tree-climber.nvim",
             "description": "Easy navigation around the Treesitter's tree that works in multi-language files and in normal mode."
-        }
-    ],
-    "Keybinding": [
+        },
         {
             "path": "folke/which-key.nvim",
             "owner": "folke",
@@ -4805,9 +4773,7 @@
             "config": "langmapper_nvim.lua",
             "url": "https://github.com/Wansmer/langmapper.nvim",
             "description": "Auto translating your mappings for non-English input methods."
-        }
-    ],
-    "Mouse": [
+        },
         {
             "path": "notomo/gesture.nvim",
             "owner": "notomo",
@@ -4815,9 +4781,7 @@
             "config": "gesture_nvim.lua",
             "url": "https://github.com/notomo/gesture.nvim",
             "description": "Mouse gesture plugin."
-        }
-    ],
-    "Scrolling": [
+        },
         {
             "path": "karb94/neoscroll.nvim",
             "owner": "karb94",
@@ -4833,7 +4797,9 @@
             "config": "cinnamon_nvim.lua",
             "url": "https://github.com/declancm/cinnamon.nvim",
             "description": "Smooth scrolling for any movement command."
-        },
+        }
+    ],
+    "Scrollbar": [
         {
             "path": "Xuyuanp/scrollbar.nvim",
             "owner": "Xuyuanp",
@@ -4881,9 +4847,7 @@
             "config": "satellite_nvim.lua",
             "url": "https://github.com/lewis6991/satellite.nvim",
             "description": "Decorate scrollbar."
-        }
-    ],
-    "Editing Support": [
+        },
         {
             "path": "windwp/nvim-ts-autotag",
             "owner": "windwp",
@@ -5355,7 +5319,9 @@
             "config": "nvim_puppeteer.lua",
             "url": "https://github.com/chrisgrieser/nvim-puppeteer",
             "description": "Automatically convert strings to f-strings or template strings and back."
-        },
+        }
+    ],
+    "Comment": [
         {
             "path": "numToStr/Comment.nvim",
             "owner": "numToStr",
@@ -5459,9 +5425,7 @@
             "config": "dooku_nvim.lua",
             "url": "https://github.com/Zeioth/dooku.nvim",
             "description": "Generate and open your HTML code documentation."
-        }
-    ],
-    "Formatting": [
+        },
         {
             "path": "gpanders/editorconfig.nvim",
             "owner": "gpanders",
@@ -5581,7 +5545,9 @@
             "config": "conform_nvim.lua",
             "url": "https://github.com/stevearc/conform.nvim",
             "description": "A lightweight formatting engine that plays nice with LSP."
-        },
+        }
+    ],
+    "Indent": [
         {
             "path": "nvimdev/indentmini.nvim",
             "owner": "nvimdev",
@@ -5653,9 +5619,7 @@
             "config": "hlchunk_nvim.lua",
             "url": "https://github.com/shellRaining/hlchunk.nvim",
             "description": "A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc."
-        }
-    ],
-    "Command Line": [
+        },
         {
             "path": "notomo/cmdbuf.nvim",
             "owner": "notomo",
@@ -5671,9 +5635,7 @@
             "config": "wilder_nvim.lua",
             "url": "https://github.com/gelguy/wilder.nvim",
             "description": "A plugin for fuzzy command line autocompletion."
-        }
-    ],
-    "Session": [
+        },
         {
             "path": "rmagatti/auto-session",
             "owner": "rmagatti",
@@ -5745,9 +5707,7 @@
             "config": "neovim_project.lua",
             "url": "https://github.com/coffebar/neovim-project",
             "description": "Declarative project management, automatic saving of sessions, uses Telescope."
-        }
-    ],
-    "Remote Development": [
+        },
         {
             "path": "chipsenkbeil/distant.nvim",
             "owner": "chipsenkbeil",
@@ -5795,9 +5755,7 @@
             "config": "remote_nvim.lua",
             "url": "https://github.com/niuiic/remote.nvim",
             "description": "Edit remote files with local configuration."
-        }
-    ],
-    "Split and Window": [
+        },
         {
             "path": "~henriquehbr/ataraxis.lua",
             "owner": "~henriquehbr",
@@ -5869,7 +5827,9 @@
             "config": "mini_bufremove.lua",
             "url": "https://github.com/echasnovski/mini.bufremove",
             "description": "Module of `mini.nvim` for buffer removing (unshow, delete, wipeout) while saving window layout."
-        },
+        }
+    ],
+    "Tmux": [
         {
             "path": "aserowy/tmux.nvim",
             "owner": "aserowy",
@@ -5917,9 +5877,7 @@
             "config": "tmux_awesome_manager_nvim.lua",
             "url": "https://github.com/otavioschwanck/tmux-awesome-manager.nvim",
             "description": "Run your workflow commands like yarn install, rails console, yarn add, bundle install, etc."
-        }
-    ],
-    "Game": [
+        },
         {
             "path": "ThePrimeagen/vim-be-good",
             "owner": "ThePrimeagen",
@@ -5983,7 +5941,9 @@
             "config": "sudoku_nvim.lua",
             "url": "https://github.com/jim-fx/sudoku.nvim",
             "description": "Classic sudoku puzzle."
-        },
+        }
+    ],
+    "Competitive Programming": [
         {
             "path": "p00f/cphelper.nvim",
             "owner": "p00f",
@@ -6007,9 +5967,7 @@
             "config": "Leetbuddy_nvim.lua",
             "url": "https://github.com/Dhanus3133/Leetbuddy.nvim",
             "description": "Solve Leetcode problems within Neovim."
-        }
-    ],
-    "Workflow": [
+        },
         {
             "path": "m4xshen/hardtime.nvim",
             "owner": "m4xshen",
@@ -6025,9 +5983,7 @@
             "config": "bad_practices_nvim.lua",
             "url": "https://github.com/antonk52/bad-practices.nvim",
             "description": "Helping you give up bad practices in Vim."
-        }
-    ],
-    "Preconfigured Configuration": [
+        },
         {
             "path": "Abstract-IDE/Abstract",
             "owner": "Abstract-IDE",
@@ -6313,6 +6269,22 @@
             "config": "alfred_neovim_utilities.lua",
             "url": "https://github.com/chrisgrieser/alfred-neovim-utilities",
             "description": "Search Neovim plugins and online `:help `via Alfred (macOS)."
+        },
+        {
+            "path": "tokiory/neovim-boilerplate",
+            "owner": "tokiory",
+            "name": "neovim-boilerplate",
+            "config": "neovim_boilerplate.lua",
+            "url": "https://github.com/tokiory/neovim-boilerplate",
+            "description": "Starter boilerplate for making new configurations."
+        },
+        {
+            "path": "frans-johansson/lazy-nvim-starter",
+            "owner": "frans-johansson",
+            "name": "lazy-nvim-starter",
+            "config": "lazy_nvim_starter.lua",
+            "url": "https://github.com/frans-johansson/lazy-nvim-starter",
+            "description": "Starter boilerplate with lazy plugin manager."
         },
         {
             "path": "Vimawesome",
