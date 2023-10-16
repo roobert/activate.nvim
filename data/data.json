@@ -2395,6 +2395,14 @@
             "config": "monokai_nightasty_nvim.lua",
             "url": "https://github.com/polirritmico/monokai-nightasty.nvim",
             "description": "A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins."
+        },
+        {
+            "path": "oxfist/night-owl.nvim",
+            "owner": "oxfist",
+            "name": "night-owl.nvim",
+            "config": "night_owl_nvim.lua",
+            "url": "https://github.com/oxfist/night-owl.nvim",
+            "description": "A [Night Owl colorscheme port from VSCode](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens."
         }
     ],
     "Lua Colorscheme": [
