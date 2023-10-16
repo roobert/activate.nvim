@@ -1267,6 +1267,14 @@
             "description": "E(x)tended commands missing in fzf.vim, a brand new fzf plugin build from scratch, focused on usability, customization and performance."
         },
         {
+            "path": "echasnovski/mini.pick",
+            "owner": "echasnovski",
+            "name": "mini.pick",
+            "config": "mini_pick.lua",
+            "url": "https://github.com/echasnovski/mini.pick",
+            "description": "Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more."
+        },
+        {
             "path": "kyazdani42/nvim-tree.lua",
             "owner": "kyazdani42",
             "name": "nvim-tree.lua",
@@ -2595,6 +2603,14 @@
             "config": "express_line_nvim.lua",
             "url": "https://github.com/tjdevries/express_line.nvim",
             "description": "Supports co-routines, functions and jobs."
+        },
+        {
+            "path": "sontungexpt/sttusline",
+            "owner": "sontungexpt",
+            "name": "sttusline",
+            "config": "sttusline.lua",
+            "url": "https://github.com/sontungexpt/sttusline",
+            "description": "Very lightweight, super fast and lazyloading statusline."
         },
         {
             "path": "nvim-lualine/lualine.nvim",
@@ -5983,6 +5999,14 @@
             "config": "bad_practices_nvim.lua",
             "url": "https://github.com/antonk52/bad-practices.nvim",
             "description": "Helping you give up bad practices in Vim."
+        },
+        {
+            "path": "sontungexpt/stinvim",
+            "owner": "sontungexpt",
+            "name": "stinvim",
+            "config": "stinvim.lua",
+            "url": "https://github.com/sontungexpt/stinvim",
+            "description": "Ready Neovim's configuration for fullstack developers."
         },
         {
             "path": "Abstract-IDE/Abstract",
