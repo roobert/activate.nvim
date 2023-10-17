@@ -4651,6 +4651,14 @@
             "config": "nvim_spider.lua",
             "url": "https://github.com/chrisgrieser/nvim-spider",
             "description": "Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation."
+        },
+        {
+            "path": "gsuuon/tshjkl.nvim",
+            "owner": "gsuuon",
+            "name": "tshjkl.nvim",
+            "config": "tshjkl_nvim.lua",
+            "url": "https://github.com/gsuuon/tshjkl.nvim",
+            "description": "Toggle to navigate and select tree-sitter nodes with hjkl."
         }
     ],
     "Treesitter Based": [
