@@ -47,6 +47,14 @@
             "config": "activate_nvim.lua",
             "url": "https://github.com/roobert/activate.nvim",
             "description": "A plugin installation system designed to complement `folke/lazy.nvim`."
+        },
+        {
+            "path": "abeldekat/lazyflex.nvim",
+            "owner": "abeldekat",
+            "name": "lazyflex.nvim",
+            "config": "lazyflex_nvim.lua",
+            "url": "https://github.com/abeldekat/lazyflex.nvim",
+            "description": "An addon for `folke/lazy.nvim`. Facilitates the testing and troubleshooting of a Neovim configuration. "
         }
     ],
     "(requires Neovim 0.5)": [
@@ -2403,6 +2411,14 @@
             "config": "night_owl_nvim.lua",
             "url": "https://github.com/oxfist/night-owl.nvim",
             "description": "A [Night Owl colorscheme port from VSCode](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens."
+        },
+        {
+            "path": "text-to-colorscheme",
+            "owner": "",
+            "name": "text-to-colorscheme",
+            "config": "text_to_colorscheme.lua",
+            "url": "https://github.com/svermeulen/text-to-colorscheme",
+            "description": "Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT."
         }
     ],
     "Lua Colorscheme": [
@@ -4281,6 +4297,14 @@
             "config": "treesitter_utils.lua",
             "url": "https://github.com/NFrid/treesitter-utils",
             "description": "Some useful Treesitter methods."
+        },
+        {
+            "path": "nvim-lusc",
+            "owner": "",
+            "name": "nvim-lusc",
+            "config": "nvim_lusc.lua",
+            "url": "https://github.com/svermeulen/nvim-lusc",
+            "description": "Adds support for Structured Async/Concurrency in Lua."
         },
         {
             "path": "Olical/aniseed",
