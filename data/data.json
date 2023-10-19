@@ -2977,6 +2977,14 @@
             "description": "Help you pick \ud835\udc68\ud835\udd43\ud835\udebb Font Characters, Symbols \u03a3, Nerd Font Icons \ue62b & Emojis \u2728."
         },
         {
+            "path": "edluffy/hologram.nvim",
+            "owner": "edluffy",
+            "name": "hologram.nvim",
+            "config": "hologram_nvim.lua",
+            "url": "https://github.com/edluffy/hologram.nvim",
+            "description": "A cross platform terminal image viewer. Works on macOS and Linux."
+        },
+        {
             "path": "ekickx/clipboard-image.nvim",
             "owner": "ekickx",
             "name": "clipboard-image.nvim",
