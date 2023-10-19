@@ -4139,6 +4139,14 @@
             "description": "Run static site generator commands."
         },
         {
+            "path": "dasupradyumna/launch.nvim",
+            "owner": "dasupradyumna",
+            "name": "launch.nvim",
+            "config": "launch_nvim.lua",
+            "url": "https://github.com/dasupradyumna/launch.nvim",
+            "description": "A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging."
+        },
+        {
             "path": "folke/neodev.nvim",
             "owner": "folke",
             "name": "neodev.nvim",
@@ -4781,14 +4789,6 @@
             "config": "command_center_nvim.lua",
             "url": "https://github.com/FeiyouG/command_center.nvim",
             "description": "Create and manage keybindings and commands in a more organized manner and search them quickly through Telescope."
-        },
-        {
-            "path": "linty-org/key-menu.nvim",
-            "owner": "linty-org",
-            "name": "key-menu.nvim",
-            "config": "key_menu_nvim.lua",
-            "url": "https://github.com/linty-org/key-menu.nvim",
-            "description": "Key mapping hints in a floating window."
         },
         {
             "path": "anuvyklack/hydra.nvim",
