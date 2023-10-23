@@ -427,6 +427,14 @@
             "description": "Interact with Rust-Analyzer's LSP extensions."
         },
         {
+            "path": "mrcjkb/rustaceanvim",
+            "owner": "mrcjkb",
+            "name": "rustaceanvim",
+            "config": "rustaceanvim.lua",
+            "url": "https://github.com/mrcjkb/rustaceanvim",
+            "description": "A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig."
+        },
+        {
             "path": "anott03/nvim-lspinstall",
             "owner": "anott03",
             "name": "nvim-lspinstall",
@@ -6287,6 +6295,14 @@
             "config": "nvim_kickstart_python.lua",
             "url": "https://github.com/chrisgrieser/nvim-kickstart-python",
             "description": "A launch point for your Neovim configuration for Python."
+        },
+        {
+            "path": "mrcjkb/kickstart-nix.nvim",
+            "owner": "mrcjkb",
+            "name": "kickstart-nix.nvim",
+            "config": "kickstart_nix_nvim.lua",
+            "url": "https://github.com/mrcjkb/kickstart-nix.nvim",
+            "description": "A simple [Nix flake](https://nixos.wiki/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations."
         }
     ],
     "Version Manager": [
