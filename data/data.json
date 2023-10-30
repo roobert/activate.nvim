@@ -315,11 +315,11 @@
             "description": "Inline diagnostics popup-highlight much like coc-nvim but based on `vim.diagnostic`."
         },
         {
-            "path": "MrcJkb/haskell-tools.nvim",
-            "owner": "MrcJkb",
+            "path": "mrcjkb/haskell-tools.nvim",
+            "owner": "mrcjkb",
             "name": "haskell-tools.nvim",
             "config": "haskell_tools_nvim.lua",
-            "url": "https://github.com/MrcJkb/haskell-tools.nvim",
+            "url": "https://github.com/mrcjkb/haskell-tools.nvim",
             "description": "Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle."
         },
         {
@@ -1073,6 +1073,14 @@
             "config": "rayso_nvim.lua",
             "url": "https://github.com/TobinPalmer/rayso.nvim",
             "description": "Create code snippets in Neovim using [ray.so](https://ray.so)."
+        },
+        {
+            "path": "mrcjkb/haskell-snippets.nvim",
+            "owner": "mrcjkb",
+            "name": "haskell-snippets.nvim",
+            "config": "haskell_snippets_nvim.lua",
+            "url": "https://github.com/mrcjkb/haskell-snippets.nvim",
+            "description": "Haskell snippets for LuaSnip, powered by Tree-sitter and LSP."
         },
         {
             "path": "gennaro-tedesco/nvim-peekup",
