@@ -2451,6 +2451,14 @@
             "config": "text_to_colorscheme.lua",
             "url": "https://github.com/svermeulen/text-to-colorscheme",
             "description": "Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT."
+        },
+        {
+            "path": "miikanissi/modus-themes.nvim",
+            "owner": "miikanissi",
+            "name": "modus-themes.nvim",
+            "config": "modus_themes_nvim.lua",
+            "url": "https://github.com/miikanissi/modus-themes.nvim",
+            "description": "Accessible theme, conforming with the highest standard for color contrast (WCAG AAA)."
         }
     ],
     "Lua Colorscheme": [
