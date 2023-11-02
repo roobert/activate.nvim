@@ -1243,6 +1243,14 @@
             "description": "Auto remove search highlight and rehighlight when using n or N."
         },
         {
+            "path": "mangelozzi/rgflow.nvim",
+            "owner": "mangelozzi",
+            "name": "rgflow.nvim",
+            "config": "rgflow_nvim.lua",
+            "url": "https://github.com/mangelozzi/rgflow.nvim",
+            "description": "Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI."
+        },
+        {
             "path": "nvim-telescope/telescope.nvim",
             "owner": "nvim-telescope",
             "name": "telescope.nvim",
