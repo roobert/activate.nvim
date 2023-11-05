@@ -1251,6 +1251,14 @@
             "description": "Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI."
         },
         {
+            "path": "duane9/nvim-rg",
+            "owner": "duane9",
+            "name": "nvim-rg",
+            "config": "nvim_rg.lua",
+            "url": "https://github.com/duane9/nvim-rg",
+            "description": "Run RipGrep asynchronously and see results in a quickfix window."
+        },
+        {
             "path": "nvim-telescope/telescope.nvim",
             "owner": "nvim-telescope",
             "name": "telescope.nvim",
@@ -1321,6 +1329,14 @@
             "config": "mini_pick.lua",
             "url": "https://github.com/echasnovski/mini.pick",
             "description": "Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more."
+        },
+        {
+            "path": "echasnovski/mini.extra",
+            "owner": "echasnovski",
+            "name": "mini.extra",
+            "config": "mini_extra.lua",
+            "url": "https://github.com/echasnovski/mini.extra",
+            "description": "Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more."
         },
         {
             "path": "kyazdani42/nvim-tree.lua",
