@@ -1571,6 +1571,14 @@
             "description": "Makes sure to always start telescope (and only telescope) from the project/root directory."
         },
         {
+            "path": "SalOrak/whaler.nvim",
+            "owner": "SalOrak",
+            "name": "whaler.nvim",
+            "config": "whaler_nvim.lua",
+            "url": "https://github.com/SalOrak/whaler.nvim",
+            "description": "Telescope extension to move between directories blazingly fast."
+        },
+        {
             "path": "NvChad/nvim-colorizer.lua",
             "owner": "NvChad",
             "name": "nvim-colorizer.lua",
