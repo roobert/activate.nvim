@@ -4717,6 +4717,14 @@
             "description": "An EasyMotion-like plugin for quick cursor movement using fuzzy search."
         },
         {
+            "path": "xiaoshihou514/squirrel.nvim",
+            "owner": "xiaoshihou514",
+            "name": "squirrel.nvim",
+            "config": "squirrel_nvim.lua",
+            "url": "https://github.com/xiaoshihou514/squirrel.nvim",
+            "description": "Quickly jump between tree-sitter nodes."
+        },
+        {
             "path": "gen740/SmoothCursor.nvim",
             "owner": "gen740",
             "name": "SmoothCursor.nvim",
