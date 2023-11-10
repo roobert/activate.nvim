@@ -54,7 +54,7 @@
             "name": "lazyflex.nvim",
             "config": "lazyflex_nvim.lua",
             "url": "https://github.com/abeldekat/lazyflex.nvim",
-            "description": "An addon for `folke/lazy.nvim`. Facilitates the testing and troubleshooting of a Neovim configuration. "
+            "description": "An addon for `folke/lazy.nvim`. Facilitates the testing and troubleshooting of a Neovim configuration."
         }
     ],
     "(requires Neovim 0.5)": [
@@ -1320,7 +1320,7 @@
             "name": "fzfx.nvim",
             "config": "fzfx_nvim.lua",
             "url": "https://github.com/linrongbin16/fzfx.nvim",
-            "description": "E(x)tended commands missing in fzf.vim, a brand new fzf plugin build from scratch, focused on usability, customization and performance."
+            "description": "E(x)tended commands missing in fzf.vim, a fzf-based fuzzy finder running on the dynamic engine that parsing user query and selection on every keystroke, with friendly features, good performance and maximized customization."
         },
         {
             "path": "echasnovski/mini.pick",
