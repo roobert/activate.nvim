@@ -3033,6 +3033,14 @@
             "description": "A blazingly fast, animated, and infinitely customizable startup / dashboard plugin."
         },
         {
+            "path": "TobinPalmer/Tip.nvim",
+            "owner": "TobinPalmer",
+            "name": "Tip.nvim",
+            "config": "Tip_nvim.lua",
+            "url": "https://github.com/TobinPalmer/Tip.nvim",
+            "description": "Get a simple tip when you launch Neovim."
+        },
+        {
             "path": "kyazdani42/nvim-web-devicons",
             "owner": "kyazdani42",
             "name": "nvim-web-devicons",
