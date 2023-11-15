@@ -179,6 +179,14 @@
             "description": "A tree like view for symbols using the Language Server Protocol. Supports all your favourite languages."
         },
         {
+            "path": "hedyhli/outline.nvim",
+            "owner": "hedyhli",
+            "name": "outline.nvim",
+            "config": "outline_nvim.lua",
+            "url": "https://github.com/hedyhli/outline.nvim",
+            "description": "A significantly enhanced and refactored fork of `symbols-outline.nvim`."
+        },
+        {
             "path": "stevearc/aerial.nvim",
             "owner": "stevearc",
             "name": "aerial.nvim",
