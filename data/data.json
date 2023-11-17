@@ -6043,6 +6043,14 @@
             "config": "mini_bufremove.lua",
             "url": "https://github.com/echasnovski/mini.bufremove",
             "description": "Module of `mini.nvim` for buffer removing (unshow, delete, wipeout) while saving window layout."
+        },
+        {
+            "path": "jyscao/ventana.nvim",
+            "owner": "jyscao",
+            "name": "ventana.nvim",
+            "config": "ventana_nvim.lua",
+            "url": "https://github.com/jyscao/ventana.nvim",
+            "description": "Convenient flips & shifts for your windows layout."
         }
     ],
     "Tmux": [
