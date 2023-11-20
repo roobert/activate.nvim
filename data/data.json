@@ -851,6 +851,14 @@
             "description": "Markdown preview using glow."
         },
         {
+            "path": "ellisonleao/dotenv.nvim",
+            "owner": "ellisonleao",
+            "name": "dotenv.nvim",
+            "config": "dotenv_nvim.lua",
+            "url": "https://github.com/ellisonleao/dotenv.nvim",
+            "description": "Minimalist .env support."
+        },
+        {
             "path": "iamcco/markdown-preview.nvim",
             "owner": "iamcco",
             "name": "markdown-preview.nvim",
