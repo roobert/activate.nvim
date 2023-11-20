@@ -635,6 +635,14 @@
             "description": "Integrate LLMs for generating code, interacting with chat bots, and more."
         },
         {
+            "path": "jpmcb/nvim-llama",
+            "owner": "jpmcb",
+            "name": "nvim-llama",
+            "config": "nvim_llama.lua",
+            "url": "https://github.com/jpmcb/nvim-llama",
+            "description": "LLM (Llama 2 and llama.cpp) wrappers."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
@@ -1051,6 +1059,14 @@
             "description": "Navigate via Tree-sitter nodes using Telescope."
         },
         {
+            "path": "IndianBoy42/tree-sitter-just",
+            "owner": "IndianBoy42",
+            "name": "tree-sitter-just",
+            "config": "tree_sitter_just.lua",
+            "url": "https://github.com/IndianBoy42/tree-sitter-just",
+            "description": "Treesitter grammar for [Justfiles](https://github.com/casey/just)."
+        },
+        {
             "path": "norcalli/snippets.nvim",
             "owner": "norcalli",
             "name": "snippets.nvim",
@@ -1105,6 +1121,14 @@
             "config": "haskell_snippets_nvim.lua",
             "url": "https://github.com/mrcjkb/haskell-snippets.nvim",
             "description": "Haskell snippets for LuaSnip, powered by Tree-sitter and LSP."
+        },
+        {
+            "path": "rafamadriz/friendly-snippets",
+            "owner": "rafamadriz",
+            "name": "friendly-snippets",
+            "config": "friendly_snippets.lua",
+            "url": "https://github.com/rafamadriz/friendly-snippets",
+            "description": "Set of preconfigured snippets for different languages."
         },
         {
             "path": "gennaro-tedesco/nvim-peekup",
@@ -5543,6 +5567,14 @@
             "config": "nvim_puppeteer.lua",
             "url": "https://github.com/chrisgrieser/nvim-puppeteer",
             "description": "Automatically convert strings to f-strings or template strings and back."
+        },
+        {
+            "path": "nat-418/boole.nvim",
+            "owner": "nat-418",
+            "name": "boole.nvim",
+            "config": "boole_nvim.lua",
+            "url": "https://github.com/nat-418/boole.nvim",
+            "description": "Toggle booleans and common string values."
         }
     ],
     "Comment": [
