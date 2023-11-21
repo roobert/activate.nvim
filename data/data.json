@@ -643,6 +643,14 @@
             "description": "LLM (Llama 2 and llama.cpp) wrappers."
         },
         {
+            "path": "David-Kunz/gen.nvim",
+            "owner": "David-Kunz",
+            "name": "gen.nvim",
+            "config": "gen_nvim.lua",
+            "url": "https://github.com/David-Kunz/gen.nvim",
+            "description": "Generate text using LLMs (via Ollama) with customizable prompts."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
@@ -1393,6 +1401,14 @@
             "config": "mini_extra.lua",
             "url": "https://github.com/echasnovski/mini.extra",
             "description": "Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more."
+        },
+        {
+            "path": "fdschmidt93/telescope-egrepify.nvim",
+            "owner": "fdschmidt93",
+            "name": "telescope-egrepify.nvim",
+            "config": "telescope_egrepify_nvim.lua",
+            "url": "https://github.com/fdschmidt93/telescope-egrepify.nvim",
+            "description": "Telescope plugin for better `rg` flags in `live_grep`."
         },
         {
             "path": "kyazdani42/nvim-tree.lua",
@@ -4765,6 +4781,22 @@
             "description": "A refined successor of Lightspeed, aiming to establish a widely accepted standard interface extension for moving around in Vim-like editors."
         },
         {
+            "path": "ggandor/flit.nvim",
+            "owner": "ggandor",
+            "name": "flit.nvim",
+            "config": "flit_nvim.lua",
+            "url": "https://github.com/ggandor/flit.nvim",
+            "description": "Enhanced f/t motions for Leap."
+        },
+        {
+            "path": "ggandor/leap-spooky.nvim",
+            "owner": "ggandor",
+            "name": "leap-spooky.nvim",
+            "config": "leap_spooky_nvim.lua",
+            "url": "https://github.com/ggandor/leap-spooky.nvim",
+            "description": "Spooky (Leap) actions at a distance."
+        },
+        {
             "path": "folke/flash.nvim",
             "owner": "folke",
             "name": "flash.nvim",
@@ -5583,6 +5615,14 @@
             "config": "boole_nvim.lua",
             "url": "https://github.com/nat-418/boole.nvim",
             "description": "Toggle booleans and common string values."
+        },
+        {
+            "path": "cshuaimin/ssr.nvim",
+            "owner": "cshuaimin",
+            "name": "ssr.nvim",
+            "config": "ssr_nvim.lua",
+            "url": "https://github.com/cshuaimin/ssr.nvim",
+            "description": "Treesitter-based structural search and replace."
         }
     ],
     "Comment": [
