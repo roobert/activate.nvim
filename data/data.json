@@ -1147,6 +1147,14 @@
             "description": "Set of preconfigured snippets for different languages."
         },
         {
+            "path": "cvigilv/esqueleto.nvim",
+            "owner": "cvigilv",
+            "name": "esqueleto.nvim",
+            "config": "esqueleto_nvim.lua",
+            "url": "https://github.com/cvigilv/esqueleto.nvim",
+            "description": "Simple templates to use when creating new files."
+        },
+        {
             "path": "gennaro-tedesco/nvim-peekup",
             "owner": "gennaro-tedesco",
             "name": "nvim-peekup",
@@ -4127,6 +4135,14 @@
             "config": "dap_utils.lua",
             "url": "https://github.com/niuiic/dap-utils.nvim",
             "description": "Utilities to provide a better experience for using nvim-dap."
+        },
+        {
+            "path": "theHamsta/nvim-dap-virtual-text",
+            "owner": "theHamsta",
+            "name": "nvim-dap-virtual-text",
+            "config": "nvim_dap_virtual_text.lua",
+            "url": "https://github.com/theHamsta/nvim-dap-virtual-text",
+            "description": "Virtual text support for nvim-dap."
         }
     ],
     "Quickfix": [
@@ -4369,6 +4385,14 @@
             "config": "molten_nvim.lua",
             "url": "https://github.com/benlubas/molten-nvim",
             "description": "Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code."
+        },
+        {
+            "path": "bfredl/nvim-ipy",
+            "owner": "bfredl",
+            "name": "nvim-ipy",
+            "config": "nvim_ipy.lua",
+            "url": "https://github.com/bfredl/nvim-ipy",
+            "description": "Make interfacing with IPython/Jupyter easier."
         },
         {
             "path": "folke/neodev.nvim",
