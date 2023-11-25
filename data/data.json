@@ -571,6 +571,14 @@
             "description": "Light and synchronous completion plugin based on tree-sitter and with a functional-programming interface."
         },
         {
+            "path": "nvimdev/epo.nvim",
+            "owner": "nvimdev",
+            "name": "epo.nvim",
+            "config": "epo_nvim.lua",
+            "url": "https://github.com/nvimdev/epo.nvim",
+            "description": "Blazingly fast, minimal LSP auto-completion and snippet engine."
+        },
+        {
             "path": "simrat39/rust-tools.nvim",
             "owner": "simrat39",
             "name": "rust-tools.nvim",
@@ -5889,6 +5897,14 @@
             "config": "conform_nvim.lua",
             "url": "https://github.com/stevearc/conform.nvim",
             "description": "A lightweight formatting engine that plays nice with LSP."
+        },
+        {
+            "path": "nvimdev/guard.nvim",
+            "owner": "nvimdev",
+            "name": "guard.nvim",
+            "config": "guard_nvim.lua",
+            "url": "https://github.com/nvimdev/guard.nvim",
+            "description": "Minimalist async formatting and linting plugin."
         }
     ],
     "Indent": [
