@@ -1675,14 +1675,6 @@
             "description": "A high-performance color highlighter which has no external dependencies!."
         },
         {
-            "path": "sunjon/Shade.nvim",
-            "owner": "sunjon",
-            "name": "Shade.nvim",
-            "config": "Shade_nvim.lua",
-            "url": "https://github.com/sunjon/Shade.nvim",
-            "description": "Shade is a Neovim plugin that dims your inactive windows, making it easier to see the active window at a glance."
-        },
-        {
             "path": "winston0410/range-highlight.nvim",
             "owner": "winston0410",
             "name": "range-highlight.nvim",
@@ -2744,7 +2736,7 @@
             "name": "colorbox.nvim",
             "config": "colorbox_nvim.lua",
             "url": "https://github.com/linrongbin16/colorbox.nvim",
-            "description": "Load all the ultra colorschemes into your Neovim player! It collect all the most popurlar colorschemes, install and allow you to play them with multiple playback settings."
+            "description": "Load all the ultra colorschemes into your Neovim player! It collects all the most popular colorschemes, installs them, and allows you to play them with multiple playback settings."
         },
         {
             "path": "Bekaboo/deadcolumn.nvim",
@@ -3927,6 +3919,14 @@
             "config": "gentags_lua.lua",
             "url": "https://github.com/JMarkin/gentags.lua",
             "description": "Auto generate tag files by ctags."
+        },
+        {
+            "path": "`yutkat/confirm-quit.nvim`",
+            "owner": "`yutkat",
+            "name": "confirm-quit.nvim`",
+            "config": "confirm_quit_nvim`.lua",
+            "url": "https://github.com/yutkat/confirm-quit.nvim",
+            "description": "Confirm before quitting Neovim."
         },
         {
             "path": "LoricAndre/OneTerm.nvim",
