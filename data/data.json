@@ -3929,6 +3929,14 @@
             "description": "Confirm before quitting Neovim."
         },
         {
+            "path": "`bgaillard/readonly.nvim`",
+            "owner": "`bgaillard",
+            "name": "readonly.nvim`",
+            "config": "readonly_nvim`.lua",
+            "url": "https://github.com/bgaillard/readonly.nvim",
+            "description": "Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc."
+        },
+        {
             "path": "LoricAndre/OneTerm.nvim",
             "owner": "LoricAndre",
             "name": "OneTerm.nvim",
