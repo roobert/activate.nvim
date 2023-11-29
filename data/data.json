@@ -995,6 +995,14 @@
             "description": "Visualize your Markdown as mindmaps."
         },
         {
+            "path": "tadmccorkle/markdown.nvim",
+            "owner": "tadmccorkle",
+            "name": "markdown.nvim",
+            "config": "markdown_nvim.lua",
+            "url": "https://github.com/tadmccorkle/markdown.nvim",
+            "description": "Configurable tools for markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more."
+        },
+        {
             "path": "potamides/pantran.nvim",
             "owner": "potamides",
             "name": "pantran.nvim",
@@ -3921,18 +3929,18 @@
             "description": "Auto generate tag files by ctags."
         },
         {
-            "path": "`yutkat/confirm-quit.nvim`",
-            "owner": "`yutkat",
-            "name": "confirm-quit.nvim`",
-            "config": "confirm_quit_nvim`.lua",
+            "path": "yutkat/confirm-quit.nvim",
+            "owner": "yutkat",
+            "name": "confirm-quit.nvim",
+            "config": "confirm_quit_nvim.lua",
             "url": "https://github.com/yutkat/confirm-quit.nvim",
             "description": "Confirm before quitting Neovim."
         },
         {
-            "path": "`bgaillard/readonly.nvim`",
-            "owner": "`bgaillard",
-            "name": "readonly.nvim`",
-            "config": "readonly_nvim`.lua",
+            "path": "bgaillard/readonly.nvim",
+            "owner": "bgaillard",
+            "name": "readonly.nvim",
+            "config": "readonly_nvim.lua",
             "url": "https://github.com/bgaillard/readonly.nvim",
             "description": "Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc."
         },
