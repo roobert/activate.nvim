@@ -3945,6 +3945,14 @@
             "description": "Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc."
         },
         {
+            "path": "GCBallesteros/jupytext.nvim",
+            "owner": "GCBallesteros",
+            "name": "jupytext.nvim",
+            "config": "jupytext_nvim.lua",
+            "url": "https://github.com/GCBallesteros/jupytext.nvim",
+            "description": "Edit jupyter notebooks without leaving Neovim."
+        },
+        {
             "path": "LoricAndre/OneTerm.nvim",
             "owner": "LoricAndre",
             "name": "OneTerm.nvim",
