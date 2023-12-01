@@ -2595,6 +2595,14 @@
             "config": "modus_themes_nvim.lua",
             "url": "https://github.com/miikanissi/modus-themes.nvim",
             "description": "Accessible theme, conforming with the highest standard for color contrast (WCAG AAA)."
+        },
+        {
+            "path": "alexmozaidze/palenight.nvim",
+            "owner": "alexmozaidze",
+            "name": "palenight.nvim",
+            "config": "palenight_nvim.lua",
+            "url": "https://github.com/alexmozaidze/palenight.nvim",
+            "description": "Palenight colorscheme supporting Tree-sitter, LSP _(including semantic tokens)_ and lots of plugins."
         }
     ],
     "Lua Colorscheme": [
