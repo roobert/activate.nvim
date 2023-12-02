@@ -753,6 +753,14 @@
             "config": "java_nvim.lua",
             "url": "https://github.com/simaxme/java.nvim",
             "description": "Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in nvim-tree)."
+        },
+        {
+            "path": "chomosuke/typst-preview.nvim",
+            "owner": "chomosuke",
+            "name": "typst-preview.nvim",
+            "config": "typst_preview_nvim.lua",
+            "url": "https://github.com/chomosuke/typst-preview.nvim",
+            "description": "Preview typst documents in the browser, instant update on each keystroke, and cross jump between code and preview."
         }
     ],
     "Golang": [
