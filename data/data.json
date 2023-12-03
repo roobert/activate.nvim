@@ -1683,6 +1683,14 @@
             "description": "Telescope extension to move between directories blazingly fast."
         },
         {
+            "path": "echasnovski/mini.visits",
+            "owner": "echasnovski",
+            "name": "mini.visits",
+            "config": "mini_visits.lua",
+            "url": "https://github.com/echasnovski/mini.visits",
+            "description": "Module of `mini.nvim` to persistently track and reuse file system visits. Allows listing \"recent\"/\"frequent\"/\"frecent\" visits, adding/removing labels to visits and other data."
+        },
+        {
             "path": "NvChad/nvim-colorizer.lua",
             "owner": "NvChad",
             "name": "nvim-colorizer.lua",
@@ -6235,6 +6243,14 @@
             "config": "ventana_nvim.lua",
             "url": "https://github.com/jyscao/ventana.nvim",
             "description": "Convenient flips & shifts for your windows layout."
+        },
+        {
+            "path": "mrjones2014/smart-splits.nvim",
+            "owner": "mrjones2014",
+            "name": "smart-splits.nvim",
+            "config": "smart_splits_nvim.lua",
+            "url": "https://github.com/mrjones2014/smart-splits.nvim",
+            "description": "Smart, seamless, directional navigation and resizing of splits."
         }
     ],
     "Tmux": [
