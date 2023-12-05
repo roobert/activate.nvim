@@ -1416,7 +1416,7 @@
             "name": "fzfx.nvim",
             "config": "fzfx_nvim.lua",
             "url": "https://github.com/linrongbin16/fzfx.nvim",
-            "description": "E(x)tended commands missing in fzf.vim, a fzf-based fuzzy finder running on the dynamic engine that parsing user query and selection on every keystroke, with friendly features, good performance and maximized customization."
+            "description": "FZF-based fuzzy finder running on a dynamic engine that parsing user query and selection on every keystroke."
         },
         {
             "path": "echasnovski/mini.pick",
