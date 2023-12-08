@@ -55,6 +55,14 @@
             "config": "lazyflex_nvim.lua",
             "url": "https://github.com/abeldekat/lazyflex.nvim",
             "description": "An addon for `folke/lazy.nvim`. Facilitates the testing and troubleshooting of a Neovim configuration."
+        },
+        {
+            "path": "nvim-neorocks/rocks.nvim",
+            "owner": "nvim-neorocks",
+            "name": "rocks.nvim",
+            "config": "rocks_nvim.lua",
+            "url": "https://github.com/nvim-neorocks/rocks.nvim",
+            "description": "A modern approach to plugin management using Luarocks, inspired by Cargo."
         }
     ],
     "(requires Neovim 0.5)": [
