@@ -1379,6 +1379,14 @@
             "description": "Run RipGrep asynchronously and see results in a quickfix window."
         },
         {
+            "path": "FabianWirth/search.nvim",
+            "owner": "FabianWirth",
+            "name": "search.nvim",
+            "config": "search_nvim.lua",
+            "url": "https://github.com/FabianWirth/search.nvim",
+            "description": "Tabs for different Telescope pickers."
+        },
+        {
             "path": "nvim-telescope/telescope.nvim",
             "owner": "nvim-telescope",
             "name": "telescope.nvim",
