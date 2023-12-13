@@ -611,6 +611,14 @@
             "description": "Fully featured Lua replacement for [GitHub/copilot.vim](https://github.com/github/copilot.vim)."
         },
         {
+            "path": "Exafunction/codeium.nvim",
+            "owner": "Exafunction",
+            "name": "codeium.nvim",
+            "config": "codeium_nvim.lua",
+            "url": "https://github.com/Exafunction/codeium.nvim",
+            "description": "Free, ultrafast Copilot alternative."
+        },
+        {
             "path": "Robitx/gp.nvim",
             "owner": "Robitx",
             "name": "gp.nvim",
