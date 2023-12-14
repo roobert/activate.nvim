@@ -3521,6 +3521,14 @@
             "description": "Track your Neovim usage and visualize statistics easily."
         },
         {
+            "path": "mateuszwieloch/automkdir.nvim",
+            "owner": "mateuszwieloch",
+            "name": "automkdir.nvim",
+            "config": "automkdir_nvim.lua",
+            "url": "https://github.com/mateuszwieloch/automkdir.nvim",
+            "description": "Automatically create non-existent parent directories when writing a file."
+        },
+        {
             "path": "jghauser/mkdir.nvim",
             "owner": "jghauser",
             "name": "mkdir.nvim",
