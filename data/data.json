@@ -6299,6 +6299,14 @@
             "config": "smart_splits_nvim.lua",
             "url": "https://github.com/mrjones2014/smart-splits.nvim",
             "description": "Smart, seamless, directional navigation and resizing of splits."
+        },
+        {
+            "path": "altermo/nxwm",
+            "owner": "altermo",
+            "name": "nxwm",
+            "config": "nxwm.lua",
+            "url": "https://github.com/altermo/nxwm",
+            "description": "X11 window manager."
         }
     ],
     "Tmux": [
