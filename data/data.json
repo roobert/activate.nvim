@@ -1547,6 +1547,14 @@
             "description": "Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders)."
         },
         {
+            "path": "rolv-apneseth/tfm.nvim",
+            "owner": "rolv-apneseth",
+            "name": "tfm.nvim",
+            "config": "tfm_nvim.lua",
+            "url": "https://github.com/Rolv-Apneseth/tfm.nvim",
+            "description": "Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi](https://github.com/sxyazi/yazi))."
+        },
+        {
             "path": "nvim-neo-tree/neo-tree.nvim",
             "owner": "nvim-neo-tree",
             "name": "neo-tree.nvim",
@@ -1633,14 +1641,6 @@
             "config": "penvim.lua",
             "url": "https://github.com/shaeinst/penvim",
             "description": "Project's Root Directory and Documents Indentation detector with project based config loader."
-        },
-        {
-            "path": "nyngwang/NeoRoot.lua",
-            "owner": "nyngwang",
-            "name": "NeoRoot.lua",
-            "config": "NeoRoot_lua.lua",
-            "url": "https://github.com/nyngwang/NeoRoot.lua",
-            "description": "Change your current working directory to the buffer your cursor is on, and try to go up 2 levels but stop after it encounters one of the project roots you define."
         },
         {
             "path": "windwp/nvim-projectconfig",
@@ -3241,6 +3241,14 @@
             "description": "Help you pick \ud835\udc68\ud835\udd43\ud835\udebb Font Characters, Symbols \u03a3, Nerd Font Icons \ue62b & Emojis \u2728."
         },
         {
+            "path": "2KAbhishek/nerdy.nvim",
+            "owner": "2KAbhishek",
+            "name": "nerdy.nvim",
+            "config": "nerdy_nvim.lua",
+            "url": "https://github.com/2KAbhishek/nerdy.nvim/",
+            "description": "Find and insert the latest nerd font glyphs."
+        },
+        {
             "path": "edluffy/hologram.nvim",
             "owner": "edluffy",
             "name": "hologram.nvim",
@@ -4023,6 +4031,14 @@
             "config": "jupytext_nvim.lua",
             "url": "https://github.com/GCBallesteros/jupytext.nvim",
             "description": "Edit jupyter notebooks without leaving Neovim."
+        },
+        {
+            "path": "ariel-frischer/bmessages.nvim",
+            "owner": "ariel-frischer",
+            "name": "bmessages.nvim",
+            "config": "bmessages_nvim.lua",
+            "url": "https://github.com/ariel-frischer/bmessages.nvim",
+            "description": "Replace the default :messages window with a configurable, auto-updating buffer."
         },
         {
             "path": "LoricAndre/OneTerm.nvim",
@@ -4857,6 +4873,14 @@
             "config": "git_log_nvim.lua",
             "url": "https://github.com/niuiic/git-log.nvim",
             "description": "Check git log of the selected code."
+        },
+        {
+            "path": "2KAbhishek/co-author.nvim",
+            "owner": "2KAbhishek",
+            "name": "co-author.nvim",
+            "config": "co_author_nvim.lua",
+            "url": "https://github.com/2KAbhishek/co-author.nvim",
+            "description": "Quickly add co-authors to commits."
         }
     ],
     "GitHub": [
