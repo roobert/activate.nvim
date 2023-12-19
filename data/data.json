@@ -5183,11 +5183,11 @@
             "description": "A ridiculously fun alternative keymap for the workman keyboard layout with Neovim features like LSP support, built and configured with Lua."
         },
         {
-            "path": "FeiyouG/command_center.nvim",
+            "path": "FeiyouG/commander.nvim",
             "owner": "FeiyouG",
-            "name": "command_center.nvim",
-            "config": "command_center_nvim.lua",
-            "url": "https://github.com/FeiyouG/command_center.nvim",
+            "name": "commander.nvim",
+            "config": "commander_nvim.lua",
+            "url": "https://github.com/FeiyouG/commander.nvim",
             "description": "Create and manage keybindings and commands in a more organized manner and search them quickly through Telescope."
         },
         {
@@ -5799,6 +5799,14 @@
             "config": "conceal_nvim.lua",
             "url": "https://github.com/Jxstxs/conceal.nvim",
             "description": "Use Tree-sitter to conceal common boilerplate code."
+        },
+        {
+            "path": "hiberabyss/bzlops.vim",
+            "owner": "hiberabyss",
+            "name": "bzlops.vim",
+            "config": "bzlops_vim.lua",
+            "url": "https://github.com/hiberabyss/bzlops.vim",
+            "description": "Help to manage your bazel build rule."
         }
     ],
     "Comment": [
