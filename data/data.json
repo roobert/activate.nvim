@@ -3897,6 +3897,14 @@
             "description": "Automatically close buffers you are not working on."
         },
         {
+            "path": "ragnarok22/whereami.nvim",
+            "owner": "ragnarok22",
+            "name": "whereami.nvim",
+            "config": "whereami_nvim.lua",
+            "url": "https://github.com/ragnarok22/whereami.nvim",
+            "description": "Test your VPN by getting you current location."
+        },
+        {
             "path": "ecthelionvi/NeoComposer.nvim",
             "owner": "ecthelionvi",
             "name": "NeoComposer.nvim",
