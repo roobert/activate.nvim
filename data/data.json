@@ -5091,6 +5091,14 @@
             "config": "tshjkl_nvim.lua",
             "url": "https://github.com/gsuuon/tshjkl.nvim",
             "description": "Toggle to navigate and select tree-sitter nodes with hjkl."
+        },
+        {
+            "path": "backdround/neowords.nvim",
+            "owner": "backdround",
+            "name": "neowords.nvim",
+            "config": "neowords_nvim.lua",
+            "url": "https://github.com/backdround/neowords.nvim",
+            "description": "Hops by any type of words. It gives fine control over `w`, `e`, `b`, `ge` movements."
         }
     ],
     "Treesitter Based": [
