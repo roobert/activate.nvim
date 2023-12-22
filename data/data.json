@@ -1395,6 +1395,14 @@
             "description": "Tabs for different Telescope pickers."
         },
         {
+            "path": "backdround/improved-search.nvim",
+            "owner": "backdround",
+            "name": "improved-search.nvim",
+            "config": "improved_search_nvim.lua",
+            "url": "https://github.com/backdround/improved-search.nvim",
+            "description": "Add search abilities."
+        },
+        {
             "path": "nvim-telescope/telescope.nvim",
             "owner": "nvim-telescope",
             "name": "telescope.nvim",
@@ -4049,6 +4057,14 @@
             "description": "Replace the default :messages window with a configurable, auto-updating buffer."
         },
         {
+            "path": "LintaoAmons/easy-commands.nvim",
+            "owner": "LintaoAmons",
+            "name": "easy-commands.nvim",
+            "config": "easy_commands_nvim.lua",
+            "url": "https://github.com/LintaoAmons/easy-commands.nvim",
+            "description": "A collection of intuitive, easily searchable, and ready-to-use commands."
+        },
+        {
             "path": "LoricAndre/OneTerm.nvim",
             "owner": "LoricAndre",
             "name": "OneTerm.nvim",
@@ -5099,6 +5115,14 @@
             "config": "neowords_nvim.lua",
             "url": "https://github.com/backdround/neowords.nvim",
             "description": "Hops by any type of words. It gives fine control over `w`, `e`, `b`, `ge` movements."
+        },
+        {
+            "path": "backdround/improved-ft.nvim",
+            "owner": "backdround",
+            "name": "improved-ft.nvim",
+            "config": "improved_ft_nvim.lua",
+            "url": "https://github.com/backdround/improved-ft.nvim",
+            "description": "Improve default `f`/`t` abilities."
         }
     ],
     "Treesitter Based": [
