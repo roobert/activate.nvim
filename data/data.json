@@ -235,14 +235,6 @@
             "description": "Basic wrappers for LSP features."
         },
         {
-            "path": "weilbith/nvim-code-action-menu",
-            "owner": "weilbith",
-            "name": "nvim-code-action-menu",
-            "config": "nvim_code_action_menu.lua",
-            "url": "https://github.com/weilbith/nvim-code-action-menu",
-            "description": "A floating pop-up menu for code actions to show code action information and a diff preview."
-        },
-        {
             "path": "aznhe21/actions-preview.nvim",
             "owner": "aznhe21",
             "name": "actions-preview.nvim",
@@ -4063,6 +4055,14 @@
             "config": "easy_commands_nvim.lua",
             "url": "https://github.com/LintaoAmons/easy-commands.nvim",
             "description": "A collection of intuitive, easily searchable, and ready-to-use commands."
+        },
+        {
+            "path": "backdround/tabscope.nvim",
+            "owner": "backdround",
+            "name": "tabscope.nvim",
+            "config": "tabscope_nvim.lua",
+            "url": "https://github.com/backdround/tabscope.nvim",
+            "description": "Make tab-local buffers."
         },
         {
             "path": "LoricAndre/OneTerm.nvim",
