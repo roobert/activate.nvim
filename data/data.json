@@ -1035,6 +1035,14 @@
             "description": "Configurable tools for markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more."
         },
         {
+            "path": "mpas/marp-nvim",
+            "owner": "mpas",
+            "name": "marp-nvim",
+            "config": "marp_nvim.lua",
+            "url": "https://github.com/mpas/marp-nvim",
+            "description": "Present using markdown with [Marp](https://marp.app/)."
+        },
+        {
             "path": "potamides/pantran.nvim",
             "owner": "potamides",
             "name": "pantran.nvim",
