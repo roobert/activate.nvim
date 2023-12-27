@@ -2667,6 +2667,14 @@
             "config": "palenight_nvim.lua",
             "url": "https://github.com/alexmozaidze/palenight.nvim",
             "description": "Palenight colorscheme supporting Tree-sitter, LSP _(including semantic tokens)_ and lots of plugins."
+        },
+        {
+            "path": "scottmckendry/cyberdream.nvim",
+            "owner": "scottmckendry",
+            "name": "cyberdream.nvim",
+            "config": "cyberdream_nvim.lua",
+            "url": "https://github.com/scottmckendry/cyberdream.nvim",
+            "description": "A high-contrast, futuristic & vibrant coloursheme."
         }
     ],
     "Lua Colorscheme": [
