@@ -4081,6 +4081,14 @@
             "description": "Make tab-local buffers."
         },
         {
+            "path": "linrongbin16/gentags.nvim",
+            "owner": "linrongbin16",
+            "name": "gentags.nvim",
+            "config": "gentags_nvim.lua",
+            "url": "https://github.com/linrongbin16/gentags.nvim",
+            "description": "The tags generator/management for old school vimers."
+        },
+        {
             "path": "LoricAndre/OneTerm.nvim",
             "owner": "LoricAndre",
             "name": "OneTerm.nvim",
