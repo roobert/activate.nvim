@@ -5287,6 +5287,14 @@
             "description": "Auto translating your mappings for non-English input methods."
         },
         {
+            "path": "tris203/hawtkeys.nvim",
+            "owner": "tris203",
+            "name": "hawtkeys.nvim",
+            "config": "hawtkeys_nvim.lua",
+            "url": "https://github.com/tris203/hawtkeys.nvim",
+            "description": "Suggest new easy-to-hit keymaps and find issues with your current keymap configurations."
+        },
+        {
             "path": "notomo/gesture.nvim",
             "owner": "notomo",
             "name": "gesture.nvim",
