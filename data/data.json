@@ -5175,6 +5175,14 @@
             "description": "Easy navigation around the Treesitter's tree that works in multi-language files and in normal mode."
         },
         {
+            "path": "atusy/treemonkey.nvim",
+            "owner": "atusy",
+            "name": "treemonkey.nvim",
+            "config": "treemonkey_nvim.lua",
+            "url": "https://github.com/atusy/treemonkey.nvim",
+            "description": "Region selection with Treesitter nodes."
+        },
+        {
             "path": "folke/which-key.nvim",
             "owner": "folke",
             "name": "which-key.nvim",
@@ -5317,6 +5325,14 @@
             "config": "cinnamon_nvim.lua",
             "url": "https://github.com/declancm/cinnamon.nvim",
             "description": "Smooth scrolling for any movement command."
+        },
+        {
+            "path": "nkakouros-original/scrollofffraction.nvim",
+            "owner": "nkakouros-original",
+            "name": "scrollofffraction.nvim",
+            "config": "scrollofffraction_nvim.lua",
+            "url": "https://github.com/nkakouros/scrollofffraction.nvim",
+            "description": "Scrolloff as a fraction of the window height."
         }
     ],
     "Scrollbar": [
