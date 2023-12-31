@@ -1925,6 +1925,14 @@
             "description": "A clean, dark and light Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins."
         },
         {
+            "path": "crispybaccoon/evergarden",
+            "owner": "crispybaccoon",
+            "name": "evergarden",
+            "config": "evergarden.lua",
+            "url": "https://github.com/crispybaccoon/evergarden",
+            "description": "A comfy Neovim colorscheme for cozy morning coding."
+        },
+        {
             "path": "sainnhe/sonokai",
             "owner": "sainnhe",
             "name": "sonokai",
