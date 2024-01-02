@@ -2835,6 +2835,14 @@
             "description": "Load all the ultra colorschemes into your Neovim player! It collects all the most popular colorschemes, installs them, and allows you to play them with multiple playback settings."
         },
         {
+            "path": "CWood-sdf/pineapple",
+            "owner": "CWood-sdf",
+            "name": "pineapple",
+            "config": "pineapple.lua",
+            "url": "https://github.com/CWood-sdf/pineapple",
+            "description": "Install any colorscheme in your config without leaving your terminal. Collects every colorscheme on the internet and allows you to preview them all before installing."
+        },
+        {
             "path": "Bekaboo/deadcolumn.nvim",
             "owner": "Bekaboo",
             "name": "deadcolumn.nvim",
