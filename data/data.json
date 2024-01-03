@@ -1211,6 +1211,14 @@
             "description": "Simple templates to use when creating new files."
         },
         {
+            "path": "chrisgrieser/nvim-scissors",
+            "owner": "chrisgrieser",
+            "name": "nvim-scissors",
+            "config": "nvim_scissors.lua",
+            "url": "https://github.com/chrisgrieser/nvim-scissors",
+            "description": "Automagical editing and creation of snippets."
+        },
+        {
             "path": "gennaro-tedesco/nvim-peekup",
             "owner": "gennaro-tedesco",
             "name": "nvim-peekup",
@@ -4327,6 +4335,14 @@
             "config": "nvim_dap_virtual_text.lua",
             "url": "https://github.com/theHamsta/nvim-dap-virtual-text",
             "description": "Virtual text support for nvim-dap."
+        },
+        {
+            "path": "chrisgrieser/nvim-chainsaw",
+            "owner": "chrisgrieser",
+            "name": "nvim-chainsaw",
+            "config": "nvim_chainsaw.lua",
+            "url": "https://github.com/chrisgrieser/nvim-chainsaw",
+            "description": "Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring."
         }
     ],
     "Quickfix": [
