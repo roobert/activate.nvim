@@ -1635,6 +1635,14 @@
             "description": "[Ranger](https://github.com/ranger/ranger) integration for neovim."
         },
         {
+            "path": "simonmclean/triptych.nvim",
+            "owner": "simonmclean",
+            "name": "triptych.nvim",
+            "config": "triptych_nvim.lua",
+            "url": "https://github.com/simonmclean/triptych.nvim",
+            "description": "A directory browser inspired by Ranger."
+        },
+        {
             "path": "echasnovski/mini.files",
             "owner": "echasnovski",
             "name": "mini.files",
