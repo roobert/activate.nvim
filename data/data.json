@@ -6617,6 +6617,14 @@
             "description": "Helping you give up bad practices in Vim."
         },
         {
+            "path": "pgosar/CyberNvim",
+            "owner": "pgosar",
+            "name": "CyberNvim",
+            "config": "CyberNvim.lua",
+            "url": "https://github.com/pgosar/CyberNvim",
+            "description": "The world's simplest and most extensible Neovim distribution."
+        },
+        {
             "path": "sontungexpt/stinvim",
             "owner": "sontungexpt",
             "name": "stinvim",
