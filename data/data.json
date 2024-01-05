@@ -3393,6 +3393,14 @@
             "description": "Image Viewer as ASCII Art."
         },
         {
+            "path": "3rd/image.nvim",
+            "owner": "3rd",
+            "name": "image.nvim",
+            "config": "image_nvim.lua",
+            "url": "https://github.com/3rd/image.nvim",
+            "description": "Add image support through Kitty's graphics protocol or ueberzugpp."
+        },
+        {
             "path": "adelarsq/image_preview.nvim",
             "owner": "adelarsq",
             "name": "image_preview.nvim",
@@ -6687,6 +6695,14 @@
             "config": "LazyVim.lua",
             "url": "https://github.com/LazyVim/LazyVim",
             "description": "Full-fledged IDE powered by **lazy.nvim** to make it easy to customize and extend your config."
+        },
+        {
+            "path": "crispybaccoon/chaivim",
+            "owner": "crispybaccoon",
+            "name": "chaivim",
+            "config": "chaivim.lua",
+            "url": "https://github.com/crispybaccoon/chaivim",
+            "description": "Easily configurable distro with solid defaults and a cozy editor experience."
         },
         {
             "path": "NTBBloodbath/doom-nvim",
