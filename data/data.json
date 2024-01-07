@@ -5689,6 +5689,14 @@
             "description": "Neovim plugin introducing a new operator motions to quickly replace and exchange text."
         },
         {
+            "path": "gregorias/coerce.nvim",
+            "owner": "gregorias",
+            "name": "coerce.nvim",
+            "config": "coerce_nvim.lua",
+            "url": "https://github.com/gregorias/coerce.nvim",
+            "description": "Change keyword case."
+        },
+        {
             "path": "echasnovski/mini.operators",
             "owner": "echasnovski",
             "name": "mini.operators",
