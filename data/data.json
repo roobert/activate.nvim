@@ -691,14 +691,6 @@
             "description": "Build Flutter and Dart applications using the native LSP."
         },
         {
-            "path": "gbprod/phpactor.nvim",
-            "owner": "gbprod",
-            "name": "phpactor.nvim",
-            "config": "phpactor_nvim.lua",
-            "url": "https://github.com/gbprod/phpactor.nvim",
-            "description": "Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features."
-        },
-        {
             "path": "brendalf/mix.nvim",
             "owner": "brendalf",
             "name": "mix.nvim",
@@ -1041,6 +1033,24 @@
             "config": "marp_nvim.lua",
             "url": "https://github.com/mpas/marp-nvim",
             "description": "Present using markdown with [Marp](https://marp.app/)."
+        }
+    ],
+    "PHP": [
+        {
+            "path": "gbprod/phpactor.nvim",
+            "owner": "gbprod",
+            "name": "phpactor.nvim",
+            "config": "phpactor_nvim.lua",
+            "url": "https://github.com/gbprod/phpactor.nvim",
+            "description": "Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features."
+        },
+        {
+            "path": "ta-tikoma/php.easy.nvim",
+            "owner": "ta-tikoma",
+            "name": "php.easy.nvim",
+            "config": "php_easy_nvim.lua",
+            "url": "https://github.com/ta-tikoma/php.easy.nvim",
+            "description": "Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity."
         },
         {
             "path": "potamides/pantran.nvim",
