@@ -5707,6 +5707,14 @@
             "description": "Change keyword case."
         },
         {
+            "path": "johmsalas/text-case.nvim",
+            "owner": "johmsalas",
+            "name": "text-case.nvim",
+            "config": "text_case_nvim.lua",
+            "url": "https://github.com/johmsalas/text-case.nvim",
+            "description": "Text case changes via keybindings and custom substitute command with Telescope and LSP support."
+        },
+        {
             "path": "echasnovski/mini.operators",
             "owner": "echasnovski",
             "name": "mini.operators",
