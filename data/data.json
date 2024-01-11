@@ -5848,7 +5848,7 @@
             "name": "nvim-various-textobjs",
             "config": "nvim_various_textobjs.lua",
             "url": "https://github.com/chrisgrieser/nvim-various-textobjs",
-            "description": "Bundle of about a dozen custom text objects."
+            "description": "Bundle of more than 30 new text objects."
         },
         {
             "path": "XXiaoA/ns-textobject.nvim",
