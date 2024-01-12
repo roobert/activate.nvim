@@ -2380,7 +2380,7 @@
             "name": "onedarkpro.nvim",
             "config": "onedarkpro_nvim.lua",
             "url": "https://github.com/olimorris/onedarkpro.nvim",
-            "description": "One Dark Pro theme, written in Lua and based on the VS Code theme. Includes dark and light themes with completely customisable colors, styles and highlights."
+            "description": "Atom's iconic One Dark theme. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with light and dark variants."
         },
         {
             "path": "rmehri01/onenord.nvim",
