@@ -3275,6 +3275,14 @@
             "description": "Get a simple tip when you launch Neovim."
         },
         {
+            "path": "CWood-sdf/spaceport.nvim",
+            "owner": "CWood-sdf",
+            "name": "spaceport.nvim",
+            "config": "spaceport_nvim.lua",
+            "url": "https://github.com/CWood-sdf/spaceport.nvim",
+            "description": "The start screen that gets you to your projects blazingly fast. "
+        },
+        {
             "path": "kyazdani42/nvim-web-devicons",
             "owner": "kyazdani42",
             "name": "nvim-web-devicons",
