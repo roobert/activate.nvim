@@ -6675,6 +6675,14 @@
             "description": "Helping you give up bad practices in Vim."
         },
         {
+            "path": "Cris-lml007/NeoPlus",
+            "owner": "Cris-lml007",
+            "name": "NeoPlus",
+            "config": "NeoPlus.lua",
+            "url": "https://github.com/Cris-lml007/NeoPlus",
+            "description": "NeoPlus is a free, open source IDE with tools that works on Neovim."
+        },
+        {
             "path": "pgosar/CyberNvim",
             "owner": "pgosar",
             "name": "CyberNvim",
