@@ -4155,6 +4155,14 @@
             "description": "The tags generator/management for old school vimers."
         },
         {
+            "path": "theKnightsOfRohan/csvlens.nvim",
+            "owner": "theKnightsOfRohan",
+            "name": "csvlens.nvim",
+            "config": "csvlens_nvim.lua",
+            "url": "https://github.com/theKnightsOfRohan/csvlens.nvim",
+            "description": "A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data."
+        },
+        {
             "path": "LoricAndre/OneTerm.nvim",
             "owner": "LoricAndre",
             "name": "OneTerm.nvim",
@@ -4635,6 +4643,14 @@
             "config": "nvim_ipy.lua",
             "url": "https://github.com/bfredl/nvim-ipy",
             "description": "Make interfacing with IPython/Jupyter easier."
+        },
+        {
+            "path": "pianocomposer321/officer.nvim",
+            "owner": "pianocomposer321",
+            "name": "officer.nvim",
+            "config": "officer_nvim.lua",
+            "url": "https://github.com/pianocomposer321/officer.nvim",
+            "description": "Like dispatch.vim but using overseer.nvim."
         },
         {
             "path": "folke/neodev.nvim",
