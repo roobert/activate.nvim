@@ -2709,6 +2709,14 @@
             "config": "cyberdream_nvim.lua",
             "url": "https://github.com/scottmckendry/cyberdream.nvim",
             "description": "A high-contrast, futuristic & vibrant coloursheme."
+        },
+        {
+            "path": "HoNamDuong/hybrid.nvim",
+            "owner": "HoNamDuong",
+            "name": "hybrid.nvim",
+            "config": "hybrid_nvim.lua",
+            "url": "https://github.com/HoNamDuong/hybrid.nvim",
+            "description": "A dark theme written in Lua."
         }
     ],
     "Lua Colorscheme": [
