@@ -3699,6 +3699,14 @@
             "description": "A fancy, configurable, notification manager."
         },
         {
+            "path": "echasnovski/mini.notify",
+            "owner": "echasnovski",
+            "name": "mini.notify",
+            "config": "mini_notify.lua",
+            "url": "https://github.com/echasnovski/mini.notify",
+            "description": "Module of `mini.nvim` to show one or more highlighted notifications in a single window. Provides maker of `vim.notify()` implementation and sets up automated LSP progress updates."
+        },
+        {
             "path": "folke/noice.nvim",
             "owner": "folke",
             "name": "noice.nvim",
