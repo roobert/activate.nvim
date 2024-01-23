@@ -1293,6 +1293,14 @@
             "description": "A per project, auto updating and editable marks utility for fast file navigation."
         },
         {
+            "path": "otavioschwanck/arrow.nvim",
+            "owner": "otavioschwanck",
+            "name": "arrow.nvim",
+            "config": "arrow_nvim.lua",
+            "url": "https://github.com/otavioschwanck/arrow.nvim",
+            "description": "Like harpoon, but with a different UX, single keybinding needed and statusline support."
+        },
+        {
             "path": "ofirgall/open.nvim",
             "owner": "ofirgall",
             "name": "open.nvim",
