@@ -1773,6 +1773,14 @@
             "description": "Module of `mini.nvim` to persistently track and reuse file system visits. Allows listing \"recent\"/\"frequent\"/\"frecent\" visits, adding/removing labels to visits and other data."
         },
         {
+            "path": "LintaoAmons/cd-project.nvim",
+            "owner": "LintaoAmons",
+            "name": "cd-project.nvim",
+            "config": "cd_project_nvim.lua",
+            "url": "https://github.com/LintaoAmons/cd-project.nvim",
+            "description": "All you need is just an easier way to `cd` to another project directory."
+        },
+        {
             "path": "NvChad/nvim-colorizer.lua",
             "owner": "NvChad",
             "name": "nvim-colorizer.lua",
