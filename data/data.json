@@ -467,6 +467,14 @@
             "description": "Provides LSP features and a nvim-cmp completion source for languages embedded in other documents."
         },
         {
+            "path": "lopi-py/luau-lsp.nvim",
+            "owner": "lopi-py",
+            "name": "luau-lsp.nvim",
+            "config": "luau_lsp_nvim.lua",
+            "url": "https://github.com/lopi-py/luau-lsp.nvim",
+            "description": "A luau-lsp extension to improve your experience."
+        },
+        {
             "path": "anott03/nvim-lspinstall",
             "owner": "anott03",
             "name": "nvim-lspinstall",
