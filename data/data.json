@@ -643,12 +643,12 @@
             "description": "Simple interaction with ChatGPT in a markdown buffer. Supports GPT-4 and Azure OpenAI."
         },
         {
-            "path": "gsuuon/llm.nvim",
+            "path": "gsuuon/model.nvim",
             "owner": "gsuuon",
-            "name": "llm.nvim",
-            "config": "llm_nvim.lua",
-            "url": "https://github.com/gsuuon/llm.nvim",
-            "description": "Integrate LLM's via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp."
+            "name": "model.nvim",
+            "config": "model_nvim.lua",
+            "url": "https://github.com/gsuuon/model.nvim",
+            "description": "Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp."
         },
         {
             "path": "dense-analysis/neural",
