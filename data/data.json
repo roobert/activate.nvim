@@ -595,14 +595,6 @@
             "description": "Blazingly fast, minimal LSP auto-completion and snippet engine."
         },
         {
-            "path": "simrat39/rust-tools.nvim",
-            "owner": "simrat39",
-            "name": "rust-tools.nvim",
-            "config": "rust_tools_nvim.lua",
-            "url": "https://github.com/simrat39/rust-tools.nvim",
-            "description": "Tools for better development in Rust using Neovim's builtin LSP."
-        },
-        {
             "path": "zbirenbaum/copilot.lua",
             "owner": "zbirenbaum",
             "name": "copilot.lua",
@@ -3312,7 +3304,7 @@
             "name": "spaceport.nvim",
             "config": "spaceport_nvim.lua",
             "url": "https://github.com/CWood-sdf/spaceport.nvim",
-            "description": "The start screen that gets you to your projects blazingly fast. "
+            "description": "The start screen that gets you to your projects blazingly fast."
         },
         {
             "path": "kyazdani42/nvim-web-devicons",
