@@ -675,6 +675,14 @@
             "description": "Generate text using LLMs (via Ollama) with customizable prompts."
         },
         {
+            "path": "kiddos/gemini.nvim",
+            "owner": "kiddos",
+            "name": "gemini.nvim",
+            "config": "gemini_nvim.lua",
+            "url": "https://github.com/kiddos/gemini.nvim",
+            "description": "Bindings to Google Gemini API."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
