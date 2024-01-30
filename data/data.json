@@ -6993,6 +6993,14 @@
             "config": "kickstart_nix_nvim.lua",
             "url": "https://github.com/mrcjkb/kickstart-nix.nvim",
             "description": "A simple [Nix flake](https://nixos.wiki/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations."
+        },
+        {
+            "path": "drybalka/clean.nvim",
+            "owner": "drybalka",
+            "name": "clean.nvim",
+            "config": "clean_nvim.lua",
+            "url": "https://github.com/drybalka/clean.nvim",
+            "description": "Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon."
         }
     ],
     "Version Manager": [
