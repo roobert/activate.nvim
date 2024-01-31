@@ -7119,6 +7119,14 @@
             "config": "Dotfyle.lua",
             "url": "https://dotfyle.com",
             "description": "Dotfyle is a site for sharing and discovering Neovim configs and plugins."
+        },
+        {
+            "path": "NeoLand",
+            "owner": "",
+            "name": "NeoLand",
+            "config": "NeoLand.lua",
+            "url": "https://neoland.dev",
+            "description": "A beautifully crafted website for Neovim resources."
         }
     ]
 }
