@@ -1895,6 +1895,14 @@
     ],
     "Tree-sitter Supported Colorscheme": [
         {
+            "path": "sontungexpt/witch",
+            "owner": "sontungexpt",
+            "name": "witch",
+            "config": "witch.lua",
+            "url": "https://github.com/sontungexpt/witch",
+            "description": "The primary stinvim distro colorscheme includes the default feature of dimming inactive windows, along with various other customization options for users."
+        },
+        {
             "path": "shaeinst/roshnivim-cs",
             "owner": "shaeinst",
             "name": "roshnivim-cs",
