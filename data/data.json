@@ -443,11 +443,11 @@
             "description": "A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig."
         },
         {
-            "path": "soulis-1256/hoverhints.nvim",
+            "path": "soulis-1256/eagle.nvim",
             "owner": "soulis-1256",
-            "name": "hoverhints.nvim",
-            "config": "hoverhints_nvim.lua",
-            "url": "https://github.com/soulis-1256/hoverhints.nvim",
+            "name": "eagle.nvim",
+            "config": "eagle_nvim.lua",
+            "url": "https://github.com/soulis-1256/eagle.nvim",
             "description": "Mouse-hover LSP hints."
         },
         {
