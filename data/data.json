@@ -1349,6 +1349,14 @@
             "description": "Bookmarks with global file storage, written in Lua."
         },
         {
+            "path": "LintaoAmons/bookmarks.nvim",
+            "owner": "LintaoAmons",
+            "name": "bookmarks.nvim",
+            "config": "bookmarks_nvim.lua",
+            "url": "https://github.com/LintaoAmons/bookmarks.nvim",
+            "description": "Your new bookmarks option: simple yet powerful."
+        },
+        {
             "path": "kevinhwang91/nvim-hlslens",
             "owner": "kevinhwang91",
             "name": "nvim-hlslens",
