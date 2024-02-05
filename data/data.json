@@ -171,6 +171,14 @@
             "description": "Show type annotations as virtual text."
         },
         {
+            "path": "marilari88/twoslash-queries.nvim",
+            "owner": "marilari88",
+            "name": "twoslash-queries.nvim",
+            "config": "twoslash_queries_nvim.lua",
+            "url": "https://github.com/marilari88/twoslash-queries.nvim",
+            "description": "Provide inline virtual text displaying TypeScript types for the inspected variables."
+        },
+        {
             "path": "ray-x/navigator.lua",
             "owner": "ray-x",
             "name": "navigator.lua",
@@ -977,6 +985,14 @@
             "config": "nvim_FeMaco_lua.lua",
             "url": "https://github.com/AckslD/nvim-FeMaco.lua",
             "description": "Catalyze your Fenced Markdown Code-block editing."
+        },
+        {
+            "path": "Nedra1998/nvim-mdlink",
+            "owner": "Nedra1998",
+            "name": "nvim-mdlink",
+            "config": "nvim_mdlink.lua",
+            "url": "https://github.com/Nedra1998/nvim-mdlink",
+            "description": "Simplify creating and following markdown links."
         },
         {
             "path": "NFrid/markdown-togglecheck",
