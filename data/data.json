@@ -793,6 +793,14 @@
             "config": "quarto_nvim.lua",
             "url": "https://github.com/quarto-dev/quarto-nvim",
             "description": "Tools for working with [Quarto](https://quarto.org/) documents."
+        },
+        {
+            "path": "iabdelkareem/csharp.nvim",
+            "owner": "iabdelkareem",
+            "name": "csharp.nvim",
+            "config": "csharp_nvim.lua",
+            "url": "https://github.com/iabdelkareem/csharp.nvim",
+            "description": "Enhances the development experience for .NET developers."
         }
     ],
     "Golang": [
@@ -1091,6 +1099,14 @@
             "config": "translate_nvim.lua",
             "url": "https://github.com/niuiic/translate.nvim",
             "description": "Invoke any translation engine via shell command."
+        },
+        {
+            "path": "tanloong/interlaced.nvim",
+            "owner": "tanloong",
+            "name": "interlaced.nvim",
+            "config": "interlaced_nvim.lua",
+            "url": "https://github.com/tanloong/interlaced.nvim",
+            "description": "Help align bilingual parallel texts."
         },
         {
             "path": "nvim-treesitter/nvim-treesitter",
