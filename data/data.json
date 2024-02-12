@@ -4403,6 +4403,14 @@
             "description": "Manage terminal as buffer, multiple terminals support."
         },
         {
+            "path": "RAprogramm/nekifoch",
+            "owner": "RAprogramm",
+            "name": "nekifoch",
+            "config": "nekifoch.lua",
+            "url": "https://github.com/RAprogramm/nekifoch",
+            "description": "Managing Kitty terminal font settings."
+        },
+        {
             "path": "mfussenegger/nvim-dap",
             "owner": "mfussenegger",
             "name": "nvim-dap",
