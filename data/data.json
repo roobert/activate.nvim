@@ -63,6 +63,14 @@
             "config": "rocks_nvim.lua",
             "url": "https://github.com/nvim-neorocks/rocks.nvim",
             "description": "A modern approach to plugin management using Luarocks, inspired by Cargo."
+        },
+        {
+            "path": "echasnovski/mini.deps",
+            "owner": "echasnovski",
+            "name": "mini.deps",
+            "config": "mini_deps.lua",
+            "url": "https://github.com/echasnovski/mini.deps",
+            "description": "Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins."
         }
     ],
     "(requires Neovim 0.5)": [
