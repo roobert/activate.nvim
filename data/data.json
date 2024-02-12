@@ -563,6 +563,14 @@
             "description": "Add inline-comments to ignore rules, or lookup rule documentation online."
         },
         {
+            "path": "artemave/workspace-diagnostics.nvim",
+            "owner": "artemave",
+            "name": "workspace-diagnostics.nvim",
+            "config": "workspace_diagnostics_nvim.lua",
+            "url": "https://github.com/artemave/workspace-diagnostics.nvim",
+            "description": "Populate diagnostics for all projects files, not just the opened ones."
+        },
+        {
             "path": "ms-jpq/coq_nvim",
             "owner": "ms-jpq",
             "name": "coq_nvim",
