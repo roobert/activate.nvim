@@ -3699,6 +3699,14 @@
             "description": "Daily tasks with deep-linking and project spaces."
         },
         {
+            "path": "backdround/global-note.nvim",
+            "owner": "backdround",
+            "name": "global-note.nvim",
+            "config": "global_note_nvim.lua",
+            "url": "https://github.com/backdround/global-note.nvim",
+            "description": "One global note in a floating window."
+        },
+        {
             "path": "gaborvecsei/usage-tracker.nvim",
             "owner": "gaborvecsei",
             "name": "usage-tracker.nvim",
