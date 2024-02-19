@@ -2279,12 +2279,12 @@
             "description": "Solarized colorscheme in Lua (Neovim >= 0.5)."
         },
         {
-            "path": "shaunsingh/moonlight.nvim",
-            "owner": "shaunsingh",
-            "name": "moonlight.nvim",
-            "config": "moonlight_nvim.lua",
-            "url": "https://github.com/shaunsingh/moonlight.nvim",
-            "description": "Port of VSCode's Moonlight colorscheme, written in Lua with built-in support for native LSP, Tree-sitter and many more plugins."
+            "path": "jthvai/lavender.nvim",
+            "owner": "jthvai",
+            "name": "lavender.nvim",
+            "config": "lavender_nvim.lua",
+            "url": "https://codeberg.org/jthvai/lavender.nvim",
+            "description": "Purple-hued dark mode colorscheme; a complete rewrite of shaunsingh/moonlight.nvim."
         },
         {
             "path": "navarasu/onedark.nvim",
@@ -5667,12 +5667,12 @@
             "description": "Rainbow delimiters with Tree-sitter."
         },
         {
-            "path": "AckslD/nvim-revJ.lua",
+            "path": "AckslD/nvim-trevJ.lua",
             "owner": "AckslD",
-            "name": "nvim-revJ.lua",
-            "config": "nvim_revJ_lua.lua",
-            "url": "https://github.com/AckslD/nvim-revJ.lua",
-            "description": "Neovim Lua plugin for doing the opposite of join-line (J) for arguments."
+            "name": "nvim-trevJ.lua",
+            "config": "nvim_trevJ_lua.lua",
+            "url": "https://github.com/AckslD/nvim-trevJ.lua",
+            "description": "Does the opposite of join-line (J) for arguments, powered by Tree-sitter."
         },
         {
             "path": "Pocco81/TrueZen.nvim",
