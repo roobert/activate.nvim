@@ -1325,6 +1325,14 @@
             "description": "Save and load macros/registers."
         },
         {
+            "path": "kr40/nvim-macros",
+            "owner": "kr40",
+            "name": "nvim-macros",
+            "config": "nvim_macros.lua",
+            "url": "https://github.com/kr40/nvim-macros",
+            "description": "Easy way to save and load Macros, with backup and formatting options. "
+        },
+        {
             "path": "cbochs/grapple.nvim",
             "owner": "cbochs",
             "name": "grapple.nvim",
