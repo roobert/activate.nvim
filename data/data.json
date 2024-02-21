@@ -3715,6 +3715,14 @@
             "description": "One global note in a floating window."
         },
         {
+            "path": "2KAbhishek/tdo.nvim",
+            "owner": "2KAbhishek",
+            "name": "tdo.nvim",
+            "config": "tdo_nvim.lua",
+            "url": "https://github.com/2KAbhishek/tdo.nvim",
+            "description": "Fast and simple note taking."
+        },
+        {
             "path": "gaborvecsei/usage-tracker.nvim",
             "owner": "gaborvecsei",
             "name": "usage-tracker.nvim",
