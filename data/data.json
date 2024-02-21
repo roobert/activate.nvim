@@ -4435,6 +4435,14 @@
             "description": "Managing Kitty terminal font settings."
         },
         {
+            "path": "2KAbhishek/termim.nvim",
+            "owner": "2KAbhishek",
+            "name": "termim.nvim",
+            "config": "termim_nvim.lua",
+            "url": "https://github.com/2KAbhishek/termim.nvim/",
+            "description": "Neovim Terminal, Improved."
+        },
+        {
             "path": "mfussenegger/nvim-dap",
             "owner": "mfussenegger",
             "name": "nvim-dap",
