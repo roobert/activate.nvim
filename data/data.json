@@ -2829,6 +2829,14 @@
             "config": "hybrid_nvim.lua",
             "url": "https://github.com/HoNamDuong/hybrid.nvim",
             "description": "A dark theme written in Lua."
+        },
+        {
+            "path": "sxwpb/halfspace.nvim",
+            "owner": "sxwpb",
+            "name": "halfspace.nvim",
+            "config": "halfspace_nvim.lua",
+            "url": "https://gitlab.com/sxwpb/halfspace.nvim",
+            "description": "A semi-light colorscheme for minimal eye melting."
         }
     ],
     "Lua Colorscheme": [
