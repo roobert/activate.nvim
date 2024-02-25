@@ -5255,6 +5255,14 @@
             "description": "Spooky (Leap) actions at a distance."
         },
         {
+            "path": "rasulomaroff/telepath.nvim",
+            "owner": "rasulomaroff",
+            "name": "telepath.nvim",
+            "config": "telepath_nvim.lua",
+            "url": "https://github.com/rasulomaroff/telepath.nvim",
+            "description": "Another Leap extension for performing remote actions with a different approach."
+        },
+        {
             "path": "folke/flash.nvim",
             "owner": "folke",
             "name": "flash.nvim",
