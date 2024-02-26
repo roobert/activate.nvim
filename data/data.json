@@ -1097,6 +1097,14 @@
             "config": "marp_nvim.lua",
             "url": "https://github.com/mpas/marp-nvim",
             "description": "Present using markdown with [Marp](https://marp.app/)."
+        },
+        {
+            "path": "Myzel394/easytables.nvim",
+            "owner": "Myzel394",
+            "name": "easytables.nvim",
+            "config": "easytables_nvim.lua",
+            "url": "https://github.com/Myzel394/easytables.nvim",
+            "description": "Easily insert and edit markdown tables with a live preview and useful helpers."
         }
     ],
     "PHP": [
@@ -1346,7 +1354,7 @@
             "name": "nvim-macros",
             "config": "nvim_macros.lua",
             "url": "https://github.com/kr40/nvim-macros",
-            "description": "Easy way to save and load Macros, with backup and formatting options. "
+            "description": "Easy way to save and load Macros, with backup and formatting options."
         },
         {
             "path": "cbochs/grapple.nvim",
@@ -1411,6 +1419,14 @@
             "config": "bookmarks_nvim.lua",
             "url": "https://github.com/LintaoAmons/bookmarks.nvim",
             "description": "Your new bookmarks option: simple yet powerful."
+        },
+        {
+            "path": "desdic/marlin.nvim",
+            "owner": "desdic",
+            "name": "marlin.nvim",
+            "config": "marlin_nvim.lua",
+            "url": "https://github.com/desdic/marlin.nvim",
+            "description": "Like harpoon, but with key differences like project path, split support, no UI."
         },
         {
             "path": "kevinhwang91/nvim-hlslens",
@@ -2837,6 +2853,14 @@
             "config": "halfspace_nvim.lua",
             "url": "https://gitlab.com/sxwpb/halfspace.nvim",
             "description": "A semi-light colorscheme for minimal eye melting."
+        },
+        {
+            "path": "bartekjaszczak/distinct-nvim",
+            "owner": "bartekjaszczak",
+            "name": "distinct-nvim",
+            "config": "distinct_nvim.lua",
+            "url": "https://gitlab.com/bartekjaszczak/distinct-nvim",
+            "description": "Theme with distinct syntax colours. Supports Tree-sitter and semantic highlighting. For people who love multi-colour syntax highlighting."
         }
     ],
     "Lua Colorscheme": [
@@ -6843,12 +6867,12 @@
             "description": "A plugin to automate testcases management and checking for Competitive Programming contests."
         },
         {
-            "path": "Dhanus3133/Leetbuddy.nvim",
-            "owner": "Dhanus3133",
-            "name": "Leetbuddy.nvim",
-            "config": "Leetbuddy_nvim.lua",
-            "url": "https://github.com/Dhanus3133/Leetbuddy.nvim",
-            "description": "Solve Leetcode problems within Neovim."
+            "path": "kawre/leetcode.nvim",
+            "owner": "kawre",
+            "name": "leetcode.nvim",
+            "config": "leetcode_nvim.lua",
+            "url": "https://github.com/kawre/leetcode.nvim",
+            "description": "Solve Leetcode problems."
         },
         {
             "path": "m4xshen/hardtime.nvim",
