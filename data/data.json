@@ -787,6 +787,14 @@
             "description": "Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (TSC) with results loaded into a quickfix list."
         },
         {
+            "path": "dmmulroy/ts-error-translator.nvim",
+            "owner": "dmmulroy",
+            "name": "ts-error-translator.nvim",
+            "config": "ts_error_translator_nvim.lua",
+            "url": "https://github.com/dmmulroy/ts-error-translator.nvim",
+            "description": "A port of Matt Pocock's ts-error-translator for VSCode for turning messy and confusing TypeScript errors into plain English."
+        },
+        {
             "path": "chuwy/ucm.nvim",
             "owner": "chuwy",
             "name": "ucm.nvim",
