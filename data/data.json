@@ -1541,6 +1541,14 @@
             "description": "Add search abilities."
         },
         {
+            "path": "polirritmico/telescope-lazy-plugins.nvim",
+            "owner": "polirritmico",
+            "name": "telescope-lazy-plugins.nvim",
+            "config": "telescope_lazy_plugins_nvim.lua",
+            "url": "https://github.com/polirritmico/telescope-lazy-plugins.nvim",
+            "description": "A Telescope picker to quickly access plugins configurations from the lazy.nvim spec."
+        },
+        {
             "path": "nvim-telescope/telescope.nvim",
             "owner": "nvim-telescope",
             "name": "telescope.nvim",
