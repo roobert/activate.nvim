@@ -2003,6 +2003,14 @@
             "config": "sunglasses_nvim.lua",
             "url": "https://github.com/miversen33/sunglasses.nvim",
             "description": "Dynamic Colorscheme/highlight adjuster on window switching."
+        },
+        {
+            "path": "rasulomaroff/reactive.nvim",
+            "owner": "rasulomaroff",
+            "name": "reactive.nvim",
+            "config": "reactive_nvim.lua",
+            "url": "https://github.com/rasulomaroff/reactive.nvim",
+            "description": "Set global and window-specific highlights or trigger callbacks when modes/operators change or windows are switched."
         }
     ],
     "Tree-sitter Supported Colorscheme": [
@@ -2877,6 +2885,14 @@
             "config": "distinct_nvim.lua",
             "url": "https://gitlab.com/bartekjaszczak/distinct-nvim",
             "description": "Theme with distinct syntax colours. Supports Tree-sitter and semantic highlighting. For people who love multi-colour syntax highlighting."
+        },
+        {
+            "path": "samharju/synthweave.nvim",
+            "owner": "samharju",
+            "name": "synthweave.nvim",
+            "config": "synthweave_nvim.lua",
+            "url": "https://github.com/samharju/synthweave.nvim",
+            "description": "Synthwave '84 colorscheme port."
         }
     ],
     "Lua Colorscheme": [
@@ -4513,6 +4529,14 @@
             "config": "termim_nvim.lua",
             "url": "https://github.com/2KAbhishek/termim.nvim/",
             "description": "Neovim Terminal, Improved."
+        },
+        {
+            "path": "samharju/yeet.nvim",
+            "owner": "samharju",
+            "name": "yeet.nvim",
+            "config": "yeet_nvim.lua",
+            "url": "https://github.com/samharju/yeet.nvim",
+            "description": "Run shell commands in terminal buffers or tmux panes."
         },
         {
             "path": "mfussenegger/nvim-dap",
