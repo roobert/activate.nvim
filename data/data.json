@@ -899,6 +899,14 @@
             "config": "hierarchy_tree_go_nvim.lua",
             "url": "https://github.com/crusj/hierarchy-tree-go.nvim",
             "description": "Neovim plugin for Golang, callHierarchy UI tree."
+        },
+        {
+            "path": "yanskun/gotests.nvim",
+            "owner": "yanskun",
+            "name": "gotests.nvim",
+            "config": "gotests_nvim.lua",
+            "url": "https://github.com/yanskun/gotests.nvim",
+            "description": "Make Go tests easy with [gotests](https://github.com/cweill/gotests)."
         }
     ],
     "YAML": [
