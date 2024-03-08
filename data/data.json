@@ -499,6 +499,14 @@
             "description": "A luau-lsp extension to improve your experience."
         },
         {
+            "path": "LukasPietzschmann/boo.nvim",
+            "owner": "LukasPietzschmann",
+            "name": "boo.nvim",
+            "config": "boo_nvim.lua",
+            "url": "https://github.com/LukasPietzschmann/boo.nvim",
+            "description": "Quickly pop-up some LSP-powered information of the thing your cursor is on."
+        },
+        {
             "path": "anott03/nvim-lspinstall",
             "owner": "anott03",
             "name": "nvim-lspinstall",
