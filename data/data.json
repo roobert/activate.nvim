@@ -1453,6 +1453,14 @@
             "description": "Like harpoon, but with key differences like project path, split support, no UI."
         },
         {
+            "path": "fnune/recall.nvim",
+            "owner": "fnune",
+            "name": "recall.nvim",
+            "config": "recall_nvim.lua",
+            "url": "https://github.com/fnune/recall.nvim",
+            "description": "Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability. "
+        },
+        {
             "path": "kevinhwang91/nvim-hlslens",
             "owner": "kevinhwang91",
             "name": "nvim-hlslens",
@@ -5493,6 +5501,14 @@
             "config": "improved_ft_nvim.lua",
             "url": "https://github.com/backdround/improved-ft.nvim",
             "description": "Improve default `f`/`t` abilities."
+        },
+        {
+            "path": "Mr-LLLLL/treesitter-outer",
+            "owner": "Mr-LLLLL",
+            "name": "treesitter-outer",
+            "config": "treesitter_outer.lua",
+            "url": "https://github.com/Mr-LLLLL/treesitter-outer",
+            "description": "Jump to outer node with smart."
         }
     ],
     "Treesitter Based": [
@@ -6249,6 +6265,14 @@
             "config": "bzlops_vim.lua",
             "url": "https://github.com/hiberabyss/bzlops.vim",
             "description": "Help to manage your bazel build rule."
+        },
+        {
+            "path": "altermo/iedit.nvim",
+            "owner": "altermo",
+            "name": "iedit.nvim",
+            "config": "iedit_nvim.lua",
+            "url": "https://github.com/altermo/iedit.nvim",
+            "description": "Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way."
         }
     ],
     "Comment": [
