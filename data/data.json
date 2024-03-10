@@ -3261,6 +3261,14 @@
             "config": "nougat_nvim.lua",
             "url": "https://github.com/MunifTanjim/nougat.nvim",
             "description": "Hyperextensible Statusline / Tabline / Winbar."
+        },
+        {
+            "path": "Mr-LLLLL/lualine-ext.nvim",
+            "owner": "Mr-LLLLL",
+            "name": "lualine-ext.nvim",
+            "config": "lualine_ext_nvim.lua",
+            "url": "https://github.com/Mr-LLLLL/lualine-ext.nvim",
+            "description": "Show more information on lualine."
         }
     ],
     "Tabline": [
