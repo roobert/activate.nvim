@@ -4403,6 +4403,14 @@
             "description": "A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data."
         },
         {
+            "path": "mcauley-penney/visual-whitespace.nvim",
+            "owner": "mcauley-penney",
+            "name": "visual-whitespace.nvim",
+            "config": "visual_whitespace_nvim.lua",
+            "url": "https://github.com/mcauley-penney/visual-whitespace.nvim",
+            "description": "See whitespace characters in Visual selections, like VSCode."
+        },
+        {
             "path": "LoricAndre/OneTerm.nvim",
             "owner": "LoricAndre",
             "name": "OneTerm.nvim",
