@@ -731,6 +731,14 @@
             "description": "Bindings to Google Gemini API."
         },
         {
+            "path": "olimorris/codecompanion.nvim",
+            "owner": "olimorris",
+            "name": "codecompanion.nvim",
+            "config": "codecompanion_nvim.lua",
+            "url": "https://github.com/olimorris/codecompanion.nvim",
+            "description": "Use the power of generative AI. Use it to chat, author and advise you on your code. Supports Anthropic, Ollama and OpenAI."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
