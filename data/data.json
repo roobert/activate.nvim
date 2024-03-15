@@ -4917,6 +4917,14 @@
             "description": "Compiler for building and running your code without having to configure anything."
         },
         {
+            "path": "Zeioth/makeit.nvim",
+            "owner": "Zeioth",
+            "name": "makeit.nvim",
+            "config": "makeit_nvim.lua",
+            "url": "https://github.com/Zeioth/makeit.nvim",
+            "description": "Makefile runner based on overseer."
+        },
+        {
             "path": "jaytyrrell13/static.nvim",
             "owner": "jaytyrrell13",
             "name": "static.nvim",
