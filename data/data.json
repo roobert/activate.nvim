@@ -507,6 +507,14 @@
             "description": "Quickly pop-up some LSP-powered information of the thing your cursor is on."
         },
         {
+            "path": "zeioth/garbage-day.nvim",
+            "owner": "zeioth",
+            "name": "garbage-day.nvim",
+            "config": "garbage_day_nvim.lua",
+            "url": "https://github.com/Zeioth/garbage-day.nvim",
+            "description": "Garbage collector that stops inactive LSP clients to free RAM."
+        },
+        {
             "path": "anott03/nvim-lspinstall",
             "owner": "anott03",
             "name": "nvim-lspinstall",
@@ -4411,12 +4419,28 @@
             "description": "A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data."
         },
         {
+            "path": "Mr-LLLLL/utilities.nvim",
+            "owner": "Mr-LLLLL",
+            "name": "utilities.nvim",
+            "config": "utilities_nvim.lua",
+            "url": "https://github.com/Mr-LLLLL/utilities.nvim",
+            "description": "A repository to collect some little utility functions."
+        },
+        {
             "path": "mcauley-penney/visual-whitespace.nvim",
             "owner": "mcauley-penney",
             "name": "visual-whitespace.nvim",
             "config": "visual_whitespace_nvim.lua",
             "url": "https://github.com/mcauley-penney/visual-whitespace.nvim",
             "description": "See whitespace characters in Visual selections, like VSCode."
+        },
+        {
+            "path": "Zeioth/distroupdate.nvim",
+            "owner": "Zeioth",
+            "name": "distroupdate.nvim",
+            "config": "distroupdate_nvim.lua",
+            "url": "https://github.com/Zeioth/distroupdate.nvim",
+            "description": "Distro agnostic updater to get the latest changes from the git repository of your config."
         },
         {
             "path": "LoricAndre/OneTerm.nvim",
