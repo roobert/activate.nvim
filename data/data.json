@@ -744,7 +744,7 @@
             "name": "codecompanion.nvim",
             "config": "codecompanion_nvim.lua",
             "url": "https://github.com/olimorris/codecompanion.nvim",
-            "description": "Use the power of generative AI. Use it to chat, author and advise you on your code. Supports Anthropic, Ollama and OpenAI."
+            "description": "Copilot chat like experience via a buffer. Supports Anthropic, Ollama and OpenAI."
         },
         {
             "path": "Julian/lean.nvim",
