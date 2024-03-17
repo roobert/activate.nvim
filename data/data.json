@@ -5331,6 +5331,14 @@
             "config": "co_author_nvim.lua",
             "url": "https://github.com/2KAbhishek/co-author.nvim",
             "description": "Quickly add co-authors to commits."
+        },
+        {
+            "path": "isak102/telescope-git-file-history.nvim",
+            "owner": "isak102",
+            "name": "telescope-git-file-history.nvim",
+            "config": "telescope_git_file_history_nvim.lua",
+            "url": "https://github.com/isak102/telescope-git-file-history.nvim",
+            "description": "Open/preview contents of the current file at a specific commit, without using git checkout."
         }
     ],
     "GitHub": [
