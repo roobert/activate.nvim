@@ -1474,7 +1474,7 @@
             "name": "recall.nvim",
             "config": "recall_nvim.lua",
             "url": "https://github.com/fnune/recall.nvim",
-            "description": "Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability. "
+            "description": "Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability."
         },
         {
             "path": "kevinhwang91/nvim-hlslens",
@@ -1650,7 +1650,7 @@
             "name": "fzfx.nvim",
             "config": "fzfx_nvim.lua",
             "url": "https://github.com/linrongbin16/fzfx.nvim",
-            "description": "FZF-based fuzzy finder running on a dynamic engine that parsing user query and selection on every keystroke."
+            "description": "A fuzzy finder that updates on every keystroke."
         },
         {
             "path": "echasnovski/mini.pick",
