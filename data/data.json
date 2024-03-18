@@ -5250,7 +5250,7 @@
             "name": "gitlinker.nvim",
             "config": "gitlinker_nvim.lua",
             "url": "https://github.com/linrongbin16/gitlinker.nvim",
-            "description": "Maintained fork of \"ruifm's gitlinker\", refactored with bug fixes, alias-host, `/blame` url support and other enhancements."
+            "description": "Maintained fork of \"ruifm's gitlinker\", refactored with bug fixes, ssh aliases, blame support and other improvements."
         },
         {
             "path": "tanvirtin/vgit.nvim",
