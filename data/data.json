@@ -3271,6 +3271,14 @@
             "description": "Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile."
         },
         {
+            "path": "zeioth/heirline-components.nvim",
+            "owner": "zeioth",
+            "name": "heirline-components.nvim",
+            "config": "heirline_components_nvim.lua",
+            "url": "https://github.com/zeioth/heirline-components.nvim",
+            "description": "30+ Heirline.nvim components you can use out of the box to create your perfect user interface."
+        },
+        {
             "path": "yaocccc/nvim-lines.lua",
             "owner": "yaocccc",
             "name": "nvim-lines.lua",
@@ -4705,6 +4713,14 @@
             "config": "nvim_chainsaw.lua",
             "url": "https://github.com/chrisgrieser/nvim-chainsaw",
             "description": "Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring."
+        },
+        {
+            "path": "Willem-J-an/visidata.nvim",
+            "owner": "Willem-J-an",
+            "name": "visidata.nvim",
+            "config": "visidata_nvim.lua",
+            "url": "https://github.com/Willem-J-an/visidata.nvim",
+            "description": "Render pandas dataframes in nvim-dap using the power of visidata."
         }
     ],
     "Quickfix": [
