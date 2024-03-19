@@ -1421,6 +1421,14 @@
             "description": "A per project, auto updating and editable marks utility for fast file navigation."
         },
         {
+            "path": "abeldekat/harpoonline",
+            "owner": "abeldekat",
+            "name": "harpoonline",
+            "config": "harpoonline.lua",
+            "url": "https://github.com/abeldekat/harpoonline",
+            "description": "Create up-to-date harpoon2 information to be used in a status-line."
+        },
+        {
             "path": "otavioschwanck/arrow.nvim",
             "owner": "otavioschwanck",
             "name": "arrow.nvim",
@@ -3082,7 +3090,7 @@
             "name": "colorbox.nvim",
             "config": "colorbox_nvim.lua",
             "url": "https://github.com/linrongbin16/colorbox.nvim",
-            "description": "Load all the ultra colorschemes into your Neovim player! It collects all the most popular colorschemes, installs them, and allows you to play them with multiple playback settings."
+            "description": "Load all the ultra colorschemes into your Neovim player!"
         },
         {
             "path": "CWood-sdf/pineapple",
