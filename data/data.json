@@ -2631,6 +2631,14 @@
             "description": "Neovim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai."
         },
         {
+            "path": "kevinm6/kurayami.nvim",
+            "owner": "kevinm6",
+            "name": "kurayami.nvim",
+            "config": "kurayami_nvim.lua",
+            "url": "https://github.com/kevinm6/kurayami.nvim",
+            "description": "Dark (only) theme."
+        },
+        {
             "path": "tiagovla/tokyodark.nvim",
             "owner": "tiagovla",
             "name": "tokyodark.nvim",
@@ -7329,6 +7337,14 @@
             "config": "clean_nvim.lua",
             "url": "https://github.com/drybalka/clean.nvim",
             "description": "Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon."
+        },
+        {
+            "path": "StratOS-Linux/StratVIM",
+            "owner": "StratOS-Linux",
+            "name": "StratVIM",
+            "config": "StratVIM.lua",
+            "url": "https://github.com/StratOS-Linux/StratVIM",
+            "description": "A full-fledged Neovim distribution included by default in [StratOS](https://github.com/StratOS-Linux), an upcoming Arch-based Linux distro."
         }
     ],
     "Version Manager": [
