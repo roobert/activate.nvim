@@ -975,6 +975,14 @@
             "config": "tailwindcss_colorizer_cmp_nvim.lua",
             "url": "https://github.com/roobert/tailwindcss-colorizer-cmp.nvim",
             "description": "Add vscode-style TailwindCSS completion to nvim-cmp."
+        },
+        {
+            "path": "luckasRanarison/tailwind-tools.nvim",
+            "owner": "luckasRanarison",
+            "name": "tailwind-tools.nvim",
+            "config": "tailwind_tools_nvim.lua",
+            "url": "https://github.com/luckasRanarison/tailwind-tools.nvim",
+            "description": "Unofficial TailwindCSS tooling."
         }
     ],
     "Markdown and LaTeX": [
