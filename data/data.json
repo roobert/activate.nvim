@@ -2957,6 +2957,14 @@
             "config": "synthweave_nvim.lua",
             "url": "https://github.com/samharju/synthweave.nvim",
             "description": "Synthwave '84 colorscheme port."
+        },
+        {
+            "path": "loganswartz/sunburn.nvim",
+            "owner": "loganswartz",
+            "name": "sunburn.nvim",
+            "config": "sunburn_nvim.lua",
+            "url": "https://github.com/loganswartz/sunburn.nvim",
+            "description": "A colorscheme sitting somewhere between pastels and solarized, emphasizing readability and hue uniformity above all else."
         }
     ],
     "Lua Colorscheme": [
@@ -3073,6 +3081,14 @@
             "config": "mini_hues.lua",
             "url": "https://github.com/echasnovski/mini.hues",
             "description": "Module of `mini.nvim` to generate configurable color scheme. Takes only background and foreground colors as required arguments. Can adjust number of hues for non-base colors, saturation, accent color, plugin integration."
+        },
+        {
+            "path": "loganswartz/polychrome.nvim",
+            "owner": "loganswartz",
+            "name": "polychrome.nvim",
+            "config": "polychrome_nvim.lua",
+            "url": "https://github.com/loganswartz/polychrome.nvim",
+            "description": "A colorscheme micro-framework, with support for specifying colors directly in many different formats (sRGB, HSL, Oklab, XYZ and more, with intelligent chroma clipping), live editing preview, and a simple DSL."
         }
     ],
     "Colorscheme Switchers": [
