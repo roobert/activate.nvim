@@ -747,6 +747,14 @@
             "description": "Copilot chat like experience via a buffer. Supports Anthropic, Ollama and OpenAI."
         },
         {
+            "path": "simplegpt.nvim",
+            "owner": "",
+            "name": "simplegpt.nvim",
+            "config": "simplegpt_nvim.lua",
+            "url": "https://github.com/you-n-g/simplegpt.nvim",
+            "description": "Provide a simple yet flexible way to construct and send questions to ChatGPT."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
