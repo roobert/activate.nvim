@@ -4499,6 +4499,14 @@
             "description": "Distro agnostic updater to get the latest changes from the git repository of your config."
         },
         {
+            "path": "SUSTech-data/neopyter",
+            "owner": "SUSTech-data",
+            "name": "neopyter",
+            "config": "neopyter.lua",
+            "url": "https://github.com/SUSTech-data/neopyter",
+            "description": "The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab."
+        },
+        {
             "path": "LoricAndre/OneTerm.nvim",
             "owner": "LoricAndre",
             "name": "OneTerm.nvim",
