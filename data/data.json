@@ -5447,6 +5447,14 @@
             "description": "View and dispatch GitHub Actions workflow runs."
         },
         {
+            "path": "rawnly/gist.nvim",
+            "owner": "rawnly",
+            "name": "gist.nvim",
+            "config": "gist_nvim.lua",
+            "url": "https://github.com/rawnly/gist.nvim",
+            "description": "Create a GitHub Gist from the current file (powered by gh)."
+        },
+        {
             "path": "smoka7/hop.nvim",
             "owner": "smoka7",
             "name": "hop.nvim",
