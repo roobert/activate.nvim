@@ -5293,6 +5293,14 @@
             "description": "Git integration: signs, hunk actions, blame, etc."
         },
         {
+            "path": "echasnovski/mini.diff",
+            "owner": "echasnovski",
+            "name": "mini.diff",
+            "config": "mini_diff.lua",
+            "url": "https://github.com/echasnovski/mini.diff",
+            "description": "Module of `mini.nvim` to interactively visualize difference between buffer text and its reference. Provides toggleable detailed overview in text area, built-in apply/reset/textobject/goto mappings, and more."
+        },
+        {
             "path": "NeogitOrg/neogit",
             "owner": "NeogitOrg",
             "name": "neogit",
