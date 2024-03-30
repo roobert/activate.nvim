@@ -49,14 +49,6 @@
             "description": "A plugin installation system designed to complement `folke/lazy.nvim`."
         },
         {
-            "path": "abeldekat/lazyflex.nvim",
-            "owner": "abeldekat",
-            "name": "lazyflex.nvim",
-            "config": "lazyflex_nvim.lua",
-            "url": "https://github.com/abeldekat/lazyflex.nvim",
-            "description": "An addon for `folke/lazy.nvim`. Facilitates the testing and troubleshooting of a Neovim configuration."
-        },
-        {
             "path": "nvim-neorocks/rocks.nvim",
             "owner": "nvim-neorocks",
             "name": "rocks.nvim",
@@ -1851,6 +1843,14 @@
             "config": "mini_files.lua",
             "url": "https://github.com/echasnovski/mini.files",
             "description": "Module of `mini.nvim` providing file explorer with column view capable of manipulating file system by editing text. Can create/delete/rename/copy/move files/directories inside and across directories."
+        },
+        {
+            "path": "prichrd/netrw.nvim",
+            "owner": "prichrd",
+            "name": "netrw.nvim",
+            "config": "netrw_nvim.lua",
+            "url": "https://github.com/prichrd/netrw.nvim",
+            "description": "Add icons and custom keybindings to netrw."
         },
         {
             "path": "pluffie/neoproj",
