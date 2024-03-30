@@ -4507,6 +4507,14 @@
             "description": "The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab."
         },
         {
+            "path": "terje/simctl.nvim",
+            "owner": "terje",
+            "name": "simctl.nvim",
+            "config": "simctl_nvim.lua",
+            "url": "https://github.com/terje/simctl.nvim",
+            "description": "Interact with iOS Simulators."
+        },
+        {
             "path": "LoricAndre/OneTerm.nvim",
             "owner": "LoricAndre",
             "name": "OneTerm.nvim",
