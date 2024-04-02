@@ -7409,6 +7409,14 @@
             "config": "StratVIM.lua",
             "url": "https://github.com/StratOS-Linux/StratVIM",
             "description": "A full-fledged Neovim distribution included by default in [StratOS](https://github.com/StratOS-Linux), an upcoming Arch-based Linux distro."
+        },
+        {
+            "path": "Shaobin-Jiang/IceNvim",
+            "owner": "Shaobin-Jiang",
+            "name": "IceNvim",
+            "config": "IceNvim.lua",
+            "url": "https://github.com/Shaobin-Jiang/IceNvim",
+            "description": "A beautiful, powerful and customizable config that is blazingly fast."
         }
     ],
     "Version Manager": [
