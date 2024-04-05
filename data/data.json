@@ -4515,6 +4515,14 @@
             "description": "Interact with iOS Simulators."
         },
         {
+            "path": "pluffie/md-babel.nvim",
+            "owner": "pluffie",
+            "name": "md-babel.nvim",
+            "config": "md_babel_nvim.lua",
+            "url": "https://codeberg.org/pluffie/md-babel.nvim",
+            "description": "Run code chunks from Markdown files, like org-babel."
+        },
+        {
             "path": "LoricAndre/OneTerm.nvim",
             "owner": "LoricAndre",
             "name": "OneTerm.nvim",
