@@ -6441,6 +6441,14 @@
             "config": "iedit_nvim.lua",
             "url": "https://github.com/altermo/iedit.nvim",
             "description": "Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way."
+        },
+        {
+            "path": "ptdewey/yankbank-nvim",
+            "owner": "ptdewey",
+            "name": "yankbank-nvim",
+            "config": "yankbank_nvim.lua",
+            "url": "https://github.com/ptdewey/yankbank-nvim",
+            "description": "Enable streamlined access to recent yanks and deletions in a quick-access popup menu."
         }
     ],
     "Comment": [
