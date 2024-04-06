@@ -4531,6 +4531,14 @@
             "description": "Run code chunks from Markdown files, like org-babel."
         },
         {
+            "path": "mistricky/codesnap.nvim",
+            "owner": "mistricky",
+            "name": "codesnap.nvim",
+            "config": "codesnap_nvim.lua",
+            "url": "https://github.com/mistricky/codesnap.nvim",
+            "description": "Snapshot plugin with rich features that can make pretty code snapshots."
+        },
+        {
             "path": "LoricAndre/OneTerm.nvim",
             "owner": "LoricAndre",
             "name": "OneTerm.nvim",
