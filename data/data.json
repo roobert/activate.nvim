@@ -2973,6 +2973,14 @@
             "config": "sunburn_nvim.lua",
             "url": "https://github.com/loganswartz/sunburn.nvim",
             "description": "A colorscheme sitting somewhere between pastels and solarized, emphasizing readability and hue uniformity above all else."
+        },
+        {
+            "path": "ptdewey/darkearth-nvim",
+            "owner": "ptdewey",
+            "name": "darkearth-nvim",
+            "config": "darkearth_nvim.lua",
+            "url": "https://github.com/ptdewey/darkearth-nvim",
+            "description": "A dark and earthy colorscheme supporting Tree-sitter and LSP."
         }
     ],
     "Lua Colorscheme": [
