@@ -1861,12 +1861,12 @@
             "description": "Small yet powerful project (and session) manager."
         },
         {
-            "path": "shaeinst/penvim",
-            "owner": "shaeinst",
+            "path": "Abstract-IDE/penvim",
+            "owner": "Abstract-IDE",
             "name": "penvim",
             "config": "penvim.lua",
-            "url": "https://github.com/shaeinst/penvim",
-            "description": "Project's Root Directory and Documents Indentation detector with project based config loader."
+            "url": "https://github.com/Abstract-IDE/penvim",
+            "description": "Project's root directory and documents Indentation detector with project based config loader."
         },
         {
             "path": "windwp/nvim-projectconfig",
@@ -6749,14 +6749,6 @@
             "config": "indent_o_matic.lua",
             "url": "https://github.com/Darazaki/indent-o-matic",
             "description": "Dumb automatic fast indentation detection written in Lua."
-        },
-        {
-            "path": "Abstract-IDE/penvim",
-            "owner": "Abstract-IDE",
-            "name": "penvim",
-            "config": "penvim.lua",
-            "url": "https://github.com/Abstract-IDE/penvim",
-            "description": "Project's root directory and documents Indentation detector with project based config loader."
         },
         {
             "path": "yaocccc/nvim-hlchunk",
