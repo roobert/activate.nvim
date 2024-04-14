@@ -4571,12 +4571,12 @@
             "description": "Functions for interacting with Wezterm."
         },
         {
-            "path": "akinsho/nvim-toggleterm.lua",
+            "path": "akinsho/toggleterm.nvim",
             "owner": "akinsho",
-            "name": "nvim-toggleterm.lua",
-            "config": "nvim_toggleterm_lua.lua",
-            "url": "https://github.com/akinsho/nvim-toggleterm.lua",
-            "description": "A Neovim Lua plugin to help easily manage multiple terminal windows."
+            "name": "toggleterm.nvim",
+            "config": "toggleterm_nvim.lua",
+            "url": "https://github.com/akinsho/toggleterm.nvim",
+            "description": "Easily manage multiple terminal windows."
         },
         {
             "path": "norcalli/nvim-terminal.lua",
