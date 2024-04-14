@@ -5697,11 +5697,11 @@
     ],
     "Treesitter Based": [
         {
-            "path": "mfussenegger/nvim-ts-hint-textobject",
+            "path": "mfussenegger/nvim-treehopper",
             "owner": "mfussenegger",
-            "name": "nvim-ts-hint-textobject",
-            "config": "nvim_ts_hint_textobject.lua",
-            "url": "https://github.com/mfussenegger/nvim-ts-hint-textobject",
+            "name": "nvim-treehopper",
+            "config": "nvim_treehopper.lua",
+            "url": "https://github.com/mfussenegger/nvim-treehopper",
             "description": "Region selection with hints on the AST nodes of a document powered by Treesitter."
         },
         {
