@@ -2075,6 +2075,14 @@
             "config": "reactive_nvim.lua",
             "url": "https://github.com/rasulomaroff/reactive.nvim",
             "description": "Set global and window-specific highlights or trigger callbacks when modes/operators change or windows are switched."
+        },
+        {
+            "path": "moyiz/command-and-cursor.nvim",
+            "owner": "moyiz",
+            "name": "command-and-cursor.nvim",
+            "config": "command_and_cursor_nvim.lua",
+            "url": "https://github.com/moyiz/command-and-cursor.nvim",
+            "description": "Highlight cursor and visual selections when entering command mode."
         }
     ],
     "Tree-sitter Supported Colorscheme": [
@@ -5451,6 +5459,14 @@
             "config": "telescope_git_file_history_nvim.lua",
             "url": "https://github.com/isak102/telescope-git-file-history.nvim",
             "description": "Open/preview contents of the current file at a specific commit, without using git checkout."
+        },
+        {
+            "path": "moyiz/git-dev.nvim",
+            "owner": "moyiz",
+            "name": "git-dev.nvim",
+            "config": "git_dev_nvim.lua",
+            "url": "https://github.com/moyiz/git-dev.nvim",
+            "description": "Open remote git repositories in the comfort of Neovim."
         }
     ],
     "GitHub": [
