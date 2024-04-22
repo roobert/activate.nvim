@@ -3357,6 +3357,14 @@
             "config": "lualine_ext_nvim.lua",
             "url": "https://github.com/Mr-LLLLL/lualine-ext.nvim",
             "description": "Show more information on lualine."
+        },
+        {
+            "path": "mikesmithgh/git-prompt-string-lualine.nvim",
+            "owner": "mikesmithgh",
+            "name": "git-prompt-string-lualine.nvim",
+            "config": "git_prompt_string_lualine_nvim.lua",
+            "url": "https://github.com/mikesmithgh/git-prompt-string-lualine.nvim",
+            "description": "Add git-prompt-string to your statusline."
         }
     ],
     "Tabline": [
@@ -6789,6 +6797,14 @@
             "config": "auto_indent_nvim.lua",
             "url": "https://github.com/VidocqH/auto-indent.nvim",
             "description": "Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode."
+        },
+        {
+            "path": "Mr-LLLLL/cool-chunk.nvim",
+            "owner": "Mr-LLLLL",
+            "name": "cool-chunk.nvim",
+            "config": "cool_chunk_nvim.lua",
+            "url": "https://github.com/Mr-LLLLL/cool-chunk.nvim",
+            "description": "Simpler and faster chunking with animations."
         },
         {
             "path": "notomo/cmdbuf.nvim",
