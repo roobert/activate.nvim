@@ -2239,12 +2239,12 @@
             "description": "A colorscheme with handcrafted support for LSP, Tree-sitter."
         },
         {
-            "path": "jim-at-jibba/ariake-vim-colors",
+            "path": "jim-at-jibba/ariake.nvim",
             "owner": "jim-at-jibba",
-            "name": "ariake-vim-colors",
-            "config": "ariake_vim_colors.lua",
-            "url": "https://github.com/jim-at-jibba/ariake-vim-colors",
-            "description": "A port of the great Atom theme. Dark and light with Tree-sitter support."
+            "name": "ariake.nvim",
+            "config": "ariake_nvim.lua",
+            "url": "https://github.com/jim-at-jibba/ariake.nvim",
+            "description": "A port of the great Atom theme. Beautiful, dark colour scheme."
         },
         {
             "path": "Th3Whit3Wolf/onebuddy",
