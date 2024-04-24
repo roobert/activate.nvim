@@ -865,6 +865,14 @@
             "config": "csharp_nvim.lua",
             "url": "https://github.com/iabdelkareem/csharp.nvim",
             "description": "Enhances the development experience for .NET developers."
+        },
+        {
+            "path": "jim-at-jibba/micropython.nvim",
+            "owner": "jim-at-jibba",
+            "name": "micropython.nvim",
+            "config": "micropython_nvim.lua",
+            "url": "https://github.com/jim-at-jibba/micropython.nvim",
+            "description": "Enhances the development experience for developers using Micro-python for IoT and maker projects."
         }
     ],
     "Golang": [
