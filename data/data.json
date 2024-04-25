@@ -651,14 +651,6 @@
             "description": "Fully featured Lua replacement for [GitHub/copilot.vim](https://github.com/github/copilot.vim)."
         },
         {
-            "path": "Exafunction/codeium.nvim",
-            "owner": "Exafunction",
-            "name": "codeium.nvim",
-            "config": "codeium_nvim.lua",
-            "url": "https://github.com/Exafunction/codeium.nvim",
-            "description": "Free, ultrafast Copilot alternative."
-        },
-        {
             "path": "Robitx/gp.nvim",
             "owner": "Robitx",
             "name": "gp.nvim",
@@ -745,6 +737,14 @@
             "config": "simplegpt_nvim.lua",
             "url": "https://github.com/you-n-g/simplegpt.nvim",
             "description": "Provide a simple yet flexible way to construct and send questions to ChatGPT."
+        },
+        {
+            "path": "Exafunction/codeium.nvim",
+            "owner": "Exafunction",
+            "name": "codeium.nvim",
+            "config": "codeium_nvim.lua",
+            "url": "https://github.com/Exafunction/codeium.nvim",
+            "description": "Free, ultrafast Copilot alternative. Supports LSP and Tree-sitter."
         },
         {
             "path": "Julian/lean.nvim",
