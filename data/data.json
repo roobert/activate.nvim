@@ -4877,6 +4877,14 @@
             "description": "Automatically sync up/down project to a remote with rsync."
         },
         {
+            "path": "sachinsenal0x64/hot.nvim",
+            "owner": "sachinsenal0x64",
+            "name": "hot.nvim",
+            "config": "hot_nvim.lua",
+            "url": "https://github.com/sachinsenal0x64/hot.nvim",
+            "description": "A hot reloader that works with any programming language."
+        },
+        {
             "path": "David-Kunz/jester",
             "owner": "David-Kunz",
             "name": "jester",
