@@ -5927,6 +5927,14 @@
             "config": "scrollofffraction_nvim.lua",
             "url": "https://github.com/nkakouros-original/scrollofffraction.nvim",
             "description": "Scrolloff as a fraction of the window height."
+        },
+        {
+            "path": "niuiic/scroll.nvim",
+            "owner": "niuiic",
+            "name": "scroll.nvim",
+            "config": "scroll_nvim.lua",
+            "url": "https://github.com/niuiic/scroll.nvim",
+            "description": "Smooth scrolling, custom smooth strategy."
         }
     ],
     "Scrollbar": [
