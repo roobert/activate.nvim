@@ -5109,6 +5109,14 @@
             "description": "Like dispatch.vim but using overseer.nvim."
         },
         {
+            "path": "speelbarrow/spLauncher.nvim",
+            "owner": "speelbarrow",
+            "name": "spLauncher.nvim",
+            "config": "spLauncher_nvim.lua",
+            "url": "https://github.com/speelbarrow/spLauncher.nvim",
+            "description": "For launching tasks, I guess."
+        },
+        {
             "path": "folke/neodev.nvim",
             "owner": "folke",
             "name": "neodev.nvim",
