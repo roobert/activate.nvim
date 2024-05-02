@@ -1161,6 +1161,14 @@
             "config": "easytables_nvim.lua",
             "url": "https://github.com/Myzel394/easytables.nvim",
             "description": "Easily insert and edit markdown tables with a live preview and useful helpers."
+        },
+        {
+            "path": "MeanderingProgrammer/markdown.nvim",
+            "owner": "MeanderingProgrammer",
+            "name": "markdown.nvim",
+            "config": "markdown_nvim.lua",
+            "url": "https://github.com/MeanderingProgrammer/markdown.nvim",
+            "description": "Improve viewing markdown files directly."
         }
     ],
     "PHP": [
@@ -5549,6 +5557,14 @@
             "config": "gist_nvim.lua",
             "url": "https://github.com/rawnly/gist.nvim",
             "description": "Create a GitHub Gist from the current file (powered by gh)."
+        },
+        {
+            "path": "tris203/precognition.nvim",
+            "owner": "tris203",
+            "name": "precognition.nvim",
+            "config": "precognition_nvim.lua",
+            "url": "https://github.com/tris203/precognition.nvim",
+            "description": "Precognition uses virtual text and gutter signs to show available motions."
         },
         {
             "path": "smoka7/hop.nvim",
