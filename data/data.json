@@ -7169,12 +7169,12 @@
             "description": "Neovim port of killersheep."
         },
         {
-            "path": "rktjmp/shenzhen-solitaire.nvim",
+            "path": "rktjmp/playtime.nvim",
             "owner": "rktjmp",
-            "name": "shenzhen-solitaire.nvim",
-            "config": "shenzhen_solitaire_nvim.lua",
-            "url": "https://github.com/rktjmp/shenzhen-solitaire.nvim",
-            "description": "Shenzhen I/O Solitaire port."
+            "name": "playtime.nvim",
+            "config": "playtime_nvim.lua",
+            "url": "https://github.com/rktjmp/playtime.nvim",
+            "description": "A collection of games such as Freecell, Shenzhen Solitaire and The Emissary."
         },
         {
             "path": "Eandrju/cellular-automaton.nvim",
