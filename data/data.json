@@ -4877,6 +4877,14 @@
             "description": "Pretty quickfix/location view with consistent path-shorten and folding."
         },
         {
+            "path": "niuiic/quickfix.nvim",
+            "owner": "niuiic",
+            "name": "quickfix.nvim",
+            "config": "quickfix_nvim.lua",
+            "url": "https://github.com/niuiic/quickfix.nvim",
+            "description": "Extended functionality for quickfix, including store, restore, make, remove, etc."
+        },
+        {
             "path": "coffebar/transfer.nvim",
             "owner": "coffebar",
             "name": "transfer.nvim",
