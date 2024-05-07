@@ -747,6 +747,14 @@
             "description": "Free, ultrafast Copilot alternative. Supports LSP and Tree-sitter."
         },
         {
+            "path": "CopilotC-Nvim/CopilotChat.nvim",
+            "owner": "CopilotC-Nvim",
+            "name": "CopilotChat.nvim",
+            "config": "CopilotChat_nvim.lua",
+            "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim",
+            "description": "A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
