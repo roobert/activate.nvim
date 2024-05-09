@@ -4011,11 +4011,11 @@
             "description": "Acid + Impromptu = Jazz."
         },
         {
-            "path": "sudormrfbin/cheatsheet.nvim",
-            "owner": "sudormrfbin",
+            "path": "doctorfree/cheatsheet.nvim",
+            "owner": "doctorfree",
             "name": "cheatsheet.nvim",
             "config": "cheatsheet_nvim.lua",
-            "url": "https://github.com/sudormrfbin/cheatsheet.nvim",
+            "url": "https://github.com/doctorfree/cheatsheet.nvim",
             "description": "Searchable cheatsheet."
         },
         {
