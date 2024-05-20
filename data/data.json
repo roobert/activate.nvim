@@ -1185,6 +1185,14 @@
             "config": "markdown_nvim.lua",
             "url": "https://github.com/MeanderingProgrammer/markdown.nvim",
             "description": "Improve viewing markdown files directly."
+        },
+        {
+            "path": "arminveres/md-pdf.nvim",
+            "owner": "arminveres",
+            "name": "md-pdf.nvim",
+            "config": "md_pdf_nvim.lua",
+            "url": "https://github.com/arminveres/md-pdf.nvim",
+            "description": "Preview markdown files and convert to PDF."
         }
     ],
     "PHP": [
