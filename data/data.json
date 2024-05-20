@@ -651,6 +651,14 @@
             "description": "Fully featured Lua replacement for [GitHub/copilot.vim](https://github.com/github/copilot.vim)."
         },
         {
+            "path": "Aaronik/GPTModels.nvim",
+            "owner": "Aaronik",
+            "name": "GPTModels.nvim",
+            "config": "GPTModels_nvim.lua",
+            "url": "https://github.com/Aaronik/GPTModels.nvim",
+            "description": "GPTModels - a stable, clean, multi model, window based LLM AI tool."
+        },
+        {
             "path": "Robitx/gp.nvim",
             "owner": "Robitx",
             "name": "gp.nvim",
@@ -1515,6 +1523,14 @@
             "config": "recall_nvim.lua",
             "url": "https://github.com/fnune/recall.nvim",
             "description": "Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability."
+        },
+        {
+            "path": "niuiic/track.nvim",
+            "owner": "niuiic",
+            "name": "track.nvim",
+            "config": "track_nvim.lua",
+            "url": "https://github.com/niuiic/track.nvim",
+            "description": "Enhanced mark with description. Track the thought process of reading source code."
         },
         {
             "path": "kevinhwang91/nvim-hlslens",
@@ -3851,12 +3867,12 @@
             "description": "Google Keep integration."
         },
         {
-            "path": "renerocksai/telekasten.nvim",
-            "owner": "renerocksai",
+            "path": "nvim-telekasten/telekasten.nvim",
+            "owner": "nvim-telekasten",
             "name": "telekasten.nvim",
             "config": "telekasten_nvim.lua",
-            "url": "https://github.com/renerocksai/telekasten.nvim",
-            "description": "A Neovim (lua) plugin for working with a text-based, markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim."
+            "url": "https://github.com/nvim-telekasten/telekasten.nvim",
+            "description": "Work with a text-based, markdown zettelkasten / wiki and mix it with a journal, based on telescope.nvim."
         },
         {
             "path": "zk-org/zk-nvim",
@@ -3961,6 +3977,14 @@
             "config": "tdo_nvim.lua",
             "url": "https://github.com/2KAbhishek/tdo.nvim",
             "description": "Fast and simple note taking."
+        },
+        {
+            "path": "slugbyte/whip.nvim",
+            "owner": "slugbyte",
+            "name": "whip.nvim",
+            "config": "whip_nvim.lua",
+            "url": "http://github.com/slugbyte/whip.nvim",
+            "description": "A super fast minimal scratchpad management plugin, biew biew biew."
         },
         {
             "path": "gaborvecsei/usage-tracker.nvim",
@@ -4587,6 +4611,14 @@
             "description": "Snapshot plugin with rich features that can make pretty code snapshots."
         },
         {
+            "path": "AlejandroSuero/freeze-code.nvim",
+            "owner": "AlejandroSuero",
+            "name": "freeze-code.nvim",
+            "config": "freeze_code_nvim.lua",
+            "url": "https://github.com/AlejandroSuero/freeze-code.nvim",
+            "description": "Code screenshot plugin that makes use of [freeze](https://github.com/charmbracelet/freeze) inside the editor, it lets you **copy** the generated image to **paste it anywhere**."
+        },
+        {
             "path": "LoricAndre/OneTerm.nvim",
             "owner": "LoricAndre",
             "name": "OneTerm.nvim",
@@ -4731,11 +4763,11 @@
             "description": "Manage terminal as buffer, multiple terminals support."
         },
         {
-            "path": "RAprogramm/nekifoch",
-            "owner": "RAprogramm",
-            "name": "nekifoch",
-            "config": "nekifoch.lua",
-            "url": "https://github.com/RAprogramm/nekifoch",
+            "path": "NeViRAIDE/nekifoch.nvim",
+            "owner": "NeViRAIDE",
+            "name": "nekifoch.nvim",
+            "config": "nekifoch_nvim.lua",
+            "url": "https://github.com/NeViRAIDE/nekifoch.nvim",
             "description": "Managing Kitty terminal font settings."
         },
         {
@@ -7520,7 +7552,7 @@
             "name": "kickstart-nix.nvim",
             "config": "kickstart_nix_nvim.lua",
             "url": "https://github.com/mrcjkb/kickstart-nix.nvim",
-            "description": "A simple [Nix flake](https://nixos.wiki/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations."
+            "description": "A simple [Nix flake](https://wiki.nixos.org/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations."
         },
         {
             "path": "drybalka/clean.nvim",
