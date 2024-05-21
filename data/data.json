@@ -443,6 +443,14 @@
             "description": "Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua."
         },
         {
+            "path": "zeioth/none-ls-autoload.nvim",
+            "owner": "zeioth",
+            "name": "none-ls-autoload.nvim",
+            "config": "none_ls_autoload_nvim.lua",
+            "url": "https://github.com/zeioth/none-ls-autoload.nvim",
+            "description": "Auto-load/Auto-unload none-ls sources installed with mason. It supports builtin sources and external sources."
+        },
+        {
             "path": "vxpm/ferris.nvim",
             "owner": "vxpm",
             "name": "ferris.nvim",
@@ -2131,6 +2139,14 @@
             "config": "command_and_cursor_nvim.lua",
             "url": "https://github.com/moyiz/command-and-cursor.nvim",
             "description": "Highlight cursor and visual selections when entering command mode."
+        },
+        {
+            "path": "rachartier/tiny-devicons-auto-colors.nvim",
+            "owner": "rachartier",
+            "name": "tiny-devicons-auto-colors.nvim",
+            "config": "tiny_devicons_auto_colors_nvim.lua",
+            "url": "https://github.com/rachartier/tiny-devicons-auto-colors.nvim",
+            "description": "Automatically updates nvim-web-devicons colors based on your current colorscheme."
         }
     ],
     "Tree-sitter Supported Colorscheme": [
