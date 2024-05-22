@@ -515,6 +515,14 @@
             "description": "Garbage collector that stops inactive LSP clients to free RAM."
         },
         {
+            "path": "luckasRanarison/clear-action.nvim",
+            "owner": "luckasRanarison",
+            "name": "clear-action.nvim",
+            "config": "clear_action_nvim.lua",
+            "url": "https://github.com/luckasRanarison/clear-action.nvim",
+            "description": "Enhances LSP code actions with fully customizable signs, personalized actions, and server-specific mappings, making code actions more predictable."
+        },
+        {
             "path": "anott03/nvim-lspinstall",
             "owner": "anott03",
             "name": "nvim-lspinstall",
@@ -5195,6 +5203,14 @@
             "config": "spLauncher_nvim.lua",
             "url": "https://github.com/speelbarrow/spLauncher.nvim",
             "description": "For launching tasks, I guess."
+        },
+        {
+            "path": "al1-ce/just.nvim",
+            "owner": "al1-ce",
+            "name": "just.nvim",
+            "config": "just_nvim.lua",
+            "url": "https://github.com/al1-ce/just.nvim",
+            "description": "Task runner for justfiles."
         },
         {
             "path": "folke/neodev.nvim",
