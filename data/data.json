@@ -3069,6 +3069,14 @@
             "config": "bluloco_nvim.lua",
             "url": "https://github.com/uloco/bluloco.nvim",
             "description": "A dark and earthy colorscheme supporting Tree-sitter and LSP."
+        },
+        {
+            "path": "slugbyte/lackluster.nvim",
+            "owner": "slugbyte",
+            "name": "lackluster.nvim",
+            "config": "lackluster_nvim.lua",
+            "url": "https://github.com/slugbyte/lackluster.nvim",
+            "description": "A delightful mostly grayscale colorscheme that is soft on the eyes, and supports heaps of plugins."
         }
     ],
     "Lua Colorscheme": [
@@ -5475,6 +5483,14 @@
             "config": "mini_diff.lua",
             "url": "https://github.com/echasnovski/mini.diff",
             "description": "Module of `mini.nvim` to interactively visualize difference between buffer text and its reference. Provides toggleable detailed overview in text area, built-in apply/reset/textobject/goto mappings, and more."
+        },
+        {
+            "path": "echasnovski/mini.git",
+            "owner": "echasnovski",
+            "name": "mini.git",
+            "config": "mini_git.lua",
+            "url": "https://github.com/echasnovski/mini.git",
+            "description": "Module of `mini.nvim` for enhanced Git integration with current Neovim process. Implements tracking of Git related data, `:Git` user command, and various helpers to explore Git history."
         },
         {
             "path": "NeogitOrg/neogit",
