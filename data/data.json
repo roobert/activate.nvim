@@ -7095,6 +7095,14 @@
             "description": "Edit remote files with local configuration."
         },
         {
+            "path": "nosduco/remote-sshfs.nvim",
+            "owner": "nosduco",
+            "name": "remote-sshfs.nvim",
+            "config": "remote_sshfs_nvim.lua",
+            "url": "https://github.com/nosduco/remote-sshfs.nvim",
+            "description": "Explore, edit, and develop on a remote machine via SSHFS."
+        },
+        {
             "path": "~henriquehbr/ataraxis.lua",
             "owner": "~henriquehbr",
             "name": "ataraxis.lua",
