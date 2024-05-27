@@ -3755,14 +3755,6 @@
             "description": "A picgo-core-based Neovim plugin, written in Lua, that allows you to upload images to the image bed, which means you can view your images from anywhere on the internet."
         },
         {
-            "path": "gwatcha/reaper-keys",
-            "owner": "gwatcha",
-            "name": "reaper-keys",
-            "config": "reaper_keys.lua",
-            "url": "https://github.com/gwatcha/reaper-keys",
-            "description": "Modal keybindings for Reaper DAW."
-        },
-        {
             "path": "madskjeldgaard/reaper-nvim",
             "owner": "madskjeldgaard",
             "name": "reaper-nvim",
