@@ -5963,12 +5963,12 @@
             "description": "Lua plugin to create key-bindings and watch them with telescope."
         },
         {
-            "path": "slugbyte/unruly-worker",
+            "path": "slugbyte/unruly-worker.nvim",
             "owner": "slugbyte",
-            "name": "unruly-worker",
-            "config": "unruly_worker.lua",
-            "url": "https://github.com/slugbyte/unruly-worker",
-            "description": "A ridiculously fun alternative keymap for the workman keyboard layout with Neovim features like LSP support, built and configured with Lua."
+            "name": "unruly-worker.nvim",
+            "config": "unruly_worker_nvim.lua",
+            "url": "https://github.com/slugbyte/unruly-worker.nvim",
+            "description": "A ridiculously fun alternative keymap for the workman keyboard layout, with lots of powerful features for working with yank, marks, macros, LSP, and more. Built and configured with Lua."
         },
         {
             "path": "FeiyouG/commander.nvim",
