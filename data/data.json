@@ -4507,14 +4507,6 @@
             "description": "Preview devdocs.io documentations directly in Markdown format."
         },
         {
-            "path": "VidocqH/data-viewer.nvim",
-            "owner": "VidocqH",
-            "name": "data-viewer.nvim",
-            "config": "data_viewer_nvim.lua",
-            "url": "https://github.com/VidocqH/data-viewer.nvim",
-            "description": "Provide a simple table view to inspect data files such as `csv`, `tsv`."
-        },
-        {
             "path": "JMarkin/gentags.lua",
             "owner": "JMarkin",
             "name": "gentags.lua",
@@ -4579,14 +4571,6 @@
             "description": "The tags generator/management for old school vimers."
         },
         {
-            "path": "theKnightsOfRohan/csvlens.nvim",
-            "owner": "theKnightsOfRohan",
-            "name": "csvlens.nvim",
-            "config": "csvlens_nvim.lua",
-            "url": "https://github.com/theKnightsOfRohan/csvlens.nvim",
-            "description": "A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data."
-        },
-        {
             "path": "Mr-LLLLL/utilities.nvim",
             "owner": "Mr-LLLLL",
             "name": "utilities.nvim",
@@ -4649,6 +4633,32 @@
             "config": "freeze_code_nvim.lua",
             "url": "https://github.com/AlejandroSuero/freeze-code.nvim",
             "description": "Code screenshot plugin that makes use of [freeze](https://github.com/charmbracelet/freeze) inside the editor, it lets you **copy** the generated image to **paste it anywhere**."
+        }
+    ],
+    "CSV Files": [
+        {
+            "path": "VidocqH/data-viewer.nvim",
+            "owner": "VidocqH",
+            "name": "data-viewer.nvim",
+            "config": "data_viewer_nvim.lua",
+            "url": "https://github.com/VidocqH/data-viewer.nvim",
+            "description": "Provide a simple table view to inspect data files such as `csv`, `tsv`."
+        },
+        {
+            "path": "theKnightsOfRohan/csvlens.nvim",
+            "owner": "theKnightsOfRohan",
+            "name": "csvlens.nvim",
+            "config": "csvlens_nvim.lua",
+            "url": "https://github.com/theKnightsOfRohan/csvlens.nvim",
+            "description": "A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data."
+        },
+        {
+            "path": "emmanueltouzery/decisive.nvim",
+            "owner": "emmanueltouzery",
+            "name": "decisive.nvim",
+            "config": "decisive_nvim.lua",
+            "url": "https://github.com/emmanueltouzery/decisive.nvim",
+            "description": "View and edit CSV files with ease and speed."
         },
         {
             "path": "LoricAndre/OneTerm.nvim",
