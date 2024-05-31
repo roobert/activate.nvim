@@ -1669,6 +1669,14 @@
             "description": "A Telescope picker to quickly access plugins configurations from the lazy.nvim spec."
         },
         {
+            "path": "MagicDuck/grug-far.nvim",
+            "owner": "MagicDuck",
+            "name": "grug-far.nvim",
+            "config": "grug_far_nvim.lua",
+            "url": "https://github.com/MagicDuck/grug-far.nvim",
+            "description": "Buffer-based live search and replace with full power of `rg` flags. Grug like!"
+        },
+        {
             "path": "nvim-telescope/telescope.nvim",
             "owner": "nvim-telescope",
             "name": "telescope.nvim",
