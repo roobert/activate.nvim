@@ -5629,6 +5629,14 @@
             "config": "git_dev_nvim.lua",
             "url": "https://github.com/moyiz/git-dev.nvim",
             "description": "Open remote git repositories in the comfort of Neovim."
+        },
+        {
+            "path": "SuperBo/fugit2.nvim",
+            "owner": "SuperBo",
+            "name": "fugit2.nvim",
+            "config": "fugit2_nvim.lua",
+            "url": "https://github.com/SuperBo/fugit2.nvim",
+            "description": "Git GUI powered by [libgit2](https://libgit2.org)."
         }
     ],
     "GitHub": [
