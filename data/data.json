@@ -3076,7 +3076,7 @@
             "name": "bluloco.nvim",
             "config": "bluloco_nvim.lua",
             "url": "https://github.com/uloco/bluloco.nvim",
-            "description": "A dark and earthy colorscheme supporting Tree-sitter and LSP."
+            "description": "A fancy and sophisticated colorscheme for night and day coding. Supports LSP, Tree-sitter and all the plugins you love."
         },
         {
             "path": "slugbyte/lackluster.nvim",
