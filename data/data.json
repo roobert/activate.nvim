@@ -1925,6 +1925,14 @@
             "description": "Add icons and custom keybindings to netrw."
         },
         {
+            "path": "neotree-file-nesting-config",
+            "owner": "",
+            "name": "neotree-file-nesting-config",
+            "config": "neotree_file_nesting_config.lua",
+            "url": "https://github.com/saifulapm/neotree-file-nesting-config",
+            "description": "Pre-defined file nesting rules for `neo-tree.nvim`."
+        },
+        {
             "path": "pluffie/neoproj",
             "owner": "pluffie",
             "name": "neoproj",
