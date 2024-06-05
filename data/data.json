@@ -1413,6 +1413,14 @@
             "description": "Automagical editing and creation of snippets."
         },
         {
+            "path": "guilherme-puida/tesoura.nvim",
+            "owner": "guilherme-puida",
+            "name": "tesoura.nvim",
+            "config": "tesoura_nvim.lua",
+            "url": "https://github.com/guilherme-puida/tesoura.nvim",
+            "description": "A flexible snippet system using Neovim's new snippet API."
+        },
+        {
             "path": "gennaro-tedesco/nvim-peekup",
             "owner": "gennaro-tedesco",
             "name": "nvim-peekup",
