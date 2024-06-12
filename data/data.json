@@ -5263,6 +5263,14 @@
             "description": "Task runner for justfiles."
         },
         {
+            "path": "niuiic/task.nvim",
+            "owner": "niuiic",
+            "name": "task.nvim",
+            "config": "task_nvim.lua",
+            "url": "https://github.com/niuiic/task.nvim",
+            "description": "Another highly configurable task manager that enables seamless interaction with tasks."
+        },
+        {
             "path": "folke/neodev.nvim",
             "owner": "folke",
             "name": "neodev.nvim",
