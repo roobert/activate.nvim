@@ -4665,6 +4665,14 @@
             "config": "freeze_code_nvim.lua",
             "url": "https://github.com/AlejandroSuero/freeze-code.nvim",
             "description": "Code screenshot plugin that makes use of [freeze](https://github.com/charmbracelet/freeze) inside the editor, it lets you **copy** the generated image to **paste it anywhere**."
+        },
+        {
+            "path": "ysmb-wtsg/in-and-out.nvim",
+            "owner": "ysmb-wtsg",
+            "name": "in-and-out.nvim",
+            "config": "in_and_out_nvim.lua",
+            "url": "https://github.com/ysmb-wtsg/in-and-out.nvim",
+            "description": "Quick navigation in and out of surrounding characters."
         }
     ],
     "CSV Files": [
