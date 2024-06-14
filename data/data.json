@@ -4673,6 +4673,14 @@
             "config": "in_and_out_nvim.lua",
             "url": "https://github.com/ysmb-wtsg/in-and-out.nvim",
             "description": "Quick navigation in and out of surrounding characters."
+        },
+        {
+            "path": "ChuufMaster/buffer-vacuum",
+            "owner": "ChuufMaster",
+            "name": "buffer-vacuum",
+            "config": "buffer_vacuum.lua",
+            "url": "https://github.com/ChuufMaster/buffer-vacuum",
+            "description": "Set a maximum number of buffers to keep open and intelligently delete the oldest buffers over the maximum."
         }
     ],
     "CSV Files": [
