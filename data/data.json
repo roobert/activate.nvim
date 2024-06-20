@@ -1573,6 +1573,14 @@
             "description": "Enhanced mark with description. Track the thought process of reading source code."
         },
         {
+            "path": "tristone13th/lspmark.nvim",
+            "owner": "tristone13th",
+            "name": "lspmark.nvim",
+            "config": "lspmark_nvim.lua",
+            "url": "https://github.com/tristone13th/lspmark.nvim",
+            "description": "Sane project-wise bookmarks with persistent storage based on LSP."
+        },
+        {
             "path": "kevinhwang91/nvim-hlslens",
             "owner": "kevinhwang91",
             "name": "nvim-hlslens",
@@ -7321,6 +7329,22 @@
             "config": "tmux_awesome_manager_nvim.lua",
             "url": "https://github.com/otavioschwanck/tmux-awesome-manager.nvim",
             "description": "Run your workflow commands like yarn install, rails console, yarn add, bundle install, etc."
+        },
+        {
+            "path": "karshPrime/only-tmux.nvim",
+            "owner": "karshPrime",
+            "name": "only-tmux.nvim",
+            "config": "only_tmux_nvim.lua",
+            "url": "https://github.com/karshPrime/only-tmux.nvim",
+            "description": "Expand the functionality of `:only` with tmux panes in the same window, with either moving them to a new window or closing them."
+        },
+        {
+            "path": "karshPrime/tmux-compile.nvim",
+            "owner": "karshPrime",
+            "name": "tmux-compile.nvim",
+            "config": "tmux_compile_nvim.lua",
+            "url": "https://github.com/karshPrime/tmux-compile.nvim",
+            "description": "Set up same key, like F5, to run any compile/run command per language, like `make` for C and `cargo build` for Rust, and have the project run or compile in a new tmux pane or window."
         },
         {
             "path": "ThePrimeagen/vim-be-good",
