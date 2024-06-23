@@ -1023,6 +1023,14 @@
             "config": "tailwind_tools_nvim.lua",
             "url": "https://github.com/luckasRanarison/tailwind-tools.nvim",
             "description": "Unofficial TailwindCSS tooling."
+        },
+        {
+            "path": "cjodo/convert.nvim",
+            "owner": "cjodo",
+            "name": "convert.nvim",
+            "config": "convert_nvim.lua",
+            "url": "https://github.com/cjodo/convert.nvim",
+            "description": "A tool for CSS unit conversions."
         }
     ],
     "Markdown and LaTeX": [
