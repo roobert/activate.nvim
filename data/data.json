@@ -1709,6 +1709,14 @@
             "description": "Buffer-based live search and replace with full power of `rg` flags. Grug like!"
         },
         {
+            "path": "chrisgrieser/nvim-rip-substitute",
+            "owner": "chrisgrieser",
+            "name": "nvim-rip-substitute",
+            "config": "nvim_rip_substitute.lua",
+            "url": "https://github.com/chrisgrieser/nvim-rip-substitute",
+            "description": "Search and replace in the current buffer with a modern UI and modern regex flavor. A substitute for vim's `:substitute` using `ripgrep`."
+        },
+        {
             "path": "nvim-telescope/telescope.nvim",
             "owner": "nvim-telescope",
             "name": "telescope.nvim",
