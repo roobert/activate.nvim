@@ -523,6 +523,14 @@
             "description": "Enhances LSP code actions with fully customizable signs, personalized actions, and server-specific mappings, making code actions more predictable."
         },
         {
+            "path": "rachartier/tiny-inline-diagnostic.nvim",
+            "owner": "rachartier",
+            "name": "tiny-inline-diagnostic.nvim",
+            "config": "tiny_inline_diagnostic_nvim.lua",
+            "url": "https://github.com/rachartier/tiny-inline-diagnostic.nvim",
+            "description": "Display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors."
+        },
+        {
             "path": "anott03/nvim-lspinstall",
             "owner": "anott03",
             "name": "nvim-lspinstall",
