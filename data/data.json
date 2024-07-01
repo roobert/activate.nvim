@@ -531,6 +531,14 @@
             "description": "Display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors."
         },
         {
+            "path": "chrisgrieser/nvim-lsp-endhints",
+            "owner": "chrisgrieser",
+            "name": "nvim-lsp-endhints",
+            "config": "nvim_lsp_endhints.lua",
+            "url": "https://github.com/chrisgrieser/nvim-lsp-endhints",
+            "description": "Display LSP inlay hints at the end of the line, rather than within the line."
+        },
+        {
             "path": "anott03/nvim-lspinstall",
             "owner": "anott03",
             "name": "nvim-lspinstall",
@@ -7763,6 +7771,14 @@
             "config": "IceNvim.lua",
             "url": "https://github.com/Shaobin-Jiang/IceNvim",
             "description": "A beautiful, powerful and customizable config that is blazingly fast."
+        },
+        {
+            "path": "ayamir/nvimdots",
+            "owner": "ayamir",
+            "name": "nvimdots",
+            "config": "nvimdots.lua",
+            "url": "https://github.com/ayamir/nvimdots",
+            "description": "A well-configured and structured configuration with NixOS support."
         }
     ],
     "Version Manager": [
