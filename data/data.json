@@ -3763,6 +3763,14 @@
             "description": "The start screen that gets you to your projects blazingly fast."
         },
         {
+            "path": "mong8se/actually.nvim",
+            "owner": "mong8se",
+            "name": "actually.nvim",
+            "config": "actually_nvim.lua",
+            "url": "https://github.com/mong8se/actually.nvim",
+            "description": "Load the file you actually meant to load."
+        },
+        {
             "path": "nvim-tree/nvim-web-devicons",
             "owner": "nvim-tree",
             "name": "nvim-web-devicons",
@@ -4729,6 +4737,14 @@
             "config": "buffer_vacuum.lua",
             "url": "https://github.com/ChuufMaster/buffer-vacuum",
             "description": "Set a maximum number of buffers to keep open and intelligently delete the oldest buffers over the maximum."
+        },
+        {
+            "path": "mong8se/buffish.nvim",
+            "owner": "mong8se",
+            "name": "buffish.nvim",
+            "config": "buffish_nvim.lua",
+            "url": "https://github.com/mong8se/buffish.nvim",
+            "description": "A buffer switcher in the spirit of dirvish or vinegar."
         }
     ],
     "CSV Files": [
