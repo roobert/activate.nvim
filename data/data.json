@@ -7569,7 +7569,7 @@
             "owner": "legobeat",
             "name": "l7-devenv",
             "config": "l7_devenv.lua",
-            "url": "https://legobeat/l7-devenv",
+            "url": "https://github.com/legobeat/l7-devenv",
             "description": "Security-focused IDE with a hackable (in the right way) framework based on Neovim and shell."
         },
         {
