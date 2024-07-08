@@ -563,6 +563,14 @@
             "description": "Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters."
         },
         {
+            "path": "sontungexpt/better-diagnostic-virtual-text",
+            "owner": "sontungexpt",
+            "name": "better-diagnostic-virtual-text",
+            "config": "better_diagnostic_virtual_text.lua",
+            "url": "https://github.com/sontungexpt/better-diagnostic-virtual-text",
+            "description": "Enhances the display of virtual text for diagnostics. This function aims to provide a more user-friendly and informative presentation of diagnostic messages directly within the editor."
+        },
+        {
             "path": "andrewferrier/textobj-diagnostic",
             "owner": "andrewferrier",
             "name": "textobj-diagnostic",
@@ -1241,6 +1249,14 @@
             "config": "markdown_toc.lua",
             "url": "https://github.com/ChuufMaster/markdown-toc",
             "description": "Generate TOC in any markdown file from any other markdown file with customisable levels of headings and affordances for emojis and ensuring that it works on GitHub using relative paths."
+        },
+        {
+            "path": "OXY2DEV/markview.nvim",
+            "owner": "OXY2DEV",
+            "name": "markview.nvim",
+            "config": "markview_nvim.lua",
+            "url": "https://github.com/OXY2DEV/markview.nvim",
+            "description": "An experimental markdown previewer."
         }
     ],
     "PHP": [
