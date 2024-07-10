@@ -7121,6 +7121,14 @@
             "description": "Simpler and faster chunking with animations."
         },
         {
+            "path": "gh-liu/fold_line.nvim",
+            "owner": "gh-liu",
+            "name": "fold_line.nvim",
+            "config": "fold_line_nvim.lua",
+            "url": "https://github.com/gh-liu/fold_line.nvim",
+            "description": "Lines for indicating code folding, which could achieve an effect similar to indentline by `:set fdm=indent`."
+        },
+        {
             "path": "notomo/cmdbuf.nvim",
             "owner": "notomo",
             "name": "cmdbuf.nvim",
