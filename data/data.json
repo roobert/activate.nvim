@@ -7153,6 +7153,14 @@
             "description": "A small automated session manager."
         },
         {
+            "path": "rmagatti/session-lens",
+            "owner": "rmagatti",
+            "name": "session-lens",
+            "config": "session_lens.lua",
+            "url": "https://github.com/rmagatti/session-lens",
+            "description": "A session-switcher extension for rmagatti/auto-session using Telescope.nvim."
+        },
+        {
             "path": "echasnovski/mini.sessions",
             "owner": "echasnovski",
             "name": "mini.sessions",
