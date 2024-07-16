@@ -1257,6 +1257,14 @@
             "config": "markview_nvim.lua",
             "url": "https://github.com/OXY2DEV/markview.nvim",
             "description": "An experimental markdown previewer."
+        },
+        {
+            "path": "Kicamon/markdown-table-mode.nvim",
+            "owner": "Kicamon",
+            "name": "markdown-table-mode.nvim",
+            "config": "markdown_table_mode_nvim.lua",
+            "url": "https://github.com/Kicamon/markdown-table-mode.nvim",
+            "description": "Markdown format plugin like vim-table-mode but write in Lua."
         }
     ],
     "PHP": [
