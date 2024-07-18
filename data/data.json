@@ -803,6 +803,14 @@
             "description": "A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions."
         },
         {
+            "path": "tzachar/cmp-ai",
+            "owner": "tzachar",
+            "name": "cmp-ai",
+            "config": "cmp_ai.lua",
+            "url": "https://github.com/tzachar/cmp-ai",
+            "description": "This is a general purpose AI source for nvim-cmp, easily adapted to any restapi supporting remote code completion."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
@@ -3655,14 +3663,6 @@
             "config": "bufferline_cycle_windowless_nvim.lua",
             "url": "https://github.com/roobert/bufferline-cycle-windowless.nvim",
             "description": "A bufferline extension to cycle through windowless buffers to give a more traditional tab based experience."
-        },
-        {
-            "path": "mg979/tabline.nvim",
-            "owner": "mg979",
-            "name": "tabline.nvim",
-            "config": "tabline_nvim.lua",
-            "url": "https://github.com/mg979/tabline.nvim",
-            "description": "A comprehensive tabline for rendering and managing tabs, buffers or arglist, and featuring buffer filtering, fzf integration and session management."
         }
     ],
     "Cursorline": [
@@ -7151,14 +7151,6 @@
             "config": "auto_session.lua",
             "url": "https://github.com/rmagatti/auto-session",
             "description": "A small automated session manager."
-        },
-        {
-            "path": "rmagatti/session-lens",
-            "owner": "rmagatti",
-            "name": "session-lens",
-            "config": "session_lens.lua",
-            "url": "https://github.com/rmagatti/session-lens",
-            "description": "A session-switcher extension for rmagatti/auto-session using Telescope.nvim."
         },
         {
             "path": "echasnovski/mini.sessions",
