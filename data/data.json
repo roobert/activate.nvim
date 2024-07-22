@@ -3189,6 +3189,14 @@
             "config": "lackluster_nvim.lua",
             "url": "https://github.com/slugbyte/lackluster.nvim",
             "description": "A delightful mostly grayscale colorscheme that is soft on the eyes, and supports heaps of plugins."
+        },
+        {
+            "path": "0xstepit/flow.nvim",
+            "owner": "0xstepit",
+            "name": "flow.nvim",
+            "config": "flow_nvim.lua",
+            "url": "https://github.com/0xstepit/flow.nvim",
+            "description": "Carefully designed colors to help focusing during coding plus fluorescent details. Support many plugins and tools."
         }
     ],
     "Lua Colorscheme": [
