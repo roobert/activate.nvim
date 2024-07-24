@@ -1033,6 +1033,14 @@
             "description": "A fast Neovim HTTP client written in Lua."
         },
         {
+            "path": "mistweaverco/kulala.nvim",
+            "owner": "mistweaverco",
+            "name": "kulala.nvim",
+            "config": "kulala_nvim.lua",
+            "url": "https://github.com/mistweaverco/kulala.nvim",
+            "description": "A minimal HTTP-client interface."
+        },
+        {
             "path": "ray-x/web-tools.nvim",
             "owner": "ray-x",
             "name": "web-tools.nvim",
