@@ -5199,6 +5199,14 @@
             "description": "Displays coverage information in the sign column."
         },
         {
+            "path": "quolpr/quicktest.nvim",
+            "owner": "quolpr",
+            "name": "quicktest.nvim",
+            "config": "quicktest_nvim.lua",
+            "url": "https://github.com/quolpr/quicktest.nvim",
+            "description": "Run your tests in split window or popup with live feedback."
+        },
+        {
             "path": "michaelb/sniprun",
             "owner": "michaelb",
             "name": "sniprun",
