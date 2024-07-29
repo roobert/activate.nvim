@@ -1011,6 +1011,14 @@
             "config": "gotests_nvim.lua",
             "url": "https://github.com/yanskun/gotests.nvim",
             "description": "Make Go tests easy with [gotests](https://github.com/cweill/gotests)."
+        },
+        {
+            "path": "maxandron/goplements.nvim",
+            "owner": "maxandron",
+            "name": "goplements.nvim",
+            "config": "goplements_nvim.lua",
+            "url": "https://github.com/maxandron/goplements.nvim",
+            "description": "Visualize Go struct and interface implementations."
         }
     ],
     "YAML": [
@@ -1571,14 +1579,6 @@
             "config": "harpoon.lua",
             "url": "https://github.com/ThePrimeagen/harpoon",
             "description": "A per project, auto updating and editable marks utility for fast file navigation."
-        },
-        {
-            "path": "abeldekat/harpoonline",
-            "owner": "abeldekat",
-            "name": "harpoonline",
-            "config": "harpoonline.lua",
-            "url": "https://github.com/abeldekat/harpoonline",
-            "description": "Create up-to-date harpoon2 information to be used in a status-line."
         },
         {
             "path": "otavioschwanck/arrow.nvim",
