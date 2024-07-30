@@ -4809,6 +4809,14 @@
             "config": "todo_nvim.lua",
             "url": "https://github.com/niuiic/todo.nvim",
             "description": "Simple but powerful todo manager based on text."
+        },
+        {
+            "path": "QuentinGruber/timespent.nvim",
+            "owner": "QuentinGruber",
+            "name": "timespent.nvim",
+            "config": "timespent_nvim.lua",
+            "url": "https://github.com/QuentinGruber/timespent.nvim",
+            "description": "Display time spent on projects / files."
         }
     ],
     "CSV Files": [
