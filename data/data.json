@@ -5591,6 +5591,14 @@
             "description": "Adds support for Structured Async/Concurrency in Lua."
         },
         {
+            "path": "CWood-sdf/banana.nvim",
+            "owner": "CWood-sdf",
+            "name": "banana.nvim",
+            "config": "banana_nvim.lua",
+            "url": "https://github.com/CWood-sdf/banana.nvim",
+            "description": "HTML renderer for plugin UIs."
+        },
+        {
             "path": "Olical/aniseed",
             "owner": "Olical",
             "name": "aniseed",
