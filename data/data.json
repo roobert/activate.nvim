@@ -819,6 +819,14 @@
             "description": "This is a general purpose AI source for nvim-cmp, easily adapted to any restapi supporting remote code completion."
         },
         {
+            "path": "milanglacier/minuet-ai.nvim",
+            "owner": "milanglacier",
+            "name": "minuet-ai.nvim",
+            "config": "minuet_ai_nvim.lua",
+            "url": "https://github.com/milanglacier/minuet-ai.nvim",
+            "description": "Minuet offers code completion from popular LLMs including OpenAI (compatible), Gemini, Claude, and more providers. Dance with intelligence in your code."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
