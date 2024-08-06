@@ -1267,11 +1267,11 @@
             "description": "Easily insert and edit markdown tables with a live preview and useful helpers."
         },
         {
-            "path": "MeanderingProgrammer/markdown.nvim",
+            "path": "MeanderingProgrammer/render-markdown.nvim",
             "owner": "MeanderingProgrammer",
-            "name": "markdown.nvim",
-            "config": "markdown_nvim.lua",
-            "url": "https://github.com/MeanderingProgrammer/markdown.nvim",
+            "name": "render-markdown.nvim",
+            "config": "render_markdown_nvim.lua",
+            "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
             "description": "Improve viewing markdown files directly."
         },
         {
