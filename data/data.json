@@ -544,7 +544,7 @@
             "name": "tiny-code-action.nvim",
             "config": "tiny_code_action_nvim.lua",
             "url": "https://github.com/rachartier/tiny-code-action.nvim",
-            "description": "Provides a simple way to run and visualize code actions with Telescope. "
+            "description": "Provides a simple way to run and visualize code actions with Telescope."
         },
         {
             "path": "anott03/nvim-lspinstall",
@@ -5159,6 +5159,14 @@
             "description": "Extended functionality for quickfix, including store, restore, make, remove, etc."
         },
         {
+            "path": "stevearc/quicker.nvim",
+            "owner": "stevearc",
+            "name": "quicker.nvim",
+            "config": "quicker_nvim.lua",
+            "url": "https://github.com/stevearc/quicker.nvim",
+            "description": "Improved quickfix UI and editable quickfix buffer."
+        },
+        {
             "path": "coffebar/transfer.nvim",
             "owner": "coffebar",
             "name": "transfer.nvim",
@@ -7803,6 +7811,14 @@
             "config": "kickstart_nvim.lua",
             "url": "https://github.com/nvim-lua/kickstart.nvim",
             "description": "A launch point for your personal Neovim configuration."
+        },
+        {
+            "path": "dam9000/kickstart-modular.nvim",
+            "owner": "dam9000",
+            "name": "kickstart-modular.nvim",
+            "config": "kickstart_modular_nvim.lua",
+            "url": "https://github.com/dam9000/kickstart-modular.nvim",
+            "description": "This is a fork of nvim-lua/kickstart.nvim that moves from a single file to a multi file configuration."
         },
         {
             "path": "cunderw/nvim",
