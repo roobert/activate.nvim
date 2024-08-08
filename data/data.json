@@ -3221,6 +3221,14 @@
             "config": "flow_nvim.lua",
             "url": "https://github.com/0xstepit/flow.nvim",
             "description": "Carefully designed colors to help focusing during coding plus fluorescent details. Support many plugins and tools."
+        },
+        {
+            "path": "samharju/serene.nvim",
+            "owner": "samharju",
+            "name": "serene.nvim",
+            "config": "serene_nvim.lua",
+            "url": "https://github.com/samharju/serene.nvim",
+            "description": "A soothing and dark tree-sitter/LSP-supported theme for relaxing your eyes after using more vibrant colorschemes."
         }
     ],
     "Lua Colorscheme": [
