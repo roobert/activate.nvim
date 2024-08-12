@@ -953,6 +953,14 @@
             "config": "micropython_nvim.lua",
             "url": "https://github.com/jim-at-jibba/micropython.nvim",
             "description": "Enhances the development experience for developers using Micro-python for IoT and maker projects."
+        },
+        {
+            "path": "neolooong/whichpy.nvim",
+            "owner": "neolooong",
+            "name": "whichpy.nvim",
+            "config": "whichpy_nvim.lua",
+            "url": "https://github.com/neolooong/whichpy.nvim",
+            "description": "Switch Python interpreter without restarting LSP."
         }
     ],
     "Golang": [
@@ -6265,6 +6273,14 @@
             "config": "hawtkeys_nvim.lua",
             "url": "https://github.com/tris203/hawtkeys.nvim",
             "description": "Suggest new easy-to-hit keymaps and find issues with your current keymap configurations."
+        },
+        {
+            "path": "mawkler/demicolon.nvim",
+            "owner": "mawkler",
+            "name": "demicolon.nvim",
+            "config": "demicolon_nvim.lua",
+            "url": "https://github.com/mawkler/demicolon.nvim",
+            "description": "Use `;` and `,` keys to also repeat jumps to diagnostics (e.g. `]d`) and to [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects?tab=readme-ov-file#text-objects-move) (e.g. `]f`), in addition to repeating `t`/`T`/`f`/`F`."
         },
         {
             "path": "notomo/gesture.nvim",
