@@ -827,6 +827,14 @@
             "description": "Minuet offers code completion from popular LLMs including OpenAI (compatible), Gemini, Claude, and more providers. Dance with intelligence in your code."
         },
         {
+            "path": "yetone/avante.nvim",
+            "owner": "yetone",
+            "name": "avante.nvim",
+            "config": "avante_nvim.lua",
+            "url": "https://github.com/yetone/avante.nvim",
+            "description": "Chat with your code as if you are in Cursor AI IDE."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
@@ -6297,6 +6305,14 @@
             "config": "demicolon_nvim.lua",
             "url": "https://github.com/mawkler/demicolon.nvim",
             "description": "Use `;` and `,` keys to also repeat jumps to diagnostics (e.g. `]d`) and to [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects?tab=readme-ov-file#text-objects-move) (e.g. `]f`), in addition to repeating `t`/`T`/`f`/`F`."
+        },
+        {
+            "path": "debugloop/layers.nvim",
+            "owner": "debugloop",
+            "name": "layers.nvim",
+            "config": "layers_nvim.lua",
+            "url": "https://github.com/debugloop/layers.nvim",
+            "description": " Craft temporary keymap overlays and layered modes with ease."
         },
         {
             "path": "notomo/gesture.nvim",
