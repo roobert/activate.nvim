@@ -6353,6 +6353,14 @@
             "config": "scroll_nvim.lua",
             "url": "https://github.com/niuiic/scroll.nvim",
             "description": "Smooth scrolling, custom smooth strategy."
+        },
+        {
+            "path": "rlychrisg/keepcursor.nvim",
+            "owner": "rlychrisg",
+            "name": "keepcursor.nvim",
+            "config": "keepcursor_nvim.lua",
+            "url": "https://github.com/rlychrisg/keepcursor.nvim",
+            "description": "A collection of functions to control how the screen is positioned around the cursor."
         }
     ],
     "Scrollbar": [
