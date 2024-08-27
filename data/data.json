@@ -835,6 +835,14 @@
             "description": "Chat with your code as if you are in Cursor AI IDE."
         },
         {
+            "path": "StubbornVegeta/llm.nvim",
+            "owner": "StubbornVegeta",
+            "name": "llm.nvim",
+            "config": "llm_nvim.lua",
+            "url": "https://github.com/StubbornVegeta/llm.nvim",
+            "description": "Free large language model (LLM) support, provides commands to interact with LLM."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
@@ -1111,6 +1119,22 @@
             "config": "convert_nvim.lua",
             "url": "https://github.com/cjodo/convert.nvim",
             "description": "A tool for CSS unit conversions."
+        },
+        {
+            "path": "farias-hecdin/CSSVarViewer",
+            "owner": "farias-hecdin",
+            "name": "CSSVarViewer",
+            "config": "CSSVarViewer.lua",
+            "url": "https://github.com/farias-hecdin/CSSVarViewer",
+            "description": "Easily visualize the content of your CSS variables in a virtual text."
+        },
+        {
+            "path": "farias-hecdin/CSSVarHighlight",
+            "owner": "farias-hecdin",
+            "name": "CSSVarHighlight",
+            "config": "CSSVarHighlight.lua",
+            "url": "https://github.com/farias-hecdin/CSSVarHighlight",
+            "description": "Quickly highlight the color you defined in your CSS variables with the help of `mini.hipatterns`."
         }
     ],
     "Markdown and LaTeX": [
@@ -3245,6 +3269,14 @@
             "config": "serene_nvim.lua",
             "url": "https://github.com/samharju/serene.nvim",
             "description": "A soothing and dark tree-sitter/LSP-supported theme for relaxing your eyes after using more vibrant colorschemes."
+        },
+        {
+            "path": "killitar/obscure.nvim",
+            "owner": "killitar",
+            "name": "obscure.nvim",
+            "config": "obscure_nvim.lua",
+            "url": "https://github.com/killitar/obscure.nvim",
+            "description": "A pastel dark colorscheme inspired by the palette Mellow. Support Tree-sitter, LSP _(including semantic tokens)_ and lots of plugins."
         }
     ],
     "Lua Colorscheme": [
@@ -4995,6 +5027,14 @@
             "config": "nvim_unception.lua",
             "url": "https://github.com/samjwill/nvim-unception",
             "description": "Automatic unnesting of Neovim sessions started from terminal buffers."
+        },
+        {
+            "path": "kassio/neoterm",
+            "owner": "kassio",
+            "name": "neoterm",
+            "config": "neoterm.lua",
+            "url": "https://github.com/kassio/neoterm",
+            "description": "Wrapper of some `:terminal` functions."
         },
         {
             "path": "nyngwang/NeoTerm.lua",
@@ -6947,6 +6987,14 @@
             "config": "yankbank_nvim.lua",
             "url": "https://github.com/ptdewey/yankbank-nvim",
             "description": "Enable streamlined access to recent yanks and deletions in a quick-access popup menu."
+        },
+        {
+            "path": "OXY2DEV/foldtext.nvim",
+            "owner": "OXY2DEV",
+            "name": "foldtext.nvim",
+            "config": "foldtext_nvim.lua",
+            "url": "https://github.com/OXY2DEV/foldtext.nvim",
+            "description": "Dynamic & stylized foldtext."
         }
     ],
     "Comment": [
