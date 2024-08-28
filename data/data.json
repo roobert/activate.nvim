@@ -4897,6 +4897,14 @@
             "config": "pendulum_nvim.lua",
             "url": "https://github.com/SunnyTamang/pendulum.nvim",
             "description": "Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc."
+        },
+        {
+            "path": "ptdewey/pendulum-nvim",
+            "owner": "ptdewey",
+            "name": "pendulum-nvim",
+            "config": "pendulum_nvim.lua",
+            "url": "https://github.com/ptdewey/pendulum-nvim",
+            "description": "Track time spent coding and glean insights through on-demand time reports."
         }
     ],
     "CSV Files": [
