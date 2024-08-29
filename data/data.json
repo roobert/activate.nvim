@@ -547,6 +547,14 @@
             "description": "Provides a simple way to run and visualize code actions with Telescope."
         },
         {
+            "path": "mawkler/refjump.nvim",
+            "owner": "mawkler",
+            "name": "refjump.nvim",
+            "config": "refjump_nvim.lua",
+            "url": "https://github.com/mawkler/refjump.nvim",
+            "description": "Jump to next/previous LSP reference for item under cursor with `]r`/`[r`."
+        },
+        {
             "path": "anott03/nvim-lspinstall",
             "owner": "anott03",
             "name": "nvim-lspinstall",
