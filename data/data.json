@@ -555,6 +555,14 @@
             "description": "Jump to next/previous LSP reference for item under cursor with `]r`/`[r`."
         },
         {
+            "path": "alexpasmantier/pymple.nvim",
+            "owner": "alexpasmantier",
+            "name": "pymple.nvim",
+            "config": "pymple_nvim.lua",
+            "url": "https://github.com/alexpasmantier/pymple.nvim",
+            "description": "Refactor Python imports on file move/rename."
+        },
+        {
             "path": "anott03/nvim-lspinstall",
             "owner": "anott03",
             "name": "nvim-lspinstall",
