@@ -851,11 +851,11 @@
             "description": "Chat with your code as if you are in Cursor AI IDE."
         },
         {
-            "path": "StubbornVegeta/llm.nvim",
-            "owner": "StubbornVegeta",
+            "path": "Kurama622/llm.nvim",
+            "owner": "Kurama622",
             "name": "llm.nvim",
             "config": "llm_nvim.lua",
-            "url": "https://github.com/StubbornVegeta/llm.nvim",
+            "url": "https://github.com/Kurama622/llm.nvim",
             "description": "Free large language model (LLM) support, provides commands to interact with LLM."
         },
         {
@@ -1369,6 +1369,14 @@
             "config": "markdown_table_mode_nvim.lua",
             "url": "https://github.com/Kicamon/markdown-table-mode.nvim",
             "description": "Markdown format plugin like vim-table-mode but write in Lua."
+        },
+        {
+            "path": "SCJangra/table-nvim",
+            "owner": "SCJangra",
+            "name": "table-nvim",
+            "config": "table_nvim.lua",
+            "url": "https://github.com/SCJangra/table-nvim",
+            "description": "A markdown table editor that formats the table as you type."
         }
     ],
     "PHP": [
