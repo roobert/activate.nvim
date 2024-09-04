@@ -2999,6 +2999,14 @@
             "description": "A colorscheme with a dark background, and vibrant foreground that is centered around the color brown. A modification of [Kimbie Dark](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus)."
         },
         {
+            "path": "qaptoR-nvim/chocolatier.nvim",
+            "owner": "qaptoR-nvim",
+            "name": "chocolatier.nvim",
+            "config": "chocolatier_nvim.lua",
+            "url": "https://github.com/qaptoR-nvim/chocolatier.nvim",
+            "description": "An espresso/kimbie inspired chocolatey theme adapted from ellisonleao/gruvbox.nvim theme as a code template."
+        },
+        {
             "path": "rockyzhang24/arctic.nvim",
             "owner": "rockyzhang24",
             "name": "arctic.nvim",
@@ -5733,6 +5741,14 @@
             "config": "banana_nvim.lua",
             "url": "https://github.com/CWood-sdf/banana.nvim",
             "description": "HTML renderer for plugin UIs."
+        },
+        {
+            "path": "OXY2DEV/helpview.nvim",
+            "owner": "OXY2DEV",
+            "name": "helpview.nvim",
+            "config": "helpview_nvim.lua",
+            "url": "https://github.com/OXY2DEV/helpview.nvim",
+            "description": "Decorations for `vimdoc/help` files."
         },
         {
             "path": "Olical/aniseed",
