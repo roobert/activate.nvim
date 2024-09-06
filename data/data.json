@@ -7859,6 +7859,14 @@
             "config": "nvimdots.lua",
             "url": "https://github.com/ayamir/nvimdots",
             "description": "A well-configured and structured configuration with NixOS support."
+        },
+        {
+            "path": "adoyle-h/one.nvim",
+            "owner": "adoyle-h",
+            "name": "one.nvim",
+            "config": "one_nvim.lua",
+            "url": "https://github.com/adoyle-h/one.nvim",
+            "description": "All-in-one config framework in Lua."
         }
     ],
     "Version Manager": [
