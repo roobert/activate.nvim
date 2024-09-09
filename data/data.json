@@ -3405,6 +3405,14 @@
             "description": "Gardenal is a theme switcher, which allows the user to create keyboard shortcuts to switch between themes with one click."
         },
         {
+            "path": "LmanTW/themify.nvim",
+            "owner": "LmanTW",
+            "name": "themify.nvim",
+            "config": "themify_nvim.lua",
+            "url": "https://github.com/LmanTW/themify.nvim/tree/main",
+            "description": "A colorscheme manager and switcher. Inspired by Themery.nvim and Lazy.nvim."
+        },
+        {
             "path": "Bekaboo/deadcolumn.nvim",
             "owner": "Bekaboo",
             "name": "deadcolumn.nvim",
