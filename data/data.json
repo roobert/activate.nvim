@@ -4809,6 +4809,14 @@
             "config": "pendulum_nvim.lua",
             "url": "https://github.com/ptdewey/pendulum-nvim",
             "description": "Track time spent coding and glean insights through on-demand time reports."
+        },
+        {
+            "path": "QuentinGruber/pomodoro.nvim",
+            "owner": "QuentinGruber",
+            "name": "pomodoro.nvim",
+            "config": "pomodoro_nvim.lua",
+            "url": "https://github.com/QuentinGruber/pomodoro.nvim",
+            "description": "Use the Pomodoro Technique with built-in session tracking and break reminders."
         }
     ],
     "CSV Files": [
