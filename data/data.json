@@ -30,7 +30,7 @@
             "name": "lazy.nvim",
             "config": "lazy_nvim.lua",
             "url": "https://github.com/folke/lazy.nvim",
-            "description": "A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more \ud83d\udca4."
+            "description": "A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more."
         },
         {
             "path": "roobert/activate.nvim",
@@ -176,7 +176,7 @@
             "name": "navigator.lua",
             "config": "navigator_lua.lua",
             "url": "https://github.com/ray-x/navigator.lua",
-            "description": "Learn existing code quickly and navigate code like a breeze. A swiss army knife makes exploring LSP and \ud83c\udf32Tree-sitter symbols a piece of \ud83c\udf70."
+            "description": "Learn existing code quickly and navigate code like a breeze. A swiss army knife makes exploring LSP and Tree-sitter symbols a piece of cake."
         },
         {
             "path": "hedyhli/outline.nvim",
@@ -2748,7 +2748,7 @@
             "name": "nvim",
             "config": "nvim.lua",
             "url": "https://github.com/catppuccin/nvim",
-            "description": "Warm mid-tone dark theme to show off your vibrant self! with support for native LSP, Tree-sitter, and more \ud83c\udf68!"
+            "description": "Warm mid-tone dark theme to show off your vibrant self! With support for native LSP, Tree-sitter, and more."
         },
         {
             "path": "FrenzyExists/aquarium-vim",
@@ -3280,7 +3280,7 @@
             "name": "colorbuddy.nvim",
             "config": "colorbuddy_nvim.lua",
             "url": "https://github.com/tjdevries/colorbuddy.nvim",
-            "description": "A colorscheme helper. Written in Lua! Quick & Easy Color Schemes \ud83d\ude04."
+            "description": "A colorscheme helper. Written in Lua! Quick & Easy Color Schemes."
         },
         {
             "path": "norcalli/nvim-base16.lua",
@@ -3872,7 +3872,7 @@
             "name": "icon-picker.nvim",
             "config": "icon_picker_nvim.lua",
             "url": "https://github.com/ziontee113/icon-picker.nvim",
-            "description": "Help you pick \ud835\udc68\ud835\udd43\ud835\udebb Font Characters, Symbols \u03a3, Nerd Font Icons \ue62b & Emojis \u2728."
+            "description": "Help you pick \ud835\udc68\ud835\udd43\ud835\udebb Font Characters, Symbols \u03a3, Nerd Font Icons \ue62b & Emojis."
         },
         {
             "path": "2KAbhishek/nerdy.nvim",
@@ -5644,7 +5644,7 @@
             "name": "tangerine.nvim",
             "config": "tangerine_nvim.lua",
             "url": "https://github.com/udayvir-singh/tangerine.nvim",
-            "description": "Sweet :tangerine: Fennel integration, aims to be as fast as possible."
+            "description": "Tangerine provides a painless way to add fennel to your config."
         },
         {
             "path": "udayvir-singh/hibiscus.nvim",
@@ -5652,7 +5652,7 @@
             "name": "hibiscus.nvim",
             "config": "hibiscus_nvim.lua",
             "url": "https://github.com/udayvir-singh/hibiscus.nvim",
-            "description": "Flavored :hibiscus: Fennel macro library."
+            "description": "Highly opinionated macros to elegantly write your config."
         },
         {
             "path": "vuki656/package-info.nvim",
@@ -7642,7 +7642,7 @@
             "name": "CosmicNvim",
             "config": "CosmicNvim.lua",
             "url": "https://github.com/CosmicNvim/CosmicNvim",
-            "description": "CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a \ud83d\udcab COSMIC programming experience!"
+            "description": "CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a COSMIC programming experience!"
         },
         {
             "path": "artart222/CodeArt",
@@ -7810,7 +7810,7 @@
             "name": "web-dev.nvim",
             "config": "web_dev_nvim.lua",
             "url": "https://github.com/jonathandion/web-dev.nvim",
-            "description": "Small, simple and flexible configuration for web development \u2728."
+            "description": "Small, simple and flexible configuration for web development."
         },
         {
             "path": "linrongbin16/lin.nvim",
