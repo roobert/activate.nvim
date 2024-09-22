@@ -803,6 +803,14 @@
             "description": "Prompt LLMs (large language models) to write Vim commands."
         },
         {
+            "path": "k2589/LLuMinate.nvim",
+            "owner": "k2589",
+            "name": "LLuMinate.nvim",
+            "config": "LLuMinate_nvim.lua",
+            "url": "https://github.com/k2589/lluminate.nvim",
+            "description": "Enrich context for LLM with LSP hover added to clipboard."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
