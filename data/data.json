@@ -7353,6 +7353,14 @@
             "description": "Explore, edit, and develop on a remote machine via SSHFS."
         },
         {
+            "path": "live-share.nvim",
+            "owner": "",
+            "name": "live-share.nvim",
+            "config": "live_share_nvim.lua",
+            "url": "https://github.com/azratul/live-share.nvim",
+            "description": "Provides remote collaboration capabilities from anywhere, making it ideal for pair-programming scenarios."
+        },
+        {
             "path": "~henriquehbr/ataraxis.lua",
             "owner": "~henriquehbr",
             "name": "ataraxis.lua",
