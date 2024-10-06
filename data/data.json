@@ -1304,7 +1304,7 @@
             "name": "markview.nvim",
             "config": "markview_nvim.lua",
             "url": "https://github.com/OXY2DEV/markview.nvim",
-            "description": "An experimental markdown previewer."
+            "description": "Highly customisable markdown(latex & inline html) previewer."
         },
         {
             "path": "Kicamon/markdown-table-mode.nvim",
