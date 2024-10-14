@@ -1115,14 +1115,6 @@
             "description": "Markdown preview using glow."
         },
         {
-            "path": "ellisonleao/dotenv.nvim",
-            "owner": "ellisonleao",
-            "name": "dotenv.nvim",
-            "config": "dotenv_nvim.lua",
-            "url": "https://github.com/ellisonleao/dotenv.nvim",
-            "description": "Minimalist .env support."
-        },
-        {
             "path": "iamcco/markdown-preview.nvim",
             "owner": "iamcco",
             "name": "markdown-preview.nvim",
@@ -4849,6 +4841,14 @@
             "config": "truncateline_nvim.lua",
             "url": "https://github.com/rlychrisg/truncateline.nvim",
             "description": "Truncate long lines to keep track of where you are when the start gets lost off the left side of the screen."
+        },
+        {
+            "path": "ellisonleao/dotenv.nvim",
+            "owner": "ellisonleao",
+            "name": "dotenv.nvim",
+            "config": "dotenv_nvim.lua",
+            "url": "https://github.com/ellisonleao/dotenv.nvim",
+            "description": "Minimalist .env support."
         }
     ],
     "CSV Files": [
@@ -5629,6 +5629,14 @@
             "config": "helpview_nvim.lua",
             "url": "https://github.com/OXY2DEV/helpview.nvim",
             "description": "Decorations for `vimdoc/help` files."
+        },
+        {
+            "path": "niuiic/omega.nvim",
+            "owner": "niuiic",
+            "name": "omega.nvim",
+            "config": "omega_nvim.lua",
+            "url": "https://github.com/niuiic/omega.nvim",
+            "description": "Missing functions for Lua plugin development."
         },
         {
             "path": "Olical/aniseed",
