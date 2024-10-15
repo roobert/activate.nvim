@@ -7313,6 +7313,14 @@
             "description": "Declarative project management, automatic saving of sessions, uses Telescope."
         },
         {
+            "path": "njayman/season.nvim",
+            "owner": "njayman",
+            "name": "season.nvim",
+            "config": "season_nvim.lua",
+            "url": "https://github.com/njayman/season.nvim",
+            "description": "A lightweight plugin to manage session based on current working directory."
+        },
+        {
             "path": "chipsenkbeil/distant.nvim",
             "owner": "chipsenkbeil",
             "name": "distant.nvim",
