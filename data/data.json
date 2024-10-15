@@ -3253,6 +3253,14 @@
             "config": "neofusion_nvim.lua",
             "url": "https://github.com/diegoulloao/neofusion.nvim",
             "description": "A theme compatible with Tree-sitter inspired by `gruvbox.nvim`."
+        },
+        {
+            "path": "bartekjaszczak/luma-nvim",
+            "owner": "bartekjaszczak",
+            "name": "luma-nvim",
+            "config": "luma_nvim.lua",
+            "url": "https://gitlab.com/bartekjaszczak/luma-nvim",
+            "description": "A colorful theme with dark/light modes and adjustable contrast. Supports Tree-sitter and semantic highlighting."
         }
     ],
     "Lua Colorscheme": [
