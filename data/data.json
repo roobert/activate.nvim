@@ -7999,6 +7999,14 @@
             "config": "nvim_plugin_template.lua",
             "url": "https://github.com/ellisonleao/nvim-plugin-template",
             "description": "Another Neovim plugin template, using GitHub's template feature."
+        },
+        {
+            "path": "2KAbhishek/template.nvim",
+            "owner": "2KAbhishek",
+            "name": "template.nvim",
+            "config": "template_nvim.lua",
+            "url": "https://github.com/2kabhishek/template.nvim",
+            "description": "Opinionated template for starting plugin dev quickly."
         }
     ],
     "OS-specific": [
