@@ -1669,6 +1669,14 @@
             "description": "Sane project-wise bookmarks with persistent storage based on LSP."
         },
         {
+            "path": "EvWilson/spelunk.nvim",
+            "owner": "EvWilson",
+            "name": "spelunk.nvim",
+            "config": "spelunk_nvim.lua",
+            "url": "https://github.com/EvWilson/spelunk.nvim",
+            "description": "Create and manage bookmarks as stacks with a friendly UI."
+        },
+        {
             "path": "kevinhwang91/nvim-hlslens",
             "owner": "kevinhwang91",
             "name": "nvim-hlslens",
@@ -7553,6 +7561,14 @@
             "config": "tmux_compile_nvim.lua",
             "url": "https://github.com/karshPrime/tmux-compile.nvim",
             "description": "Set up same key, like F5, to run any compile/run command per language, like `make` for C and `cargo build` for Rust, and have the project run or compile in a new tmux pane or window."
+        },
+        {
+            "path": "EvWilson/slimux.nvim",
+            "owner": "EvWilson",
+            "name": "slimux.nvim",
+            "config": "slimux_nvim.lua",
+            "url": "https://github.com/EvWilson/slimux.nvim",
+            "description": "Send content from the current buffer to a configurable tmux pane."
         },
         {
             "path": "ThePrimeagen/vim-be-good",
