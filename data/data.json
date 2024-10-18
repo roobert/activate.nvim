@@ -1677,6 +1677,14 @@
             "description": "Create and manage bookmarks as stacks with a friendly UI."
         },
         {
+            "path": "2KAbhishek/markit.nvim",
+            "owner": "2KAbhishek",
+            "name": "markit.nvim",
+            "config": "markit_nvim.lua",
+            "url": "https://github.com/2KAbhishek/markit.nvim",
+            "description": "Improved global marks and project wide bookmarks, to quickly navigate files."
+        },
+        {
             "path": "kevinhwang91/nvim-hlslens",
             "owner": "kevinhwang91",
             "name": "nvim-hlslens",
@@ -4867,6 +4875,14 @@
             "description": "Truncate long lines to keep track of where you are when the start gets lost off the left side of the screen."
         },
         {
+            "path": "EL-MASTOR/bufferlist.nvim",
+            "owner": "EL-MASTOR",
+            "name": "bufferlist.nvim",
+            "config": "bufferlist_nvim.lua",
+            "url": "https://github.com/EL-MASTOR/bufferlist.nvim",
+            "description": "A super fast, lightweight, minimal and super easy buffer manager."
+        },
+        {
             "path": "ellisonleao/dotenv.nvim",
             "owner": "ellisonleao",
             "name": "dotenv.nvim",
@@ -5663,6 +5679,14 @@
             "description": "Missing functions for Lua plugin development."
         },
         {
+            "path": "2KAbhishek/utils.nvim",
+            "owner": "2KAbhishek",
+            "name": "utils.nvim",
+            "config": "utils_nvim.lua",
+            "url": "https://github.com/2kabhishek/utils.nvim",
+            "description": "Powerful utilities to speed up plugin development."
+        },
+        {
             "path": "Olical/aniseed",
             "owner": "Olical",
             "name": "aniseed",
@@ -5943,6 +5967,14 @@
             "config": "gist_nvim.lua",
             "url": "https://github.com/rawnly/gist.nvim",
             "description": "Create a GitHub Gist from the current file (powered by gh)."
+        },
+        {
+            "path": "2KAbhishek/octohub.nvim",
+            "owner": "2KAbhishek",
+            "name": "octohub.nvim",
+            "config": "octohub_nvim.lua",
+            "url": "https://github.com/2kabhishek/octohub.nvim",
+            "description": "Access all your gihub repos, stats and more in simple keystrokes."
         },
         {
             "path": "tris203/precognition.nvim",
