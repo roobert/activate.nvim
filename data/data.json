@@ -1019,6 +1019,14 @@
             "config": "goplements_nvim.lua",
             "url": "https://github.com/maxandron/goplements.nvim",
             "description": "Visualize Go struct and interface implementations."
+        },
+        {
+            "path": "Snikimonkd/cmp-go-pkgs",
+            "owner": "Snikimonkd",
+            "name": "cmp-go-pkgs",
+            "config": "cmp_go_pkgs.lua",
+            "url": "https://github.com/Snikimonkd/cmp-go-pkgs",
+            "description": "Cmp source for Go packages names."
         }
     ],
     "YAML": [
