@@ -6453,6 +6453,14 @@
             "description": "Decorate scrollbar."
         },
         {
+            "path": "csessh/stopinser.nvim",
+            "owner": "csessh",
+            "name": "stopinser.nvim",
+            "config": "stopinser_nvim.lua",
+            "url": "https://github.com/csessh/stopinsert.nvim",
+            "description": "Automatically exit Insert mode after inactivity."
+        },
+        {
             "path": "windwp/nvim-ts-autotag",
             "owner": "windwp",
             "name": "nvim-ts-autotag",
