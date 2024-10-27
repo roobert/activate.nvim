@@ -4897,6 +4897,14 @@
             "config": "dotenv_nvim.lua",
             "url": "https://github.com/ellisonleao/dotenv.nvim",
             "description": "Minimalist .env support."
+        },
+        {
+            "path": "dzfrias/arena.nvim",
+            "owner": "dzfrias",
+            "name": "arena.nvim",
+            "config": "arena_nvim.lua",
+            "url": "https://github.com/dzfrias/arena.nvim",
+            "description": "A smart (frecency-based) buffer switcher."
         }
     ],
     "CSV Files": [
