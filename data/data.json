@@ -3285,6 +3285,14 @@
             "config": "luma_nvim.lua",
             "url": "https://gitlab.com/bartekjaszczak/luma-nvim",
             "description": "A colorful theme with dark/light modes and adjustable contrast. Supports Tree-sitter and semantic highlighting."
+        },
+        {
+            "path": "bartekjaszczak/finale-nvim",
+            "owner": "bartekjaszczak",
+            "name": "finale-nvim",
+            "config": "finale_nvim.lua",
+            "url": "https://gitlab.com/bartekjaszczak/finale-nvim",
+            "description": "A balanced dark theme, blending vivid and pastel colors for a comfortable, high-contrast experience. Supports Tree-sitter and semantic highlighting."
         }
     ],
     "Lua Colorscheme": [
