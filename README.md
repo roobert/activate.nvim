@@ -67,7 +67,7 @@ To set up and install `activate.nvim` with `lazy.nvim`, the following can be use
 ```lua
 -- ~/.config/nvim/init.lua
 
-// Map leader key to <space> or a key of your choice.
+-- Map leader key to <space> or a key of your choice.
 vim.g.mapleader = "<space>"
 vim.g.maplocalleader = "<space>"
 
