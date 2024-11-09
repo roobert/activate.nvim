@@ -56,12 +56,43 @@ return {
   -- "cbochs/grapple.nvim"
 }
 ```
+## Reset neovim
+
+If you want to reset neovim to a fresh state, remove the `~/.local/nvim/share` and `~/.local/nvim/state` directories.
 
 ## Installation
 
-For `lazy.nvim`, add this config to `~/.config/nvim/lua/plugins/activate.lua`:
+To set up and install `activate.nvim` with `lazy.nvim`, the following can be used:
 
 ```lua
+-- ~/.config/nvim/init.lua
+
+// Map leader key to <space> or a key of your choice.
+vim.g.mapleader = "<space>"
+vim.g.maplocalleader = "<space>"
+
+local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
+if not vim.loop.fs_stat(lazypath) then
+  vim.fn.system({
+    "git",
+    "clone",
+    "--filter=blob:none",
+    "https://github.com/folke/lazy.nvim.git",
+    "--branch=stable",
+    lazypath,
+  })
+end
+vim.opt.rtp:prepend(lazypath)
+require("lazy").setup(require("plugins"))
+```
+```lua
+-- ~/.config/nvim/lua/plugins/init.lua
+return {
+    require("plugins.activate"),
+}
+```
+```lua
+-- ~/.config/nvim/lua/plugins/activate.lua
 return {
   "roobert/activate.nvim",
   keys = {
