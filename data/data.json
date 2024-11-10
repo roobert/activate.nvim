@@ -4949,6 +4949,14 @@
             "description": "View and edit CSV files with ease and speed."
         },
         {
+            "path": "hat0uma/csvview.nvim",
+            "owner": "hat0uma",
+            "name": "csvview.nvim",
+            "config": "csvview_nvim.lua",
+            "url": "https://github.com/hat0uma/csvview.nvim",
+            "description": "An asynchronous CSV/TSV table viewer with real-time updates, configurable comments and delimiters, and multiple display modes."
+        },
+        {
             "path": "LoricAndre/OneTerm.nvim",
             "owner": "LoricAndre",
             "name": "OneTerm.nvim",
