@@ -819,11 +819,11 @@
             "description": "Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/)."
         },
         {
-            "path": "akinsho/flutter-tools.nvim",
-            "owner": "akinsho",
+            "path": "nvim-flutter/flutter-tools.nvim",
+            "owner": "nvim-flutter",
             "name": "flutter-tools.nvim",
             "config": "flutter_tools_nvim.lua",
-            "url": "https://github.com/akinsho/flutter-tools.nvim",
+            "url": "https://github.com/nvim-flutter/flutter-tools.nvim",
             "description": "Build Flutter and Dart applications using the native LSP."
         },
         {
@@ -2261,11 +2261,11 @@
             "description": "A plugin to highlight colors with Neovim."
         },
         {
-            "path": "nvim-colortils/colortils.nvim",
-            "owner": "nvim-colortils",
+            "path": "max397574/colortils.nvim",
+            "owner": "max397574",
             "name": "colortils.nvim",
             "config": "colortils_nvim.lua",
-            "url": "https://github.com/nvim-colortils/colortils.nvim",
+            "url": "https://github.com/max397574/colortils.nvim",
             "description": "A plugin providing utils to work with colors (picker, conversion) inside Neovim."
         },
         {
@@ -2759,11 +2759,11 @@
             "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist."
         },
         {
-            "path": "mcchrish/zenbones.nvim",
-            "owner": "mcchrish",
+            "path": "zenbones-theme/zenbones.nvim",
+            "owner": "zenbones-theme",
             "name": "zenbones.nvim",
             "config": "zenbones_nvim.lua",
-            "url": "https://github.com/mcchrish/zenbones.nvim",
+            "url": "https://github.com/zenbones-theme/zenbones.nvim",
             "description": "A collection of Vim/Neovim colorschemes designed to highlight code using contrasts and font variations."
         },
         {
@@ -3677,6 +3677,14 @@
             "config": "git_prompt_string_lualine_nvim.lua",
             "url": "https://github.com/mikesmithgh/git-prompt-string-lualine.nvim",
             "description": "Add git-prompt-string to your statusline."
+        },
+        {
+            "path": "sschleemilch/slimline.nvim",
+            "owner": "sschleemilch",
+            "name": "slimline.nvim",
+            "config": "slimline_nvim.lua",
+            "url": "https://github.com/sschleemilch/slimline.nvim",
+            "description": "A slim, minimal and opinionated Lua statusline."
         }
     ],
     "Tabline": [
@@ -3859,11 +3867,11 @@
             "description": "Displays Neovim startup time."
         },
         {
-            "path": "startup-nvim/startup.nvim",
-            "owner": "startup-nvim",
+            "path": "max397574/startup.nvim",
+            "owner": "max397574",
             "name": "startup.nvim",
             "config": "startup_nvim.lua",
-            "url": "https://github.com/startup-nvim/startup.nvim",
+            "url": "https://github.com/max397574/startup.nvim",
             "description": "The fully customizable greeter for Neovim."
         },
         {
@@ -5711,6 +5719,14 @@
             "description": "Powerful utilities to speed up plugin development."
         },
         {
+            "path": "YaroSpace/lua-console.nvim",
+            "owner": "YaroSpace",
+            "name": "lua-console.nvim",
+            "config": "lua_console_nvim.lua",
+            "url": "https://github.com/YaroSpace/lua-console.nvim",
+            "description": "A handy scratch pad / REPL / debug console for Lua development and Neovim exploration and configuration."
+        },
+        {
             "path": "Olical/aniseed",
             "owner": "Olical",
             "name": "aniseed",
@@ -6461,10 +6477,10 @@
             "description": "Decorate scrollbar."
         },
         {
-            "path": "csessh/stopinser.nvim",
+            "path": "csessh/stopinsert.nvim",
             "owner": "csessh",
-            "name": "stopinser.nvim",
-            "config": "stopinser_nvim.lua",
+            "name": "stopinsert.nvim",
+            "config": "stopinsert_nvim.lua",
             "url": "https://github.com/csessh/stopinsert.nvim",
             "description": "Automatically exit Insert mode after inactivity."
         },
