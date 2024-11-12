@@ -1909,6 +1909,14 @@
             "description": "Telescope plugin for better `rg` flags in `live_grep`."
         },
         {
+            "path": "crispgm/telescope-heading.nvim",
+            "owner": "crispgm",
+            "name": "telescope-heading.nvim",
+            "config": "telescope_heading_nvim.lua",
+            "url": "https://github.com/crispgm/telescope-heading.nvim",
+            "description": "Telescope extension to switch between headings of AsciiDoc, Markdown, Vimdoc, etc."
+        },
+        {
             "path": "nvim-tree/nvim-tree.lua",
             "owner": "nvim-tree",
             "name": "nvim-tree.lua",
@@ -7011,6 +7019,14 @@
             "config": "foldtext_nvim.lua",
             "url": "https://github.com/OXY2DEV/foldtext.nvim",
             "description": "Dynamic & stylized foldtext."
+        },
+        {
+            "path": "tummetott/unimpaired.nvim",
+            "owner": "tummetott",
+            "name": "unimpaired.nvim",
+            "config": "unimpaired_nvim.lua",
+            "url": "https://github.com/tummetott/unimpaired.nvim",
+            "description": "Lua port of [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired)."
         }
     ],
     "Comment": [
