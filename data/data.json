@@ -531,6 +531,14 @@
             "description": "Refactor Python imports on file move/rename."
         },
         {
+            "path": "esmuellert/nvim-eslint",
+            "owner": "esmuellert",
+            "name": "nvim-eslint",
+            "config": "nvim_eslint.lua",
+            "url": "https://github.com/esmuellert/nvim-eslint",
+            "description": "Bundle VSCode ESLint language server and utilize the native LSP client to provide a all-in-one ESLint experience."
+        },
+        {
             "path": "anott03/nvim-lspinstall",
             "owner": "anott03",
             "name": "nvim-lspinstall",
@@ -3915,6 +3923,14 @@
             "description": "Load the file you actually meant to load."
         },
         {
+            "path": "Kurama622/profile.nvim",
+            "owner": "Kurama622",
+            "name": "profile.nvim",
+            "config": "profile_nvim.lua",
+            "url": "https://github.com/Kurama622/profile.nvim",
+            "description": "Your personal homepage."
+        },
+        {
             "path": "nvim-tree/nvim-web-devicons",
             "owner": "nvim-tree",
             "name": "nvim-web-devicons",
@@ -4355,12 +4371,12 @@
             "description": "Unlist hidden buffers matching specified ignore sources."
         },
         {
-            "path": "saifulapm/chartoggle.nvim",
+            "path": "saifulapm/commasemi.nvim",
             "owner": "saifulapm",
-            "name": "chartoggle.nvim",
-            "config": "chartoggle_nvim.lua",
-            "url": "https://github.com/saifulapm/chartoggle.nvim",
-            "description": "Toggle any character at end of line."
+            "name": "commasemi.nvim",
+            "config": "commasemi_nvim.lua",
+            "url": "https://github.com/saifulapm/commasemi.nvim",
+            "description": "Toggle comma and semicolon."
         },
         {
             "path": "stevearc/dressing.nvim",
