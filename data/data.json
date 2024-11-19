@@ -675,14 +675,6 @@
             "description": "ChatGPT like sessions and instructable text/code operations in your favorite editor."
         },
         {
-            "path": "dpayne/CodeGPT.nvim",
-            "owner": "dpayne",
-            "name": "CodeGPT.nvim",
-            "config": "CodeGPT_nvim.lua",
-            "url": "https://github.com/dpayne/CodeGPT.nvim",
-            "description": "Provides commands to interact with ChatGPT, the focus is around code related usages."
-        },
-        {
             "path": "jackMort/ChatGPT.nvim",
             "owner": "jackMort",
             "name": "ChatGPT.nvim",
@@ -5565,6 +5557,14 @@
             "config": "task_nvim.lua",
             "url": "https://github.com/niuiic/task.nvim",
             "description": "Another highly configurable task manager that enables seamless interaction with tasks."
+        },
+        {
+            "path": "chrisgrieser/nvim-justice",
+            "owner": "chrisgrieser",
+            "name": "nvim-justice",
+            "config": "nvim_justice.lua",
+            "url": "https://github.com/chrisgrieser/nvim-justice",
+            "description": "Lightweight integration of the `just` task runner."
         },
         {
             "path": "folke/lazydev.nvim",
