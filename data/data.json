@@ -1057,6 +1057,14 @@
             "description": "A fast Neovim HTTP client written in Lua."
         },
         {
+            "path": "lima1909/resty.nvim",
+            "owner": "lima1909",
+            "name": "resty.nvim",
+            "config": "resty_nvim.lua",
+            "url": "https://github.com/lima1909/resty.nvim",
+            "description": "Fast and easy-to-use HTTP-Rest-Client."
+        },
+        {
             "path": "mistweaverco/kulala.nvim",
             "owner": "mistweaverco",
             "name": "kulala.nvim",
