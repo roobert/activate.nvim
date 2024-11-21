@@ -6033,12 +6033,12 @@
             "description": "A fully featured GitHub integration for performing code reviews."
         },
         {
-            "path": "topaxi/gh-actions.nvim",
+            "path": "topaxi/pipeline.nvim",
             "owner": "topaxi",
-            "name": "gh-actions.nvim",
-            "config": "gh_actions_nvim.lua",
-            "url": "https://github.com/topaxi/gh-actions.nvim",
-            "description": "View and dispatch GitHub Actions workflow runs."
+            "name": "pipeline.nvim",
+            "config": "pipeline_nvim.lua",
+            "url": "https://github.com/topaxi/pipeline.nvim",
+            "description": "View and dispatch GitHub Actions workflow and GitLab CI pipeline runs."
         },
         {
             "path": "rawnly/gist.nvim",
