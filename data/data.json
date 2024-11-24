@@ -1709,6 +1709,14 @@
             "description": "Improved global marks and project wide bookmarks, to quickly navigate files."
         },
         {
+            "path": "you-n-g/navigate-note.nvim",
+            "owner": "you-n-g",
+            "name": "navigate-note.nvim",
+            "config": "navigate_note_nvim.lua",
+            "url": "https://github.com/you-n-g/navigate-note.nvim",
+            "description": " Integrating note-taking capabilities with navigation/marking. "
+        },
+        {
             "path": "kevinhwang91/nvim-hlslens",
             "owner": "kevinhwang91",
             "name": "nvim-hlslens",
