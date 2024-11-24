@@ -5755,7 +5755,7 @@
             "owner": "2KAbhishek",
             "name": "utils.nvim",
             "config": "utils_nvim.lua",
-            "url": "https://github.com/2kabhishek/utils.nvim",
+            "url": "https://github.com/2KAbhishek/utils.nvim",
             "description": "Powerful utilities to speed up plugin development."
         },
         {
@@ -6053,7 +6053,7 @@
             "owner": "2KAbhishek",
             "name": "octohub.nvim",
             "config": "octohub_nvim.lua",
-            "url": "https://github.com/2kabhishek/octohub.nvim",
+            "url": "https://github.com/2KAbhishek/octohub.nvim",
             "description": "Access all your gihub repos, stats and more in simple keystrokes."
         },
         {
@@ -7789,6 +7789,14 @@
             "description": "Solve Leetcode problems."
         },
         {
+            "path": "2KAbhishek/exercism.nvim",
+            "owner": "2KAbhishek",
+            "name": "exercism.nvim",
+            "config": "exercism_nvim.lua",
+            "url": "https://github.com/2KAbhishek/exercism.nvim",
+            "description": "Browse and solve Exercism problems."
+        },
+        {
             "path": "m4xshen/hardtime.nvim",
             "owner": "m4xshen",
             "name": "hardtime.nvim",
@@ -8149,7 +8157,7 @@
             "owner": "2KAbhishek",
             "name": "template.nvim",
             "config": "template_nvim.lua",
-            "url": "https://github.com/2kabhishek/template.nvim",
+            "url": "https://github.com/2KAbhishek/template.nvim",
             "description": "Opinionated template for starting plugin dev quickly."
         }
     ],
