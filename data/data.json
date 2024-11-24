@@ -59,6 +59,14 @@
     ],
     "(requires Neovim 0.5)": [
         {
+            "path": "Dan7h3x/signup.nvim",
+            "owner": "Dan7h3x",
+            "name": "signup.nvim",
+            "config": "signup_nvim.lua",
+            "url": "https://github.com/Dan7h3x/signup.nvim",
+            "description": "a little smart `lsp_signature` helper with awesome features."
+        },
+        {
             "path": "neovim/nvim-lspconfig",
             "owner": "neovim",
             "name": "nvim-lspconfig",
@@ -4981,6 +4989,14 @@
             "description": "An asynchronous CSV/TSV table viewer with real-time updates, configurable comments and delimiters, and multiple display modes."
         },
         {
+            "path": "Dan7h3x/neaterm.nvim",
+            "owner": "Dan7h3x",
+            "name": "neaterm.nvim",
+            "config": "neaterm_nvim.lua",
+            "url": "https://github.com/Dan7h3x/neaterm.nvim",
+            "description": "A little smart terminal/REPL manager with awesome features."
+        },
+        {
             "path": "LoricAndre/OneTerm.nvim",
             "owner": "LoricAndre",
             "name": "OneTerm.nvim",
@@ -5580,7 +5596,7 @@
             "name": "lazydev.nvim",
             "config": "lazydev_nvim.lua",
             "url": "https://github.com/folke/lazydev.nvim",
-            "description": " Faster LuaLS setup."
+            "description": "Faster LuaLS setup."
         },
         {
             "path": "nvim-neorocks/luarocks-tag-release",
@@ -6416,7 +6432,7 @@
             "name": "layers.nvim",
             "config": "layers_nvim.lua",
             "url": "https://github.com/debugloop/layers.nvim",
-            "description": " Craft temporary keymap overlays and layered modes with ease."
+            "description": "Craft temporary keymap overlays and layered modes with ease."
         },
         {
             "path": "notomo/gesture.nvim",
@@ -8255,7 +8271,7 @@
             "owner": "",
             "name": "Nvim-training",
             "config": "Nvim_training.lua",
-            "url": " https://github.com/Weyaaron/nvim-training",
+            "url": "https://github.com/Weyaaron/nvim-training",
             "description": "A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks."
         }
     ]
