@@ -6081,6 +6081,14 @@
             "description": "Access all your gihub repos, stats and more in simple keystrokes."
         },
         {
+            "path": "claydugo/browsher.nvim",
+            "owner": "claydugo",
+            "name": "browsher.nvim",
+            "config": "browsher_nvim.lua",
+            "url": "https://github.com/claydugo/browsher.nvim",
+            "description": "Create commit pinned links to GitHub hosted files/lines. Avoid stale links."
+        },
+        {
             "path": "tris203/precognition.nvim",
             "owner": "tris203",
             "name": "precognition.nvim",
