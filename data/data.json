@@ -2347,6 +2347,14 @@
             "config": "tiny_devicons_auto_colors_nvim.lua",
             "url": "https://github.com/rachartier/tiny-devicons-auto-colors.nvim",
             "description": "Automatically updates nvim-web-devicons colors based on your current colorscheme."
+        },
+        {
+            "path": "TaDaa/vimade",
+            "owner": "TaDaa",
+            "name": "vimade",
+            "config": "vimade.lua",
+            "url": "https://github.com/TaDaa/vimade",
+            "description": "Dim, fade, tint, animate, and customize colors in your windows and buffers."
         }
     ],
     "Tree-sitter Supported Colorscheme": [
