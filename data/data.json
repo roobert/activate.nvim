@@ -3506,7 +3506,7 @@
             "name": "themify.nvim",
             "config": "themify_nvim.lua",
             "url": "https://github.com/LmanTW/themify.nvim/tree/main",
-            "description": "A colorscheme manager and switcher. Inspired by Themery.nvim and Lazy.nvim."
+            "description": "A lightweight colorscheme manager and switcher inspired by Themery.nvim and Lazy.nvim."
         },
         {
             "path": "Bekaboo/deadcolumn.nvim",
