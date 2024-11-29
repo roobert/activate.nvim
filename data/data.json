@@ -5759,6 +5759,14 @@
             "description": "Adds support for Structured Async/Concurrency in Lua."
         },
         {
+            "path": "gregorias/coop.nvim",
+            "owner": "gregorias",
+            "name": "coop.nvim",
+            "config": "coop_nvim.lua",
+            "url": "https://github.com/gregorias/coop.nvim",
+            "description": "Structured concurrency with Lua coroutines."
+        },
+        {
             "path": "CWood-sdf/banana.nvim",
             "owner": "CWood-sdf",
             "name": "banana.nvim",
