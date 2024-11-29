@@ -7333,6 +7333,14 @@
             "config": "guard_nvim.lua",
             "url": "https://github.com/nvimdev/guard.nvim",
             "description": "Minimalist async formatting and linting plugin."
+        },
+        {
+            "path": "paul-louyot/toggle-quotes.nvim",
+            "owner": "paul-louyot",
+            "name": "toggle-quotes.nvim",
+            "config": "toggle_quotes_nvim.lua",
+            "url": "https://github.com/paul-louyot/toggle-quotes.nvim",
+            "description": "Toggle between quotes."
         }
     ],
     "Indent": [
