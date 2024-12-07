@@ -667,6 +667,14 @@
             "description": "Fully featured Lua replacement for [GitHub/copilot.vim](https://github.com/github/copilot.vim)."
         },
         {
+            "path": "brianaung/compl.nvim",
+            "owner": "brianaung",
+            "name": "compl.nvim",
+            "config": "compl_nvim.lua",
+            "url": "https://github.com/brianaung/compl.nvim",
+            "description": "A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism."
+        },
+        {
             "path": "Aaronik/GPTModels.nvim",
             "owner": "Aaronik",
             "name": "GPTModels.nvim",
