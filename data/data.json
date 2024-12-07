@@ -5887,6 +5887,14 @@
             "description": "Show Git blame info."
         },
         {
+            "path": "trevorhauter/gitportal.nvim",
+            "owner": "trevorhauter",
+            "name": "gitportal.nvim",
+            "config": "gitportal_nvim.lua",
+            "url": "https://github.com/trevorhauter/gitportal.nvim",
+            "description": "Generate Git permalinks, open them in your browser, load files locally from permalinks, and more."
+        },
+        {
             "path": "lewis6991/gitsigns.nvim",
             "owner": "lewis6991",
             "name": "gitsigns.nvim",
@@ -7761,6 +7769,14 @@
             "config": "slimux_nvim.lua",
             "url": "https://github.com/EvWilson/slimux.nvim",
             "description": "Send content from the current buffer to a configurable tmux pane."
+        },
+        {
+            "path": "juselara1/tmutils.nvim",
+            "owner": "juselara1",
+            "name": "tmutils.nvim",
+            "config": "tmutils_nvim.lua",
+            "url": "https://github.com/juselara1/tmutils.nvim",
+            "description": "Tmux utilities that enable sending lines, capturing content, creating terminals, and managing REPLs."
         },
         {
             "path": "ThePrimeagen/vim-be-good",
