@@ -827,6 +827,14 @@
             "description": "Enrich context for LLM with LSP hover added to clipboard."
         },
         {
+            "path": "supermaven-inc/supermaven-nvim",
+            "owner": "supermaven-inc",
+            "name": "supermaven-nvim",
+            "config": "supermaven_nvim.lua",
+            "url": "https://github.com/supermaven-inc/supermaven-nvim",
+            "description": "The fastest copilot, brought to you by [Supermaven](https://supermaven.com/)."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
