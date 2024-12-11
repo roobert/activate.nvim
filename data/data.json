@@ -969,6 +969,14 @@
             "config": "whichpy_nvim.lua",
             "url": "https://github.com/neolooong/whichpy.nvim",
             "description": "Switch Python interpreter without restarting LSP."
+        },
+        {
+            "path": "nvim-java/nvim-java",
+            "owner": "nvim-java",
+            "name": "nvim-java",
+            "config": "nvim_java.lua",
+            "url": "https://github.com/nvim-java/nvim-java",
+            "description": "Everything you need for a painless Java experience."
         }
     ],
     "Golang": [
