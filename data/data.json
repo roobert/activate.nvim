@@ -6343,6 +6343,14 @@
             "config": "treesitter_outer.lua",
             "url": "https://github.com/Mr-LLLLL/treesitter-outer",
             "description": "Jump to outer node with smart."
+        },
+        {
+            "path": "DanilaMihailov/beacon.nvim",
+            "owner": "DanilaMihailov",
+            "name": "beacon.nvim",
+            "config": "beacon_nvim.lua",
+            "url": "https://github.com/DanilaMihailov/beacon.nvim",
+            "description": "Highlights cursor when it moves, changes windows and more. Inspired by Emacs beacon package."
         }
     ],
     "Tree-sitter Based": [
@@ -7865,6 +7873,14 @@
             "config": "sudoku_nvim.lua",
             "url": "https://github.com/jim-fx/sudoku.nvim",
             "description": "Classic sudoku puzzle."
+        },
+        {
+            "path": "csessh/aoc.vim",
+            "owner": "csessh",
+            "name": "aoc.vim",
+            "config": "aoc_vim.lua",
+            "url": "https://github.com/csessh/aoc.nvim",
+            "description": "Simple little elf who fetches Advent of Code puzzle input for you."
         }
     ],
     "Competitive Programming": [
