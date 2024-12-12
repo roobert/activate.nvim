@@ -6351,6 +6351,14 @@
             "config": "beacon_nvim.lua",
             "url": "https://github.com/DanilaMihailov/beacon.nvim",
             "description": "Highlights cursor when it moves, changes windows and more. Inspired by Emacs beacon package."
+        },
+        {
+            "path": "Aaronik/Treewalker.nvim",
+            "owner": "Aaronik",
+            "name": "Treewalker.nvim",
+            "config": "Treewalker_nvim.lua",
+            "url": "https://github.com/aaronik/Treewalker.nvim",
+            "description": "Move seamlessly around the abstract syntax tree."
         }
     ],
     "Tree-sitter Based": [
