@@ -6359,6 +6359,14 @@
             "config": "Treewalker_nvim.lua",
             "url": "https://github.com/aaronik/Treewalker.nvim",
             "description": "Move seamlessly around the abstract syntax tree."
+        },
+        {
+            "path": "sphamba/smear-cursor.nvim",
+            "owner": "sphamba",
+            "name": "smear-cursor.nvim",
+            "config": "smear_cursor_nvim.lua",
+            "url": "https://github.com/sphamba/smear-cursor.nvim",
+            "description": "Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor."
         }
     ],
     "Tree-sitter Based": [
