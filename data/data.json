@@ -835,6 +835,14 @@
             "description": "The fastest copilot, brought to you by [Supermaven](https://supermaven.com/)."
         },
         {
+            "path": "milanglacier/yarepl.nvim#aider-extensions",
+            "owner": "milanglacier",
+            "name": "yarepl.nvim#aider-extensions",
+            "config": "yarepl_nvim#aider_extensions.lua",
+            "url": "https://github.com/milanglacier/yarepl.nvim/blob/main/extensions/README.md",
+            "description": "Integration with [aider-chat](https://aider.chat), a TUI AI coding assistant."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
@@ -4993,6 +5001,14 @@
             "config": "arena_nvim.lua",
             "url": "https://github.com/dzfrias/arena.nvim",
             "description": "A smart (frecency-based) buffer switcher."
+        },
+        {
+            "path": "MisanthropicBit/decipher.nvim",
+            "owner": "MisanthropicBit",
+            "name": "decipher.nvim",
+            "config": "decipher_nvim.lua",
+            "url": "https://github.com/MisanthropicBit/decipher.nvim",
+            "description": "Encode and decode text using various codecs such as base64."
         }
     ],
     "CSV Files": [
@@ -6483,6 +6499,14 @@
             "description": "Create shortcuts to escape insert mode without getting delay."
         },
         {
+            "path": "TheBlob42/houdini.nvim",
+            "owner": "TheBlob42",
+            "name": "houdini.nvim",
+            "config": "houdini_nvim.lua",
+            "url": "https://github.com/TheBlob42/houdini.nvim",
+            "description": "Create shortcut to escape modes without delay."
+        },
+        {
             "path": "Nexmean/caskey.nvim",
             "owner": "Nexmean",
             "name": "caskey.nvim",
@@ -7743,6 +7767,14 @@
             "config": "nwm.lua",
             "url": "https://github.com/altermo/nwm",
             "description": "X11 window manager."
+        },
+        {
+            "path": "MisanthropicBit/winmove.nvim",
+            "owner": "MisanthropicBit",
+            "name": "winmove.nvim",
+            "config": "winmove_nvim.lua",
+            "url": "https://github.com/MisanthropicBit/winmove.nvim",
+            "description": "Easily move, swap, and resize windows."
         }
     ],
     "Tmux": [
