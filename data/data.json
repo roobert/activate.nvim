@@ -6257,11 +6257,11 @@
             "description": "Add fancy sub-cursor to signcolumn to show your scroll or jump direction."
         },
         {
-            "path": "edluffy/specs.nvim",
-            "owner": "edluffy",
+            "path": "cxwx/specs.nvim",
+            "owner": "cxwx",
             "name": "specs.nvim",
             "config": "specs_nvim.lua",
-            "url": "https://github.com/edluffy/specs.nvim",
+            "url": "https://github.com/cxwx/specs.nvim",
             "description": "A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped."
         },
         {
