@@ -7187,6 +7187,14 @@
             "config": "yanklock_nvim.lua",
             "url": "https://github.com/daltongd/yanklock.nvim",
             "description": "Temporarily lock the paste register to `\"0`, and use `d`, `c`, and `s` motions while keeping the most recent yanked content easily accessible."
+        },
+        {
+            "path": "zongben/capsoff.nvim",
+            "owner": "zongben",
+            "name": "capsoff.nvim",
+            "config": "capsoff_nvim.lua",
+            "url": "https://github.com/zongben/capsoff.nvim",
+            "description": "Turns off CapsLock when you leaving insert mode."
         }
     ],
     "Comment": [
