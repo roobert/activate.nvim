@@ -1509,6 +1509,14 @@
             "description": "A snippet engine written in Lua."
         },
         {
+            "path": "echasnovski/mini.snippets",
+            "owner": "echasnovski",
+            "name": "mini.snippets",
+            "config": "mini_snippets.lua",
+            "url": "https://github.com/echasnovski/mini.snippets",
+            "description": "Module of `mini.nvim` to manage and expand snippets. Supports LSP snippet syntax, flexible loaders, fuzzy prefix matching, interactive selection, snippet session with rich visualization, and more."
+        },
+        {
             "path": "smjonas/snippet-converter.nvim",
             "owner": "smjonas",
             "name": "snippet-converter.nvim",
@@ -4481,6 +4489,14 @@
             "config": "urlview_nvim.lua",
             "url": "https://github.com/axieax/urlview.nvim",
             "description": "Browse all URLs in the current buffer."
+        },
+        {
+            "path": "cxwx/lazyUrlUpdate.nvim",
+            "owner": "cxwx",
+            "name": "lazyUrlUpdate.nvim",
+            "config": "lazyUrlUpdate_nvim.lua",
+            "url": "https://github.com/cxwx/lazyUrlUpdate.nvim",
+            "description": "Update plugin under cursor by `lazy.nvim`."
         },
         {
             "path": "nkakouros-original/numbers.nvim",
