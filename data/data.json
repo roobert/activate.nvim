@@ -1757,6 +1757,14 @@
             "description": " Integrating note-taking capabilities with navigation/marking. "
         },
         {
+            "path": "zongben/navimark.nvim",
+            "owner": "zongben",
+            "name": "navimark.nvim",
+            "config": "navimark_nvim.lua",
+            "url": "https://github.com/zongben/navimark.nvim",
+            "description": "An easy and powerful bookmark manager with telescope."
+        },
+        {
             "path": "kevinhwang91/nvim-hlslens",
             "owner": "kevinhwang91",
             "name": "nvim-hlslens",
@@ -2261,12 +2269,12 @@
             "description": "All you need is just an easier way to `cd` to another project directory."
         },
         {
-            "path": "NvChad/nvim-colorizer.lua",
-            "owner": "NvChad",
+            "path": "catgoose/nvim-colorizer.lua",
+            "owner": "catgoose",
             "name": "nvim-colorizer.lua",
             "config": "nvim_colorizer_lua.lua",
-            "url": "https://github.com/NvChad/nvim-colorizer.lua",
-            "description": "A high-performance color highlighter which has no external dependencies!."
+            "url": "https://github.com/catgoose/nvim-colorizer.lua",
+            "description": "A high-performance color highlighter which has no external dependencies."
         },
         {
             "path": "winston0410/range-highlight.nvim",
@@ -4323,6 +4331,14 @@
             "description": "A super fast minimal scratchpad management plugin, biew biew biew."
         },
         {
+            "path": "athar-qadri/scratchpad.nvim",
+            "owner": "athar-qadri",
+            "name": "scratchpad.nvim",
+            "config": "scratchpad_nvim.lua",
+            "url": "https://github.com/athar-qadri/scratchpad.nvim",
+            "description": "Effortlessly manage scratchpads within your favorite editor."
+        },
+        {
             "path": "gaborvecsei/usage-tracker.nvim",
             "owner": "gaborvecsei",
             "name": "usage-tracker.nvim",
@@ -5243,6 +5259,14 @@
             "config": "yeet_nvim.lua",
             "url": "https://github.com/samharju/yeet.nvim",
             "description": "Run shell commands in terminal buffers or tmux panes."
+        },
+        {
+            "path": "isak102/ghostty.nvim",
+            "owner": "isak102",
+            "name": "ghostty.nvim",
+            "config": "ghostty_nvim.lua",
+            "url": "https://github.com/isak102/ghostty.nvim",
+            "description": "Automatically validate your Ghostty configuration on save."
         },
         {
             "path": "mfussenegger/nvim-dap",
@@ -7211,6 +7235,14 @@
             "config": "capsoff_nvim.lua",
             "url": "https://github.com/zongben/capsoff.nvim",
             "description": "Turns off CapsLock when you leaving insert mode."
+        },
+        {
+            "path": "kobbikobb/move-lines.nvim",
+            "owner": "kobbikobb",
+            "name": "move-lines.nvim",
+            "config": "move_lines_nvim.lua",
+            "url": "https://github.com/kobbikobb/move-lines.nvim",
+            "description": "Moves lines selected in virtual mode."
         }
     ],
     "Comment": [
