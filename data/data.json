@@ -1482,7 +1482,7 @@
             "name": "agrolens.nvim",
             "config": "agrolens_nvim.lua",
             "url": "https://github.com/desdic/agrolens.nvim",
-            "description": "Navigate via Tree-sitter nodes using Telescope."
+            "description": "Navigate via Tree-sitter nodes using Telescope or FZF."
         },
         {
             "path": "IndianBoy42/tree-sitter-just",
