@@ -7625,6 +7625,14 @@
             "description": "Simple session management with Git branching, autosave/autoload and Telescope support."
         },
         {
+            "path": "folke/persistence.nvim",
+            "owner": "folke",
+            "name": "persistence.nvim",
+            "config": "persistence_nvim.lua",
+            "url": "https://github.com/folke/persistence.nvim",
+            "description": "Simple automated session management."
+        },
+        {
             "path": "Shatur/neovim-session-manager",
             "owner": "Shatur",
             "name": "neovim-session-manager",
