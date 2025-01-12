@@ -5967,6 +5967,14 @@
             "description": "Import modules faster based on what you've already imported in your project."
         },
         {
+            "path": "mrloop/telescope-git-branch.nvim",
+            "owner": "mrloop",
+            "name": "telescope-git-branch.nvim",
+            "config": "telescope_git_branch_nvim.lua",
+            "url": "https://github.com/mrloop/telescope-git-branch.nvim",
+            "description": "A telescope picker to find which files and preview what changes have been made to your git branch across multiple commits."
+        },
+        {
             "path": "f-person/git-blame.nvim",
             "owner": "f-person",
             "name": "git-blame.nvim",
@@ -7847,6 +7855,14 @@
             "config": "winmove_nvim.lua",
             "url": "https://github.com/MisanthropicBit/winmove.nvim",
             "description": "Easily move, swap, and resize windows."
+        },
+        {
+            "path": "ycdzj/win-mover.nvim",
+            "owner": "ycdzj",
+            "name": "win-mover.nvim",
+            "config": "win_mover_nvim.lua",
+            "url": "https://github.com/ycdzj/win-mover.nvim",
+            "description": "Window mover that avoids moving side windows."
         }
     ],
     "Tmux": [
