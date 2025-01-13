@@ -5049,6 +5049,14 @@
             "config": "decipher_nvim.lua",
             "url": "https://github.com/MisanthropicBit/decipher.nvim",
             "description": "Encode and decode text using various codecs such as base64."
+        },
+        {
+            "path": "philosofonusus/ecolog.nvim",
+            "owner": "philosofonusus",
+            "name": "ecolog.nvim",
+            "config": "ecolog_nvim.lua",
+            "url": "https://github.com/philosofonusus/ecolog.nvim",
+            "description": "Sophisticated all-in-one toolkit to work with `.env` files and environment variables."
         }
     ],
     "CSV Files": [
