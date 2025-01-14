@@ -3619,6 +3619,14 @@
             "config": "statuscol_nvim.lua",
             "url": "https://github.com/luukvbaal/statuscol.nvim",
             "description": "Configurable 'statuscolumn' with builtin segments and click handlers."
+        },
+        {
+            "path": "mawkler/hml.nvim",
+            "owner": "mawkler",
+            "name": "hml.nvim",
+            "config": "hml_nvim.lua",
+            "url": "https://github.com/mawkler/hml.nvim",
+            "description": "Adds `H`/`M`/`L` indicators to your line numbers."
         }
     ],
     "Statusline": [
