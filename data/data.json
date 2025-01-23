@@ -1369,6 +1369,14 @@
             "config": "table_nvim.lua",
             "url": "https://github.com/SCJangra/table-nvim",
             "description": "A markdown table editor that formats the table as you type."
+        },
+        {
+            "path": "nvim-telescope/telescope-bibtex.nvim",
+            "owner": "nvim-telescope",
+            "name": "telescope-bibtex.nvim",
+            "config": "telescope_bibtex_nvim.lua",
+            "url": "https://github.com/nvim-telescope/telescope-bibtex.nvim",
+            "description": "Telescope extension to search and paste BibTeX entries into your TeX files."
         }
     ],
     "PHP": [
@@ -1754,7 +1762,7 @@
             "name": "navigate-note.nvim",
             "config": "navigate_note_nvim.lua",
             "url": "https://github.com/you-n-g/navigate-note.nvim",
-            "description": " Integrating note-taking capabilities with navigation/marking. "
+            "description": " Integrating note-taking capabilities with navigation/marking."
         },
         {
             "path": "zongben/navimark.nvim",
@@ -1763,6 +1771,14 @@
             "config": "navimark_nvim.lua",
             "url": "https://github.com/zongben/navimark.nvim",
             "description": "An easy and powerful bookmark manager with telescope."
+        },
+        {
+            "path": "wurli/visimatch.nvim",
+            "owner": "wurli",
+            "name": "visimatch.nvim",
+            "config": "visimatch_nvim.lua",
+            "url": "https://github.com/wurli/visimatch.nvim",
+            "description": "Adds highlights to any text matching the current selection in visual mode."
         },
         {
             "path": "kevinhwang91/nvim-hlslens",
@@ -2275,6 +2291,14 @@
             "config": "headers_nvim.lua",
             "url": "https://github.com/LucasTavaresA/headers.nvim",
             "description": "Zero-config header/footer warnings."
+        },
+        {
+            "path": "zongben/proot.nvim",
+            "owner": "zongben",
+            "name": "proot.nvim",
+            "config": "proot_nvim.lua",
+            "url": "https://github.com/zongben/proot.nvim",
+            "description": "Lightweight project navigator with telescope."
         },
         {
             "path": "catgoose/nvim-colorizer.lua",
@@ -3389,6 +3413,14 @@
             "config": "finale_nvim.lua",
             "url": "https://gitlab.com/bartekjaszczak/finale-nvim",
             "description": "A balanced dark theme, blending vivid and pastel colors for a comfortable, high-contrast experience. Supports Tree-sitter and semantic highlighting."
+        },
+        {
+            "path": "m15a/nvim-srcerite",
+            "owner": "m15a",
+            "name": "nvim-srcerite",
+            "config": "nvim_srcerite.lua",
+            "url": "https://github.com/m15a/nvim-srcerite",
+            "description": "A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`."
         }
     ],
     "Lua Colorscheme": [
@@ -3883,11 +3915,11 @@
     ],
     "Cursorline": [
         {
-            "path": "yamatsum/nvim-cursorline",
-            "owner": "yamatsum",
+            "path": "ya2s/nvim-cursorline",
+            "owner": "ya2s",
             "name": "nvim-cursorline",
             "config": "nvim_cursorline.lua",
-            "url": "https://github.com/yamatsum/nvim-cursorline",
+            "url": "https://github.com/ya2s/nvim-cursorline",
             "description": "A plugin that highlights cursor words and lines."
         },
         {
@@ -4035,11 +4067,11 @@
             "description": "Module of `mini.nvim` meant as a general icon provider. Uses fixed set of highlight groups. Supports various categories, icon and style customizations, caching for performance. Integrates with built-in filetype matching."
         },
         {
-            "path": "yamatsum/nvim-nonicons",
-            "owner": "yamatsum",
+            "path": "ya2s/nvim-nonicons",
+            "owner": "ya2s",
             "name": "nvim-nonicons",
             "config": "nvim_nonicons.lua",
-            "url": "https://github.com/yamatsum/nvim-nonicons",
+            "url": "https://github.com/ya2s/nvim-nonicons",
             "description": "Collection of configurations for nvim-web-devicons."
         },
         {
@@ -4723,6 +4755,14 @@
             "description": "Easily create your own operators (like `d` and `y`)."
         },
         {
+            "path": "mluders/comfy-line-numbers.nvim",
+            "owner": "mluders",
+            "name": "comfy-line-numbers.nvim",
+            "config": "comfy_line_numbers_nvim.lua",
+            "url": "https://github.com/mluders/comfy-line-numbers.nvim",
+            "description": "Limits relative numbers to only show left-hand digits on the keyboard."
+        },
+        {
             "path": "cpea2506/relative-toggle.nvim",
             "owner": "cpea2506",
             "name": "relative-toggle.nvim",
@@ -5065,6 +5105,14 @@
             "config": "ecolog_nvim.lua",
             "url": "https://github.com/philosofonusus/ecolog.nvim",
             "description": "Sophisticated all-in-one toolkit to work with `.env` files and environment variables."
+        },
+        {
+            "path": "MatanyaP/keyboard-guard.nvim",
+            "owner": "MatanyaP",
+            "name": "keyboard-guard.nvim",
+            "config": "keyboard_guard_nvim.lua",
+            "url": "https://github.com/matandd/keyboard-guard.nvim",
+            "description": "Prevents unintended actions when typing in non-English keyboard layouts."
         }
     ],
     "CSV Files": [
@@ -5291,6 +5339,14 @@
             "config": "ghostty_nvim.lua",
             "url": "https://github.com/isak102/ghostty.nvim",
             "description": "Automatically validate your Ghostty configuration on save."
+        },
+        {
+            "path": "laktak/tome",
+            "owner": "laktak",
+            "name": "tome",
+            "config": "tome.lua",
+            "url": "https://github.com/laktak/tome",
+            "description": "Interactive Script playbooks for your terminal (optionally with Tmux)."
         },
         {
             "path": "mfussenegger/nvim-dap",
@@ -5821,14 +5877,6 @@
             "config": "mini_test.lua",
             "url": "https://github.com/echasnovski/mini.test",
             "description": "Module of `mini.nvim` with framework for writing extensive Neovim plugin tests. Supports hierarchical tests, hooks, parametrization, filtering, screen tests, \"busted-style\" emulation, customizable reporters, and more."
-        },
-        {
-            "path": "miversen33/import.nvim",
-            "owner": "miversen33",
-            "name": "import.nvim",
-            "config": "import_nvim.lua",
-            "url": "https://github.com/miversen33/import.nvim",
-            "description": "A safe require replacement with niceties."
         },
         {
             "path": "ray-x/guihua.lua",
@@ -6715,6 +6763,14 @@
             "config": "satellite_nvim.lua",
             "url": "https://github.com/lewis6991/satellite.nvim",
             "description": "Decorate scrollbar."
+        },
+        {
+            "path": "wurli/split.nvim",
+            "owner": "wurli",
+            "name": "split.nvim",
+            "config": "split_nvim.lua",
+            "url": "https://github.com/wurli/split.nvim",
+            "description": "Provides a mapping to split text by delimiter, giving an inverse of the native J command."
         },
         {
             "path": "csessh/stopinsert.nvim",
