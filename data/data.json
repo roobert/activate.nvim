@@ -2435,6 +2435,14 @@
             "config": "vimade.lua",
             "url": "https://github.com/TaDaa/vimade",
             "description": "Dim, fade, tint, animate, and customize colors in your windows and buffers."
+        },
+        {
+            "path": "xzbdmw/colorful-menu.nvim",
+            "owner": "xzbdmw",
+            "name": "colorful-menu.nvim",
+            "config": "colorful_menu_nvim.lua",
+            "url": "https://github.com/xzbdmw/colorful-menu.nvim",
+            "description": "Colorize your auto completion menu using Tree-sitter."
         }
     ],
     "Tree-sitter Supported Colorscheme": [
@@ -5105,14 +5113,6 @@
             "config": "ecolog_nvim.lua",
             "url": "https://github.com/philosofonusus/ecolog.nvim",
             "description": "Sophisticated all-in-one toolkit to work with `.env` files and environment variables."
-        },
-        {
-            "path": "MatanyaP/keyboard-guard.nvim",
-            "owner": "MatanyaP",
-            "name": "keyboard-guard.nvim",
-            "config": "keyboard_guard_nvim.lua",
-            "url": "https://github.com/matandd/keyboard-guard.nvim",
-            "description": "Prevents unintended actions when typing in non-English keyboard layouts."
         }
     ],
     "CSV Files": [
