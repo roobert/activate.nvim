@@ -4891,6 +4891,14 @@
             "description": "Create and manage scratch files."
         },
         {
+            "path": "0xJohnnyboy/scretch.nvim",
+            "owner": "0xJohnnyboy",
+            "name": "scretch.nvim",
+            "config": "scretch_nvim.lua",
+            "url": "https://github.com/0xJohnnyboy/scretch.nvim",
+            "description": "Create and manage scratch files, scratch templates, with picker integrations."
+        },
+        {
             "path": "JMarkin/gentags.lua",
             "owner": "JMarkin",
             "name": "gentags.lua",
