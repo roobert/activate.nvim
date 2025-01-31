@@ -851,6 +851,22 @@
             "description": "Integration with [aider-chat](https://aider.chat), a TUI AI coding assistant."
         },
         {
+            "path": "Davidyz/VectorCode",
+            "owner": "Davidyz",
+            "name": "VectorCode",
+            "config": "VectorCode.lua",
+            "url": "https://github.com/davidyz/vectorcode",
+            "description": "Supercharge your LLM experience with repository-level RAG."
+        },
+        {
+            "path": "dlants/magenta.nvim",
+            "owner": "dlants",
+            "name": "magenta.nvim",
+            "config": "magenta_nvim.lua",
+            "url": "https://github.com/dlants/magenta.nvim",
+            "description": "Leverage coding assistants for chat and code generation. Provides tools for the AI/LLM agent to explore and edit your code, like Aider, Cursor and Windsurf."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
@@ -4227,6 +4243,14 @@
             "description": "Web feed reader written in Lua (RSS, atom, json feed)."
         },
         {
+            "path": "lfilho/note2cal.nvim",
+            "owner": "lfilho",
+            "name": "note2cal.nvim",
+            "config": "note2cal_nvim.lua",
+            "url": "https://github.com/lfilho/note2cal.nvim",
+            "description": "Quickly send events from your notes to your calendar (i.e. `Do something @ 3pm-3pm` --> will block that time on your calendar."
+        },
+        {
             "path": "0styx0/abbreinder.nvim",
             "owner": "0styx0",
             "name": "abbreinder.nvim",
@@ -5129,6 +5153,14 @@
             "config": "ecolog_nvim.lua",
             "url": "https://github.com/philosofonusus/ecolog.nvim",
             "description": "Sophisticated all-in-one toolkit to work with `.env` files and environment variables."
+        },
+        {
+            "path": "theKnightsOfRohan/hexer.nvim",
+            "owner": "theKnightsOfRohan",
+            "name": "hexer.nvim",
+            "config": "hexer_nvim.lua",
+            "url": "https://github.com/theKnightsOfRohan/hexer.nvim",
+            "description": "Easily convert between binary representations without a conversion table."
         }
     ],
     "CSV Files": [
@@ -5459,6 +5491,14 @@
             "config": "visidata_nvim.lua",
             "url": "https://github.com/Willem-J-an/visidata.nvim",
             "description": "Render pandas dataframes in nvim-dap using the power of visidata."
+        },
+        {
+            "path": "igorlfs/nvim-dap-view",
+            "owner": "igorlfs",
+            "name": "nvim-dap-view",
+            "config": "nvim_dap_view.lua",
+            "url": "https://github.com/igorlfs/nvim-dap-view",
+            "description": "A modern, minimalistic UI for nvim-dap."
         }
     ],
     "Quickfix": [
