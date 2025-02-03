@@ -3759,14 +3759,6 @@
             "description": "A modern lightweight statusline in Lua. Mainly uses unicode symbols for showing info."
         },
         {
-            "path": "freddiehaddad/feline.nvim",
-            "owner": "freddiehaddad",
-            "name": "feline.nvim",
-            "config": "feline_nvim.lua",
-            "url": "https://github.com/freddiehaddad/feline.nvim",
-            "description": "A minimal, stylish and customizable statusline written in Lua."
-        },
-        {
             "path": "windwp/windline.nvim",
             "owner": "windwp",
             "name": "windline.nvim",
@@ -4241,6 +4233,14 @@
             "config": "feed_nvim.lua",
             "url": "https://github.com/neo451/feed.nvim",
             "description": "Web feed reader written in Lua (RSS, atom, json feed)."
+        },
+        {
+            "path": "vyfor/cord.nvim",
+            "owner": "vyfor",
+            "name": "cord.nvim",
+            "config": "cord_nvim.lua",
+            "url": "https://github.com/vyfor/cord.nvim",
+            "description": "Highly extensible Rich Presence for Discord."
         },
         {
             "path": "lfilho/note2cal.nvim",
