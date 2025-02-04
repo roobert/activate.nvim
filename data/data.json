@@ -1933,6 +1933,14 @@
             "description": "Search and replace in the current buffer with a modern UI and modern regex flavor. A substitute for Vim's `:substitute` using `ripgrep`."
         },
         {
+            "path": "wsdjeg/flygrep.nvim",
+            "owner": "wsdjeg",
+            "name": "flygrep.nvim",
+            "config": "flygrep_nvim.lua",
+            "url": "https://github.com/wsdjeg/flygrep.nvim",
+            "description": "Search text in a floating window asynchronously."
+        },
+        {
             "path": "nvim-telescope/telescope.nvim",
             "owner": "nvim-telescope",
             "name": "telescope.nvim",
