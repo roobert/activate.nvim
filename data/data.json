@@ -800,7 +800,7 @@
             "name": "minuet-ai.nvim",
             "config": "minuet_ai_nvim.lua",
             "url": "https://github.com/milanglacier/minuet-ai.nvim",
-            "description": "Minuet offers code completion from popular LLMs including OpenAI (compatible), Gemini, Claude, and more providers. Dance with intelligence in your code."
+            "description": "Minuet offers code completion from LLM providers including OpenAI (compatible), Gemini, Claude, Ollama, Deepseek and more providers, with support for nvim-cmp, blink.cmp and virtual-text frontend."
         },
         {
             "path": "yetone/avante.nvim",
@@ -5996,7 +5996,7 @@
             "name": "helpview.nvim",
             "config": "helpview_nvim.lua",
             "url": "https://github.com/OXY2DEV/helpview.nvim",
-            "description": "Decorations for `vimdoc/help` files."
+            "description": "A hackable & fancy `vimdoc/help` file viewer."
         },
         {
             "path": "niuiic/omega.nvim",
