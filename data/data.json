@@ -1401,6 +1401,14 @@
             "config": "telescope_bibtex_nvim.lua",
             "url": "https://github.com/nvim-telescope/telescope-bibtex.nvim",
             "description": "Telescope extension to search and paste BibTeX entries into your TeX files."
+        },
+        {
+            "path": "Thiago4532/mdmath.nvim",
+            "owner": "Thiago4532",
+            "name": "mdmath.nvim",
+            "config": "mdmath_nvim.lua",
+            "url": "https://github.com/Thiago4532/mdmath.nvim",
+            "description": "A markdown equation previewer, using Kitty Graphics Protocol."
         }
     ],
     "PHP": [
@@ -3461,6 +3469,14 @@
             "config": "nvim_srcerite.lua",
             "url": "https://github.com/m15a/nvim-srcerite",
             "description": "A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`."
+        },
+        {
+            "path": "neko-night/nvim",
+            "owner": "neko-night",
+            "name": "nvim",
+            "config": "nvim.lua",
+            "url": "https://github.com/neko-night/nvim",
+            "description": "A buffet of colorschemes for every taste and mood."
         }
     ],
     "Lua Colorscheme": [
