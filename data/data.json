@@ -2181,6 +2181,14 @@
             "description": "[Ranger](https://github.com/ranger/ranger) integration for Neovim."
         },
         {
+            "path": "mikavilpas/yazi.nvim",
+            "owner": "mikavilpas",
+            "name": "yazi.nvim",
+            "config": "yazi_nvim.lua",
+            "url": "https://github.com/mikavilpas/yazi.nvim",
+            "description": "Integration with the Yazi terminal file manager."
+        },
+        {
             "path": "simonmclean/triptych.nvim",
             "owner": "simonmclean",
             "name": "triptych.nvim",
@@ -5185,6 +5193,14 @@
             "config": "hexer_nvim.lua",
             "url": "https://github.com/theKnightsOfRohan/hexer.nvim",
             "description": "Easily convert between binary representations without a conversion table."
+        },
+        {
+            "path": "rachartier/tiny-glimmer.nvim",
+            "owner": "rachartier",
+            "name": "tiny-glimmer.nvim",
+            "config": "tiny_glimmer_nvim.lua",
+            "url": "https://github.com/rachartier/tiny-glimmer.nvim/",
+            "description": "Adds subtle animations to various operations.  "
         }
     ],
     "CSV Files": [
