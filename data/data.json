@@ -6309,6 +6309,14 @@
             "config": "fugit2_nvim.lua",
             "url": "https://github.com/SuperBo/fugit2.nvim",
             "description": "Git GUI powered by [libgit2](https://libgit2.org)."
+        },
+        {
+            "path": "Yu-Leo/blame-column.nvim",
+            "owner": "Yu-Leo",
+            "name": "blame-column.nvim",
+            "config": "blame_column_nvim.lua",
+            "url": "https://github.com/Yu-Leo/blame-column.nvim",
+            "description": "Show Git blame info."
         }
     ],
     "GitHub": [
