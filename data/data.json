@@ -2221,6 +2221,14 @@
             "description": "Pre-defined file nesting rules for `neo-tree.nvim`."
         },
         {
+            "path": "Enigama/miss.nvim",
+            "owner": "Enigama",
+            "name": "miss.nvim",
+            "config": "miss_nvim.lua",
+            "url": "https://github.com/Enigama/miss.nvim",
+            "description": "Simple popup with changed `unsaved` files, allowing you to save and open them. Helps to avoid forgetting to add something to GitHub or similar."
+        },
+        {
             "path": "pluffie/neoproj",
             "owner": "pluffie",
             "name": "neoproj",
@@ -5201,6 +5209,14 @@
             "config": "tiny_glimmer_nvim.lua",
             "url": "https://github.com/rachartier/tiny-glimmer.nvim/",
             "description": "Adds subtle animations to various operations.  "
+        },
+        {
+            "path": "neanvo/buben.nvim",
+            "owner": "neanvo",
+            "name": "buben.nvim",
+            "config": "buben_nvim.lua",
+            "url": "https://github.com/neanvo/buben.nvim",
+            "description": "Human-readable names to blockchain(eth) addresses."
         }
     ],
     "CSV Files": [
