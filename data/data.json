@@ -867,6 +867,14 @@
             "description": "Leverage coding assistants for chat and code generation. Provides tools for the AI/LLM agent to explore and edit your code, like Aider, Cursor and Windsurf."
         },
         {
+            "path": "claudius.nvim",
+            "owner": "",
+            "name": "claudius.nvim",
+            "config": "claudius_nvim.lua",
+            "url": "https://github.com/StanAngeloff/claudius.nvim",
+            "description": "Text-based interface for chatting with Claude AI directly in your buffer."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
@@ -5217,6 +5225,14 @@
             "config": "buben_nvim.lua",
             "url": "https://github.com/neanvo/buben.nvim",
             "description": "Human-readable names to blockchain(eth) addresses."
+        },
+        {
+            "path": "josephburgess/nvumi",
+            "owner": "josephburgess",
+            "name": "nvumi",
+            "config": "nvumi.lua",
+            "url": "https://github.com/josephburgess/nvumi",
+            "description": "Natural language calculator in a scratch buffer."
         }
     ],
     "CSV Files": [
