@@ -3071,12 +3071,12 @@
             "description": "Neovim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai."
         },
         {
-            "path": "sho-87/kanagawa-paper.nvim",
-            "owner": "sho-87",
+            "path": "thesimonho/kanagawa-paper.nvim",
+            "owner": "thesimonho",
             "name": "kanagawa-paper.nvim",
             "config": "kanagawa_paper_nvim.lua",
-            "url": "https://github.com/sho-87/kanagawa-paper.nvim",
-            "description": "Remixed Kanagawa colourscheme with muted colors."
+            "url": "https://github.com/thesimonho/kanagawa-paper.nvim",
+            "description": "Remixed light and dark Kanagawa colourschemes with muted colors."
         },
         {
             "path": "kevinm6/kurayami.nvim",
