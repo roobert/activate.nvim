@@ -1813,6 +1813,14 @@
             "description": "An easy and powerful bookmark manager with telescope."
         },
         {
+            "path": "francescarpi/buffon.nvim",
+            "owner": "francescarpi",
+            "name": "buffon.nvim",
+            "config": "buffon_nvim.lua",
+            "url": "https://github.com/francescarpi/buffon.nvim",
+            "description": "Buffers navigation, reorganize and close."
+        },
+        {
             "path": "wurli/visimatch.nvim",
             "owner": "wurli",
             "name": "visimatch.nvim",
