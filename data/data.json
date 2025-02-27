@@ -3747,6 +3747,14 @@
             "config": "hml_nvim.lua",
             "url": "https://github.com/mawkler/hml.nvim",
             "description": "Adds `H`/`M`/`L` indicators to your line numbers."
+        },
+        {
+            "path": "neur1n/noline.nvim",
+            "owner": "neur1n",
+            "name": "noline.nvim",
+            "config": "noline_nvim.lua",
+            "url": "https://github.com/neur1n/noline.nvim",
+            "description": "Fully customizable bars and lines components with no presets or constraints. See [construction](https://github.com/neur1n/dotfiles/tree/master/neovim/lua/plugconf/noline) and [setup](https://github.com/neur1n/dotfiles/blob/master/neovim/lua/plugconf/noline.lua) examples."
         }
     ],
     "Statusline": [
