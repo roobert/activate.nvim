@@ -55,6 +55,14 @@
             "config": "mini_deps.lua",
             "url": "https://github.com/echasnovski/mini.deps",
             "description": "Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins."
+        },
+        {
+            "path": "wsdjeg/nvim-plug",
+            "owner": "wsdjeg",
+            "name": "nvim-plug",
+            "config": "nvim_plug.lua",
+            "url": "https://github.com/wsdjeg/nvim-plug",
+            "description": "Asynchronous Neovim plugin manager written in Lua."
         }
     ],
     "(requires Neovim 0.5)": [
@@ -1099,6 +1107,14 @@
             "config": "cmp_go_pkgs.lua",
             "url": "https://github.com/Snikimonkd/cmp-go-pkgs",
             "description": "Cmp source for Go packages names."
+        },
+        {
+            "path": "Yu-Leo/gosigns.nvim",
+            "owner": "Yu-Leo",
+            "name": "gosigns.nvim",
+            "config": "gosigns_nvim.lua",
+            "url": "https://github.com/Yu-Leo/gosigns.nvim",
+            "description": "Visualize some Go hints: struct, interface, and methods implementations; go comments."
         }
     ],
     "YAML": [
@@ -2371,6 +2387,14 @@
             "config": "proot_nvim.lua",
             "url": "https://github.com/zongben/proot.nvim",
             "description": "Lightweight project navigator with telescope."
+        },
+        {
+            "path": "wsdjeg/rooter.nvim",
+            "owner": "wsdjeg",
+            "name": "rooter.nvim",
+            "config": "rooter_nvim.lua",
+            "url": "https://github.com/wsdjeg/rooter.nvim",
+            "description": "Change working directory to project root."
         },
         {
             "path": "catgoose/nvim-colorizer.lua",
