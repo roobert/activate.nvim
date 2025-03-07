@@ -1115,6 +1115,14 @@
             "config": "gosigns_nvim.lua",
             "url": "https://github.com/Yu-Leo/gosigns.nvim",
             "description": "Visualize some Go hints: struct, interface, and methods implementations; go comments."
+        },
+        {
+            "path": "Yu-Leo/cmp-go-pkgs",
+            "owner": "Yu-Leo",
+            "name": "cmp-go-pkgs",
+            "config": "cmp_go_pkgs.lua",
+            "url": "https://github.com/Yu-Leo/cmp-go-pkgs",
+            "description": "Cmp source providing the names of Go packages to import."
         }
     ],
     "YAML": [
@@ -5273,6 +5281,14 @@
             "config": "nvumi.lua",
             "url": "https://github.com/josephburgess/nvumi",
             "description": "Natural language calculator in a scratch buffer."
+        },
+        {
+            "path": "redoxahmii/json-to-types.nvim",
+            "owner": "redoxahmii",
+            "name": "json-to-types.nvim",
+            "config": "json_to_types_nvim.lua",
+            "url": "https://github.com/redoxahmii/json-to-types.nvim",
+            "description": "Convert JSON objects to type definitions for multiple languages."
         }
     ],
     "CSV Files": [
