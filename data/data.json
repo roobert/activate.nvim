@@ -5289,6 +5289,14 @@
             "config": "json_to_types_nvim.lua",
             "url": "https://github.com/redoxahmii/json-to-types.nvim",
             "description": "Convert JSON objects to type definitions for multiple languages."
+        },
+        {
+            "path": "ovk/endec.nvim",
+            "owner": "ovk",
+            "name": "endec.nvim",
+            "config": "endec_nvim.lua",
+            "url": "https://github.com/ovk/endec.nvim",
+            "description": "Encode, decode and re-encode text using Base64, Base64URL and URL (percent) encodings."
         }
     ],
     "CSV Files": [
@@ -8645,6 +8653,14 @@
             "config": "nvenv.lua",
             "url": "https://github.com/NTBBloodbath/nvenv",
             "description": "A lightweight and blazing fast Neovim version manager."
+        },
+        {
+            "path": "y3owk1n/nvs",
+            "owner": "y3owk1n",
+            "name": "nvs",
+            "config": "nvs.lua",
+            "url": "https://github.com/y3owk1n/nvs",
+            "description": "Another Neovim version manager with config switcher."
         }
     ],
     "Boilerplate": [
