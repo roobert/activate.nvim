@@ -1025,6 +1025,14 @@
             "config": "nvim_java.lua",
             "url": "https://github.com/nvim-java/nvim-java",
             "description": "Everything you need for a painless Java experience."
+        },
+        {
+            "path": "kiyoon/haskell-scope-highlighting.nvim",
+            "owner": "kiyoon",
+            "name": "haskell-scope-highlighting.nvim",
+            "config": "haskell_scope_highlighting_nvim.lua",
+            "url": "https://github.com/kiyoon/haskell-scope-highlighting.nvim",
+            "description": "Haskell syntax highlighting that considers variable scopes. Inspired from \"Context Coloring\" by prof. Douglas Crockford. "
         }
     ],
     "Golang": [
@@ -1483,6 +1491,14 @@
             "config": "interlaced_nvim.lua",
             "url": "https://github.com/tanloong/interlaced.nvim",
             "description": "Help align bilingual parallel texts."
+        },
+        {
+            "path": "kiyoon/Korean-IME.nvim",
+            "owner": "kiyoon",
+            "name": "Korean-IME.nvim",
+            "config": "Korean_IME_nvim.lua",
+            "url": "https://github.com/kiyoon/Korean-IME.nvim",
+            "description": "OS-independent Korean input method that converts English inputs to Korean in-place."
         },
         {
             "path": "nvim-treesitter/nvim-treesitter",
@@ -3787,6 +3803,14 @@
             "config": "noline_nvim.lua",
             "url": "https://github.com/neur1n/noline.nvim",
             "description": "Fully customizable bars and lines components with no presets or constraints. See [construction](https://github.com/neur1n/dotfiles/tree/master/neovim/lua/plugconf/noline) and [setup](https://github.com/neur1n/dotfiles/blob/master/neovim/lua/plugconf/noline.lua) examples."
+        },
+        {
+            "path": "OXY2DEV/bars.nvim",
+            "owner": "OXY2DEV",
+            "name": "bars.nvim",
+            "config": "bars_nvim.lua",
+            "url": "https://github.com/OXY2DEV/bars.nvim",
+            "description": "A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar."
         }
     ],
     "Statusline": [
@@ -5297,6 +5321,14 @@
             "config": "endec_nvim.lua",
             "url": "https://github.com/ovk/endec.nvim",
             "description": "Encode, decode and re-encode text using Base64, Base64URL and URL (percent) encodings."
+        },
+        {
+            "path": "kiyoon/jupynium.nvim",
+            "owner": "kiyoon",
+            "name": "jupynium.nvim",
+            "config": "jupynium_nvim.lua",
+            "url": "https://github.com/kiyoon/jupynium.nvim",
+            "description": "Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time."
         }
     ],
     "CSV Files": [
@@ -6739,6 +6771,14 @@
             "description": "Region selection with Tree-sitter nodes."
         },
         {
+            "path": "kiyoon/treesitter-indent-object.nvim",
+            "owner": "kiyoon",
+            "name": "treesitter-indent-object.nvim",
+            "config": "treesitter_indent_object_nvim.lua",
+            "url": "https://github.com/kiyoon/treesitter-indent-object.nvim",
+            "description": "Context-aware indent textobject powered by Tree-sitter."
+        },
+        {
             "path": "folke/which-key.nvim",
             "owner": "folke",
             "name": "which-key.nvim",
@@ -7531,6 +7571,14 @@
             "config": "move_lines_nvim.lua",
             "url": "https://github.com/kobbikobb/move-lines.nvim",
             "description": "Moves lines selected in virtual mode."
+        },
+        {
+            "path": "kiyoon/telescope-insert-path.nvim",
+            "owner": "kiyoon",
+            "name": "telescope-insert-path.nvim",
+            "config": "telescope_insert_path_nvim.lua",
+            "url": "https://github.com/kiyoon/telescope-insert-path.nvim",
+            "description": "Insert file path in the current buffer using Telescope."
         }
     ],
     "Comment": [
@@ -8217,6 +8265,14 @@
             "config": "tmutils_nvim.lua",
             "url": "https://github.com/juselara1/tmutils.nvim",
             "description": "Tmux utilities that enable sending lines, capturing content, creating terminals, and managing REPLs."
+        },
+        {
+            "path": "kiyoon/tmux-send.nvim",
+            "owner": "kiyoon",
+            "name": "tmux-send.nvim",
+            "config": "tmux_send_nvim.lua",
+            "url": "https://github.com/kiyoon/tmux-send.nvim",
+            "description": "Copy and paste buffer content or file path in Nvim-Tree, Neo-Tree, Oil to another tmux pane in Neovim."
         },
         {
             "path": "ThePrimeagen/vim-be-good",
