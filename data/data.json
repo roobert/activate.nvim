@@ -1877,6 +1877,14 @@
             "description": "Jump between functions in a file with ease."
         },
         {
+            "path": "mohseenrm/marko.nvim",
+            "owner": "mohseenrm",
+            "name": "marko.nvim",
+            "config": "marko_nvim.lua",
+            "url": "https://github.com/mohseenrm/marko.nvim",
+            "description": "Behind the scenes, global marks management for different projects."
+        },
+        {
             "path": "wurli/visimatch.nvim",
             "owner": "wurli",
             "name": "visimatch.nvim",
