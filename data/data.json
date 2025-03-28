@@ -2029,6 +2029,14 @@
             "description": "Search text in a floating window asynchronously."
         },
         {
+            "path": "prochri/telescope-all-recent.nvim",
+            "owner": "prochri",
+            "name": "telescope-all-recent.nvim",
+            "config": "telescope_all_recent_nvim.lua",
+            "url": "https://github.com/prochri/telescope-all-recent.nvim",
+            "description": "Frequency and recency sorter for any Telescope picker."
+        },
+        {
             "path": "nvim-telescope/telescope.nvim",
             "owner": "nvim-telescope",
             "name": "telescope.nvim",
@@ -6477,6 +6485,14 @@
             "config": "blame_column_nvim.lua",
             "url": "https://github.com/Yu-Leo/blame-column.nvim",
             "description": "Show Git blame info."
+        },
+        {
+            "path": "yutkat/git-rebase-auto-diff.nvim",
+            "owner": "yutkat",
+            "name": "git-rebase-auto-diff.nvim",
+            "config": "git_rebase_auto_diff_nvim.lua",
+            "url": "https://github.com/yutkat/git-rebase-auto-diff.nvim",
+            "description": "Show diff automatically when Git rebase."
         }
     ],
     "GitHub": [
