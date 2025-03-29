@@ -1231,6 +1231,14 @@
             "config": "CSSVarHighlight.lua",
             "url": "https://github.com/farias-hecdin/CSSVarHighlight",
             "description": "Quickly highlight the color you defined in your CSS variables with the help of `mini.hipatterns`."
+        },
+        {
+            "path": "BibekBhusal0/nvim-shadcn",
+            "owner": "BibekBhusal0",
+            "name": "nvim-shadcn",
+            "config": "nvim_shadcn.lua",
+            "url": "https://github.com/BibekBhusal0/nvim-shadcn",
+            "description": "Easily add Shadcn UI components with telescope."
         }
     ],
     "Markdown and LaTeX": [
@@ -5369,6 +5377,14 @@
             "config": "jupynium_nvim.lua",
             "url": "https://github.com/kiyoon/jupynium.nvim",
             "description": "Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time."
+        },
+        {
+            "path": "BibekBhusal0/bufstack.nvim",
+            "owner": "BibekBhusal0",
+            "name": "bufstack.nvim",
+            "config": "bufstack_nvim.lua",
+            "url": "https://github.com/BibekBhusal0/bufstack.nvim",
+            "description": "Track recently visited buffers and reopen recently closed buffers."
         }
     ],
     "CSV Files": [
