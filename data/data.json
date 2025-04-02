@@ -1239,6 +1239,14 @@
             "config": "nvim_shadcn.lua",
             "url": "https://github.com/BibekBhusal0/nvim-shadcn",
             "description": "Easily add Shadcn UI components with telescope."
+        },
+        {
+            "path": "azratul/expose-localhost.nvim",
+            "owner": "azratul",
+            "name": "expose-localhost.nvim",
+            "config": "expose_localhost_nvim.lua",
+            "url": "https://github.com/azratul/expose-localhost.nvim",
+            "description": "Expose your local server to the internet with cloudflared or ngrok."
         }
     ],
     "Markdown and LaTeX": [
