@@ -8009,6 +8009,14 @@
             "description": "A plugin for fuzzy command line autocompletion."
         },
         {
+            "path": "vzze/cmdline.nvim",
+            "owner": "vzze",
+            "name": "cmdline.nvim",
+            "config": "cmdline_nvim.lua",
+            "url": "https://github.com/vzze/cmdline.nvim",
+            "description": "Helix-like command line with fuzzy autocompletion."
+        },
+        {
             "path": "rmagatti/auto-session",
             "owner": "rmagatti",
             "name": "auto-session",
