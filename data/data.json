@@ -555,6 +555,14 @@
             "description": "Bundle VSCode ESLint language server and utilize the native LSP client to provide a all-in-one ESLint experience."
         },
         {
+            "path": "Fildo7525/pretty_hover",
+            "owner": "Fildo7525",
+            "name": "pretty_hover",
+            "config": "pretty_hover.lua",
+            "url": "https://github.com/Fildo7525/pretty_hover",
+            "description": "Highly customizable hover formatter, extendable to blink.cmp. As native hover supports multiple LSP servers."
+        },
+        {
             "path": "anott03/nvim-lspinstall",
             "owner": "anott03",
             "name": "nvim-lspinstall",
@@ -883,6 +891,14 @@
             "description": "Text-based interface for chatting with Claude AI directly in your buffer."
         },
         {
+            "path": "heilgar/nochat.nvim",
+            "owner": "heilgar",
+            "name": "nochat.nvim",
+            "config": "nochat_nvim.lua",
+            "url": "https://github.com/heilgar/nochat.nvim",
+            "description": "Cursor-like effortless natural language generation with multiple AI providers including Ollama, Anthropic (Claude), and ChatGPT."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
@@ -1183,6 +1199,14 @@
             "config": "kulala_nvim.lua",
             "url": "https://github.com/mistweaverco/kulala.nvim",
             "description": "A minimal HTTP-client interface."
+        },
+        {
+            "path": "heilgar/nvim-http-client",
+            "owner": "heilgar",
+            "name": "nvim-http-client",
+            "config": "nvim_http_client.lua",
+            "url": "https://github.com/heilgar/nvim-http-client",
+            "description": "Easy to use HTTP client with IntelliJ (JetBrains) HTTP client syntax compatibility."
         },
         {
             "path": "ray-x/web-tools.nvim",
@@ -1811,6 +1835,14 @@
             "config": "bookmarks_nvim.lua",
             "url": "https://github.com/LintaoAmons/bookmarks.nvim",
             "description": "Your new bookmarks option: simple yet powerful."
+        },
+        {
+            "path": "heilgar/bookmarks.nvim",
+            "owner": "heilgar",
+            "name": "bookmarks.nvim",
+            "config": "bookmarks_nvim.lua",
+            "url": "https://github.com/heilgar/bookmarks.nvim",
+            "description": "Manage line bookmarks with Telescope integration and SQLite storage."
         },
         {
             "path": "desdic/marlin.nvim",
@@ -4499,11 +4531,11 @@
             "description": "Read Notion.so notes."
         },
         {
-            "path": "epwalsh/obsidian.nvim",
-            "owner": "epwalsh",
+            "path": "obsidian-nvim/obsidian.nvim",
+            "owner": "obsidian-nvim",
             "name": "obsidian.nvim",
             "config": "obsidian_nvim.lua",
-            "url": "https://github.com/epwalsh/obsidian.nvim",
+            "url": "https://github.com/obsidian-nvim/obsidian.nvim",
             "description": "Plugin for Obsidian, written in Lua."
         },
         {
@@ -6053,6 +6085,14 @@
             "config": "nvim_justice.lua",
             "url": "https://github.com/chrisgrieser/nvim-justice",
             "description": "Lightweight integration of the `just` task runner."
+        },
+        {
+            "path": "pewpewnor/pilot.nvim",
+            "owner": "pewpewnor",
+            "name": "pilot.nvim",
+            "config": "pilot_nvim.lua",
+            "url": "https://github.com/pewpewnor/pilot.nvim",
+            "description": "Run your projects and files quickly with keybindings, and configure how to run them on the fly."
         },
         {
             "path": "folke/lazydev.nvim",
