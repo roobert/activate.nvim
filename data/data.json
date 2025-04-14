@@ -1056,7 +1056,7 @@
             "name": "haskell-scope-highlighting.nvim",
             "config": "haskell_scope_highlighting_nvim.lua",
             "url": "https://github.com/kiyoon/haskell-scope-highlighting.nvim",
-            "description": "Haskell syntax highlighting that considers variable scopes. Inspired from \"Context Coloring\" by prof. Douglas Crockford. "
+            "description": "Haskell syntax highlighting that considers variable scopes. Inspired from \"Context Coloring\" by prof. Douglas Crockford."
         }
     ],
     "Golang": [
@@ -1155,6 +1155,14 @@
             "config": "cmp_go_pkgs.lua",
             "url": "https://github.com/Yu-Leo/cmp-go-pkgs",
             "description": "Cmp source providing the names of Go packages to import."
+        },
+        {
+            "path": "fredrikaverpil/godoc.nvim",
+            "owner": "fredrikaverpil",
+            "name": "godoc.nvim",
+            "config": "godoc_nvim.lua",
+            "url": "https://github.com/fredrikaverpil/godoc.nvim",
+            "description": "Fuzzy search Go packages/symbols and view docs."
         }
     ],
     "YAML": [
@@ -1547,6 +1555,14 @@
             "config": "Korean_IME_nvim.lua",
             "url": "https://github.com/kiyoon/Korean-IME.nvim",
             "description": "OS-independent Korean input method that converts English inputs to Korean in-place."
+        },
+        {
+            "path": "doodleEsc/translator.nvim",
+            "owner": "doodleEsc",
+            "name": "translator.nvim",
+            "config": "translator_nvim.lua",
+            "url": "https://github.com/doodleEsc/translator.nvim",
+            "description": "A powerful AI-powered translation plugin, leveraging OpenAI's GPT models to provide high-quality translations with natural language understanding."
         },
         {
             "path": "nvim-treesitter/nvim-treesitter",
@@ -3637,6 +3653,14 @@
             "config": "nvim.lua",
             "url": "https://github.com/neko-night/nvim",
             "description": "A buffet of colorschemes for every taste and mood."
+        },
+        {
+            "path": "ptdewey/monalisa-nvim",
+            "owner": "ptdewey",
+            "name": "monalisa-nvim",
+            "config": "monalisa_nvim.lua",
+            "url": "https://github.com/ptdewey/monalisa-nvim",
+            "description": "A dark and colorful Mona Lisa inspired colorscheme."
         }
     ],
     "Lua Colorscheme": [
@@ -4617,6 +4641,14 @@
             "config": "whip_nvim.lua",
             "url": "http://github.com/slugbyte/whip.nvim",
             "description": "A super fast minimal scratchpad management plugin, biew biew biew."
+        },
+        {
+            "path": "y3owk1n/dotmd.nvim",
+            "owner": "y3owk1n",
+            "name": "dotmd.nvim",
+            "config": "dotmd_nvim.lua",
+            "url": "https://github.com/y3owk1n/dotmd.nvim",
+            "description": "Managing notes, todos, journal entries and inbox all with markdown."
         },
         {
             "path": "athar-qadri/scratchpad.nvim",
