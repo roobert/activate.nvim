@@ -2197,6 +2197,14 @@
             "description": "Telescope extension to switch between headings of AsciiDoc, Markdown, Vimdoc, etc."
         },
         {
+            "path": "bassamsdata/namu.nvim",
+            "owner": "bassamsdata",
+            "name": "namu.nvim",
+            "config": "namu_nvim.lua",
+            "url": "https://github.com/bassamsdata/namu.nvim",
+            "description": "Flexible and sleek fuzzy picker, LSP symbol navigator, and more. Inspired by Zed. "
+        },
+        {
             "path": "nvim-tree/nvim-tree.lua",
             "owner": "nvim-tree",
             "name": "nvim-tree.lua",
