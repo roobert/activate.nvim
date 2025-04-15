@@ -795,6 +795,14 @@
             "description": "Free, ultrafast Copilot alternative. Supports LSP and Tree-sitter."
         },
         {
+            "path": "GeorgesAlkhouri/nvim-aider",
+            "owner": "GeorgesAlkhouri",
+            "name": "nvim-aider",
+            "config": "nvim_aider.lua",
+            "url": "https://github.com/GeorgesAlkhouri/nvim-aider",
+            "description": "Seamlessly integrate Aider for an AI-assisted coding experience."
+        },
+        {
             "path": "CopilotC-Nvim/CopilotChat.nvim",
             "owner": "CopilotC-Nvim",
             "name": "CopilotChat.nvim",
