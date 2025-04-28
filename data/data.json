@@ -907,6 +907,14 @@
             "description": "Cursor-like effortless natural language generation with multiple AI providers including Ollama, Anthropic (Claude), and ChatGPT."
         },
         {
+            "path": "julwrites/llm-nvim",
+            "owner": "julwrites",
+            "name": "llm-nvim",
+            "config": "llm_nvim.lua",
+            "url": "https://github.com/julwrites/llm-nvim",
+            "description": "Comprehensive integration with the [llm](https://github.com/simonw/llm) tool."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
@@ -5467,12 +5475,28 @@
             "description": "Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time."
         },
         {
+            "path": "y3owk1n/time-machine.nvim",
+            "owner": "y3owk1n",
+            "name": "time-machine.nvim",
+            "config": "time_machine_nvim.lua",
+            "url": "https://github.com/y3owk1n/time-machine.nvim",
+            "description": "Take control of your edit history with an interactive timeline, diff previews, taggings, live reloading trees and cleanup functions."
+        },
+        {
             "path": "BibekBhusal0/bufstack.nvim",
             "owner": "BibekBhusal0",
             "name": "bufstack.nvim",
             "config": "bufstack_nvim.lua",
             "url": "https://github.com/BibekBhusal0/bufstack.nvim",
             "description": "Track recently visited buffers and reopen recently closed buffers."
+        },
+        {
+            "path": "OXY2DEV/ui.nvim",
+            "owner": "OXY2DEV",
+            "name": "ui.nvim",
+            "config": "ui_nvim.lua",
+            "url": "https://github.com/OXY2DEV/ui.nvim",
+            "description": "A blueprint/template/guide for customizing the UI."
         }
     ],
     "CSV Files": [
@@ -6895,6 +6919,14 @@
             "config": "smear_cursor_nvim.lua",
             "url": "https://github.com/sphamba/smear-cursor.nvim",
             "description": "Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor."
+        },
+        {
+            "path": "timseriakov/spamguard.nvim",
+            "owner": "timseriakov",
+            "name": "spamguard.nvim",
+            "config": "spamguard_nvim.lua",
+            "url": "https://github.com/timseriakov/spamguard.nvim",
+            "description": "Detects excessive key spamming (jjjj/kkkk) and suggests more efficient alternatives."
         }
     ],
     "Tree-sitter Based": [
@@ -6937,6 +6969,14 @@
             "config": "treesitter_indent_object_nvim.lua",
             "url": "https://github.com/kiyoon/treesitter-indent-object.nvim",
             "description": "Context-aware indent textobject powered by Tree-sitter."
+        },
+        {
+            "path": "TheLazyCat00/racer-nvim",
+            "owner": "TheLazyCat00",
+            "name": "racer-nvim",
+            "config": "racer_nvim.lua",
+            "url": "https://github.com/TheLazyCat00/racer-nvim",
+            "description": "Overload ; and , with custom keymaps."
         },
         {
             "path": "folke/which-key.nvim",
@@ -7163,6 +7203,14 @@
             "config": "satellite_nvim.lua",
             "url": "https://github.com/lewis6991/satellite.nvim",
             "description": "Decorate scrollbar."
+        },
+        {
+            "path": "TheLazyCat00/replace-nvim",
+            "owner": "TheLazyCat00",
+            "name": "replace-nvim",
+            "config": "replace_nvim.lua",
+            "url": "https://github.com/TheLazyCat00/replace-nvim",
+            "description": "Replace part of your code with the contents of the `+` register using textobjects."
         },
         {
             "path": "wurli/split.nvim",
@@ -7853,6 +7901,14 @@
             "config": "dooku_nvim.lua",
             "url": "https://github.com/Zeioth/dooku.nvim",
             "description": "Generate and open your HTML code documentation."
+        },
+        {
+            "path": "soemre/commentless.nvim",
+            "owner": "soemre",
+            "name": "commentless.nvim",
+            "config": "commentless_nvim.lua",
+            "url": "https://github.com/soemre/commentless.nvim",
+            "description": "Fold all comments to better visualize your code logic, and unfold them whenever needed."
         },
         {
             "path": "gpanders/editorconfig.nvim",
