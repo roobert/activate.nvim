@@ -117,7 +117,7 @@ end
 
 M.create_plugin_file = function(plugin_name, repo, _config, edit)
 	local plugin_dir = string.format("%s/lazy/%s", DATA_DIR, plugin_name)
-	local file_path = string.format("%/lua/plugins/%s", CONFIG_DIR, _config)
+	local file_path = string.format("%s/lua/plugins/%s", CONFIG_DIR, _config)
 
 	local f = io.open(file_path, "r")
 	if f then
