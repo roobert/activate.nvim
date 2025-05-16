@@ -1059,6 +1059,14 @@
             "description": "Everything you need for a painless Java experience."
         },
         {
+            "path": "jinzhogjia/zig-lamp",
+            "owner": "jinzhogjia",
+            "name": "zig-lamp",
+            "config": "zig_lamp.lua",
+            "url": "https://github.com/jinzhongjia/zig-lamp",
+            "description": "Improve the Zig experience."
+        },
+        {
             "path": "kiyoon/python-import.nvim",
             "owner": "kiyoon",
             "name": "python-import.nvim",
@@ -5763,6 +5771,14 @@
             "config": "tome.lua",
             "url": "https://github.com/laktak/tome",
             "description": "Interactive Script playbooks for your terminal (optionally with Tmux)."
+        },
+        {
+            "path": "Axot017/multiterm.nvim",
+            "owner": "Axot017",
+            "name": "multiterm.nvim",
+            "config": "multiterm_nvim.lua",
+            "url": "https://github.com/Axot017/multiterm.nvim",
+            "description": "A lightweight manager of multiple terminal instances with key bindings."
         },
         {
             "path": "da-moon/telescope-toggleterm.nvim",
