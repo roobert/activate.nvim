@@ -2687,6 +2687,14 @@
     ],
     "Tree-sitter Supported Colorscheme": [
         {
+            "path": "datsfilipe/vesper.nvim",
+            "owner": "datsfilipe",
+            "name": "vesper.nvim",
+            "config": "vesper_nvim.lua",
+            "url": "https://github.com/datsfilipe/vesper.nvim",
+            "description": "It's a port of the popular VS Code theme Vesper, written in Lua."
+        },
+        {
             "path": "sontungexpt/witch",
             "owner": "sontungexpt",
             "name": "witch",
@@ -4363,6 +4371,14 @@
             "description": "Find and insert the latest nerd font glyphs."
         },
         {
+            "path": "pandasoli/nekovim",
+            "owner": "pandasoli",
+            "name": "nekovim",
+            "config": "nekovim.lua",
+            "url": "https://github.com/pandasoli/nekovim",
+            "description": "Flexible Discord rich presence."
+        },
+        {
             "path": "edluffy/hologram.nvim",
             "owner": "edluffy",
             "name": "hologram.nvim",
@@ -4489,6 +4505,14 @@
             "config": "cord_nvim.lua",
             "url": "https://github.com/vyfor/cord.nvim",
             "description": "Highly extensible Rich Presence for Discord."
+        },
+        {
+            "path": "bngarren/checkmate.nvim",
+            "owner": "bngarren",
+            "name": "checkmate.nvim",
+            "config": "checkmate_nvim.lua",
+            "url": "https://github.com/bngarren/checkmate.nvim",
+            "description": "A beautified Markdown to-do list companion."
         },
         {
             "path": "lfilho/note2cal.nvim",
@@ -5497,6 +5521,14 @@
             "config": "ui_nvim.lua",
             "url": "https://github.com/OXY2DEV/ui.nvim",
             "description": "A blueprint/template/guide for customizing the UI."
+        },
+        {
+            "path": "athar-qadri/weather.nvim",
+            "owner": "athar-qadri",
+            "name": "weather.nvim",
+            "config": "weather_nvim.lua",
+            "url": "https://github.com/athar-qadri/weather.nvim",
+            "description": "Realtime Weather and Earthquake alerts with support for lualine integration (no api key required)."
         }
     ],
     "CSV Files": [
@@ -5731,6 +5763,14 @@
             "config": "tome.lua",
             "url": "https://github.com/laktak/tome",
             "description": "Interactive Script playbooks for your terminal (optionally with Tmux)."
+        },
+        {
+            "path": "da-moon/telescope-toggleterm.nvim",
+            "owner": "da-moon",
+            "name": "telescope-toggleterm.nvim",
+            "config": "telescope_toggleterm_nvim.lua",
+            "url": "https://github.com/da-moon/telescope-toggleterm.nvim",
+            "description": "Telescope picker for terminal buffers."
         },
         {
             "path": "mfussenegger/nvim-dap",
@@ -7107,6 +7147,14 @@
             "description": "Craft temporary keymap overlays and layered modes with ease."
         },
         {
+            "path": "echasnovski/mini.keymap",
+            "owner": "echasnovski",
+            "name": "mini.keymap",
+            "config": "mini_keymap.lua",
+            "url": "https://github.com/echasnovski/mini.keymap",
+            "description": "Module of `mini.nvim` with utilities to make special key mappings: multi-step actions (with built-in steps for \"smart\" `<Tab>`, `<S-Tab>`, `<CR>`, `<BS>`), combos (more general version of \"better escape\" like behavior)."
+        },
+        {
             "path": "notomo/gesture.nvim",
             "owner": "notomo",
             "name": "gesture.nvim",
@@ -7909,6 +7957,14 @@
             "config": "commentless_nvim.lua",
             "url": "https://github.com/soemre/commentless.nvim",
             "description": "Fold all comments to better visualize your code logic, and unfold them whenever needed."
+        },
+        {
+            "path": "TheLazyCat00/simple-format",
+            "owner": "TheLazyCat00",
+            "name": "simple-format",
+            "config": "simple_format.lua",
+            "url": "https://github.com/TheLazyCat00/simple-format",
+            "description": "Replace text using custom regex and highlight group rules, useful for formatting whitespace."
         },
         {
             "path": "gpanders/editorconfig.nvim",
