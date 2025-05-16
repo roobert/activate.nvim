@@ -3701,6 +3701,14 @@
             "config": "monalisa_nvim.lua",
             "url": "https://github.com/ptdewey/monalisa-nvim",
             "description": "A dark and colorful Mona Lisa inspired colorscheme."
+        },
+        {
+            "path": "ntk148v/slack.nvim",
+            "owner": "ntk148v",
+            "name": "slack.nvim",
+            "config": "slack_nvim.lua",
+            "url": "https://github.com/ntk148v/slack.nvim",
+            "description": "A ported Slack colorscheme."
         }
     ],
     "Lua Colorscheme": [
