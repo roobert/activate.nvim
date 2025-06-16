@@ -699,6 +699,14 @@
             "description": "A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism."
         },
         {
+            "path": "blob42/codegpt-ng.nvim",
+            "owner": "blob42",
+            "name": "codegpt-ng.nvim",
+            "config": "codegpt_ng_nvim.lua",
+            "url": "https://github.com/blob42/codegpt-ng.nvim",
+            "description": "Minimalist command based AI coding with a powerful template system. Supports Ollama, OpenAI and more."
+        },
+        {
             "path": "Aaronik/GPTModels.nvim",
             "owner": "Aaronik",
             "name": "GPTModels.nvim",
@@ -915,6 +923,22 @@
             "description": "Comprehensive integration with the [llm](https://github.com/simonw/llm) tool."
         },
         {
+            "path": "azorng/goose.nvim](https://github.com/azorng/goose.nvim) - Seamless Neovim integration with [goose",
+            "owner": "azorng",
+            "name": "goose.nvim](https:",
+            "config": "goose_nvim](https:.lua",
+            "url": "https://block.github.io/goose",
+            "description": "work with a powerful AI agent without leaving your editor."
+        },
+        {
+            "path": "mozanunal/sllm.nvim",
+            "owner": "mozanunal",
+            "name": "sllm.nvim",
+            "config": "sllm_nvim.lua",
+            "url": "https://github.com/mozanunal/sllm.nvim",
+            "description": "In-editor chat powered by Simon Willison's llm CLI: stream replies in a markdown buffer, manage rich context (files, URLs, selections, diagnostics, shell outputs), switch models interactively, and even see token-usage stats."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
@@ -1081,9 +1105,25 @@
             "config": "haskell_scope_highlighting_nvim.lua",
             "url": "https://github.com/kiyoon/haskell-scope-highlighting.nvim",
             "description": "Haskell syntax highlighting that considers variable scopes. Inspired from \"Context Coloring\" by prof. Douglas Crockford."
+        },
+        {
+            "path": "apyra/nvim-unity.nvim",
+            "owner": "apyra",
+            "name": "nvim-unity.nvim",
+            "config": "nvim_unity_nvim.lua",
+            "url": "https://github.com/apyra/nvim-unity",
+            "description": "Use Neovim as your default Unity editor with full LSP support via OmniSharp."
         }
     ],
     "Golang": [
+        {
+            "path": "romus204/go-tagger.nvim",
+            "owner": "romus204",
+            "name": "go-tagger.nvim",
+            "config": "go_tagger_nvim.lua",
+            "url": "https://github.com/romus204/go-tagger.nvim",
+            "description": "A lightweight plugin to manage struct field tags in Go files."
+        },
         {
             "path": "ray-x/go.nvim",
             "owner": "ray-x",
@@ -1515,6 +1555,14 @@
             "description": "A markdown table editor that formats the table as you type."
         },
         {
+            "path": "timantipov/md-table-tidy.nvim",
+            "owner": "timantipov",
+            "name": "md-table-tidy.nvim",
+            "config": "md_table_tidy_nvim.lua",
+            "url": "https://github.com/timantipov/md-table-tidy.nvim",
+            "description": "Simple markdown tables formatting."
+        },
+        {
             "path": "nvim-telescope/telescope-bibtex.nvim",
             "owner": "nvim-telescope",
             "name": "telescope-bibtex.nvim",
@@ -1547,6 +1595,16 @@
             "config": "php_easy_nvim.lua",
             "url": "https://github.com/ta-tikoma/php.easy.nvim",
             "description": "Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity."
+        }
+    ],
+    "Powershell": [
+        {
+            "path": "TheLeoP/powershell.nvim",
+            "owner": "TheLeoP",
+            "name": "powershell.nvim",
+            "config": "powershell_nvim.lua",
+            "url": "https://github.com/TheLeoP/powershell.nvim",
+            "description": "First class powershell editor integration. Includes LSP, debugging (requires nvim-dap) and $psEditor API support."
         },
         {
             "path": "potamides/pantran.nvim",
@@ -1938,7 +1996,7 @@
             "name": "navigate-note.nvim",
             "config": "navigate_note_nvim.lua",
             "url": "https://github.com/you-n-g/navigate-note.nvim",
-            "description": " Integrating note-taking capabilities with navigation/marking."
+            "description": "Integrating note-taking capabilities with navigation/marking."
         },
         {
             "path": "zongben/navimark.nvim",
@@ -2226,7 +2284,7 @@
             "name": "namu.nvim",
             "config": "namu_nvim.lua",
             "url": "https://github.com/bassamsdata/namu.nvim",
-            "description": "Flexible and sleek fuzzy picker, LSP symbol navigator, and more. Inspired by Zed. "
+            "description": "Flexible and sleek fuzzy picker, LSP symbol navigator, and more. Inspired by Zed."
         },
         {
             "path": "nvim-tree/nvim-tree.lua",
@@ -2413,11 +2471,11 @@
             "description": "Simple popup with changed `unsaved` files, allowing you to save and open them. Helps to avoid forgetting to add something to GitHub or similar."
         },
         {
-            "path": "pluffie/neoproj",
-            "owner": "pluffie",
+            "path": "sukineco/neoproj",
+            "owner": "sukineco",
             "name": "neoproj",
             "config": "neoproj.lua",
-            "url": "https://github.com/pluffie/neoproj",
+            "url": "https://github.com/sukineco/neoproj",
             "description": "Small yet powerful project (and session) manager."
         },
         {
@@ -2694,6 +2752,22 @@
         }
     ],
     "Tree-sitter Supported Colorscheme": [
+        {
+            "path": "datsfilipe/min-theme.nvim",
+            "owner": "datsfilipe",
+            "name": "min-theme.nvim",
+            "config": "min_theme_nvim.lua",
+            "url": "https://github.com/datsfilipe/min-theme.nvim",
+            "description": "It's a port of Min, a minimal theme for VSCode, written in Lua."
+        },
+        {
+            "path": "github-main-user/lytmode.nvim",
+            "owner": "github-main-user",
+            "name": "lytmode.nvim",
+            "config": "lytmode_nvim.lua",
+            "url": "https://github.com/github-main-user/lytmode.nvim",
+            "description": "A unique in-between theme inspired by LYT-Mode for Obsidian. Not quite dark, not quite light \u2014 just right."
+        },
         {
             "path": "datsfilipe/vesper.nvim",
             "owner": "datsfilipe",
@@ -4723,6 +4797,14 @@
             "description": "Effortlessly manage scratchpads within your favorite editor."
         },
         {
+            "path": "Cih2001/pikchr.nvim",
+            "owner": "Cih2001",
+            "name": "pikchr.nvim",
+            "config": "pikchr_nvim.lua",
+            "url": "https://github.com/Cih2001/pikchr.nvim",
+            "description": "Render [Pikchr](https://pikchr.org/) diagrams live in Neovim."
+        },
+        {
             "path": "gaborvecsei/usage-tracker.nvim",
             "owner": "gaborvecsei",
             "name": "usage-tracker.nvim",
@@ -5464,7 +5546,7 @@
             "name": "tiny-glimmer.nvim",
             "config": "tiny_glimmer_nvim.lua",
             "url": "https://github.com/rachartier/tiny-glimmer.nvim/",
-            "description": "Adds subtle animations to various operations.  "
+            "description": "Adds subtle animations to various operations."
         },
         {
             "path": "neanvo/buben.nvim",
@@ -5545,6 +5627,22 @@
             "config": "weather_nvim.lua",
             "url": "https://github.com/athar-qadri/weather.nvim",
             "description": "Realtime Weather and Earthquake alerts with support for lualine integration (no api key required)."
+        },
+        {
+            "path": "penaz91/MiniDYM",
+            "owner": "penaz91",
+            "name": "MiniDYM",
+            "config": "MiniDYM.lua",
+            "url": "https://github.com/Penaz91/MiniDYM",
+            "description": "A very small \"Did you mean\" plugin, suggesting files the user might have wanted to open instead of creating a new one."
+        },
+        {
+            "path": "attilarepka/header.nvim",
+            "owner": "attilarepka",
+            "name": "header.nvim",
+            "config": "header_nvim.lua",
+            "url": "https://github.com/attilarepka/header.nvim",
+            "description": "Add or update copyright and license headers in any source file."
         }
     ],
     "CSV Files": [
@@ -5797,6 +5895,14 @@
             "description": "Telescope picker for terminal buffers."
         },
         {
+            "path": "benoror/gpg.nvim",
+            "owner": "benoror",
+            "name": "gpg.nvim",
+            "config": "gpg_nvim.lua",
+            "url": "https://github.com/benoror/gpg.nvim",
+            "description": "Edit GPG encrypted files symmetrically."
+        },
+        {
             "path": "mfussenegger/nvim-dap",
             "owner": "mfussenegger",
             "name": "nvim-dap",
@@ -5899,6 +6005,14 @@
             "config": "nvim_dap_view.lua",
             "url": "https://github.com/igorlfs/nvim-dap-view",
             "description": "A modern, minimalistic UI for nvim-dap."
+        },
+        {
+            "path": "Carcuis/dap-breakpoints.nvim",
+            "owner": "Carcuis",
+            "name": "dap-breakpoints.nvim",
+            "config": "dap_breakpoints_nvim.lua",
+            "url": "https://github.com/Carcuis/dap-breakpoints.nvim",
+            "description": "Manage and create advanced breakpoints with virtual text and popup reveal for nvim-dap."
         }
     ],
     "Quickfix": [
@@ -6013,6 +6127,14 @@
             "config": "quicktest_nvim.lua",
             "url": "https://github.com/quolpr/quicktest.nvim",
             "description": "Run your tests in split window or popup with live feedback."
+        },
+        {
+            "path": "tdd.nvim",
+            "owner": "",
+            "name": "tdd.nvim",
+            "config": "tdd_nvim.lua",
+            "url": "https://github.com/zkucekovic/tdd.nvim",
+            "description": "Opens or creates the matching PHPUnit test file for a given class, based on PSR-4 namespace mappings."
         },
         {
             "path": "michaelb/sniprun",
@@ -6693,6 +6815,14 @@
             "config": "git_rebase_auto_diff_nvim.lua",
             "url": "https://github.com/yutkat/git-rebase-auto-diff.nvim",
             "description": "Show diff automatically when Git rebase."
+        },
+        {
+            "path": "Kohei-Wada/yadm-git.nvim",
+            "owner": "Kohei-Wada",
+            "name": "yadm-git.nvim",
+            "config": "yadm_git_nvim.lua",
+            "url": "https://github.com/Kohei-Wada/yadm-git.nvim",
+            "description": "Seamless Git plugin support for yadm dotfiles."
         }
     ],
     "GitHub": [
@@ -6751,6 +6881,14 @@
             "config": "browsher_nvim.lua",
             "url": "https://github.com/claydugo/browsher.nvim",
             "description": "Create commit pinned links to GitHub hosted files/lines. Avoid stale links."
+        },
+        {
+            "path": "HawkinsT/pathfinder.nvim",
+            "owner": "HawkinsT",
+            "name": "pathfinder.nvim",
+            "config": "pathfinder_nvim.lua",
+            "url": "https://github.com/HawkinsT/pathfinder.nvim",
+            "description": "Enhances gf/gF/gx with look-ahead and smarter file, line/column number, and link resolution. Also provides visual targets for files/links, new motion commands, and link description retrieval."
         },
         {
             "path": "tris203/precognition.nvim",
@@ -6991,6 +7129,14 @@
             "config": "spamguard_nvim.lua",
             "url": "https://github.com/timseriakov/spamguard.nvim",
             "description": "Detects excessive key spamming (jjjj/kkkk) and suggests more efficient alternatives."
+        },
+        {
+            "path": "millerjason/neovimacs.nvim",
+            "owner": "millerjason",
+            "name": "neovimacs.nvim",
+            "config": "neovimacs_nvim.lua",
+            "url": "https://github.com/millerjason/neovimacs.nvim",
+            "description": "Provides emacs movement and buffer keybindings while in insert mode."
         }
     ],
     "Tree-sitter Based": [
@@ -8495,6 +8641,14 @@
             "config": "win_mover_nvim.lua",
             "url": "https://github.com/ycdzj/win-mover.nvim",
             "description": "Window mover that avoids moving side windows."
+        },
+        {
+            "path": "mkajsjo/windowcolumns.nvim",
+            "owner": "mkajsjo",
+            "name": "windowcolumns.nvim",
+            "config": "windowcolumns_nvim.lua",
+            "url": "https://github.com/mkajsjo/windowcolumns.nvim",
+            "description": "Column-first window management."
         }
     ],
     "Tmux": [
@@ -8657,6 +8811,14 @@
             "config": "aoc_vim.lua",
             "url": "https://github.com/csessh/aoc.nvim",
             "description": "Simple little elf who fetches Advent of Code puzzle input for you."
+        },
+        {
+            "path": "seandewar/actually-doom.nvim",
+            "owner": "seandewar",
+            "name": "actually-doom.nvim",
+            "config": "actually_doom_nvim.lua",
+            "url": "https://github.com/seandewar/actually-doom.nvim",
+            "description": "Editing text is boring; play DOOM instead!."
         }
     ],
     "Competitive Programming": [
