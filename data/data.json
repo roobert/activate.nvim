@@ -67,6 +67,14 @@
     ],
     "(requires Neovim 0.5)": [
         {
+            "path": "romus204/referencer.nvim",
+            "owner": "romus204",
+            "name": "referencer.nvim",
+            "config": "referencer_nvim.lua",
+            "url": "https://github.com/romus204/referencer.nvim",
+            "description": "Lightweight, asynchronous that uses the LSP to show references to functions, methods, types and other."
+        },
+        {
             "path": "Dan7h3x/signup.nvim",
             "owner": "Dan7h3x",
             "name": "signup.nvim",
@@ -561,6 +569,14 @@
             "config": "pretty_hover.lua",
             "url": "https://github.com/Fildo7525/pretty_hover",
             "description": "Highly customizable hover formatter, extendable to blink.cmp. As native hover supports multiple LSP servers."
+        },
+        {
+            "path": "yarospace/dev-tools.nvim",
+            "owner": "yarospace",
+            "name": "dev-tools.nvim",
+            "config": "dev_tools_nvim.lua",
+            "url": "https://github.com/yarospace/dev-tools.nvim",
+            "description": "In-process LSP server of custom code actions, enhanced actions picker, community actions library and a convenient interface for customization and enhancement of your code actions."
         },
         {
             "path": "anott03/nvim-lspinstall",
