@@ -6839,6 +6839,14 @@
             "config": "yadm_git_nvim.lua",
             "url": "https://github.com/Kohei-Wada/yadm-git.nvim",
             "description": "Seamless Git plugin support for yadm dotfiles."
+        },
+        {
+            "path": "axkirillov/unified.nvim",
+            "owner": "axkirillov",
+            "name": "unified.nvim",
+            "config": "unified_nvim.lua",
+            "url": "https://github.com/axkirillov/unified.nvim",
+            "description": "Displaying inline unified diffs directly in your buffer."
         }
     ],
     "GitHub": [
