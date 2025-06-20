@@ -2487,6 +2487,14 @@
             "description": "Simple popup with changed `unsaved` files, allowing you to save and open them. Helps to avoid forgetting to add something to GitHub or similar."
         },
         {
+            "path": "vodchella/hodur.nvim",
+            "owner": "vodchella",
+            "name": "hodur.nvim",
+            "config": "hodur_nvim.lua",
+            "url": "https://github.com/vodchella/hodur.nvim",
+            "description": "Allows you to quickly open a file or copy URL located under cursor."
+        },
+        {
             "path": "sukineco/neoproj",
             "owner": "sukineco",
             "name": "neoproj",
