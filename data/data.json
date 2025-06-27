@@ -2303,6 +2303,14 @@
             "description": "Flexible and sleek fuzzy picker, LSP symbol navigator, and more. Inspired by Zed."
         },
         {
+            "path": "folke/snacks.nvim#picker",
+            "owner": "folke",
+            "name": "snacks.nvim#picker",
+            "config": "snacks_nvim#picker.lua",
+            "url": "https://github.com/folke/snacks.nvim/blob/main/docs/picker.md",
+            "description": "Modern fuzzy-finder to navigate the Neovim universe."
+        },
+        {
             "path": "nvim-tree/nvim-tree.lua",
             "owner": "nvim-tree",
             "name": "nvim-tree.lua",
@@ -3981,6 +3989,14 @@
             "config": "themify_nvim.lua",
             "url": "https://github.com/LmanTW/themify.nvim/tree/main",
             "description": "A lightweight colorscheme manager and switcher inspired by Themery.nvim and Lazy.nvim."
+        },
+        {
+            "path": "nishu-murmu/ThemeSwitch.nvim",
+            "owner": "nishu-murmu",
+            "name": "ThemeSwitch.nvim",
+            "config": "ThemeSwitch_nvim.lua",
+            "url": "https://github.com/nishu-murmu/ThemeSwitch.nvim",
+            "description": "Light weight color scheme switcher."
         },
         {
             "path": "Bekaboo/deadcolumn.nvim",
@@ -7989,6 +8005,14 @@
             "config": "yankbank_nvim.lua",
             "url": "https://github.com/ptdewey/yankbank-nvim",
             "description": "Enable streamlined access to recent yanks and deletions in a quick-access popup menu."
+        },
+        {
+            "path": "SunnyTamang/select-undo.nvim",
+            "owner": "SunnyTamang",
+            "name": "select-undo.nvim",
+            "config": "select_undo_nvim.lua",
+            "url": "https://github.com/SunnyTamang/select-undo.nvim",
+            "description": "Allow users to undo specific line/lines or partial selections without affecting the rest of the file."
         },
         {
             "path": "OXY2DEV/foldtext.nvim",
