@@ -133,7 +133,7 @@ M.create_plugin_file = function(plugin_name, repo, _config, edit)
 			else
 				local disclaimer = [[
         -- No example configuration was found for this plugin.
-        --
+        -- So a default has been configured.
         -- For detailed information on configuring this plugin, please refer to its
         -- official documentation:
         --
@@ -148,7 +148,8 @@ M.create_plugin_file = function(plugin_name, repo, _config, edit)
 				f:write(disclaimer)
 				f:write("\n")
 				f:write("return {\n")
-				f:write(string.format('  -- "%s"\n', repo))
+				f:write(string.format('  "%s",\n', repo))
+				f:write('  opts = {}\n')
 				f:write("}")
 			end
 			f:close()
