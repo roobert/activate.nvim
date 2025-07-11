@@ -1,8 +1,10 @@
 local M = {}
 
-local HOME_DIR = os.getenv("HOME")
-
 local api = vim.api
+
+local CONFIG_PATH = vim.fn.stdpath("config")
+local DATA_PATH = vim.fn.stdpath("data")
+local PLUGIN_PATH = string.format("%s/lazy", DATA_PATH)
 
 local function display_popup(content)
 	if type(content) == "string" then
@@ -40,8 +42,8 @@ local function display_popup(content)
 end
 
 M.get_plugin_status = function(plugin_name, config)
-	local plugin_path = string.format("%s/.local/share/nvim/lazy/%s", HOME_DIR, plugin_name)
-	local config_path = string.format("%s/.config/nvim/lua/plugins/%s", HOME_DIR, config)
+	local plugin_path = string.format("%s/lazy/%s", DATA_PATH, plugin_name)
+	local config_path = string.format("%s/lua/plugins/%s", CONFIG_PATH, config)
 
 	local plugin_exists = vim.fn.isdirectory(plugin_path) == 1
 	local config_exists = vim.fn.filereadable(config_path) == 1
@@ -103,7 +105,7 @@ M.load_json_from_file = function()
 end
 
 M.edit_plugin_file = function(plugin_name, config)
-	local file_path = string.format("%s/.config/nvim/lua/plugins/%s", HOME_DIR, config)
+	local file_path = string.format("%s/lua/plugins/%s", CONFIG_PATH, config)
 
 	local f = io.open(file_path, "r")
 	if f then
@@ -115,8 +117,8 @@ M.edit_plugin_file = function(plugin_name, config)
 end
 
 M.create_plugin_file = function(plugin_name, repo, _config, edit)
-	local plugin_dir = string.format("%s/.local/share/nvim/lazy/%s", HOME_DIR, plugin_name)
-	local file_path = string.format("%s/.config/nvim/lua/plugins/%s", HOME_DIR, _config)
+	local plugin_dir = string.format("%s/lazy/%s", DATA_PATH, plugin_name)
+	local file_path = string.format("%s/lua/plugins/%s", CONFIG_PATH, _config)
 
 	local f = io.open(file_path, "r")
 	if f then
@@ -162,7 +164,7 @@ end
 
 M._install_plugin = function(entry)
 	local cmd =
-		string.format("git clone --depth 1 %s %s/.local/share/nvim/lazy/%s", entry.url, HOME_DIR, entry.plugin_name)
+		string.format("git clone --depth 1 %s %s/lazy/%s", entry.url, DATA_PATH, entry.plugin_name)
 	vim.cmd("!" .. cmd)
 end
 
@@ -173,8 +175,8 @@ M._uninstall_plugin = function(entry)
 	vim.cmd('echo ""')
 
 	if confirm:lower() == "y" then
-		local plugin_path = string.format("%s/.local/share/nvim/lazy/%s", HOME_DIR, entry.plugin_name)
-		local config_path = string.format("%s/.config/nvim/lua/plugins/%s", HOME_DIR, entry.config)
+		local plugin_path = string.format("%s/lazy/%s", DATA_PATH, entry.plugin_name)
+		local config_path = string.format("%s/lua/plugins/%s", CONFIG_PATH, entry.config)
 		local plugin_deleted = false
 		local config_deleted = false
 
@@ -239,7 +241,7 @@ M.get_installed_plugins = function()
 		return vim.split(result, "\n")
 	end
 
-	local installed_plugins = get_directories(HOME_DIR .. "/.local/share/nvim/lazy")
+	local installed_plugins = get_directories(PLUGIN_PATH)
 	local all_plugins = M.get_all_plugins()
 
 	local items = {}
@@ -260,13 +262,13 @@ M.get_installed_and_configured_plugins = function()
 		return vim.split(result, "\n")
 	end
 
-	local installed_plugins = get_directories(HOME_DIR .. "/.local/share/nvim/lazy")
+	local installed_plugins = get_directories(PLUGIN_PATH)
 	local all_plugins = M.get_all_plugins()
 
 	local items = {}
 	for _, plugin in ipairs(all_plugins) do
 		if vim.tbl_contains(installed_plugins, plugin.plugin_name) then
-			local config_path = string.format("%s/.config/nvim/lua/plugins/%s", HOME_DIR, plugin.config)
+			local config_path = string.format("%s/lua/plugins/%s", CONFIG_PATH, plugin.config)
 			local config_exists = vim.fn.filereadable(config_path) == 1
 			if config_exists then
 				table.insert(items, plugin)
