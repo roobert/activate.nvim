@@ -8069,6 +8069,14 @@
             "config": "copy_with_context_nvim.lua",
             "url": "https://github.com/zhisme/copy_with_context.nvim",
             "description": "Copy lines with file path and line number metadata for sharing code snippets with context."
+        },
+        {
+            "path": "tigion/swap.nvim",
+            "owner": "tigion",
+            "name": "swap.nvim",
+            "config": "swap_nvim.lua",
+            "url": "https://github.com/tigion/swap.nvim",
+            "description": "Quickly switch a word under the cursor or a pattern in the current line."
         }
     ],
     "Comment": [
