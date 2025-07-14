@@ -43,7 +43,7 @@ When plugins don't conform to the unofficial standard outlined above, then a pla
 
 ```lua
 -- No example configuration was found for this plugin.
---
+-- Using the default configuration for this plugin.
 -- For detailed information on configuring this plugin, please refer to its
 -- official documentation:
 --
@@ -53,7 +53,8 @@ When plugins don't conform to the unofficial standard outlined above, then a pla
 -- the configuration below.
 
 return {
-  -- "cbochs/grapple.nvim"
+  "cbochs/grapple.nvim",
+  opts = {}
 }
 ```
 
@@ -74,5 +75,13 @@ return {
   dependencies = {
     { 'nvim-telescope/telescope.nvim', branch = '0.1.x', dependencies = { 'nvim-lua/plenary.nvim' } }
   }
+}
+```
+
+## Configuration
+
+```lua
+{
+  open_config_after_creation = true
 }
 ```

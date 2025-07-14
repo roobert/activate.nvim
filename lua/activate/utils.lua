@@ -1,3 +1,4 @@
+---@module "activate.types"
 local M = {}
 
 local api = vim.api
@@ -327,6 +328,8 @@ local function help()
 end
 
 M.all_plugins_mappings = function(prompt_bufnr, map)
+	---@class Activate.Config
+	local user_conf = require("activate.config").config
 	local action_state = require("telescope.actions.state")
 
 	local function install_and_or_configure_plugin()
@@ -334,7 +337,7 @@ M.all_plugins_mappings = function(prompt_bufnr, map)
 		vim.api.nvim_buf_delete(prompt_bufnr, { force = true })
 		M._install_plugin(entry)
 		local repo_path = entry.url:gsub("https://github.com/", "")
-		local edit = true
+		local edit = user_conf.open_config_after_creation
 		M.create_plugin_file(entry.plugin_name, repo_path, entry.config, edit)
 	end
 
