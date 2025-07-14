@@ -6997,11 +6997,11 @@
     ],
     "GitLab": [
         {
-            "path": "harrisoncramer/gitlab.nvim",
+            "path": "harrisoncramer/GitLab.nvim",
             "owner": "harrisoncramer",
-            "name": "gitlab.nvim",
-            "config": "gitlab_nvim.lua",
-            "url": "https://github.com/harrisoncramer/gitlab.nvim",
+            "name": "GitLab.nvim",
+            "config": "GitLab_nvim.lua",
+            "url": "https://github.com/harrisoncramer/GitLab.nvim",
             "description": " Review pull requests and manage other GitLab resources."
         },
         {
