@@ -6713,11 +6713,11 @@
             "description": "Rust dependency management for `Cargo.toml`."
         },
         {
-            "path": "piersolenski/telescope-import.nvim",
+            "path": "piersolenski/import.nvim",
             "owner": "piersolenski",
-            "name": "telescope-import.nvim",
-            "config": "telescope_import_nvim.lua",
-            "url": "https://github.com/piersolenski/telescope-import.nvim",
+            "name": "import.nvim",
+            "config": "import_nvim.lua",
+            "url": "https://github.com/piersolenski/import.nvim",
             "description": "Import modules faster based on what you've already imported in your project."
         },
         {
