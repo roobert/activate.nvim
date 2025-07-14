@@ -42,8 +42,7 @@ return {
 When plugins don't conform to the unofficial standard outlined above, then a placeholder config is generated, for example, `$HOME/.config/nvim/lua/plugins/grapple.lua`:
 
 ```lua
--- No example configuration was found for this plugin.
--- Using the default configuration for this plugin.
+-- No example configuration was found for this plugin, a default has been configured.
 -- For detailed information on configuring this plugin, please refer to its
 -- official documentation:
 --
