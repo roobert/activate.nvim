@@ -579,6 +579,14 @@
             "description": "In-process LSP server of custom code actions, enhanced actions picker, community actions library and a convenient interface for customization and enhancement of your code actions."
         },
         {
+            "path": "SunnyTamang/neodoc.nvim",
+            "owner": "SunnyTamang",
+            "name": "neodoc.nvim",
+            "config": "neodoc_nvim.lua",
+            "url": "https://github.com/SunnyTamang/neodoc.nvim",
+            "description": "DocString generator that helps writing function/classes docstrings in formats like `google`, `numpy`, `sphinx` with live preview."
+        },
+        {
             "path": "anott03/nvim-lspinstall",
             "owner": "anott03",
             "name": "nvim-lspinstall",
@@ -953,6 +961,14 @@
             "config": "sllm_nvim.lua",
             "url": "https://github.com/mozanunal/sllm.nvim",
             "description": "In-editor chat powered by Simon Willison's llm CLI: stream replies in a markdown buffer, manage rich context (files, URLs, selections, diagnostics, shell outputs), switch models interactively, and even see token-usage stats."
+        },
+        {
+            "path": "chatvim/chatvim.nvim",
+            "owner": "chatvim",
+            "name": "chatvim.nvim",
+            "config": "chatvim_nvim.lua",
+            "url": "https://github.com/chatvim/chatvim.nvim",
+            "description": "Chat with Markdown files using AI models from xAI, OpenAI and Anthropic."
         },
         {
             "path": "Julian/lean.nvim",
@@ -1647,6 +1663,14 @@
             "description": "Help align bilingual parallel texts."
         },
         {
+            "path": "sontungexpt/vietnamese.nvim",
+            "owner": "sontungexpt",
+            "name": "vietnamese.nvim",
+            "config": "vietnamese_nvim.lua",
+            "url": "https://github.com/sontungexpt/vietnamese.nvim",
+            "description": "A Vietnamese input method engine with native support to type Vietnamese in insert mode."
+        },
+        {
             "path": "kiyoon/Korean-IME.nvim",
             "owner": "kiyoon",
             "name": "Korean-IME.nvim",
@@ -1837,6 +1861,14 @@
             "config": "tesoura_nvim.lua",
             "url": "https://github.com/guilherme-puida/tesoura.nvim",
             "description": "A flexible snippet system using Neovim's new snippet API."
+        },
+        {
+            "path": "Who5673/who5673-nasm",
+            "owner": "Who5673",
+            "name": "who5673-nasm",
+            "config": "who5673_nasm.lua",
+            "url": "https://github.com/Who5673/who5673-nasm",
+            "description": "Helps people program Netwide Assembler language faster and more convenient using snippets."
         },
         {
             "path": "gennaro-tedesco/nvim-peekup",
@@ -2781,6 +2813,14 @@
             "config": "colorful_menu_nvim.lua",
             "url": "https://github.com/xzbdmw/colorful-menu.nvim",
             "description": "Colorize your auto completion menu using Tree-sitter."
+        },
+        {
+            "path": "nvzone/minty",
+            "owner": "nvzone",
+            "name": "minty",
+            "config": "minty.lua",
+            "url": "https://github.com/nvzone/minty",
+            "description": "Beautifully crafted color tools."
         }
     ],
     "Tree-sitter Supported Colorscheme": [
@@ -4837,6 +4877,22 @@
             "description": "Effortlessly manage scratchpads within your favorite editor."
         },
         {
+            "path": "echaya/neowiki.nvim",
+            "owner": "echaya",
+            "name": "neowiki.nvim",
+            "config": "neowiki_nvim.lua",
+            "url": "https://github.com/echaya/neowiki.nvim",
+            "description": "The modern vimwiki successor offering a minimal, intuitive workflow out of the box for note-taking and Getting Things Done (GTD)."
+        },
+        {
+            "path": "Silletr/LazyDevHelper",
+            "owner": "Silletr",
+            "name": "LazyDevHelper",
+            "config": "LazyDevHelper.lua",
+            "url": "https://github.com/Silletr/LazyDevHelper",
+            "description": "Python dependencies manager, with auto-adding to your requirements.txt."
+        },
+        {
             "path": "Cih2001/pikchr.nvim",
             "owner": "Cih2001",
             "name": "pikchr.nvim",
@@ -5683,6 +5739,14 @@
             "config": "header_nvim.lua",
             "url": "https://github.com/attilarepka/header.nvim",
             "description": "Add or update copyright and license headers in any source file."
+        },
+        {
+            "path": "Owen-Dechow/nvim_json_graph_view",
+            "owner": "Owen-Dechow",
+            "name": "nvim_json_graph_view",
+            "config": "nvim_json_graph_view.lua",
+            "url": "https://github.com/Owen-Dechow/nvim_json_graph_view",
+            "description": "Explore a JSON file as a nested unit/node-based graphical representation."
         }
     ],
     "CSV Files": [
@@ -6929,6 +6993,16 @@
             "config": "browsher_nvim.lua",
             "url": "https://github.com/claydugo/browsher.nvim",
             "description": "Create commit pinned links to GitHub hosted files/lines. Avoid stale links."
+        }
+    ],
+    "GitLab": [
+        {
+            "path": "harrisoncramer/gitlab.nvim",
+            "owner": "harrisoncramer",
+            "name": "gitlab.nvim",
+            "config": "gitlab_nvim.lua",
+            "url": "https://github.com/harrisoncramer/gitlab.nvim",
+            "description": " Review pull requests and manage other GitLab resources."
         },
         {
             "path": "HawkinsT/pathfinder.nvim",
@@ -7229,12 +7303,20 @@
             "description": "Context-aware indent textobject powered by Tree-sitter."
         },
         {
+            "path": "sontungexpt/bim.nvim",
+            "owner": "sontungexpt",
+            "name": "bim.nvim",
+            "config": "bim_nvim.lua",
+            "url": "https://github.com/sontungexpt/bim.nvim",
+            "description": "Enhances insert mode key mapping by showing typed keys in real time, without waiting for timeoutlen. It provides a responsive and intuitive insert-mode experience, ideal for complex input workflows like ime."
+        },
+        {
             "path": "TheLazyCat00/racer-nvim",
             "owner": "TheLazyCat00",
             "name": "racer-nvim",
             "config": "racer_nvim.lua",
             "url": "https://github.com/TheLazyCat00/racer-nvim",
-            "description": "Overload ; and , with custom keymaps."
+            "description": "Overload ; and , with custom keymaps. "
         },
         {
             "path": "folke/which-key.nvim",
@@ -8069,6 +8151,30 @@
             "config": "copy_with_context_nvim.lua",
             "url": "https://github.com/zhisme/copy_with_context.nvim",
             "description": "Copy lines with file path and line number metadata for sharing code snippets with context."
+        },
+        {
+            "path": "jake-stewart/multicursor.nvim",
+            "owner": "jake-stewart",
+            "name": "multicursor.nvim",
+            "config": "multicursor_nvim.lua",
+            "url": "https://github.com/jake-stewart/multicursor.nvim",
+            "description": "Adds support for multiple cursors which work how you expect."
+        },
+        {
+            "path": "brenton-leighton/multiple-cursors.nvim",
+            "owner": "brenton-leighton",
+            "name": "multiple-cursors.nvim",
+            "config": "multiple_cursors_nvim.lua",
+            "url": "https://github.com/brenton-leighton/multiple-cursors.nvim",
+            "description": "A multi-cursor plugin that works in normal, insert/replace, or visual modes, and with almost every command."
+        },
+        {
+            "path": "smoka7/multicursors.nvim",
+            "owner": "smoka7",
+            "name": "multicursors.nvim",
+            "config": "multicursors_nvim.lua",
+            "url": "https://github.com/smoka7/multicursors.nvim",
+            "description": "Provides a more intuitive way to edit repetitive text with multiple selections."
         },
         {
             "path": "tigion/swap.nvim",
