@@ -2079,6 +2079,14 @@
             "description": "Behind the scenes, global marks management for different projects."
         },
         {
+            "path": "y3owk1n/warp.nvim",
+            "owner": "y3owk1n",
+            "name": "warp.nvim",
+            "config": "warp_nvim.lua",
+            "url": "https://github.com/y3owk1n/warp.nvim",
+            "description": "Simple harpoon alternative that focuses on marking & navigating between files."
+        },
+        {
             "path": "wurli/visimatch.nvim",
             "owner": "wurli",
             "name": "visimatch.nvim",
@@ -2229,6 +2237,14 @@
             "config": "telescope_all_recent_nvim.lua",
             "url": "https://github.com/prochri/telescope-all-recent.nvim",
             "description": "Frequency and recency sorter for any Telescope picker."
+        },
+        {
+            "path": "mahyarmirrashed/search-and-replace.nvim",
+            "owner": "mahyarmirrashed",
+            "name": "search-and-replace.nvim",
+            "config": "search_and_replace_nvim.lua",
+            "url": "https://github.com/mahyarmirrashed/search-and-replace.nvim",
+            "description": "Simple, effective, search and replace functionality for the pragmatic engineer."
         },
         {
             "path": "nvim-telescope/telescope.nvim",
@@ -3855,6 +3871,14 @@
             "config": "slack_nvim.lua",
             "url": "https://github.com/ntk148v/slack.nvim",
             "description": "A ported Slack colorscheme."
+        },
+        {
+            "path": "motaz-shokry/gruvbox.nvim",
+            "owner": "motaz-shokry",
+            "name": "gruvbox.nvim",
+            "config": "gruvbox_nvim.lua",
+            "url": "https://gitlab.com/motaz-shokry/gruvbox.nvim",
+            "description": "A new gruvbox that the hard variant bg is \"#1b1b1b\", and it comes with 4 variants."
         }
     ],
     "Lua Colorscheme": [
@@ -5747,6 +5771,14 @@
             "config": "nvim_json_graph_view.lua",
             "url": "https://github.com/Owen-Dechow/nvim_json_graph_view",
             "description": "Explore a JSON file as a nested unit/node-based graphical representation."
+        },
+        {
+            "path": "toggleword.nvim",
+            "owner": "",
+            "name": "toggleword.nvim",
+            "config": "toggleword_nvim.lua",
+            "url": "https://github.com/iquzart/toggleword.nvim",
+            "description": "Toggle between common code keywords under the cursor such as true \u21c4 false, on \u21c4 off, enabled \u21c4 disabled, and dev \u21c4 prod."
         }
     ],
     "CSV Files": [
@@ -5781,6 +5813,14 @@
             "config": "csvview_nvim.lua",
             "url": "https://github.com/hat0uma/csvview.nvim",
             "description": "An asynchronous CSV/TSV table viewer with real-time updates, configurable comments and delimiters, and multiple display modes."
+        },
+        {
+            "path": "waiting-for-dev/ergoterm.nvim",
+            "owner": "waiting-for-dev",
+            "name": "ergoterm.nvim",
+            "config": "ergoterm_nvim.lua",
+            "url": "https://github.com/waiting-for-dev/ergoterm.nvim",
+            "description": "Seamless terminal workflow integration with smart picker-based terminal selection, flexible text sending and persistent configuration."
         },
         {
             "path": "Dan7h3x/neaterm.nvim",
@@ -7002,7 +7042,7 @@
             "name": "GitLab.nvim",
             "config": "GitLab_nvim.lua",
             "url": "https://github.com/harrisoncramer/GitLab.nvim",
-            "description": " Review pull requests and manage other GitLab resources."
+            "description": "Review pull requests and manage other GitLab resources."
         },
         {
             "path": "HawkinsT/pathfinder.nvim",
@@ -7316,7 +7356,7 @@
             "name": "racer-nvim",
             "config": "racer_nvim.lua",
             "url": "https://github.com/TheLazyCat00/racer-nvim",
-            "description": "Overload ; and , with custom keymaps. "
+            "description": "Overload ; and , with custom keymaps."
         },
         {
             "path": "folke/which-key.nvim",
@@ -9395,6 +9435,14 @@
             "config": "template_nvim.lua",
             "url": "https://github.com/2KAbhishek/template.nvim",
             "description": "Opinionated template for starting plugin dev quickly."
+        },
+        {
+            "path": "jkeresman01/spring-initializr.nvim",
+            "owner": "jkeresman01",
+            "name": "spring-initializr.nvim",
+            "config": "spring_initializr_nvim.lua",
+            "url": "https://github.com/jkeresman01/spring-initializr.nvim",
+            "description": "Scaffold Spring Boot projects with a Telescope-powered UI."
         }
     ],
     "OS-specific": [
