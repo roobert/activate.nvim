@@ -8951,6 +8951,14 @@
             "description": "Copy and paste buffer content or file path in Nvim-Tree, Neo-Tree, Oil to another tmux pane in Neovim."
         },
         {
+            "path": "jkeresman01/tmux-switch.nvim",
+            "owner": "jkeresman01",
+            "name": "tmux-switch.nvim",
+            "config": "tmux_switch_nvim.lua",
+            "url": "https://github.com/jkeresman01/tmux-switch.nvim",
+            "description": "Provides fuzzy session switching for Tmux."
+        },
+        {
             "path": "ThePrimeagen/vim-be-good",
             "owner": "ThePrimeagen",
             "name": "vim-be-good",
