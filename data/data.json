@@ -1637,6 +1637,16 @@
             "config": "powershell_nvim.lua",
             "url": "https://github.com/TheLeoP/powershell.nvim",
             "description": "First class powershell editor integration. Includes LSP, debugging (requires nvim-dap) and $psEditor API support."
+        }
+    ],
+    "Assembly": [
+        {
+            "path": "Who5673/who5673-nasm",
+            "owner": "Who5673",
+            "name": "who5673-nasm",
+            "config": "who5673_nasm.lua",
+            "url": "https://github.com/Who5673/who5673-nasm",
+            "description": "Helps people program Netwide Assembler language faster and more convenient using snippets."
         },
         {
             "path": "potamides/pantran.nvim",
@@ -1861,14 +1871,6 @@
             "config": "tesoura_nvim.lua",
             "url": "https://github.com/guilherme-puida/tesoura.nvim",
             "description": "A flexible snippet system using Neovim's new snippet API."
-        },
-        {
-            "path": "Who5673/who5673-nasm",
-            "owner": "Who5673",
-            "name": "who5673-nasm",
-            "config": "who5673_nasm.lua",
-            "url": "https://github.com/Who5673/who5673-nasm",
-            "description": "Helps people program Netwide Assembler language faster and more convenient using snippets."
         },
         {
             "path": "gennaro-tedesco/nvim-peekup",
@@ -2525,6 +2527,14 @@
             "config": "netrw_nvim.lua",
             "url": "https://github.com/prichrd/netrw.nvim",
             "description": "Add icons and custom keybindings to netrw."
+        },
+        {
+            "path": "X3eRo0/dired.nvim",
+            "owner": "X3eRo0",
+            "name": "dired.nvim",
+            "config": "dired_nvim.lua",
+            "url": "https://github.com/X3eRo0/dired.nvim",
+            "description": "A file browser inspired by Emacs Dired."
         },
         {
             "path": "neotree-file-nesting-config",
@@ -4909,6 +4919,14 @@
             "description": "The modern vimwiki successor offering a minimal, intuitive workflow out of the box for note-taking and Getting Things Done (GTD)."
         },
         {
+            "path": "phrmendes/todotxt.nvim",
+            "owner": "phrmendes",
+            "name": "todotxt.nvim",
+            "config": "todotxt_nvim.lua",
+            "url": "https://github.com/phrmendes/todotxt.nvim",
+            "description": " A minimal `todo.txt` implementation in Lua."
+        },
+        {
             "path": "Silletr/LazyDevHelper",
             "owner": "Silletr",
             "name": "LazyDevHelper",
@@ -7253,6 +7271,14 @@
             "description": "Improve default `f`/`t` abilities."
         },
         {
+            "path": "jinh0/eyeliner.nvim",
+            "owner": "jinh0",
+            "name": "eyeliner.nvim",
+            "config": "eyeliner_nvim.lua",
+            "url": "https://github.com/jinh0/eyeliner.nvim",
+            "description": "Highlight jump destinations for `f`/`t` motions."
+        },
+        {
             "path": "Mr-LLLLL/treesitter-outer",
             "owner": "Mr-LLLLL",
             "name": "treesitter-outer",
@@ -8683,6 +8709,14 @@
             "config": "season_nvim.lua",
             "url": "https://github.com/njayman/season.nvim",
             "description": "A lightweight plugin to manage session based on current working directory."
+        },
+        {
+            "path": "inhesrom/remote-ssh.nvim",
+            "owner": "inhesrom",
+            "name": "remote-ssh.nvim",
+            "config": "remote_ssh_nvim.lua",
+            "url": "https://github.com/inhesrom/remote-ssh.nvim",
+            "description": "Duplicates the basic ground level functionality of VSCode's Remote-SSH plugin, with a focus on a local editing experience to avoid remote \"lag\". Browse remote files, edit \"remote buffers\" with a full local editing experience (LSP, Tree-sitter, Telescope integration, and a file watcher)."
         },
         {
             "path": "chipsenkbeil/distant.nvim",
