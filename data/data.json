@@ -1587,6 +1587,14 @@
             "description": "A markdown table editor that formats the table as you type."
         },
         {
+            "path": "brianhuster/live-preview.nvim",
+            "owner": "brianhuster",
+            "name": "live-preview.nvim",
+            "config": "live_preview_nvim.lua",
+            "url": "https://github.com/brianhuster/live-preview.nvim",
+            "description": "Live preview HTML, Markdown and Asciidoc in the browser."
+        },
+        {
             "path": "timantipov/md-table-tidy.nvim",
             "owner": "timantipov",
             "name": "md-table-tidy.nvim",
