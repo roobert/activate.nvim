@@ -1785,6 +1785,14 @@
             "description": "Tree-sitter grammar for [Justfiles](https://github.com/casey/just)."
         },
         {
+            "path": "fei6409/log-highlight.nvim",
+            "owner": "fei6409",
+            "name": "log-highlight.nvim",
+            "config": "log_highlight_nvim.lua",
+            "url": "https://github.com/fei6409/log-highlight.nvim",
+            "description": "Generic log syntax highlighting and log filetype management support."
+        },
+        {
             "path": "norcalli/snippets.nvim",
             "owner": "norcalli",
             "name": "snippets.nvim",
@@ -5799,12 +5807,28 @@
             "description": "Explore a JSON file as a nested unit/node-based graphical representation."
         },
         {
+            "path": "mahyarmirrashed/famous-quotes.nvim",
+            "owner": "mahyarmirrashed",
+            "name": "famous-quotes.nvim",
+            "config": "famous_quotes_nvim.lua",
+            "url": "https://github.com/mahyarmirrashed/famous-quotes.nvim",
+            "description": "Get famous quotes from history to display on startup."
+        },
+        {
             "path": "toggleword.nvim",
             "owner": "",
             "name": "toggleword.nvim",
             "config": "toggleword_nvim.lua",
             "url": "https://github.com/iquzart/toggleword.nvim",
             "description": "Toggle between common code keywords under the cursor such as true \u21c4 false, on \u21c4 off, enabled \u21c4 disabled, and dev \u21c4 prod."
+        },
+        {
+            "path": "johannww/tts.nvim",
+            "owner": "johannww",
+            "name": "tts.nvim",
+            "config": "tts_nvim.lua",
+            "url": "https://github.com/johannww/tts.nvim",
+            "description": "Text to speech tool based on the Microsoft Edge online services."
         }
     ],
     "CSV Files": [
