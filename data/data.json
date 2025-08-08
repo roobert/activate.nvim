@@ -5287,14 +5287,6 @@
             "description": "Simplifying and improving how you interact with macros."
         },
         {
-            "path": "echasnovski/mini.animate",
-            "owner": "echasnovski",
-            "name": "mini.animate",
-            "config": "mini_animate.lua",
-            "url": "https://github.com/echasnovski/mini.animate",
-            "description": "Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close)."
-        },
-        {
             "path": "figsoda/nix-develop.nvim",
             "owner": "figsoda",
             "name": "nix-develop.nvim",
@@ -5695,14 +5687,6 @@
             "description": "Easily convert between binary representations without a conversion table."
         },
         {
-            "path": "rachartier/tiny-glimmer.nvim",
-            "owner": "rachartier",
-            "name": "tiny-glimmer.nvim",
-            "config": "tiny_glimmer_nvim.lua",
-            "url": "https://github.com/rachartier/tiny-glimmer.nvim/",
-            "description": "Adds subtle animations to various operations."
-        },
-        {
             "path": "neanvo/buben.nvim",
             "owner": "neanvo",
             "name": "buben.nvim",
@@ -5725,14 +5709,6 @@
             "config": "json_to_types_nvim.lua",
             "url": "https://github.com/redoxahmii/json-to-types.nvim",
             "description": "Convert JSON objects to type definitions for multiple languages."
-        },
-        {
-            "path": "y3owk1n/undo-glow.nvim",
-            "owner": "y3owk1n",
-            "name": "undo-glow.nvim",
-            "config": "undo_glow_nvim.lua",
-            "url": "https://github.com/y3owk1n/undo-glow.nvim/",
-            "description": "Animated glow/highlight effects for Neovim operations (undo, redo, yank, paste, etc.) with fully customizable animations and appearance."
         },
         {
             "path": "ovk/endec.nvim",
@@ -5863,6 +5839,54 @@
             "config": "csvview_nvim.lua",
             "url": "https://github.com/hat0uma/csvview.nvim",
             "description": "An asynchronous CSV/TSV table viewer with real-time updates, configurable comments and delimiters, and multiple display modes."
+        },
+        {
+            "path": "sphamba/smear-cursor.nvim",
+            "owner": "sphamba",
+            "name": "smear-cursor.nvim",
+            "config": "smear_cursor_nvim.lua",
+            "url": "https://github.com/sphamba/smear-cursor.nvim",
+            "description": "Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor."
+        },
+        {
+            "path": "echasnovski/mini.animate",
+            "owner": "echasnovski",
+            "name": "mini.animate",
+            "config": "mini_animate.lua",
+            "url": "https://github.com/echasnovski/mini.animate",
+            "description": "Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close)."
+        },
+        {
+            "path": "rachartier/tiny-glimmer.nvim",
+            "owner": "rachartier",
+            "name": "tiny-glimmer.nvim",
+            "config": "tiny_glimmer_nvim.lua",
+            "url": "https://github.com/rachartier/tiny-glimmer.nvim/",
+            "description": "Adds subtle animations to various operations."
+        },
+        {
+            "path": "y3owk1n/undo-glow.nvim",
+            "owner": "y3owk1n",
+            "name": "undo-glow.nvim",
+            "config": "undo_glow_nvim.lua",
+            "url": "https://github.com/y3owk1n/undo-glow.nvim/",
+            "description": "Animated glow/highlight effects for Neovim operations (undo, redo, yank, paste, etc.) with fully customizable animations and appearance."
+        },
+        {
+            "path": "gen740/SmoothCursor.nvim",
+            "owner": "gen740",
+            "name": "SmoothCursor.nvim",
+            "config": "SmoothCursor_nvim.lua",
+            "url": "https://github.com/gen740/SmoothCursor.nvim",
+            "description": "Add fancy sub-cursor to signcolumn to show your scroll or jump direction."
+        },
+        {
+            "path": "cxwx/specs.nvim",
+            "owner": "cxwx",
+            "name": "specs.nvim",
+            "config": "specs_nvim.lua",
+            "url": "https://github.com/cxwx/specs.nvim",
+            "description": "A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped."
         },
         {
             "path": "waiting-for-dev/ergoterm.nvim",
@@ -7199,22 +7223,6 @@
             "description": "Quickly jump between Tree-sitter nodes."
         },
         {
-            "path": "gen740/SmoothCursor.nvim",
-            "owner": "gen740",
-            "name": "SmoothCursor.nvim",
-            "config": "SmoothCursor_nvim.lua",
-            "url": "https://github.com/gen740/SmoothCursor.nvim",
-            "description": "Add fancy sub-cursor to signcolumn to show your scroll or jump direction."
-        },
-        {
-            "path": "cxwx/specs.nvim",
-            "owner": "cxwx",
-            "name": "specs.nvim",
-            "config": "specs_nvim.lua",
-            "url": "https://github.com/cxwx/specs.nvim",
-            "description": "A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped."
-        },
-        {
             "path": "abecodes/tabout.nvim",
             "owner": "abecodes",
             "name": "tabout.nvim",
@@ -7333,14 +7341,6 @@
             "config": "Treewalker_nvim.lua",
             "url": "https://github.com/aaronik/Treewalker.nvim",
             "description": "Move seamlessly around the abstract syntax tree."
-        },
-        {
-            "path": "sphamba/smear-cursor.nvim",
-            "owner": "sphamba",
-            "name": "smear-cursor.nvim",
-            "config": "smear_cursor_nvim.lua",
-            "url": "https://github.com/sphamba/smear-cursor.nvim",
-            "description": "Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor."
         },
         {
             "path": "timseriakov/spamguard.nvim",
