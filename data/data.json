@@ -8791,6 +8791,14 @@
             "description": "Edit remote files with local configuration."
         },
         {
+            "path": "uhs-robert/sshfs.nvim",
+            "owner": "uhs-robert",
+            "name": "sshfs.nvim",
+            "config": "sshfs_nvim.lua",
+            "url": "https://github.com/uhs-robert/sshfs.nvim",
+            "description": "Mount remote systems via SSHFS with smart picker auto-detect (Telescope/Oil/Snacks/Neo-tree/fzf-lua/Yazi/Ranger etc.)."
+        },
+        {
             "path": "nosduco/remote-sshfs.nvim",
             "owner": "nosduco",
             "name": "remote-sshfs.nvim",
