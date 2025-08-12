@@ -7115,6 +7115,14 @@
             "config": "browsher_nvim.lua",
             "url": "https://github.com/claydugo/browsher.nvim",
             "description": "Create commit pinned links to GitHub hosted files/lines. Avoid stale links."
+        },
+        {
+            "path": "comatory/gh-co.nvim",
+            "owner": "comatory",
+            "name": "gh-co.nvim",
+            "config": "gh_co_nvim.lua",
+            "url": "https://github.com/comatory/gh-co.nvim",
+            "description": "Show the code owner(s) for files according to GitHub's `CODEOWNERS` specification."
         }
     ],
     "GitLab": [
