@@ -6379,6 +6379,14 @@
             "description": "Neotest adapter for running jest tests."
         },
         {
+            "path": "neotest-busted",
+            "owner": "",
+            "name": "neotest-busted",
+            "config": "neotest_busted.lua",
+            "url": "https://github.com/MisanthropicBit/neotest-busted",
+            "description": "Neotest adapter for running busted tests using Neovim as a Lua interpreter."
+        },
+        {
             "path": "michaelb/sniprun",
             "owner": "michaelb",
             "name": "sniprun",
