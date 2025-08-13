@@ -2377,6 +2377,14 @@
             "description": "Modern fuzzy-finder to navigate the Neovim universe."
         },
         {
+            "path": "fff.nvim",
+            "owner": "",
+            "name": "fff.nvim",
+            "config": "fff_nvim.lua",
+            "url": "https://github.com/dmtrKovalenko/fff.nvim",
+            "description": "Fuzzy file picker with a standalone native implementation of file indexing and typo resistant fuzzy matcher. Includes all the QOL features, file previews (and images), frecency sorting, last query matching, proximity, git status bonuses and much more."
+        },
+        {
             "path": "nvim-tree/nvim-tree.lua",
             "owner": "nvim-tree",
             "name": "nvim-tree.lua",
