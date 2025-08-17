@@ -1145,6 +1145,14 @@
             "config": "nvim_unity_nvim.lua",
             "url": "https://github.com/apyra/nvim-unity",
             "description": "Use Neovim as your default Unity editor with full LSP support via OmniSharp."
+        },
+        {
+            "path": "atomicptr/defold.nvim",
+            "owner": "atomicptr",
+            "name": "defold.nvim",
+            "config": "defold_nvim.lua",
+            "url": "https://github.com/atomicptr/defold.nvim",
+            "description": "Batteries-included development environment for the Defold game engine."
         }
     ],
     "Golang": [
@@ -5919,6 +5927,14 @@
             "config": "floatty_nvim.lua",
             "url": "https://github.com/ingur/floatty.nvim",
             "description": "A tiny (<200 LOC) but highly customizable floating terminal manager."
+        },
+        {
+            "path": "imranzero/multiterm.nvim",
+            "owner": "imranzero",
+            "name": "multiterm.nvim",
+            "config": "multiterm_nvim.lua",
+            "url": "https://github.com/imranZERO/multiterm.nvim",
+            "description": "Effortlessly manage multiple floating terminal windows."
         },
         {
             "path": "Dan7h3x/neaterm.nvim",
