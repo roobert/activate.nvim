@@ -3921,6 +3921,14 @@
             "config": "gruvbox_nvim.lua",
             "url": "https://gitlab.com/motaz-shokry/gruvbox.nvim",
             "description": "A new gruvbox that the hard variant bg is \"#1b1b1b\", and it comes with 4 variants."
+        },
+        {
+            "path": "mcauley-penney/techbase.nvim",
+            "owner": "mcauley-penney",
+            "name": "techbase.nvim",
+            "config": "techbase_nvim.lua",
+            "url": "https://github.com/mcauley-penney/techbase.nvim",
+            "description": "Dark, cold color scheme inspired by sci-fi horror and retro technology."
         }
     ],
     "Lua Colorscheme": [
@@ -4741,6 +4749,14 @@
             "config": "cord_nvim.lua",
             "url": "https://github.com/vyfor/cord.nvim",
             "description": "Highly extensible Rich Presence for Discord."
+        },
+        {
+            "path": "jameswolensky/marker-groups.nvim",
+            "owner": "jameswolensky",
+            "name": "marker-groups.nvim",
+            "config": "marker_groups_nvim.lua",
+            "url": "https://github.com/jameswolensky/marker-groups.nvim",
+            "description": "Take persistent code notes without modifying code."
         },
         {
             "path": "bngarren/checkmate.nvim",
@@ -5911,6 +5927,14 @@
             "config": "specs_nvim.lua",
             "url": "https://github.com/cxwx/specs.nvim",
             "description": "A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped."
+        },
+        {
+            "path": "LuxVim/nvim-luxterm",
+            "owner": "LuxVim",
+            "name": "nvim-luxterm",
+            "config": "nvim_luxterm.lua",
+            "url": "https://github.com/LuxVim/nvim-luxterm",
+            "description": "A floating-window terminal session manager, offering elegant multi-terminal organization, live previews, and intuitive navigation with modern UI design. Manage, switch, and customize multiple terminals effortlessly."
         },
         {
             "path": "waiting-for-dev/ergoterm.nvim",
