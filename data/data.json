@@ -4735,6 +4735,14 @@
             "description": "Quickly control your favorite music player (Spotify, VLC, and more)."
         },
         {
+            "path": "Rits1272/riff.nvim",
+            "owner": "Rits1272",
+            "name": "riff.nvim",
+            "config": "riff_nvim.lua",
+            "url": "https://github.com/Rits1272/riff.nvim",
+            "description": "Search and stream songs right inside your editor \u2014 discoverable with Telescope, played through mpv, and managed with simple commands. Fast, minimal, and theme-agnostic."
+        },
+        {
             "path": "neo451/feed.nvim",
             "owner": "neo451",
             "name": "feed.nvim",
