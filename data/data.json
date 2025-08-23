@@ -5815,12 +5815,12 @@
             "description": "Add or update copyright and license headers in any source file."
         },
         {
-            "path": "Owen-Dechow/nvim_json_graph_view",
+            "path": "Owen-Dechow/videre.nvim",
             "owner": "Owen-Dechow",
-            "name": "nvim_json_graph_view",
-            "config": "nvim_json_graph_view.lua",
-            "url": "https://github.com/Owen-Dechow/nvim_json_graph_view",
-            "description": "Explore a JSON file as a nested unit/node-based graphical representation."
+            "name": "videre.nvim",
+            "config": "videre_nvim.lua",
+            "url": "https://github.com/Owen-Dechow/videre.nvim",
+            "description": "Explore JSON, YAML, and TOML files as nested unit/node-based graphical representations."
         },
         {
             "path": "mahyarmirrashed/famous-quotes.nvim",
