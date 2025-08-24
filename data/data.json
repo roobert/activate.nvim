@@ -5845,6 +5845,14 @@
             "config": "tts_nvim.lua",
             "url": "https://github.com/johannww/tts.nvim",
             "description": "Text to speech tool based on the Microsoft Edge online services."
+        },
+        {
+            "path": "piersolenski/brewfile.nvim",
+            "owner": "piersolenski",
+            "name": "brewfile.nvim",
+            "config": "brewfile_nvim.lua",
+            "url": "https://github.com/piersolenski/brewfile.nvim",
+            "description": "Manage your [Homebrew](https://brew.sh/) [Brewfile](https://docs.brew.sh/Brew-Bundle-and-Brewfile)."
         }
     ],
     "CSV Files": [
