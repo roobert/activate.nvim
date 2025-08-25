@@ -4759,6 +4759,14 @@
             "description": "Highly extensible Rich Presence for Discord."
         },
         {
+            "path": "iamt4nk/smm.nvim",
+            "owner": "iamt4nk",
+            "name": "smm.nvim",
+            "config": "smm_nvim.lua",
+            "url": "https://github.com/iamt4nk/smm.nvim",
+            "description": "Small TUI that allows for controlling Spotify playback."
+        },
+        {
             "path": "jameswolensky/marker-groups.nvim",
             "owner": "jameswolensky",
             "name": "marker-groups.nvim",
