@@ -33,6 +33,14 @@
             "description": "A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more."
         },
         {
+            "path": "alex-popov-tech/store.nvim",
+            "owner": "alex-popov-tech",
+            "name": "store.nvim",
+            "config": "store_nvim.lua",
+            "url": "https://github.com/alex-popov-tech/store.nvim",
+            "description": "A modern plugin discovery and management tool with a database of ~5000 plugins and easy installation via `lazy.nvim`."
+        },
+        {
             "path": "roobert/activate.nvim",
             "owner": "roobert",
             "name": "activate.nvim",
@@ -6496,7 +6504,7 @@
             "name": "vs-tasks.nvim",
             "config": "vs_tasks_nvim.lua",
             "url": "https://github.com/EthanJWright/vs-tasks.nvim",
-            "description": "Telescope picker for VSCode style tasks."
+            "description": "UI for launching and managing jobs (unit tests, deploys, etc.) following VS Code tasks structure."
         },
         {
             "path": "stevearc/overseer.nvim",
@@ -9273,6 +9281,14 @@
             "config": "bad_practices_nvim.lua",
             "url": "https://github.com/antonk52/bad-practices.nvim",
             "description": "Helping you give up bad practices in Vim."
+        },
+        {
+            "path": "saxon1964/neovim-tips",
+            "owner": "saxon1964",
+            "name": "neovim-tips",
+            "config": "neovim_tips.lua",
+            "url": "https://github.com/saxon1964/neovim-tips",
+            "description": "Provides hundreds of built-in Neovim tips, tricks, and shortcuts, with a custom picker interface and the ability to add your own tips."
         },
         {
             "path": "Cris-lml007/NeoPlus",
