@@ -113,6 +113,8 @@ local function create_picker(title, prompt, items, mappings_func)
 	plugin_picker:find()
 end
 
+M.setup = require("activate.config").setup
+
 M.list_plugins = function()
 	local items = utils.get_all_plugins()
 	create_picker(
