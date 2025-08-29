@@ -57,11 +57,11 @@
             "description": "A modern approach to plugin management using Luarocks, inspired by Cargo."
         },
         {
-            "path": "echasnovski/mini.deps",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.deps",
+            "owner": "nvim-mini",
             "name": "mini.deps",
             "config": "mini_deps.lua",
-            "url": "https://github.com/echasnovski/mini.deps",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-deps.md",
             "description": "Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins."
         },
         {
@@ -691,11 +691,11 @@
             "description": "A completion plugin written in Lua. New version of nvim-compe."
         },
         {
-            "path": "echasnovski/mini.completion",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.completion",
+            "owner": "nvim-mini",
             "name": "mini.completion",
             "config": "mini_completion.lua",
-            "url": "https://github.com/echasnovski/mini.completion",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-completion.md",
             "description": "Module of `mini.nvim` for asynchronous two-stage completion. Supports showing completion item info and independent function signature."
         },
         {
@@ -1761,11 +1761,11 @@
             "description": "Helper or training aid for kylechui/nvim-surround."
         },
         {
-            "path": "echasnovski/mini.surround",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.surround",
+            "owner": "nvim-mini",
             "name": "mini.surround",
             "config": "mini_surround.lua",
-            "url": "https://github.com/echasnovski/mini.surround",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-surround.md",
             "description": "Module of `mini.nvim` for working with text surroundings (add, delete, replace, find, highlight). Supports dot-repeat, different search methods, \"last\"/\"next\" extended mappings, Tree-sitter integration, and more."
         },
         {
@@ -1825,11 +1825,11 @@
             "description": "A snippet engine written in Lua."
         },
         {
-            "path": "echasnovski/mini.snippets",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.snippets",
+            "owner": "nvim-mini",
             "name": "mini.snippets",
             "config": "mini_snippets.lua",
-            "url": "https://github.com/echasnovski/mini.snippets",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-snippets.md",
             "description": "Module of `mini.nvim` to manage and expand snippets. Supports LSP snippet syntax, flexible loaders, fuzzy prefix matching, interactive selection, snippet session with rich visualization, and more."
         },
         {
@@ -2321,11 +2321,11 @@
             "description": "Telescope integration for [zoxide](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage."
         },
         {
-            "path": "echasnovski/mini.fuzzy",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.fuzzy",
+            "owner": "nvim-mini",
             "name": "mini.fuzzy",
             "config": "mini_fuzzy.lua",
-            "url": "https://github.com/echasnovski/mini.fuzzy",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-fuzzy.md",
             "description": "Module of `mini.nvim` with functions to perform fuzzy matching of one string to others along with fast Telescope sorter."
         },
         {
@@ -2345,19 +2345,19 @@
             "description": "A fuzzy finder that updates on every keystroke."
         },
         {
-            "path": "echasnovski/mini.pick",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.pick",
+            "owner": "nvim-mini",
             "name": "mini.pick",
             "config": "mini_pick.lua",
-            "url": "https://github.com/echasnovski/mini.pick",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-pick.md",
             "description": "Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more."
         },
         {
-            "path": "echasnovski/mini.extra",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.extra",
+            "owner": "nvim-mini",
             "name": "mini.extra",
             "config": "mini_extra.lua",
-            "url": "https://github.com/echasnovski/mini.extra",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-extra.md",
             "description": "Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more."
         },
         {
@@ -2553,11 +2553,11 @@
             "description": "A directory browser inspired by Ranger."
         },
         {
-            "path": "echasnovski/mini.files",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.files",
+            "owner": "nvim-mini",
             "name": "mini.files",
             "config": "mini_files.lua",
-            "url": "https://github.com/echasnovski/mini.files",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-files.md",
             "description": "Module of `mini.nvim` providing file explorer with column view capable of manipulating file system by editing text. Can create/delete/rename/copy/move files/directories inside and across directories."
         },
         {
@@ -2697,11 +2697,11 @@
             "description": "Telescope extension to move between directories blazingly fast."
         },
         {
-            "path": "echasnovski/mini.visits",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.visits",
+            "owner": "nvim-mini",
             "name": "mini.visits",
             "config": "mini_visits.lua",
-            "url": "https://github.com/echasnovski/mini.visits",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-visits.md",
             "description": "Module of `mini.nvim` to persistently track and reuse file system visits. Allows listing \"recent\"/\"frequent\"/\"frecent\" visits, adding/removing labels to visits and other data."
         },
         {
@@ -2825,11 +2825,11 @@
             "description": "Highlight multiple word same time and navigate word under cursor with scrolling smoothly, display search count in virualtext."
         },
         {
-            "path": "echasnovski/mini.hipatterns",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.hipatterns",
+            "owner": "nvim-mini",
             "name": "mini.hipatterns",
             "config": "mini_hipatterns.lua",
-            "url": "https://github.com/echasnovski/mini.hipatterns",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-hipatterns.md",
             "description": "Module of `mini.nvim` to highlight patterns in text with configurable highlighters. Works asynchronously with configurable debounce delay."
         },
         {
@@ -3443,11 +3443,11 @@
             "description": "Gruvbuddy without colorbuddy using Lush."
         },
         {
-            "path": "echasnovski/mini.nvim#colorschemes",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#colorschemes",
+            "owner": "nvim-mini",
             "name": "mini.nvim#colorschemes",
             "config": "mini_nvim#colorschemes.lua",
-            "url": "https://github.com/echasnovski/mini.nvim#plugin-colorschemes",
+            "url": "https://github.com/nvim-mini/mini.nvim#plugin-colorschemes",
             "description": "Color schemes included in `mini.nvim` plugin. All of them prioritize high contrast ratio for reading text and computing palettes in perceptually uniform color spaces."
         },
         {
@@ -4015,11 +4015,11 @@
             "description": "A colorscheme generator that is \"lite\" on logic for the developer."
         },
         {
-            "path": "echasnovski/mini.base16",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.base16",
+            "owner": "nvim-mini",
             "name": "mini.base16",
             "config": "mini_base16.lua",
-            "url": "https://github.com/echasnovski/mini.base16",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-base16.md",
             "description": "Module of `mini.nvim` with fast implementation of base16 theme for manually supplied palette."
         },
         {
@@ -4031,19 +4031,19 @@
             "description": "A simple highlighter plugin for Neovim. It has a huge collection of colorschemes. It also has ability to create colorschemes for Vim/Neovim and other supported apps (such as kitty and alacritty)."
         },
         {
-            "path": "echasnovski/mini.colors",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.colors",
+            "owner": "nvim-mini",
             "name": "mini.colors",
             "config": "mini_colors.lua",
-            "url": "https://github.com/echasnovski/mini.colors",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-colors.md",
             "description": "Module of `mini.nvim` to tweak and save any color scheme. Also can animate transition and convert between some color spaces."
         },
         {
-            "path": "echasnovski/mini.hues",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.hues",
+            "owner": "nvim-mini",
             "name": "mini.hues",
             "config": "mini_hues.lua",
-            "url": "https://github.com/echasnovski/mini.hues",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-hues.md",
             "description": "Module of `mini.nvim` to generate configurable color scheme. Takes only background and foreground colors as required arguments. Can adjust number of hues for non-base colors, saturation, accent color, plugin integration."
         },
         {
@@ -4283,11 +4283,11 @@
             "description": "A galaxyline configuration inspired by airline."
         },
         {
-            "path": "echasnovski/mini.statusline",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.statusline",
+            "owner": "nvim-mini",
             "name": "mini.statusline",
             "config": "mini_statusline.lua",
-            "url": "https://github.com/echasnovski/mini.statusline",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statusline.md",
             "description": "Module of `mini.nvim` for minimal and fast statusline. Supports content change depending on window width."
         },
         {
@@ -4413,11 +4413,11 @@
             "description": "Simple and Fancy tabline."
         },
         {
-            "path": "echasnovski/mini.tabline",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.tabline",
+            "owner": "nvim-mini",
             "name": "mini.tabline",
             "config": "mini_tabline.lua",
-            "url": "https://github.com/echasnovski/mini.tabline",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-tabline.md",
             "description": "Module of `mini.nvim` for minimal tabline showing listed buffers in case of one tab and falling back to default otherwise."
         },
         {
@@ -4479,11 +4479,11 @@
             "description": "Highlight the word under the cursor. Neovim's builtin LSP is available, it can be used to highlight more intelligently."
         },
         {
-            "path": "echasnovski/mini.cursorword",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.cursorword",
+            "owner": "nvim-mini",
             "name": "mini.cursorword",
             "config": "mini_cursorword.lua",
-            "url": "https://github.com/echasnovski/mini.cursorword",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-cursorword.md",
             "description": "Module of `mini.nvim` for automatic highlighting of word under cursor (displayed after customizable delay)."
         },
         {
@@ -4519,11 +4519,11 @@
             "description": "A fast and highly customizable greeter like [vim-startify](https://github.com/mhinz/vim-startify)/dashboard-nvim."
         },
         {
-            "path": "echasnovski/mini.starter",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.starter",
+            "owner": "nvim-mini",
             "name": "mini.starter",
             "config": "mini_starter.lua",
-            "url": "https://github.com/echasnovski/mini.starter",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-starter.md",
             "description": "Module of `mini.nvim` for start screen. Displayed items are fully customizable, item selection can be done using prefix query with instant visual feedback."
         },
         {
@@ -4591,11 +4591,11 @@
             "description": "A Lua fork of [vim-devicons](https://github.com/ryanoasis/vim-devicons)."
         },
         {
-            "path": "echasnovski/mini.icons",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.icons",
+            "owner": "nvim-mini",
             "name": "mini.icons",
             "config": "mini_icons.lua",
-            "url": "https://github.com/echasnovski/mini.icons",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-icons.md",
             "description": "Module of `mini.nvim` meant as a general icon provider. Uses fixed set of highlight groups. Supports various categories, icon and style customizations, caching for performance. Integrates with built-in filetype matching."
         },
         {
@@ -5103,11 +5103,11 @@
             "description": "A fancy, configurable, notification manager."
         },
         {
-            "path": "echasnovski/mini.notify",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.notify",
+            "owner": "nvim-mini",
             "name": "mini.notify",
             "config": "mini_notify.lua",
-            "url": "https://github.com/echasnovski/mini.notify",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-notify.md",
             "description": "Module of `mini.nvim` to show one or more highlighted notifications in a single window. Provides maker of `vim.notify()` implementation and sets up automated LSP progress updates."
         },
         {
@@ -5921,11 +5921,11 @@
             "description": "Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor."
         },
         {
-            "path": "echasnovski/mini.animate",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.animate",
+            "owner": "nvim-mini",
             "name": "mini.animate",
             "config": "mini_animate.lua",
-            "url": "https://github.com/echasnovski/mini.animate",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-animate.md",
             "description": "Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close)."
         },
         {
@@ -6771,11 +6771,11 @@
             "description": "UI Component Library."
         },
         {
-            "path": "echasnovski/mini.doc",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.doc",
+            "owner": "nvim-mini",
             "name": "mini.doc",
             "config": "mini_doc.lua",
-            "url": "https://github.com/echasnovski/mini.doc",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-doc.md",
             "description": "Module of `mini.nvim` for generation of help files from EmmyLua-like annotations. Allows flexible customization of output via hook functions."
         },
         {
@@ -6787,11 +6787,11 @@
             "description": "A reference for builtin Lua functions."
         },
         {
-            "path": "echasnovski/mini.test",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.test",
+            "owner": "nvim-mini",
             "name": "mini.test",
             "config": "mini_test.lua",
-            "url": "https://github.com/echasnovski/mini.test",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-test.md",
             "description": "Module of `mini.nvim` with framework for writing extensive Neovim plugin tests. Supports hierarchical tests, hooks, parametrization, filtering, screen tests, \"busted-style\" emulation, customizable reporters, and more."
         },
         {
@@ -6979,19 +6979,19 @@
             "description": "Git integration: signs, hunk actions, blame, etc."
         },
         {
-            "path": "echasnovski/mini.diff",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.diff",
+            "owner": "nvim-mini",
             "name": "mini.diff",
             "config": "mini_diff.lua",
-            "url": "https://github.com/echasnovski/mini.diff",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-diff.md",
             "description": "Module of `mini.nvim` to interactively visualize difference between buffer text and its reference. Provides toggleable detailed overview in text area, built-in apply/reset/textobject/goto mappings, and more."
         },
         {
-            "path": "echasnovski/mini.git",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.git",
+            "owner": "nvim-mini",
             "name": "mini.git",
             "config": "mini_git.lua",
-            "url": "https://github.com/echasnovski/mini.git",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-git.md",
             "description": "Module of `mini.nvim` for enhanced Git integration with current Neovim process. Implements tracking of Git related data, `:Git` user command, and various helpers to explore Git history."
         },
         {
@@ -7311,19 +7311,19 @@
             "description": "Navigate your code with search labels, enhanced character motions and Tree-sitter integration."
         },
         {
-            "path": "echasnovski/mini.jump",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.jump",
+            "owner": "nvim-mini",
             "name": "mini.jump",
             "config": "mini_jump.lua",
-            "url": "https://github.com/echasnovski/mini.jump",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-jump.md",
             "description": "Module of `mini.nvim` for smarter jumping to a single character."
         },
         {
-            "path": "echasnovski/mini.jump2d",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.jump2d",
+            "owner": "nvim-mini",
             "name": "mini.jump2d",
             "config": "mini_jump2d.lua",
-            "url": "https://github.com/echasnovski/mini.jump2d",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-jump2d.md",
             "description": "Module of `mini.nvim` for smarter jumping within visible lines via iterative label filtering. Supports custom jump targets (spots), labels, hooks, allowed windows and lines, and more."
         },
         {
@@ -7383,11 +7383,11 @@
             "description": "Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`)."
         },
         {
-            "path": "echasnovski/mini.bracketed",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.bracketed",
+            "owner": "nvim-mini",
             "name": "mini.bracketed",
             "config": "mini_bracketed.lua",
-            "url": "https://github.com/echasnovski/mini.bracketed",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-bracketed.md",
             "description": "Module of `mini.nvim` to go forward/backward with square brackets."
         },
         {
@@ -7545,11 +7545,11 @@
             "description": "Neovim plugin that shows a popup with possible keybindings of the command you started typing."
         },
         {
-            "path": "echasnovski/mini.clue",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.clue",
+            "owner": "nvim-mini",
             "name": "mini.clue",
             "config": "mini_clue.lua",
-            "url": "https://github.com/echasnovski/mini.clue",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-clue.md",
             "description": "Module of `mini.nvim` to show next key clues. Has opt-in triggers, shows next key information after customizable delay, allows hydra-like submodes, and more."
         },
         {
@@ -7665,11 +7665,11 @@
             "description": "Craft temporary keymap overlays and layered modes with ease."
         },
         {
-            "path": "echasnovski/mini.keymap",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.keymap",
+            "owner": "nvim-mini",
             "name": "mini.keymap",
             "config": "mini_keymap.lua",
-            "url": "https://github.com/echasnovski/mini.keymap",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-keymap.md",
             "description": "Module of `mini.nvim` with utilities to make special key mappings: multi-step actions (with built-in steps for \"smart\" `<Tab>`, `<S-Tab>`, `<CR>`, `<BS>`), combos (more general version of \"better escape\" like behavior)."
         },
         {
@@ -7747,11 +7747,11 @@
             "description": "Extensible scrollbar that shows diagnostics and search results."
         },
         {
-            "path": "echasnovski/mini.map",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.map",
+            "owner": "nvim-mini",
             "name": "mini.map",
             "config": "mini_map.lua",
-            "url": "https://github.com/echasnovski/mini.map",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-map.md",
             "description": "Module of `mini.nvim` to show floating window with buffer text overview, scrollbar, and highlights."
         },
         {
@@ -7819,11 +7819,11 @@
             "description": "Ultimate smart pairs written by Lua."
         },
         {
-            "path": "echasnovski/mini.pairs",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.pairs",
+            "owner": "nvim-mini",
             "name": "mini.pairs",
             "config": "mini_pairs.lua",
-            "url": "https://github.com/echasnovski/mini.pairs",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-pairs.md",
             "description": "Module of `mini.nvim` for autopairs which has minimal defaults and functionality to do per-key mapping."
         },
         {
@@ -7995,11 +7995,11 @@
             "description": "Switching and restoring input method automatically depends on Neovim's edit mode."
         },
         {
-            "path": "echasnovski/mini.trailspace",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.trailspace",
+            "owner": "nvim-mini",
             "name": "mini.trailspace",
             "config": "mini_trailspace.lua",
-            "url": "https://github.com/echasnovski/mini.trailspace",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-trailspace.md",
             "description": "Module of `mini.nvim` for automatic highlighting of trailing whitespace with functionality to remove it."
         },
         {
@@ -8051,11 +8051,11 @@
             "description": "Text case changes via keybindings and custom substitute command with Telescope and LSP support."
         },
         {
-            "path": "echasnovski/mini.operators",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.operators",
+            "owner": "nvim-mini",
             "name": "mini.operators",
             "config": "mini_operators.lua",
-            "url": "https://github.com/echasnovski/mini.operators",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-operators.md",
             "description": "Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate."
         },
         {
@@ -8107,11 +8107,11 @@
             "description": "Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust."
         },
         {
-            "path": "echasnovski/mini.move",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.move",
+            "owner": "nvim-mini",
             "name": "mini.move",
             "config": "mini_move.lua",
-            "url": "https://github.com/echasnovski/mini.move",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-move.md",
             "description": "Module of `mini.nvim` to move any selection (charwise, linewise, blockwise, current line in Normal mode) in any direction. Handles both `v:count` and undo history."
         },
         {
@@ -8139,11 +8139,11 @@
             "description": "Neovim plugin that prevent cursor from moving when using shift and filter actions."
         },
         {
-            "path": "echasnovski/mini.ai",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.ai",
+            "owner": "nvim-mini",
             "name": "mini.ai",
             "config": "mini_ai.lua",
-            "url": "https://github.com/echasnovski/mini.ai",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-ai.md",
             "description": "Module of `mini.nvim` for extending and creating `a`/`i` textobjects. It enhances some builtin textobjects, creates extensive set of new ones (like `a*`, `a<Space>`, `a?`, and more), and allows user to create their own (via Lua patterns or functions). Supports dot-repeat, different search methods, consecutive application, and more."
         },
         {
@@ -8163,11 +8163,11 @@
             "description": "Split and join various syntax structures."
         },
         {
-            "path": "echasnovski/mini.splitjoin",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.splitjoin",
+            "owner": "nvim-mini",
             "name": "mini.splitjoin",
             "config": "mini_splitjoin.lua",
-            "url": "https://github.com/echasnovski/mini.splitjoin",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-splitjoin.md",
             "description": "Module of `mini.nvim` to split and join arguments. Has customizable pre and post hooks. Works inside comments."
         },
         {
@@ -8211,11 +8211,11 @@
             "description": "Extremely simple auto saving on `InsertLeave` & `TextChanged`. Based on Pocco81/AutoSave but lighter."
         },
         {
-            "path": "echasnovski/mini.basics",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.basics",
+            "owner": "nvim-mini",
             "name": "mini.basics",
             "config": "mini_basics.lua",
-            "url": "https://github.com/echasnovski/mini.basics",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-basics.md",
             "description": "Module of `mini.nvim` with customizable configuration presets for common options, mappings, and autocommands."
         },
         {
@@ -8469,11 +8469,11 @@
             "description": "A better annotation generator. Supports multiple languages and annotation conventions."
         },
         {
-            "path": "echasnovski/mini.comment",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.comment",
+            "owner": "nvim-mini",
             "name": "mini.comment",
             "config": "mini_comment.lua",
-            "url": "https://github.com/echasnovski/mini.comment",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-comment.md",
             "description": "Module of `mini.nvim` for per-line commenting. Fully supports dot-repeat."
         },
         {
@@ -8581,11 +8581,11 @@
             "description": "Prettier integration."
         },
         {
-            "path": "echasnovski/mini.align",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.align",
+            "owner": "nvim-mini",
             "name": "mini.align",
             "config": "mini_align.lua",
-            "url": "https://github.com/echasnovski/mini.align",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-align.md",
             "description": "Module of `mini.nvim` for aligning text interactively (with or without instant preview)."
         },
         {
@@ -8687,11 +8687,11 @@
             "description": "Indentation guides using the builtin variables."
         },
         {
-            "path": "echasnovski/mini.indentscope",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.indentscope",
+            "owner": "nvim-mini",
             "name": "mini.indentscope",
             "config": "mini_indentscope.lua",
-            "url": "https://github.com/echasnovski/mini.indentscope",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-indentscope.md",
             "description": "Module of `mini.nvim` for visualizing and operating on indent scope. Supports customization of debounce delay, animation style, and different granularity of options for scope computing algorithm."
         },
         {
@@ -8783,11 +8783,11 @@
             "description": "A small automated session manager."
         },
         {
-            "path": "echasnovski/mini.sessions",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.sessions",
+            "owner": "nvim-mini",
             "name": "mini.sessions",
             "config": "mini_sessions.lua",
-            "url": "https://github.com/echasnovski/mini.sessions",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-sessions.md",
             "description": "Module of `mini.nvim` for session management (read, write, delete)."
         },
         {
@@ -8999,11 +8999,11 @@
             "description": "Delete Neovim buffers without losing your window layout."
         },
         {
-            "path": "echasnovski/mini.bufremove",
-            "owner": "echasnovski",
+            "path": "nvim-mini/mini.nvim#mini.bufremove",
+            "owner": "nvim-mini",
             "name": "mini.bufremove",
             "config": "mini_bufremove.lua",
-            "url": "https://github.com/echasnovski/mini.bufremove",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-bufremove.md",
             "description": "Module of `mini.nvim` for buffer removing (unshow, delete, wipeout) while saving window layout."
         },
         {
