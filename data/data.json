@@ -2121,6 +2121,14 @@
             "description": "Simple harpoon alternative that focuses on marking & navigating between files."
         },
         {
+            "path": "walkersumida/fusen.nvim",
+            "owner": "walkersumida",
+            "name": "fusen.nvim",
+            "config": "fusen_nvim.lua",
+            "url": "https://github.com/walkersumida/fusen.nvim",
+            "description": "Sticky note bookmarks, per Git branch with hover annotations and Telescope integration."
+        },
+        {
             "path": "wurli/visimatch.nvim",
             "owner": "wurli",
             "name": "visimatch.nvim",
