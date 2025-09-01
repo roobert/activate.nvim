@@ -5007,14 +5007,6 @@
             "description": " A minimal `todo.txt` implementation in Lua."
         },
         {
-            "path": "Silletr/LazyDevHelper",
-            "owner": "Silletr",
-            "name": "LazyDevHelper",
-            "config": "LazyDevHelper.lua",
-            "url": "https://github.com/Silletr/LazyDevHelper",
-            "description": "Python dependencies manager, with auto-adding to your requirements.txt."
-        },
-        {
             "path": "Cih2001/pikchr.nvim",
             "owner": "Cih2001",
             "name": "pikchr.nvim",
@@ -6953,6 +6945,14 @@
             "config": "import_nvim.lua",
             "url": "https://github.com/piersolenski/import.nvim",
             "description": "Import modules faster based on what you've already imported in your project."
+        },
+        {
+            "path": "Silletr/LazyDevHelper",
+            "owner": "Silletr",
+            "name": "LazyDevHelper",
+            "config": "LazyDevHelper.lua",
+            "url": "https://github.com/Silletr/LazyDevHelper",
+            "description": "Python dependencies manager, with auto-adding to your requirements.txt."
         },
         {
             "path": "mrloop/telescope-git-branch.nvim",
