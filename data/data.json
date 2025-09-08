@@ -5004,7 +5004,15 @@
             "name": "todotxt.nvim",
             "config": "todotxt_nvim.lua",
             "url": "https://github.com/phrmendes/todotxt.nvim",
-            "description": " A minimal `todo.txt` implementation in Lua."
+            "description": "A minimal `todo.txt` implementation in Lua."
+        },
+        {
+            "path": "happyeric77/joplin.nvim",
+            "owner": "happyeric77",
+            "name": "joplin.nvim",
+            "config": "joplin_nvim.lua",
+            "url": "https://github.com/happyeric77/joplin.nvim",
+            "description": "Joplin notes utilities: tree browser, search, open, and Telescope integration."
         },
         {
             "path": "Cih2001/pikchr.nvim",
