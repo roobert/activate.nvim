@@ -2641,6 +2641,14 @@
             "description": "An all in one Neovim plugin that provides superior project management."
         },
         {
+            "path": "DrKJeff16/project.nvim",
+            "owner": "DrKJeff16",
+            "name": "project.nvim",
+            "config": "project_nvim.lua",
+            "url": "https://github.com/DrKJeff16/project.nvim",
+            "description": "An actively maintained fork of `ahmedkhalf/project.nvim` with documented code, `fzf-lua` support and new features."
+        },
+        {
             "path": "klen/nvim-config-local",
             "owner": "klen",
             "name": "nvim-config-local",
@@ -3945,6 +3953,14 @@
             "config": "techbase_nvim.lua",
             "url": "https://github.com/mcauley-penney/techbase.nvim",
             "description": "Dark, cold color scheme inspired by sci-fi horror and retro technology."
+        },
+        {
+            "path": "y3owk1n/base16-pro-max.nvim",
+            "owner": "y3owk1n",
+            "name": "base16-pro-max.nvim",
+            "config": "base16_pro_max_nvim.lua",
+            "url": "https://github.com/y3owk1n/base16-pro-max.nvim",
+            "description": "Base16 for modern Neovim \u2014 not just colors."
         }
     ],
     "Lua Colorscheme": [
@@ -4796,7 +4812,7 @@
             "name": "checkmate.nvim",
             "config": "checkmate_nvim.lua",
             "url": "https://github.com/bngarren/checkmate.nvim",
-            "description": "A beautified Markdown to-do list companion."
+            "description": "A full-featured Markdown-based todo plugin."
         },
         {
             "path": "lfilho/note2cal.nvim",
