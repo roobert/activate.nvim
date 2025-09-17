@@ -6899,6 +6899,14 @@
             "description": "A handy scratch pad / REPL / debug console for Lua development and Neovim exploration and configuration."
         },
         {
+            "path": "DrKJeff16/wezterm-types",
+            "owner": "DrKJeff16",
+            "name": "wezterm-types",
+            "config": "wezterm_types.lua",
+            "url": "https://github.com/DrKJeff16/wezterm-types",
+            "description": "WezTerm config type annotations for Lua Language Server."
+        },
+        {
             "path": "Olical/aniseed",
             "owner": "Olical",
             "name": "aniseed",
