@@ -5893,6 +5893,14 @@
             "config": "brewfile_nvim.lua",
             "url": "https://github.com/piersolenski/brewfile.nvim",
             "description": "Manage your [Homebrew](https://brew.sh/) [Brewfile](https://docs.brew.sh/Brew-Bundle-and-Brewfile)."
+        },
+        {
+            "path": "ravsii/timers.nvim",
+            "owner": "ravsii",
+            "name": "timers.nvim",
+            "config": "timers_nvim.lua",
+            "url": "https://github.com/ravsii/timers.nvim",
+            "description": "Timer manager, a clean Lua API, supporting multiple timers, persistence, UI, and plugin integrations."
         }
     ],
     "CSV Files": [
@@ -7201,6 +7209,14 @@
             "config": "unified_nvim.lua",
             "url": "https://github.com/axkirillov/unified.nvim",
             "description": "Displaying inline unified diffs directly in your buffer."
+        },
+        {
+            "path": "StackInTheWild/headhunter.nvim",
+            "owner": "StackInTheWild",
+            "name": "headhunter.nvim",
+            "config": "headhunter_nvim.lua",
+            "url": "https://github.com/StackInTheWild/headhunter.nvim",
+            "description": "Hunt and resolve merge conflicts directly in Neovim \u2014 fast and simple."
         }
     ],
     "GitHub": [
