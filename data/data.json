@@ -4145,6 +4145,14 @@
             "description": "Light weight color scheme switcher."
         },
         {
+            "path": "Erl-koenig/theme-hub.nvim",
+            "owner": "Erl-koenig",
+            "name": "theme-hub.nvim",
+            "config": "theme_hub_nvim.lua",
+            "url": "https://github.com/Erl-koenig/theme-hub.nvim",
+            "description": "Manage and install colorschemes via telescope-pickers."
+        },
+        {
             "path": "Bekaboo/deadcolumn.nvim",
             "owner": "Bekaboo",
             "name": "deadcolumn.nvim",
