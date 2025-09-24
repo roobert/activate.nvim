@@ -347,6 +347,14 @@
             "description": "Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle."
         },
         {
+            "path": "p00f/clangd_extensions.nvim",
+            "owner": "p00f",
+            "name": "clangd_extensions.nvim",
+            "config": "clangd_extensions_nvim.lua",
+            "url": "https://github.com/p00f/clangd_extensions.nvim",
+            "description": "Off-spec clangd features for Neovim's LSP client."
+        },
+        {
             "path": "ranjithshegde/ccls.nvim",
             "owner": "ranjithshegde",
             "name": "ccls.nvim",
