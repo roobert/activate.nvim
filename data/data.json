@@ -2911,6 +2911,14 @@
             "config": "minty.lua",
             "url": "https://github.com/nvzone/minty",
             "description": "Beautifully crafted color tools."
+        },
+        {
+            "path": "3ZsForInsomnia/pacer.nvim",
+            "owner": "3ZsForInsomnia",
+            "name": "pacer.nvim",
+            "config": "pacer_nvim.lua",
+            "url": "https://github.com/3ZsForInsomnia/pacer.nvim",
+            "description": "Creates a reading pacer by highlighting one word at a time and dimming all text outside the current paragraph-and-some to help you read faster."
         }
     ],
     "Tree-sitter Supported Colorscheme": [
@@ -3033,6 +3041,14 @@
             "config": "evergarden.lua",
             "url": "https://github.com/comfysage/evergarden",
             "description": "A comfy Neovim colorscheme for cozy morning coding."
+        },
+        {
+            "path": "uhs-robert/oasis.nvim",
+            "owner": "uhs-robert",
+            "name": "oasis.nvim",
+            "config": "oasis_nvim.lua",
+            "url": "https://github.com/uhs-robert/oasis.nvim",
+            "description": "Desert theme from Vim ported to Neovim and made modern with 12 variants, a collection of dark themes for every color of the rainbow."
         },
         {
             "path": "sainnhe/sonokai",
