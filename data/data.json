@@ -4105,6 +4105,14 @@
     ],
     "Colorscheme Switchers": [
         {
+            "path": "flashcodes-themayankjha/fkthemes.nvim",
+            "owner": "flashcodes-themayankjha",
+            "name": "fkthemes.nvim",
+            "config": "fkthemes_nvim.lua",
+            "url": "https://github.com/flashcodes-themayankjha/fkthemes.nvim",
+            "description": "A fast,lightweight and powerful theme switcher written in Lua. Easily switch between your favorite colorschemes, add transparency, preview them live, and persist your choice across sessions."
+        },
+        {
             "path": "4e554c4c/darkman.nvim",
             "owner": "4e554c4c",
             "name": "darkman.nvim",
