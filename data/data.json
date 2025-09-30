@@ -5135,6 +5135,14 @@
             "description": "Searchable cheatsheet."
         },
         {
+            "path": "hat0uma/prelive.nvim",
+            "owner": "hat0uma",
+            "name": "prelive.nvim",
+            "config": "prelive_nvim.lua",
+            "url": "https://github.com/hat0uma/prelive.nvim",
+            "description": "A simple luv-based development server with live reloading."
+        },
+        {
             "path": "code-biscuits/nvim-biscuits",
             "owner": "code-biscuits",
             "name": "nvim-biscuits",
