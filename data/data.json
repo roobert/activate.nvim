@@ -5143,6 +5143,14 @@
             "description": "A simple luv-based development server with live reloading."
         },
         {
+            "path": "hat0uma/doxygen-previewer.nvim",
+            "owner": "hat0uma",
+            "name": "doxygen-previewer.nvim",
+            "config": "doxygen_previewer_nvim.lua",
+            "url": "https://github.com/hat0uma/doxygen-previewer.nvim",
+            "description": "Live previewing of Doxygen documentation."
+        },
+        {
             "path": "code-biscuits/nvim-biscuits",
             "owner": "code-biscuits",
             "name": "nvim-biscuits",
@@ -8763,6 +8771,14 @@
             "config": "toggle_quotes_nvim.lua",
             "url": "https://github.com/paul-louyot/toggle-quotes.nvim",
             "description": "Toggle between quotes."
+        },
+        {
+            "path": "wsdjeg/format.nvim",
+            "owner": "wsdjeg",
+            "name": "format.nvim",
+            "config": "format_nvim.lua",
+            "url": "https://github.com/wsdjeg/format.nvim",
+            "description": "An asynchronous code formatting plugin."
         }
     ],
     "Indent": [
