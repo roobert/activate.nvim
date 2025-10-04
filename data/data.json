@@ -2617,6 +2617,14 @@
             "description": "Allows you to quickly open a file or copy URL located under cursor."
         },
         {
+            "path": "A7Lavinraj/fyler.nvim",
+            "owner": "A7Lavinraj",
+            "name": "fyler.nvim",
+            "config": "fyler_nvim.lua",
+            "url": "https://github.com/A7Lavinraj/fyler.nvim",
+            "description": "File manager which can edit file system like a buffer with tree view."
+        },
+        {
             "path": "sukineco/neoproj",
             "owner": "sukineco",
             "name": "neoproj",
@@ -7881,6 +7889,14 @@
             "config": "satellite_nvim.lua",
             "url": "https://github.com/lewis6991/satellite.nvim",
             "description": "Decorate scrollbar."
+        },
+        {
+            "path": "wsdjeg/scrollbar.nvim",
+            "owner": "wsdjeg",
+            "name": "scrollbar.nvim",
+            "config": "scrollbar_nvim.lua",
+            "url": "https://github.com/wsdjeg/satellite.nvim",
+            "description": "Floating scrollbar."
         },
         {
             "path": "TheLazyCat00/replace-nvim",
