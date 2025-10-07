@@ -4299,6 +4299,14 @@
             "description": "Very lightweight, super fast and lazyloading statusline."
         },
         {
+            "path": "sontungexpt/witch-line",
+            "owner": "sontungexpt",
+            "name": "witch-line",
+            "config": "witch_line.lua",
+            "url": "https://github.com/sontungexpt/witch-line",
+            "description": "A blazing fast, lazy loading and easy to configure Neovim statusline."
+        },
+        {
             "path": "nvim-lualine/lualine.nvim",
             "owner": "nvim-lualine",
             "name": "lualine.nvim",
@@ -7347,6 +7355,14 @@
             "config": "gh_co_nvim.lua",
             "url": "https://github.com/comatory/gh-co.nvim",
             "description": "Show the code owner(s) for files according to GitHub's `CODEOWNERS` specification."
+        },
+        {
+            "path": "3ZsForInsomnia/revman.nvim",
+            "owner": "3ZsForInsomnia",
+            "name": "revman.nvim",
+            "config": "revman_nvim.lua",
+            "url": "https://github.com/3ZsForInsomnia/revman.nvim",
+            "description": "Track PRs that need review automatically and open them in Octo.nvim."
         }
     ],
     "GitLab": [
