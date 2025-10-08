@@ -38,7 +38,7 @@
             "name": "store.nvim",
             "config": "store_nvim.lua",
             "url": "https://github.com/alex-popov-tech/store.nvim",
-            "description": "A modern plugin discovery and management tool with a database of ~5000 plugins and easy installation via `lazy.nvim`."
+            "description": "Plugins discovery tool with hourly updated database, and one-key installation for `lazy.nvim` and `vim.pack`."
         },
         {
             "path": "roobert/activate.nvim",
@@ -71,6 +71,14 @@
             "config": "nvim_plug.lua",
             "url": "https://github.com/wsdjeg/nvim-plug",
             "description": "Asynchronous Neovim plugin manager written in Lua."
+        },
+        {
+            "path": "alyxshang/nuwa.nvim",
+            "owner": "alyxshang",
+            "name": "nuwa.nvim",
+            "config": "nuwa_nvim.lua",
+            "url": "https://github.com/alyxshang/nuwa.nvim",
+            "description": "A light Neovim package manager."
         }
     ],
     "(requires Neovim 0.5)": [
@@ -987,6 +995,30 @@
             "description": "Chat with Markdown files using AI models from xAI, OpenAI and Anthropic."
         },
         {
+            "path": "3ZsForInsomnia/code-companion-picker",
+            "owner": "3ZsForInsomnia",
+            "name": "code-companion-picker",
+            "config": "code_companion_picker.lua",
+            "url": "https://github.com/3ZsForInsomnia/code-companion-picker",
+            "description": "Telescope and Snacks picker integrations for previewing CodeCompanion prompts."
+        },
+        {
+            "path": "3ZsForInsomnia/vs-code-companion",
+            "owner": "3ZsForInsomnia",
+            "name": "vs-code-companion",
+            "config": "vs_code_companion.lua",
+            "url": "https://github.com/3ZsForInsomnia/vs-code-companion",
+            "description": "Tool for importing VS Code's markdown prompts into CodeCompanion."
+        },
+        {
+            "path": "3ZsForInsomnia/token-count.nvim",
+            "owner": "3ZsForInsomnia",
+            "name": "token-count.nvim",
+            "config": "token_count_nvim.lua",
+            "url": "https://github.com/3ZsForInsomnia/token-count.nvim",
+            "description": "Shows the token count for the current buffer, with integrations for Lualine and NeoTree."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
@@ -1169,6 +1201,14 @@
             "config": "defold_nvim.lua",
             "url": "https://github.com/atomicptr/defold.nvim",
             "description": "Batteries-included development environment for the Defold game engine."
+        },
+        {
+            "path": "onlyati/quadlet-lsp.nvim",
+            "owner": "onlyati",
+            "name": "quadlet-lsp.nvim",
+            "config": "quadlet_lsp_nvim.lua",
+            "url": "https://github.com/onlyati/quadlet-lsp.nvim",
+            "description": "Provides completion, hover and other language server features for Podman Quadlet files."
         }
     ],
     "Golang": [
@@ -2930,6 +2970,14 @@
         }
     ],
     "Tree-sitter Supported Colorscheme": [
+        {
+            "path": "wurli/cobalt.nvim",
+            "owner": "wurli",
+            "name": "cobalt.nvim",
+            "config": "cobalt_nvim.lua",
+            "url": "https://github.com/wurli/cobalt.nvim",
+            "description": "A (mostly) faithful port of the classic blue theme from TextMate."
+        },
         {
             "path": "datsfilipe/min-theme.nvim",
             "owner": "datsfilipe",
