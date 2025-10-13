@@ -947,12 +947,12 @@
             "description": "Leverage coding assistants for chat and code generation. Provides tools for the AI/LLM agent to explore and edit your code, like Aider, Cursor and Windsurf."
         },
         {
-            "path": "claudius.nvim",
+            "path": "flemma.nvim",
             "owner": "",
-            "name": "claudius.nvim",
-            "config": "claudius_nvim.lua",
-            "url": "https://github.com/StanAngeloff/claudius.nvim",
-            "description": "Text-based interface for chatting with Claude AI directly in your buffer."
+            "name": "flemma.nvim",
+            "config": "flemma_nvim.lua",
+            "url": "https://github.com/Flemma-Dev/flemma.nvim",
+            "description": "Flemma turns Neovim into a first-class AI workspace."
         },
         {
             "path": "heilgar/nochat.nvim",
@@ -1439,6 +1439,14 @@
             "config": "expose_localhost_nvim.lua",
             "url": "https://github.com/azratul/expose-localhost.nvim",
             "description": "Expose your local server to the internet with cloudflared or ngrok."
+        },
+        {
+            "path": "yelog/i18n.nvim",
+            "owner": "yelog",
+            "name": "i18n.nvim",
+            "config": "i18n_nvim.lua",
+            "url": "https://github.com/yelog/i18n.nvim",
+            "description": "Internationalization (i18n) management with LSP support for `Vue`, `React`, `Java` and more."
         }
     ],
     "Markdown and LaTeX": [
@@ -6833,6 +6841,14 @@
             "config": "pilot_nvim.lua",
             "url": "https://github.com/pewpewnor/pilot.nvim",
             "description": "Run your projects and files quickly with keybindings, and configure how to run them on the fly."
+        },
+        {
+            "path": "ok97465/ipybridge.nvim",
+            "owner": "ok97465",
+            "name": "ipybridge.nvim",
+            "config": "ipybridge_nvim.lua",
+            "url": "https://github.com/ok97465/ipybridge.nvim",
+            "description": "Run Python code, execute Jupyter cells, debug, and explore variables."
         },
         {
             "path": "folke/lazydev.nvim",
