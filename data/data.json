@@ -2465,6 +2465,14 @@
             "description": "Fuzzy file picker with a standalone native implementation of file indexing and typo resistant fuzzy matcher. Includes all the QOL features, file previews (and images), frecency sorting, last query matching, proximity, git status bonuses and much more."
         },
         {
+            "path": "wsdjeg/picker.nvim",
+            "owner": "wsdjeg",
+            "name": "picker.nvim",
+            "config": "picker_nvim.lua",
+            "url": "https://github.com/wsdjeg/picker.nvim",
+            "description": "Simple fuzzy finder, including files, ctags outline, and more."
+        },
+        {
             "path": "nvim-tree/nvim-tree.lua",
             "owner": "nvim-tree",
             "name": "nvim-tree.lua",
@@ -4757,6 +4765,14 @@
             "config": "nerdy_nvim.lua",
             "url": "https://github.com/2KAbhishek/nerdy.nvim/",
             "description": "Find and insert the latest nerd font glyphs."
+        },
+        {
+            "path": "`stephansama/fzf-nerdfont.nvim`",
+            "owner": "`stephansama",
+            "name": "fzf-nerdfont.nvim`",
+            "config": "fzf_nerdfont_nvim`.lua",
+            "url": "https://github.com/stephansama/fzf-nerdfont.nvim",
+            "description": "A picker for selecting Nerd Font icons using `fzf-lua`."
         },
         {
             "path": "pandasoli/nekovim",
@@ -7353,6 +7369,22 @@
             "config": "headhunter_nvim.lua",
             "url": "https://github.com/StackInTheWild/headhunter.nvim",
             "description": "Hunt and resolve merge conflicts directly in Neovim \u2014 fast and simple."
+        },
+        {
+            "path": "yus-works/csc.nvim",
+            "owner": "yus-works",
+            "name": "csc.nvim",
+            "config": "csc_nvim.lua",
+            "url": "https://github.com/yus-works/csc.nvim",
+            "description": "Conventional commit scope completion that learns from git history."
+        },
+        {
+            "path": "404pilo/aicommits.nvim",
+            "owner": "404pilo",
+            "name": "aicommits.nvim",
+            "config": "aicommits_nvim.lua",
+            "url": "https://github.com/404pilo/aicommits.nvim",
+            "description": "Generate conventional commit messages using AI."
         }
     ],
     "GitHub": [
@@ -9505,6 +9537,14 @@
             "config": "neovim_tips.lua",
             "url": "https://github.com/saxon1964/neovim-tips",
             "description": "Provides hundreds of built-in Neovim tips, tricks, and shortcuts, with a custom picker interface and the ability to add your own tips."
+        },
+        {
+            "path": "zongben/dbout.nvim",
+            "owner": "zongben",
+            "name": "dbout.nvim",
+            "config": "dbout_nvim.lua",
+            "url": "https://github.com/zongben/dbout.nvim",
+            "description": "Manage database connections and run SQL queries directly in Neovim with JSON results."
         },
         {
             "path": "Cris-lml007/NeoPlus",
