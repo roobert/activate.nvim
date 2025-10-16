@@ -9563,6 +9563,30 @@
             "description": "Manage database connections and run SQL queries directly in Neovim with JSON results."
         },
         {
+            "path": "Kurren123/mssql.nvim",
+            "owner": "Kurren123",
+            "name": "mssql.nvim",
+            "config": "mssql_nvim.lua",
+            "url": "https://github.com/Kurren123/mssql.nvim",
+            "description": "A Microsoft SQL Server plugin."
+        },
+        {
+            "path": "kndndrj/nvim-dbee",
+            "owner": "kndndrj",
+            "name": "nvim-dbee",
+            "config": "nvim_dbee.lua",
+            "url": "https://github.com/kndndrj/nvim-dbee",
+            "description": "Interactive database client."
+        },
+        {
+            "path": "tashikomaaa/neomongo.nvim",
+            "owner": "tashikomaaa",
+            "name": "neomongo.nvim",
+            "config": "neomongo_nvim.lua",
+            "url": "https://github.com/tashikomaaa/neomongo.nvim",
+            "description": "Explore, query, and edit MongoDB collections directly through a Telescope-powered dashboard."
+        },
+        {
             "path": "Cris-lml007/NeoPlus",
             "owner": "Cris-lml007",
             "name": "NeoPlus",
