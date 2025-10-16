@@ -1425,6 +1425,14 @@
             "description": "Quickly highlight the color you defined in your CSS variables with the help of `mini.hipatterns`."
         },
         {
+            "path": "mawkler/jsx-element.nvim",
+            "owner": "mawkler",
+            "name": "jsx-element.nvim",
+            "config": "jsx_element_nvim.lua",
+            "url": "https://github.com/mawkler/jsx-element.nvim",
+            "description": "JSX/TSX text-objects and motions."
+        },
+        {
             "path": "BibekBhusal0/nvim-shadcn",
             "owner": "BibekBhusal0",
             "name": "nvim-shadcn",
@@ -2431,6 +2439,14 @@
             "config": "telescope_egrepify_nvim.lua",
             "url": "https://github.com/fdschmidt93/telescope-egrepify.nvim",
             "description": "Telescope plugin for better `rg` flags in `live_grep`."
+        },
+        {
+            "path": "nvim-telescope/telescope-media-files.nvim",
+            "owner": "nvim-telescope",
+            "name": "telescope-media-files.nvim",
+            "config": "telescope_media_files_nvim.lua",
+            "url": "https://github.com/nvim-telescope/telescope-media-files.nvim",
+            "description": "Preview images, pdf, epub, video, and fonts using Telescope."
         },
         {
             "path": "crispgm/telescope-heading.nvim",
