@@ -4943,6 +4943,14 @@
             "description": "Small TUI that allows for controlling Spotify playback."
         },
         {
+            "path": "flashcodes-themayankjha/Fknotes.nvim",
+            "owner": "flashcodes-themayankjha",
+            "name": "Fknotes.nvim",
+            "config": "Fknotes_nvim.lua",
+            "url": "https://github.com/flashcodes-themayankjha/Fknotes.nvim",
+            "description": "Take notes, TODOS from anywhere inside your project, search all todos, get reminders and more."
+        },
+        {
             "path": "apdot/doodle",
             "owner": "apdot",
             "name": "doodle",
