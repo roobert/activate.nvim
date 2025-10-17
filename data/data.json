@@ -9897,6 +9897,14 @@
             "config": "one_nvim.lua",
             "url": "https://github.com/adoyle-h/one.nvim",
             "description": "All-in-one config framework in Lua."
+        },
+        {
+            "path": "nvim-mini/MiniMax",
+            "owner": "nvim-mini",
+            "name": "MiniMax",
+            "config": "MiniMax.lua",
+            "url": "https://github.com/nvim-mini/MiniMax",
+            "description": "A collection of self-contained and extensively commented configurations which mostly use MINI tools."
         }
     ],
     "Version Manager": [
