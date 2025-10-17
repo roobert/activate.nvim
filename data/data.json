@@ -4943,6 +4943,14 @@
             "description": "Small TUI that allows for controlling Spotify playback."
         },
         {
+            "path": "apdot/doodle",
+            "owner": "apdot",
+            "name": "doodle",
+            "config": "doodle.lua",
+            "url": "https://github.com/apdot/doodle",
+            "description": "A developer-centric knowledge base with project/branch scoped notes, bi-directional linking, note-tagging, graph-view, telescope integration, and Git synchronization."
+        },
+        {
             "path": "jameswolensky/marker-groups.nvim",
             "owner": "jameswolensky",
             "name": "marker-groups.nvim",
