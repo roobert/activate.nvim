@@ -4073,9 +4073,7 @@
             "config": "base16_pro_max_nvim.lua",
             "url": "https://github.com/y3owk1n/base16-pro-max.nvim",
             "description": "Base16 for modern Neovim \u2014 not just colors."
-        }
-    ],
-    "Lua Colorscheme": [
+        },
         {
             "path": "ellisonleao/gruvbox.nvim",
             "owner": "ellisonleao",
@@ -4083,7 +4081,9 @@
             "config": "gruvbox_nvim.lua",
             "url": "https://github.com/ellisonleao/gruvbox.nvim",
             "description": "Gruvbox community colorscheme Lua port."
-        },
+        }
+    ],
+    "Lua Colorscheme": [
         {
             "path": "metalelf0/jellybeans-nvim",
             "owner": "metalelf0",
