@@ -2037,7 +2037,7 @@
             "owner": "ThePrimeagen",
             "name": "harpoon",
             "config": "harpoon.lua",
-            "url": "https://github.com/ThePrimeagen/harpoon",
+            "url": "https://github.com/ThePrimeagen/harpoon/tree/harpoon2",
             "description": "A per project, auto updating and editable marks utility for fast file navigation."
         },
         {
@@ -7097,6 +7097,14 @@
             "config": "wezterm_types.lua",
             "url": "https://github.com/DrKJeff16/wezterm-types",
             "description": "WezTerm config type annotations for Lua Language Server."
+        },
+        {
+            "path": "aileot/nvim-thyme",
+            "owner": "aileot",
+            "name": "nvim-thyme",
+            "config": "nvim_thyme.lua",
+            "url": "https://github.com/aileot/nvim-thyme",
+            "description": "Zero-overhead Fennel JIT compiler with safety rollbacks and [parinfer-rust](https://github.com/eraserhd/parinfer-rust) integration."
         },
         {
             "path": "Olical/aniseed",
