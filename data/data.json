@@ -835,19 +835,19 @@
             "description": "Copilot Chat like experience, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI."
         },
         {
-            "path": "simplegpt.nvim",
-            "owner": "",
+            "path": "you-n-g/simplegpt.nvim",
+            "owner": "you-n-g",
             "name": "simplegpt.nvim",
             "config": "simplegpt_nvim.lua",
             "url": "https://github.com/you-n-g/simplegpt.nvim",
             "description": "Provide a simple yet flexible way to construct and send questions to ChatGPT."
         },
         {
-            "path": "Exafunction/codeium.nvim",
+            "path": "Exafunction/windsurf.nvim",
             "owner": "Exafunction",
-            "name": "codeium.nvim",
-            "config": "codeium_nvim.lua",
-            "url": "https://github.com/Exafunction/codeium.nvim",
+            "name": "windsurf.nvim",
+            "config": "windsurf_nvim.lua",
+            "url": "https://github.com/Exafunction/windsurf.nvim",
             "description": "Free, ultrafast Copilot alternative. Supports LSP and Tree-sitter."
         },
         {
@@ -947,8 +947,8 @@
             "description": "Leverage coding assistants for chat and code generation. Provides tools for the AI/LLM agent to explore and edit your code, like Aider, Cursor and Windsurf."
         },
         {
-            "path": "flemma.nvim",
-            "owner": "",
+            "path": "Flemma-Dev/flemma.nvim",
+            "owner": "Flemma-Dev",
             "name": "flemma.nvim",
             "config": "flemma_nvim.lua",
             "url": "https://github.com/Flemma-Dev/flemma.nvim",
