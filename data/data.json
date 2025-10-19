@@ -2721,20 +2721,12 @@
             "description": "Load Neovim config depend on project directory."
         },
         {
-            "path": "ahmedkhalf/project.nvim",
-            "owner": "ahmedkhalf",
-            "name": "project.nvim",
-            "config": "project_nvim.lua",
-            "url": "https://github.com/ahmedkhalf/project.nvim",
-            "description": "An all in one Neovim plugin that provides superior project management."
-        },
-        {
             "path": "DrKJeff16/project.nvim",
             "owner": "DrKJeff16",
             "name": "project.nvim",
             "config": "project_nvim.lua",
             "url": "https://github.com/DrKJeff16/project.nvim",
-            "description": "An actively maintained fork of `ahmedkhalf/project.nvim` with documented code, `fzf-lua` support and new features."
+            "description": "An actively maintained fork of [`ahmedkhalf/project.nvim`](https://github.com/ahmedkhalf/project.nvim) with documented code, `fzf-lua` support and new features."
         },
         {
             "path": "klen/nvim-config-local",
@@ -2749,7 +2741,7 @@
             "owner": "cljoly",
             "name": "telescope-repo.nvim",
             "config": "telescope_repo_nvim.lua",
-            "url": "https://cj.rs/telescope-repo-nvim/",
+            "url": "https://github.com/cljoly/telescope-repo.nvim",
             "description": "Telescope picker to jump to any repository (Git or other) on the file system."
         },
         {
