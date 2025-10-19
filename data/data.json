@@ -2473,8 +2473,8 @@
             "description": "Modern fuzzy-finder to navigate the Neovim universe."
         },
         {
-            "path": "fff.nvim",
-            "owner": "",
+            "path": "dmtrKovalenko/fff.nvim",
+            "owner": "dmtrKovalenko",
             "name": "fff.nvim",
             "config": "fff_nvim.lua",
             "url": "https://github.com/dmtrKovalenko/fff.nvim",
@@ -2665,8 +2665,8 @@
             "description": "A file browser inspired by Emacs Dired."
         },
         {
-            "path": "neotree-file-nesting-config",
-            "owner": "",
+            "path": "saifulapm/neotree-file-nesting-config",
+            "owner": "saifulapm",
             "name": "neotree-file-nesting-config",
             "config": "neotree_file_nesting_config.lua",
             "url": "https://github.com/saifulapm/neotree-file-nesting-config",
@@ -3867,8 +3867,8 @@
             "description": "A [Night Owl colorscheme port from VSCode](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens."
         },
         {
-            "path": "text-to-colorscheme",
-            "owner": "",
+            "path": "svermeulen/text-to-colorscheme",
+            "owner": "svermeulen",
             "name": "text-to-colorscheme",
             "config": "text_to_colorscheme.lua",
             "url": "https://github.com/svermeulen/text-to-colorscheme",
@@ -5591,16 +5591,16 @@
             "description": "Toggles smoothly between number and relative numbers, supporting various number combinations, highly customizable."
         },
         {
-            "path": "nvim-early-retirement",
-            "owner": "",
+            "path": "chrisgrieser/nvim-early-retirement",
+            "owner": "chrisgrieser",
             "name": "nvim-early-retirement",
             "config": "nvim_early_retirement.lua",
             "url": "https://github.com/chrisgrieser/nvim-early-retirement",
             "description": "Send buffers into early retirement by automatically closing them after x minutes of inactivity."
         },
         {
-            "path": "hbac.nvim",
-            "owner": "",
+            "path": "axkirillov/hbac.nvim",
+            "owner": "axkirillov",
             "name": "hbac.nvim",
             "config": "hbac_nvim.lua",
             "url": "https://github.com/axkirillov/hbac.nvim",
@@ -6047,8 +6047,8 @@
             "description": "Get famous quotes from history to display on startup."
         },
         {
-            "path": "toggleword.nvim",
-            "owner": "",
+            "path": "iquzart/toggleword.nvim",
+            "owner": "iquzart",
             "name": "toggleword.nvim",
             "config": "toggleword_nvim.lua",
             "url": "https://github.com/iquzart/toggleword.nvim",
@@ -6651,24 +6651,24 @@
             "description": "Run your tests in split window or popup with live feedback."
         },
         {
-            "path": "tdd.nvim",
-            "owner": "",
+            "path": "zkucekovic/tdd.nvim",
+            "owner": "zkucekovic",
             "name": "tdd.nvim",
             "config": "tdd_nvim.lua",
             "url": "https://github.com/zkucekovic/tdd.nvim",
             "description": "Opens or creates the matching PHPUnit test file for a given class, based on PSR-4 namespace mappings."
         },
         {
-            "path": "neotest-jest",
-            "owner": "",
+            "path": "nvim-neotest/neotest-jest",
+            "owner": "nvim-neotest",
             "name": "neotest-jest",
             "config": "neotest_jest.lua",
             "url": "https://github.com/nvim-neotest/neotest-jest",
             "description": "Neotest adapter for running jest tests."
         },
         {
-            "path": "neotest-busted",
-            "owner": "",
+            "path": "MisanthropicBit/neotest-busted",
+            "owner": "MisanthropicBit",
             "name": "neotest-busted",
             "config": "neotest_busted.lua",
             "url": "https://github.com/MisanthropicBit/neotest-busted",
@@ -7035,8 +7035,8 @@
             "description": "Some useful Tree-sitter methods."
         },
         {
-            "path": "nvim-lusc",
-            "owner": "",
+            "path": "svermeulen/nvim-lusc",
+            "owner": "svermeulen",
             "name": "nvim-lusc",
             "config": "nvim_lusc.lua",
             "url": "https://github.com/svermeulen/nvim-lusc",
@@ -9215,8 +9215,8 @@
             "description": "Explore, edit, and develop on a remote machine via SSHFS."
         },
         {
-            "path": "live-share.nvim",
-            "owner": "",
+            "path": "azratul/live-share.nvim",
+            "owner": "azratul",
             "name": "live-share.nvim",
             "config": "live_share_nvim.lua",
             "url": "https://github.com/azratul/live-share.nvim",
@@ -10033,16 +10033,16 @@
             "description": "Showcases various plugins for Vim and has a [Neovim tag](https://vimawesome.com/?q=tag:neovim) for other plugins targeting Neovim."
         },
         {
-            "path": "awesome-vim",
-            "owner": "",
-            "name": "awesome-vim",
-            "config": "awesome_vim.lua",
+            "path": "akrawchyk/awesome-vim#tools",
+            "owner": "akrawchyk",
+            "name": "awesome-vim#tools",
+            "config": "awesome_vim#tools.lua",
             "url": "https://github.com/akrawchyk/awesome-vim#tools",
             "description": "Short list of Vim plugins and helpful guides."
         },
         {
-            "path": "vim-plugin-list",
-            "owner": "",
+            "path": "altermo/vim-plugin-list",
+            "owner": "altermo",
             "name": "vim-plugin-list",
             "config": "vim_plugin_list.lua",
             "url": "https://github.com/altermo/vim-plugin-list",
@@ -10073,10 +10073,10 @@
             "description": "A beautifully crafted website for Neovim resources."
         },
         {
-            "path": "Nvim-training",
-            "owner": "",
-            "name": "Nvim-training",
-            "config": "Nvim_training.lua",
+            "path": "Weyaaron/nvim-training",
+            "owner": "Weyaaron",
+            "name": "nvim-training",
+            "config": "nvim_training.lua",
             "url": "https://github.com/Weyaaron/nvim-training",
             "description": "A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks."
         }
