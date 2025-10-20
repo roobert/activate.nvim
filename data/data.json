@@ -995,14 +995,6 @@
             "description": "Chat with Markdown files using AI models from xAI, OpenAI and Anthropic."
         },
         {
-            "path": "3ZsForInsomnia/code-companion-picker",
-            "owner": "3ZsForInsomnia",
-            "name": "code-companion-picker",
-            "config": "code_companion_picker.lua",
-            "url": "https://github.com/3ZsForInsomnia/code-companion-picker",
-            "description": "Telescope and Snacks picker integrations for previewing CodeCompanion prompts."
-        },
-        {
             "path": "3ZsForInsomnia/vs-code-companion",
             "owner": "3ZsForInsomnia",
             "name": "vs-code-companion",
@@ -1209,6 +1201,14 @@
             "config": "quadlet_lsp_nvim.lua",
             "url": "https://github.com/onlyati/quadlet-lsp.nvim",
             "description": "Provides completion, hover and other language server features for Podman Quadlet files."
+        },
+        {
+            "path": "leblocks/hopcsharp.nvim",
+            "owner": "leblocks",
+            "name": "hopcsharp.nvim",
+            "config": "hopcsharp_nvim.lua",
+            "url": "https://github.com/leblocks/hopcsharp.nvim",
+            "description": "Provides LSP-less navigation and type-hierarchy information in C# repositories."
         }
     ],
     "Golang": [
@@ -2983,14 +2983,6 @@
             "config": "minty.lua",
             "url": "https://github.com/nvzone/minty",
             "description": "Beautifully crafted color tools."
-        },
-        {
-            "path": "3ZsForInsomnia/pacer.nvim",
-            "owner": "3ZsForInsomnia",
-            "name": "pacer.nvim",
-            "config": "pacer_nvim.lua",
-            "url": "https://github.com/3ZsForInsomnia/pacer.nvim",
-            "description": "Creates a reading pacer by highlighting one word at a time and dimming all text outside the current paragraph-and-some to help you read faster."
         }
     ],
     "Tree-sitter Supported Colorscheme": [
@@ -7483,14 +7475,6 @@
             "config": "gh_co_nvim.lua",
             "url": "https://github.com/comatory/gh-co.nvim",
             "description": "Show the code owner(s) for files according to GitHub's `CODEOWNERS` specification."
-        },
-        {
-            "path": "3ZsForInsomnia/revman.nvim",
-            "owner": "3ZsForInsomnia",
-            "name": "revman.nvim",
-            "config": "revman_nvim.lua",
-            "url": "https://github.com/3ZsForInsomnia/revman.nvim",
-            "description": "Track PRs that need review automatically and open them in Octo.nvim."
         }
     ],
     "GitLab": [
@@ -9577,14 +9561,6 @@
             "config": "dbout_nvim.lua",
             "url": "https://github.com/zongben/dbout.nvim",
             "description": "Manage database connections and run SQL queries directly in Neovim with JSON results."
-        },
-        {
-            "path": "Kurren123/mssql.nvim",
-            "owner": "Kurren123",
-            "name": "mssql.nvim",
-            "config": "mssql_nvim.lua",
-            "url": "https://github.com/Kurren123/mssql.nvim",
-            "description": "A Microsoft SQL Server plugin."
         },
         {
             "path": "kndndrj/nvim-dbee",
