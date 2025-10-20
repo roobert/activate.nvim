@@ -2987,6 +2987,14 @@
     ],
     "Tree-sitter Supported Colorscheme": [
         {
+            "path": "kuri-sun/yoda.nvim",
+            "owner": "kuri-sun",
+            "name": "yoda.nvim",
+            "config": "yoda_nvim.lua",
+            "url": "https://github.com/kuri-sun/yoda.nvim",
+            "description": "Muted green palette for focused, balanced editing."
+        },
+        {
             "path": "wurli/cobalt.nvim",
             "owner": "wurli",
             "name": "cobalt.nvim",
