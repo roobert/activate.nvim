@@ -1697,6 +1697,14 @@
             "config": "mdmath_nvim.lua",
             "url": "https://github.com/Thiago4532/mdmath.nvim",
             "description": "A markdown equation previewer, using Kitty Graphics Protocol."
+        },
+        {
+            "path": "OXY2DEV/markdoc.nvim",
+            "owner": "OXY2DEV",
+            "name": "markdoc.nvim",
+            "config": "markdoc_nvim.lua",
+            "url": "https://github.com/OXY2DEV/markdoc.nvim",
+            "description": "Tree-sitter based `markdown -> vimdoc` converter."
         }
     ],
     "PHP": [
