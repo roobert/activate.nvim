@@ -4611,14 +4611,6 @@
             "config": "tabby_nvim.lua",
             "url": "https://github.com/nanozuki/tabby.nvim",
             "description": "A minimal, configurable, Neovim style tabline. Use your Neovim tabs as workspace multiplexer."
-        },
-        {
-            "path": "roobert/bufferline-cycle-windowless.nvim",
-            "owner": "roobert",
-            "name": "bufferline-cycle-windowless.nvim",
-            "config": "bufferline_cycle_windowless_nvim.lua",
-            "url": "https://github.com/roobert/bufferline-cycle-windowless.nvim",
-            "description": "A bufferline extension to cycle through windowless buffers to give a more traditional tab based experience."
         }
     ],
     "Cursorline": [
@@ -4629,14 +4621,6 @@
             "config": "nvim_cursorline.lua",
             "url": "https://github.com/ya2s/nvim-cursorline",
             "description": "A plugin that highlights cursor words and lines."
-        },
-        {
-            "path": "xiyaowong/nvim-cursorword",
-            "owner": "xiyaowong",
-            "name": "nvim-cursorword",
-            "config": "nvim_cursorword.lua",
-            "url": "https://github.com/xiyaowong/nvim-cursorword",
-            "description": "Part of nvim-cursorline. Highlight the word under the cursor."
         },
         {
             "path": "sontungexpt/stcursorword",
@@ -4669,14 +4653,6 @@
             "config": "modicator_nvim.lua",
             "url": "https://github.com/mawkler/modicator.nvim",
             "description": "Cursor line number mode indicator. Changes the `CursorLineNr` highlight based on Vim mode."
-        },
-        {
-            "path": "nyngwang/murmur.lua",
-            "owner": "nyngwang",
-            "name": "murmur.lua",
-            "config": "murmur_lua.lua",
-            "url": "https://github.com/nyngwang/murmur.lua",
-            "description": "Super-fast cursor word highlighting with callbacks(I call them murmurs) included."
         },
         {
             "path": "nvimdev/dashboard-nvim",
@@ -4717,14 +4693,6 @@
             "config": "startup_nvim.lua",
             "url": "https://github.com/max397574/startup.nvim",
             "description": "The fully customizable greeter for Neovim."
-        },
-        {
-            "path": "willothy/veil.nvim",
-            "owner": "willothy",
-            "name": "veil.nvim",
-            "config": "veil_nvim.lua",
-            "url": "https://github.com/willothy/veil.nvim",
-            "description": "A blazingly fast, animated, and infinitely customizable startup / dashboard plugin."
         },
         {
             "path": "TobinPalmer/Tip.nvim",
