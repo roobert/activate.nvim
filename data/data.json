@@ -6313,6 +6313,14 @@
             "description": "A simple & easy to use multi-terminal plugin."
         },
         {
+            "path": "logicmagix/tide42",
+            "owner": "logicmagix",
+            "name": "tide42",
+            "config": "tide42.lua",
+            "url": "https://github.com/logicmagix/tide42",
+            "description": "A fully integrated terminal IDE built on Neovim, tmux, and scriptable workflows."
+        },
+        {
             "path": "m00qek/baleia.nvim",
             "owner": "m00qek",
             "name": "baleia.nvim",
