@@ -2169,14 +2169,6 @@
             "description": "An easy and powerful bookmark manager with telescope."
         },
         {
-            "path": "francescarpi/buffon.nvim",
-            "owner": "francescarpi",
-            "name": "buffon.nvim",
-            "config": "buffon_nvim.lua",
-            "url": "https://github.com/francescarpi/buffon.nvim",
-            "description": "Buffers navigation, reorganize and close."
-        },
-        {
             "path": "Beargruug/skipper.nvim",
             "owner": "Beargruug",
             "name": "skipper.nvim",
@@ -6061,6 +6053,14 @@
             "config": "timers_nvim.lua",
             "url": "https://github.com/ravsii/timers.nvim",
             "description": "Timer manager, a clean Lua API, supporting multiple timers, persistence, UI, and plugin integrations."
+        },
+        {
+            "path": "francescarpi/buffon.nvim",
+            "owner": "francescarpi",
+            "name": "buffon.nvim",
+            "config": "buffon_nvim.lua",
+            "url": "https://github.com/francescarpi/buffon.nvim",
+            "description": "Buffers navigation, reorganize and close."
         },
         {
             "path": "ahkohd/buffer-sticks.nvim",
