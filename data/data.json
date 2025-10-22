@@ -6061,6 +6061,14 @@
             "config": "timers_nvim.lua",
             "url": "https://github.com/ravsii/timers.nvim",
             "description": "Timer manager, a clean Lua API, supporting multiple timers, persistence, UI, and plugin integrations."
+        },
+        {
+            "path": "ahkohd/buffer-sticks.nvim",
+            "owner": "ahkohd",
+            "name": "buffer-sticks.nvim",
+            "config": "buffer_sticks_nvim.lua",
+            "url": "https://github.com/ahkohd/buffer-sticks.nvim",
+            "description": "Cosmetic buffers indicator & picker."
         }
     ],
     "CSV Files": [
