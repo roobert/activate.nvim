@@ -1463,6 +1463,14 @@
             "config": "i18n_nvim.lua",
             "url": "https://github.com/yelog/i18n.nvim",
             "description": "Internationalization (i18n) management with LSP support for `Vue`, `React`, `Java` and more."
+        },
+        {
+            "path": "Kenzo-Wada/boundary.nvim",
+            "owner": "Kenzo-Wada",
+            "name": "boundary.nvim",
+            "config": "boundary_nvim.lua",
+            "url": "https://github.com/Kenzo-Wada/boundary.nvim",
+            "description": "Display `'use client'` markers inline in your JSX code to visualize client component boundaries."
         }
     ],
     "Markdown and LaTeX": [
