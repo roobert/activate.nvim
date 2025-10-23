@@ -1713,6 +1713,14 @@
             "config": "markdoc_nvim.lua",
             "url": "https://github.com/OXY2DEV/markdoc.nvim",
             "description": "Tree-sitter based `markdown -> vimdoc` converter."
+        },
+        {
+            "path": "YousefHadder/markdown-plus.nvim",
+            "owner": "YousefHadder",
+            "name": "markdown-plus.nvim",
+            "config": "markdown_plus_nvim.lua",
+            "url": "https://github.com/YousefHadder/markdown-plus.nvim",
+            "description": "Provides a full editing experience for Markdown files which includes support for lists, links, TOC, and more with simple and fast keymaps."
         }
     ],
     "PHP": [
