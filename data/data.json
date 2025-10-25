@@ -2217,6 +2217,14 @@
             "description": "Sticky note bookmarks, per Git branch with hover annotations and Telescope integration."
         },
         {
+            "path": "markgandolfo/dartboard.nvim",
+            "owner": "markgandolfo",
+            "name": "dartboard.nvim",
+            "config": "dartboard_nvim.lua",
+            "url": "https://github.com/markgandolfo/dartboard.nvim",
+            "description": "Mark files and quickly access them, inspired by Harpoon and Lasso."
+        },
+        {
             "path": "wurli/visimatch.nvim",
             "owner": "wurli",
             "name": "visimatch.nvim",
@@ -4105,6 +4113,14 @@
             "config": "gruvbox_nvim.lua",
             "url": "https://github.com/ellisonleao/gruvbox.nvim",
             "description": "Gruvbox community colorscheme Lua port."
+        },
+        {
+            "path": "pmouraguedes/neodarcula.nvim",
+            "owner": "pmouraguedes",
+            "name": "neodarcula.nvim",
+            "config": "neodarcula_nvim.lua",
+            "url": "https://github.com/pmouraguedes/neodarcula.nvim",
+            "description": "A dark theme with support for transparency, dimming, LSP semantic tokens and more."
         }
     ],
     "Lua Colorscheme": [
@@ -6085,6 +6101,22 @@
             "config": "buffer_sticks_nvim.lua",
             "url": "https://github.com/ahkohd/buffer-sticks.nvim",
             "description": "Cosmetic buffers indicator & picker."
+        },
+        {
+            "path": "gpanders/nvim-moonwalk",
+            "owner": "gpanders",
+            "name": "nvim-moonwalk",
+            "config": "nvim_moonwalk.lua",
+            "url": "https://github.com/gpanders/nvim-moonwalk",
+            "description": "Use any language that compiles to Lua anywhere in your Neovim configuration."
+        },
+        {
+            "path": "markgandolfo/lightswitch.nvim",
+            "owner": "markgandolfo",
+            "name": "lightswitch.nvim",
+            "config": "lightswitch_nvim.lua",
+            "url": "https://github.com/markgandolfo/lightswitch.nvim",
+            "description": "Toggle various options using the `nui.nvim` library."
         }
     ],
     "CSV Files": [
@@ -7115,6 +7147,30 @@
             "description": "WezTerm config type annotations for Lua Language Server."
         },
         {
+            "path": "chrisgve/databox.nvim",
+            "owner": "chrisgve",
+            "name": "databox.nvim",
+            "config": "databox_nvim.lua",
+            "url": "https://github.com/chrisgve/databox.nvim",
+            "description": "Encrypted storage for Lua tables using [age](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety."
+        },
+        {
+            "path": "BirdeeHub/lze",
+            "owner": "BirdeeHub",
+            "name": "lze",
+            "config": "lze.lua",
+            "url": "https://github.com/BirdeeHub/lze",
+            "description": "A lazy-loading library for Neovim plugins."
+        },
+        {
+            "path": "lumen-oss/lz.n",
+            "owner": "lumen-oss",
+            "name": "lz.n",
+            "config": "lz_n.lua",
+            "url": "https://github.com/lumen-oss/lz.n",
+            "description": "A simple lazy loading library for Neovim plugins."
+        },
+        {
             "path": "aileot/nvim-thyme",
             "owner": "aileot",
             "name": "nvim-thyme",
@@ -7515,6 +7571,14 @@
             "config": "revman_nvim.lua",
             "url": "https://github.com/3ZsForInsomnia/revman.nvim",
             "description": "Track PRs that need review automatically and open them in Octo.nvim."
+        },
+        {
+            "path": "cd-4/git-needy.nvim",
+            "owner": "cd-4",
+            "name": "git-needy.nvim",
+            "config": "git_needy_nvim.lua",
+            "url": "https://github.com/cd-4/git-needy.nvim",
+            "description": "Keeps a tally of workflows that need to be reviewed in your statusbar."
         }
     ],
     "GitLab": [
