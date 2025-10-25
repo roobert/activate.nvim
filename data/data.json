@@ -4767,14 +4767,6 @@
             "description": "Module of `mini.nvim` meant as a general icon provider. Uses fixed set of highlight groups. Supports various categories, icon and style customizations, caching for performance. Integrates with built-in filetype matching."
         },
         {
-            "path": "ya2s/nvim-nonicons",
-            "owner": "ya2s",
-            "name": "nvim-nonicons",
-            "config": "nvim_nonicons.lua",
-            "url": "https://github.com/ya2s/nvim-nonicons",
-            "description": "Collection of configurations for nvim-web-devicons."
-        },
-        {
             "path": "ziontee113/icon-picker.nvim",
             "owner": "ziontee113",
             "name": "icon-picker.nvim",
@@ -4791,10 +4783,10 @@
             "description": "Find and insert the latest nerd font glyphs."
         },
         {
-            "path": "`stephansama/fzf-nerdfont.nvim`",
-            "owner": "`stephansama",
-            "name": "fzf-nerdfont.nvim`",
-            "config": "fzf_nerdfont_nvim`.lua",
+            "path": "stephansama/fzf-nerdfont.nvim",
+            "owner": "stephansama",
+            "name": "fzf-nerdfont.nvim",
+            "config": "fzf_nerdfont_nvim.lua",
             "url": "https://github.com/stephansama/fzf-nerdfont.nvim",
             "description": "A picker for selecting Nerd Font icons using `fzf-lua`."
         },
