@@ -8025,6 +8025,14 @@
             "description": "Mouse gesture plugin."
         },
         {
+            "path": "Saghen/filler-begone.nvim",
+            "owner": "Saghen",
+            "name": "filler-begone.nvim",
+            "config": "filler_begone_nvim.lua",
+            "url": "https://github.com/Saghen/filler-begone.nvim",
+            "description": "Prevents scrolling past the bottom of the buffer and showing unnecessary filler lines."
+        },
+        {
             "path": "karb94/neoscroll.nvim",
             "owner": "karb94",
             "name": "neoscroll.nvim",
@@ -8119,7 +8127,7 @@
             "owner": "wsdjeg",
             "name": "scrollbar.nvim",
             "config": "scrollbar_nvim.lua",
-            "url": "https://github.com/wsdjeg/satellite.nvim",
+            "url": "https://github.com/wsdjeg/scrollbar.nvim",
             "description": "Floating scrollbar."
         },
         {
