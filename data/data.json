@@ -6575,6 +6575,14 @@
             "config": "dap_breakpoints_nvim.lua",
             "url": "https://github.com/Carcuis/dap-breakpoints.nvim",
             "description": "Manage and create advanced breakpoints with virtual text and popup reveal for nvim-dap."
+        },
+        {
+            "path": "ravsii/nvim-dap-envfile",
+            "owner": "ravsii",
+            "name": "nvim-dap-envfile",
+            "config": "nvim_dap_envfile.lua",
+            "url": "https://github.com/ravsii/nvim-dap-envfile",
+            "description": "Automatic `envFile` support for nvim-dap."
         }
     ],
     "Quickfix": [
