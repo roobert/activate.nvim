@@ -4943,6 +4943,14 @@
             "description": "A full-featured Markdown-based todo plugin."
         },
         {
+            "path": "lfilho/note2cal.nvim",
+            "owner": "lfilho",
+            "name": "note2cal.nvim",
+            "config": "note2cal_nvim.lua",
+            "url": "https://github.com/lfilho/note2cal.nvim",
+            "description": "Create calendar events from Markdown notes (macOS only)."
+        },
+        {
             "path": "0styx0/abbreinder.nvim",
             "owner": "0styx0",
             "name": "abbreinder.nvim",
