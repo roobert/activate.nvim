@@ -4839,28 +4839,12 @@
             "description": "A picgo-core-based Neovim plugin, written in Lua, that allows you to upload images to the image bed, which means you can view your images from anywhere on the internet."
         },
         {
-            "path": "madskjeldgaard/reaper-nvim",
-            "owner": "madskjeldgaard",
-            "name": "reaper-nvim",
-            "config": "reaper_nvim.lua",
-            "url": "https://github.com/madskjeldgaard/reaper-nvim",
-            "description": "Remote control Reaper DAW from Neovim."
-        },
-        {
             "path": "davidgranstrom/scnvim",
             "owner": "davidgranstrom",
             "name": "scnvim",
             "config": "scnvim.lua",
             "url": "https://github.com/davidgranstrom/scnvim",
             "description": "Neovim frontend for SuperCollider."
-        },
-        {
-            "path": "andweeb/presence.nvim",
-            "owner": "andweeb",
-            "name": "presence.nvim",
-            "config": "presence_nvim.lua",
-            "url": "https://github.com/andweeb/presence.nvim",
-            "description": "Fast and lite Discord Rich Presence plugin written in Lua."
         },
         {
             "path": "Chaitanyabsrip/present.nvim",
@@ -4909,14 +4893,6 @@
             "config": "music_controls_nvim.lua",
             "url": "https://github.com/AntonVanAssche/music-controls.nvim",
             "description": "Quickly control your favorite music player (Spotify, VLC, and more)."
-        },
-        {
-            "path": "Rits1272/riff.nvim",
-            "owner": "Rits1272",
-            "name": "riff.nvim",
-            "config": "riff_nvim.lua",
-            "url": "https://github.com/Rits1272/riff.nvim",
-            "description": "Search and stream songs right inside your editor \u2014 discoverable with Telescope, played through mpv, and managed with simple commands. Fast, minimal, and theme-agnostic."
         },
         {
             "path": "neo451/feed.nvim",
@@ -4973,14 +4949,6 @@
             "config": "checkmate_nvim.lua",
             "url": "https://github.com/bngarren/checkmate.nvim",
             "description": "A full-featured Markdown-based todo plugin."
-        },
-        {
-            "path": "lfilho/note2cal.nvim",
-            "owner": "lfilho",
-            "name": "note2cal.nvim",
-            "config": "note2cal_nvim.lua",
-            "url": "https://github.com/lfilho/note2cal.nvim",
-            "description": "Quickly send events from your notes to your calendar (i.e. `Do something @ 3pm-3pm` --> will block that time on your calendar."
         },
         {
             "path": "0styx0/abbreinder.nvim",
@@ -6753,14 +6721,6 @@
             "config": "toggletasks_nvim.lua",
             "url": "https://github.com/jedrzejboczar/toggletasks.nvim",
             "description": "Task runner with JSON/YAML configs, using toggleterm.nvim and telescope.nvim."
-        },
-        {
-            "path": "EthanJWright/vs-tasks.nvim",
-            "owner": "EthanJWright",
-            "name": "vs-tasks.nvim",
-            "config": "vs_tasks_nvim.lua",
-            "url": "https://github.com/EthanJWright/vs-tasks.nvim",
-            "description": "UI for launching and managing jobs (unit tests, deploys, etc.) following VS Code tasks structure."
         },
         {
             "path": "stevearc/overseer.nvim",
