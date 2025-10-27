@@ -784,7 +784,7 @@
             "name": "flyboy",
             "config": "flyboy.lua",
             "url": "https://github.com/CamdenClark/flyboy",
-            "description": "Simple interaction with ChatGPT in a markdown buffer. Supports GPT-4 and Azure OpenAI."
+            "description": "Simple interaction with ChatGPT in a Markdown buffer. Supports GPT-4 and Azure OpenAI."
         },
         {
             "path": "gsuuon/model.nvim",
@@ -968,7 +968,7 @@
             "name": "llm-nvim",
             "config": "llm_nvim.lua",
             "url": "https://github.com/julwrites/llm-nvim",
-            "description": "Comprehensive integration with the [llm](https://github.com/simonw/llm) tool."
+            "description": "Comprehensive integration with the [LLM](https://github.com/simonw/llm) tool."
         },
         {
             "path": "azorng/goose.nvim](https://github.com/azorng/goose.nvim) - Seamless Neovim integration with [goose",
@@ -984,7 +984,7 @@
             "name": "sllm.nvim",
             "config": "sllm_nvim.lua",
             "url": "https://github.com/mozanunal/sllm.nvim",
-            "description": "In-editor chat powered by Simon Willison's llm CLI: stream replies in a markdown buffer, manage rich context (files, URLs, selections, diagnostics, shell outputs), switch models interactively, and even see token-usage stats."
+            "description": "In-editor chat powered by Simon Willison's LLM CLI: stream replies in a Markdown buffer, manage rich context (files, URLs, selections, diagnostics, shell outputs), switch models interactively, and even see token-usage stats."
         },
         {
             "path": "chatvim/chatvim.nvim",
@@ -1008,7 +1008,7 @@
             "name": "vs-code-companion",
             "config": "vs_code_companion.lua",
             "url": "https://github.com/3ZsForInsomnia/vs-code-companion",
-            "description": "Tool for importing VS Code's markdown prompts into CodeCompanion."
+            "description": "Tool for importing VS Code's Markdown prompts into CodeCompanion."
         },
         {
             "path": "3ZsForInsomnia/token-count.nvim",
@@ -1080,7 +1080,7 @@
             "name": "tsc.nvim",
             "config": "tsc_nvim.lua",
             "url": "https://github.com/dmmulroy/tsc.nvim",
-            "description": "Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (TSC) with results loaded into a quickfix list."
+            "description": "Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (`tsc`) with results loaded into a quickfix list."
         },
         {
             "path": "dmmulroy/ts-error-translator.nvim",
@@ -1088,7 +1088,7 @@
             "name": "ts-error-translator.nvim",
             "config": "ts_error_translator_nvim.lua",
             "url": "https://github.com/dmmulroy/ts-error-translator.nvim",
-            "description": "A port of Matt Pocock's ts-error-translator for VSCode for turning messy and confusing TypeScript errors into plain English."
+            "description": "A port of Matt Pocock's `ts-error-translator` for VSCode for turning messy and confusing TypeScript errors into plain English."
         },
         {
             "path": "chuwy/ucm.nvim",
@@ -1104,7 +1104,7 @@
             "name": "typst-preview.nvim",
             "config": "typst_preview_nvim.lua",
             "url": "https://github.com/niuiic/typst-preview.nvim",
-            "description": "Preview typst documents, respond to file changes."
+            "description": "Preview Typst documents, respond to file changes."
         },
         {
             "path": "simaxme/java.nvim",
@@ -1112,7 +1112,7 @@
             "name": "java.nvim",
             "config": "java_nvim.lua",
             "url": "https://github.com/simaxme/java.nvim",
-            "description": "Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in nvim-tree)."
+            "description": "Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in `nvim-tree`)."
         },
         {
             "path": "chomosuke/typst-preview.nvim",
@@ -1120,7 +1120,7 @@
             "name": "typst-preview.nvim",
             "config": "typst_preview_nvim.lua",
             "url": "https://github.com/chomosuke/typst-preview.nvim",
-            "description": "Preview typst documents in the browser, instant update on each keystroke, and cross jump between code and preview."
+            "description": "Preview Typst documents in the browser, instant update on each keystroke, and cross jump between code and preview."
         },
         {
             "path": "quarto-dev/quarto-nvim",
@@ -1144,7 +1144,7 @@
             "name": "micropython.nvim",
             "config": "micropython_nvim.lua",
             "url": "https://github.com/jim-at-jibba/micropython.nvim",
-            "description": "Enhances the development experience for developers using Micro-python for IoT and maker projects."
+            "description": "Enhances the development experience for developers using MicroPython for IoT and maker projects."
         },
         {
             "path": "neolooong/whichpy.nvim",
@@ -1488,7 +1488,7 @@
             "name": "markdown-preview.nvim",
             "config": "markdown_preview_nvim.lua",
             "url": "https://github.com/iamcco/markdown-preview.nvim",
-            "description": "Preview markdown on your modern browser with synchronised scrolling and flexible configuration."
+            "description": "Preview Markdown on your modern browser with synchronised scrolling and flexible configuration."
         },
         {
             "path": "davidgranstrom/nvim-markdown-preview",
@@ -1512,7 +1512,7 @@
             "name": "follow-md-links.nvim",
             "config": "follow_md_links_nvim.lua",
             "url": "https://github.com/jghauser/follow-md-links.nvim",
-            "description": "Press enter to follow internal markdown links."
+            "description": "Press enter to follow internal Markdown links."
         },
         {
             "path": "jubnzv/mdeval.nvim",
@@ -1520,7 +1520,7 @@
             "name": "mdeval.nvim",
             "config": "mdeval_nvim.lua",
             "url": "https://github.com/jubnzv/mdeval.nvim",
-            "description": "Evaluate code blocks inside markdown documents."
+            "description": "Evaluate code blocks inside Markdown documents."
         },
         {
             "path": "kdheepak/panvimdoc",
@@ -1536,7 +1536,7 @@
             "name": "knap",
             "config": "knap.lua",
             "url": "https://github.com/frabjous/knap",
-            "description": "Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents."
+            "description": "Plugin for creating automatic updating-as-you-type previews for Markdown, LaTeX and other documents."
         },
         {
             "path": "jbyuki/carrot.nvim",
@@ -1560,7 +1560,7 @@
             "name": "nvim-mdlink",
             "config": "nvim_mdlink.lua",
             "url": "https://github.com/Nedra1998/nvim-mdlink",
-            "description": "Simplify creating and following markdown links."
+            "description": "Simplify creating and following Markdown links."
         },
         {
             "path": "nfrid/markdown-togglecheck",
@@ -1576,7 +1576,7 @@
             "name": "peek.nvim",
             "config": "peek_nvim.lua",
             "url": "https://github.com/toppair/peek.nvim",
-            "description": "Preview markdown in a webview window."
+            "description": "Preview Markdown in a webview window."
         },
         {
             "path": "yaocccc/nvim-hl-mdcodeblock.lua",
@@ -1584,7 +1584,7 @@
             "name": "nvim-hl-mdcodeblock.lua",
             "config": "nvim_hl_mdcodeblock_lua.lua",
             "url": "https://github.com/yaocccc/nvim-hl-mdcodeblock.lua",
-            "description": "Highlight markdown codeblock using Tree-sitter."
+            "description": "Highlight Markdown codeblock using Tree-sitter."
         },
         {
             "path": "kiran94/edit-markdown-table.nvim",
@@ -1600,7 +1600,7 @@
             "name": "nvim-toc",
             "config": "nvim_toc.lua",
             "url": "https://github.com/richardbizik/nvim-toc",
-            "description": "Easily generate table of contents for markdown files."
+            "description": "Easily generate table of contents for Markdown files."
         },
         {
             "path": "Zeioth/markmap.nvim",
@@ -1616,7 +1616,7 @@
             "name": "markdown.nvim",
             "config": "markdown_nvim.lua",
             "url": "https://github.com/tadmccorkle/markdown.nvim",
-            "description": "Configurable tools for markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more."
+            "description": "Configurable tools for Markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more."
         },
         {
             "path": "mpas/marp-nvim",
@@ -1624,7 +1624,7 @@
             "name": "marp-nvim",
             "config": "marp_nvim.lua",
             "url": "https://github.com/mpas/marp-nvim",
-            "description": "Present using markdown with [Marp](https://marp.app/)."
+            "description": "Present using Markdown with [Marp](https://marp.app/)."
         },
         {
             "path": "Myzel394/easytables.nvim",
@@ -1632,7 +1632,7 @@
             "name": "easytables.nvim",
             "config": "easytables_nvim.lua",
             "url": "https://github.com/Myzel394/easytables.nvim",
-            "description": "Easily insert and edit markdown tables with a live preview and useful helpers."
+            "description": "Easily insert and edit Markdown tables with a live preview and useful helpers."
         },
         {
             "path": "MeanderingProgrammer/render-markdown.nvim",
@@ -1640,7 +1640,7 @@
             "name": "render-markdown.nvim",
             "config": "render_markdown_nvim.lua",
             "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
-            "description": "Improve viewing markdown files directly."
+            "description": "Improve viewing Markdown files directly."
         },
         {
             "path": "arminveres/md-pdf.nvim",
@@ -1648,7 +1648,7 @@
             "name": "md-pdf.nvim",
             "config": "md_pdf_nvim.lua",
             "url": "https://github.com/arminveres/md-pdf.nvim",
-            "description": "Preview markdown files and convert to PDF."
+            "description": "Preview Markdown files and convert to PDF."
         },
         {
             "path": "ChuufMaster/markdown-toc",
@@ -1656,7 +1656,7 @@
             "name": "markdown-toc",
             "config": "markdown_toc.lua",
             "url": "https://github.com/ChuufMaster/markdown-toc",
-            "description": "Generate TOC in any markdown file from any other markdown file with customisable levels of headings and affordances for emojis and ensuring that it works on GitHub using relative paths."
+            "description": "Generate TOC in any Markdown file from any other Markdown file with customisable levels of headings and affordances for emojis and ensuring that it works on GitHub using relative paths."
         },
         {
             "path": "OXY2DEV/markview.nvim",
@@ -1664,7 +1664,7 @@
             "name": "markview.nvim",
             "config": "markview_nvim.lua",
             "url": "https://github.com/OXY2DEV/markview.nvim",
-            "description": "A hackable markdown, typst, LaTeX, html(inline) & YAML renderer."
+            "description": "A hackable Markdown, Typst, LaTeX, HTML (inline) and YAML renderer."
         },
         {
             "path": "Kicamon/markdown-table-mode.nvim",
@@ -1680,7 +1680,7 @@
             "name": "table-nvim",
             "config": "table_nvim.lua",
             "url": "https://github.com/SCJangra/table-nvim",
-            "description": "A markdown table editor that formats the table as you type."
+            "description": "A Markdown table editor that formats the table as you type."
         },
         {
             "path": "brianhuster/live-preview.nvim",
@@ -1696,7 +1696,7 @@
             "name": "md-table-tidy.nvim",
             "config": "md_table_tidy_nvim.lua",
             "url": "https://github.com/timantipov/md-table-tidy.nvim",
-            "description": "Simple markdown tables formatting."
+            "description": "Simple Markdown tables formatting."
         },
         {
             "path": "nvim-telescope/telescope-bibtex.nvim",
@@ -1712,7 +1712,7 @@
             "name": "mdmath.nvim",
             "config": "mdmath_nvim.lua",
             "url": "https://github.com/Thiago4532/mdmath.nvim",
-            "description": "A markdown equation previewer, using Kitty Graphics Protocol."
+            "description": "A Markdown equation previewer, using Kitty Graphics Protocol."
         },
         {
             "path": "OXY2DEV/markdoc.nvim",
@@ -4892,7 +4892,7 @@
             "name": "feed.nvim",
             "config": "feed_nvim.lua",
             "url": "https://github.com/neo451/feed.nvim",
-            "description": "Web feed reader written in Lua (RSS, atom, json feed)."
+            "description": "Web feed reader written in Lua (RSS, Atom, JSON feed)."
         },
         {
             "path": "vyfor/cord.nvim",
@@ -4964,7 +4964,7 @@
             "name": "mkdnflow.nvim",
             "config": "mkdnflow_nvim.lua",
             "url": "https://github.com/jakewvincent/mkdnflow.nvim",
-            "description": "Fluent markdown notebook navigation & management (create links, follow links, create and manage to-do lists, reference bib files, and more)."
+            "description": "Fluent Markdown notebook navigation & management (create links, follow links, create and manage to-do lists, reference bib files, and more)."
         },
         {
             "path": "jbyuki/nabla.nvim",
@@ -5012,7 +5012,7 @@
             "name": "telekasten.nvim",
             "config": "telekasten_nvim.lua",
             "url": "https://github.com/nvim-telekasten/telekasten.nvim",
-            "description": "Work with a text-based, markdown zettelkasten / wiki and mix it with a journal, based on telescope.nvim."
+            "description": "Work with a text-based, Markdown zettelkasten / wiki and mix it with a journal, based on telescope.nvim."
         },
         {
             "path": "zk-org/zk-nvim",
@@ -5124,7 +5124,7 @@
             "name": "dotmd.nvim",
             "config": "dotmd_nvim.lua",
             "url": "https://github.com/y3owk1n/dotmd.nvim",
-            "description": "Managing notes, todos, journal entries and inbox all with markdown."
+            "description": "Managing notes, TODO's, journal entries, and your inbox, all with Markdown."
         },
         {
             "path": "athar-qadri/scratchpad.nvim",
@@ -5772,7 +5772,7 @@
             "name": "md-babel.nvim",
             "config": "md_babel_nvim.lua",
             "url": "https://codeberg.org/pluffie/md-babel.nvim",
-            "description": "Run code chunks from Markdown files, like org-babel."
+            "description": "Run code chunks from Markdown files, like `org-babel`."
         },
         {
             "path": "mistricky/codesnap.nvim",
@@ -8746,7 +8746,7 @@
             "name": "Comment.nvim",
             "config": "Comment_nvim.lua",
             "url": "https://github.com/numToStr/Comment.nvim",
-            "description": "Smart and Powerful comment plugin. Supports commentstring, motions, dot-repeat and more."
+            "description": "Smart and powerful comment plugin. Supports commentstring, motions, dot-repeat and more."
         },
         {
             "path": "b3nj5m1n/kommentary",
@@ -8786,7 +8786,7 @@
             "name": "commented.nvim",
             "config": "commented_nvim.lua",
             "url": "https://github.com/winston0410/commented.nvim",
-            "description": "A commenting plugin that supports counts and multiple comment patterns and much more."
+            "description": "A commenting plugin which supports counts and multiple comment patterns and much more."
         },
         {
             "path": "s1n7ax/nvim-comment-frame",
@@ -8802,7 +8802,7 @@
             "name": "neogen",
             "config": "neogen.lua",
             "url": "https://github.com/danymat/neogen",
-            "description": "A better annotation generator. Supports multiple languages and annotation conventions."
+            "description": "A better annotation generator which supports multiple languages and annotation conventions."
         },
         {
             "path": "nvim-mini/mini.nvim#mini.comment",
@@ -8858,7 +8858,7 @@
             "name": "simple-format",
             "config": "simple_format.lua",
             "url": "https://github.com/TheLazyCat00/simple-format",
-            "description": "Replace text using custom regex and highlight group rules, useful for formatting whitespace."
+            "description": "Replace text using custom regex and highlight group rules."
         },
         {
             "path": "gpanders/editorconfig.nvim",
@@ -8882,7 +8882,7 @@
             "name": "lsp-format.nvim",
             "config": "lsp_format_nvim.lua",
             "url": "https://github.com/lukas-reineke/lsp-format.nvim",
-            "description": "A wrapper around Neovims native LSP formatting."
+            "description": "A wrapper around Neovim's native LSP formatting."
         },
         {
             "path": "sbdchd/neoformat",
@@ -8898,7 +8898,7 @@
             "name": "trim.nvim",
             "config": "trim_nvim.lua",
             "url": "https://github.com/cappyzawa/trim.nvim",
-            "description": "This plugin trims trailing whitespace and lines."
+            "description": "Trims trailing whitespace and lines."
         },
         {
             "path": "mcauley-penney/tidy.nvim",
@@ -8938,7 +8938,7 @@
             "name": "auto-format.nvim",
             "config": "auto_format_nvim.lua",
             "url": "https://git.sr.ht/~nedia/auto-format.nvim",
-            "description": "Does no formatting by itself, but sets up an autocmd to format on save, preferring null-ls over LSP client formatting."
+            "description": "Sets up an autocommand to format on save, preferring `null-ls` over native LSP client formatting."
         },
         {
             "path": "tenxsoydev/tabs-vs-spaces.nvim",
@@ -8962,7 +8962,7 @@
             "name": "format.nvim",
             "config": "format_nvim.lua",
             "url": "https://github.com/niuiic/format.nvim",
-            "description": "An asynchronous, multitasking, and highly configurable formatting plugin."
+            "description": "An asynchronous, multitasking, highly configurable formatting plugin."
         },
         {
             "path": "elentok/format-on-save.nvim",
@@ -8970,7 +8970,7 @@
             "name": "format-on-save.nvim",
             "config": "format_on_save_nvim.lua",
             "url": "https://github.com/elentok/format-on-save.nvim",
-            "description": "A synchronous formatter that combines LSP and non-LSP formatting (e.g. shfmt, stylua, prettier), focused specifically on format-on-save."
+            "description": "A synchronous formatter that combines both LSP and non-LSP formatting (e.g. `shfmt`, `stylua`, `prettier`). Focused specifically for format-on-save."
         },
         {
             "path": "stevearc/conform.nvim",
@@ -9012,7 +9012,7 @@
             "name": "indentmini.nvim",
             "config": "indentmini_nvim.lua",
             "url": "https://github.com/nvimdev/indentmini.nvim",
-            "description": "A minimal and blazing fast indentline plugin by using nvim_set_decoration_provide API."
+            "description": "A minimal and blazing fast indentline plugin by using the `nvim_set_decoration_provide` API function."
         },
         {
             "path": "lukas-reineke/indent-blankline.nvim",
