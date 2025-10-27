@@ -4855,14 +4855,6 @@
             "description": "A Presentation plugin written in Lua."
         },
         {
-            "path": "krady21/compiler-explorer.nvim",
-            "owner": "krady21",
-            "name": "compiler-explorer.nvim",
-            "config": "compiler_explorer_nvim.lua",
-            "url": "https://github.com/krady21/compiler-explorer.nvim",
-            "description": "Async Lua plugin for interacting with [compiler-explorer](https://godbolt.org/)."
-        },
-        {
             "path": "3rd/image.nvim",
             "owner": "3rd",
             "name": "image.nvim",
@@ -6753,6 +6745,14 @@
             "config": "neovim_tasks.lua",
             "url": "https://github.com/Shatur/neovim-tasks",
             "description": "A stateful task manager focused on integration with build systems."
+        },
+        {
+            "path": "krady21/compiler-explorer.nvim",
+            "owner": "krady21",
+            "name": "compiler-explorer.nvim",
+            "config": "compiler_explorer_nvim.lua",
+            "url": "https://github.com/krady21/compiler-explorer.nvim",
+            "description": "Asynchronous compilation using the [compiler-explorer](https://godbolt.org/) REST API."
         },
         {
             "path": "milanglacier/yarepl.nvim",
