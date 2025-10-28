@@ -611,6 +611,14 @@
             "description": "DocString generator that helps writing function/classes docstrings in formats like `google`, `numpy`, `sphinx` with live preview."
         },
         {
+            "path": "barreiroleo/ltex_extra.nvim",
+            "owner": "barreiroleo",
+            "name": "ltex_extra.nvim",
+            "config": "ltex_extra_nvim.lua",
+            "url": "https://github.com/barreiroleo/ltex_extra.nvim",
+            "description": "LTeX LSP extension providing external file handling (rules and dictionaries). "
+        },
+        {
             "path": "anott03/nvim-lspinstall",
             "owner": "anott03",
             "name": "nvim-lspinstall",
@@ -6721,6 +6729,14 @@
             "config": "toggletasks_nvim.lua",
             "url": "https://github.com/jedrzejboczar/toggletasks.nvim",
             "description": "Task runner with JSON/YAML configs, using toggleterm.nvim and telescope.nvim."
+        },
+        {
+            "path": "EthanJWright/vs-tasks.nvim",
+            "owner": "EthanJWright",
+            "name": "vs-tasks.nvim",
+            "config": "vs_tasks_nvim.lua",
+            "url": "https://github.com/EthanJWright/vs-tasks.nvim",
+            "description": "Run and manage project jobs, supporting VSCode's `tasks.json` spec."
         },
         {
             "path": "stevearc/overseer.nvim",
