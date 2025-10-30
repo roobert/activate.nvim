@@ -4775,14 +4775,6 @@
             "description": "Module of `mini.nvim` meant as a general icon provider. Uses fixed set of highlight groups. Supports various categories, icon and style customizations, caching for performance. Integrates with built-in filetype matching."
         },
         {
-            "path": "ziontee113/icon-picker.nvim",
-            "owner": "ziontee113",
-            "name": "icon-picker.nvim",
-            "config": "icon_picker_nvim.lua",
-            "url": "https://github.com/ziontee113/icon-picker.nvim",
-            "description": "Help you pick \ud835\udc68\ud835\udd43\ud835\udebb Font Characters, Symbols \u03a3, Nerd Font Icons \ue62b & Emojis."
-        },
-        {
             "path": "2KAbhishek/nerdy.nvim",
             "owner": "2KAbhishek",
             "name": "nerdy.nvim",
