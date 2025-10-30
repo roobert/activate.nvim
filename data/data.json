@@ -5055,36 +5055,12 @@
             "description": "Take notes, easily."
         },
         {
-            "path": "RutaTang/quicknote.nvim",
-            "owner": "RutaTang",
-            "name": "quicknote.nvim",
-            "config": "quicknote_nvim.lua",
-            "url": "https://github.com/RutaTang/quicknote.nvim",
-            "description": "Quickly take notes, in-place."
-        },
-        {
             "path": "serenevoid/kiwi.nvim",
             "owner": "serenevoid",
             "name": "kiwi.nvim",
             "config": "kiwi_nvim.lua",
             "url": "https://github.com/serenevoid/kiwi.nvim",
             "description": "A stripped down VimWiki with necessary features."
-        },
-        {
-            "path": "ada0l/obsidian/",
-            "owner": "ada0l",
-            "name": "obsidian",
-            "config": "obsidian.lua",
-            "url": "https://github.com/ada0l/obsidian",
-            "description": "Base Obsidian functionality."
-        },
-        {
-            "path": "gsuuon/note.nvim",
-            "owner": "gsuuon",
-            "name": "note.nvim",
-            "config": "note_nvim.lua",
-            "url": "https://github.com/gsuuon/note.nvim",
-            "description": "Daily tasks with deep-linking and project spaces."
         },
         {
             "path": "backdround/global-note.nvim",
