@@ -4419,14 +4419,6 @@
             "description": "Supports co-routines, functions and jobs."
         },
         {
-            "path": "sontungexpt/sttusline",
-            "owner": "sontungexpt",
-            "name": "sttusline",
-            "config": "sttusline.lua",
-            "url": "https://github.com/sontungexpt/sttusline",
-            "description": "Very lightweight, super fast and lazyloading statusline."
-        },
-        {
             "path": "sontungexpt/witch-line",
             "owner": "sontungexpt",
             "name": "witch-line",
