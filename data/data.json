@@ -5831,22 +5831,6 @@
             "description": "Toggle between common code keywords under the cursor such as true \u21c4 false, on \u21c4 off, enabled \u21c4 disabled, and dev \u21c4 prod."
         },
         {
-            "path": "johannww/tts.nvim",
-            "owner": "johannww",
-            "name": "tts.nvim",
-            "config": "tts_nvim.lua",
-            "url": "https://github.com/johannww/tts.nvim",
-            "description": "Text to speech tool based on the Microsoft Edge online services."
-        },
-        {
-            "path": "piersolenski/brewfile.nvim",
-            "owner": "piersolenski",
-            "name": "brewfile.nvim",
-            "config": "brewfile_nvim.lua",
-            "url": "https://github.com/piersolenski/brewfile.nvim",
-            "description": "Manage your [Homebrew](https://brew.sh/) [Brewfile](https://docs.brew.sh/Brew-Bundle-and-Brewfile)."
-        },
-        {
             "path": "ravsii/timers.nvim",
             "owner": "ravsii",
             "name": "timers.nvim",
@@ -6015,14 +5999,6 @@
             "config": "neaterm_nvim.lua",
             "url": "https://github.com/Dan7h3x/neaterm.nvim",
             "description": "A little smart terminal/REPL manager with awesome features."
-        },
-        {
-            "path": "LoricAndre/OneTerm.nvim",
-            "owner": "LoricAndre",
-            "name": "OneTerm.nvim",
-            "config": "OneTerm_nvim.lua",
-            "url": "https://github.com/LoricAndre/OneTerm.nvim",
-            "description": "Plugin framework for running commands in the terminal."
         },
         {
             "path": "nikvdp/neomux",
