@@ -6017,14 +6017,6 @@
             "description": "Open files from terminal buffers in your current Neovim instance instead of launching a nested instance."
         },
         {
-            "path": "willothy/wezterm.nvim",
-            "owner": "willothy",
-            "name": "wezterm.nvim",
-            "config": "wezterm_nvim.lua",
-            "url": "https://github.com/willothy/wezterm.nvim",
-            "description": "Functions for interacting with Wezterm."
-        },
-        {
             "path": "akinsho/toggleterm.nvim",
             "owner": "akinsho",
             "name": "toggleterm.nvim",
@@ -6047,14 +6039,6 @@
             "config": "FTerm_nvim.lua",
             "url": "https://github.com/numToStr/FTerm.nvim",
             "description": "No nonsense floating terminal written in Lua."
-        },
-        {
-            "path": "pianocomposer321/consolation.nvim",
-            "owner": "pianocomposer321",
-            "name": "consolation.nvim",
-            "config": "consolation_nvim.lua",
-            "url": "https://github.com/pianocomposer321/consolation.nvim",
-            "description": "A general-purpose terminal wrapper and management plugin, written in Lua."
         },
         {
             "path": "jghauser/kitty-runner.nvim",
@@ -6087,14 +6071,6 @@
             "config": "tide42.lua",
             "url": "https://github.com/logicmagix/tide42",
             "description": "A fully integrated terminal IDE built on Neovim, tmux, and scriptable workflows."
-        },
-        {
-            "path": "m00qek/baleia.nvim",
-            "owner": "m00qek",
-            "name": "baleia.nvim",
-            "config": "baleia_nvim.lua",
-            "url": "https://github.com/m00qek/baleia.nvim",
-            "description": "Colorize text with ANSI escape sequences (8, 16, 256 or TrueColor)."
         },
         {
             "path": "samjwill/nvim-unception",
