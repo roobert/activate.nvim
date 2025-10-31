@@ -843,14 +843,6 @@
             "description": "Copilot Chat like experience, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI."
         },
         {
-            "path": "you-n-g/simplegpt.nvim",
-            "owner": "you-n-g",
-            "name": "simplegpt.nvim",
-            "config": "simplegpt_nvim.lua",
-            "url": "https://github.com/you-n-g/simplegpt.nvim",
-            "description": "Provide a simple yet flexible way to construct and send questions to ChatGPT."
-        },
-        {
             "path": "Exafunction/windsurf.nvim",
             "owner": "Exafunction",
             "name": "windsurf.nvim",
@@ -5237,14 +5229,6 @@
             "config": "commasemi_nvim.lua",
             "url": "https://github.com/saifulapm/commasemi.nvim",
             "description": "Toggle comma and semicolon."
-        },
-        {
-            "path": "stevearc/dressing.nvim",
-            "owner": "stevearc",
-            "name": "dressing.nvim",
-            "config": "dressing_nvim.lua",
-            "url": "https://github.com/stevearc/dressing.nvim",
-            "description": "Improve the built-in `vim.ui` interfaces with telescope, fzf, etc."
         },
         {
             "path": "jghauser/fold-cycle.nvim",
