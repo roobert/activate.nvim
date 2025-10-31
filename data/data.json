@@ -5735,22 +5735,6 @@
             "description": "Easily convert between binary representations without a conversion table."
         },
         {
-            "path": "neanvo/buben.nvim",
-            "owner": "neanvo",
-            "name": "buben.nvim",
-            "config": "buben_nvim.lua",
-            "url": "https://github.com/neanvo/buben.nvim",
-            "description": "Human-readable names to blockchain(eth) addresses."
-        },
-        {
-            "path": "josephburgess/nvumi",
-            "owner": "josephburgess",
-            "name": "nvumi",
-            "config": "nvumi.lua",
-            "url": "https://github.com/josephburgess/nvumi",
-            "description": "Natural language calculator in a scratch buffer."
-        },
-        {
             "path": "redoxahmii/json-to-types.nvim",
             "owner": "redoxahmii",
             "name": "json-to-types.nvim",
