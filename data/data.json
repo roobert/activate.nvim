@@ -843,6 +843,14 @@
             "description": "Copilot Chat like experience, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI."
         },
         {
+            "path": "you-n-g/simplegpt.nvim",
+            "owner": "you-n-g",
+            "name": "simplegpt.nvim",
+            "config": "simplegpt_nvim.lua",
+            "url": "https://github.com/you-n-g/simplegpt.nvim",
+            "description": "Provide a simple yet flexible way to construct and send questions to ChatGPT."
+        },
+        {
             "path": "Exafunction/windsurf.nvim",
             "owner": "Exafunction",
             "name": "windsurf.nvim",
@@ -5719,6 +5727,14 @@
             "description": "Easily convert between binary representations without a conversion table."
         },
         {
+            "path": "josephburgess/nvumi",
+            "owner": "josephburgess",
+            "name": "nvumi",
+            "config": "nvumi.lua",
+            "url": "https://github.com/josephburgess/nvumi",
+            "description": "Natural language calculator in a scratch buffer."
+        },
+        {
             "path": "redoxahmii/json-to-types.nvim",
             "owner": "redoxahmii",
             "name": "json-to-types.nvim",
@@ -5853,6 +5869,14 @@
             "config": "lightswitch_nvim.lua",
             "url": "https://github.com/markgandolfo/lightswitch.nvim",
             "description": "Toggle various options using the `nui.nvim` library."
+        },
+        {
+            "path": "johannww/tts.nvim",
+            "owner": "johannww",
+            "name": "tts.nvim",
+            "config": "tts_nvim.lua",
+            "url": "https://github.com/johannww/tts.nvim",
+            "description": "Text to speech tool based on the Microsoft Edge online services."
         }
     ],
     "CSV Files": [
@@ -7217,6 +7241,14 @@
             "config": "aicommits_nvim.lua",
             "url": "https://github.com/404pilo/aicommits.nvim",
             "description": "Generate conventional commit messages using AI."
+        },
+        {
+            "path": "wsdjeg/git.nvim",
+            "owner": "wsdjeg",
+            "name": "git.nvim",
+            "config": "git_nvim.lua",
+            "url": "https://github.com/wsdjeg/git.nvim",
+            "description": "An asynchronous git command wrapper plugin, using `:Git` command instead of `:!git`."
         }
     ],
     "GitHub": [
@@ -8489,6 +8521,14 @@
             "config": "swap_nvim.lua",
             "url": "https://github.com/tigion/swap.nvim",
             "description": "Quickly switch a word under the cursor or a pattern in the current line."
+        },
+        {
+            "path": "XXiaoA/atone.nvim",
+            "owner": "XXiaoA",
+            "name": "atone.nvim",
+            "config": "atone_nvim.lua",
+            "url": "https://github.com/XXiaoA/atone.nvim",
+            "description": "Undo tree for visualizing and managing undo history."
         }
     ],
     "Comment": [
