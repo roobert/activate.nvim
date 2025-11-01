@@ -41,14 +41,6 @@
             "description": "Plugins discovery tool with hourly updated database, and one-key installation for `lazy.nvim` and `vim.pack`."
         },
         {
-            "path": "roobert/activate.nvim",
-            "owner": "roobert",
-            "name": "activate.nvim",
-            "config": "activate_nvim.lua",
-            "url": "https://github.com/roobert/activate.nvim",
-            "description": "A plugin installation system designed to complement `folke/lazy.nvim`."
-        },
-        {
             "path": "nvim-neorocks/rocks.nvim",
             "owner": "nvim-neorocks",
             "name": "rocks.nvim",
@@ -387,14 +379,6 @@
             "description": "A pretty window for previewing, navigating and editing your LSP locations."
         },
         {
-            "path": "deathbeam/lspecho.nvim",
-            "owner": "deathbeam",
-            "name": "lspecho.nvim",
-            "config": "lspecho_nvim.lua",
-            "url": "https://github.com/deathbeam/lspecho.nvim",
-            "description": "Echo LSP progress to cmdline or embed it in status line."
-        },
-        {
             "path": "linrongbin16/lsp-progress.nvim",
             "owner": "linrongbin16",
             "name": "lsp-progress.nvim",
@@ -721,14 +705,6 @@
             "config": "mini_completion.lua",
             "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-completion.md",
             "description": "Module of `mini.nvim` for asynchronous two-stage completion. Supports showing completion item info and independent function signature."
-        },
-        {
-            "path": "deathbeam/autocomplete.nvim",
-            "owner": "deathbeam",
-            "name": "autocomplete.nvim",
-            "config": "autocomplete_nvim.lua",
-            "url": "https://github.com/deathbeam/autocomplete.nvim",
-            "description": "Very simple and minimal autocompletion for cmdline and buffer using LSP and Tree-sitter with signature help."
         },
         {
             "path": "Saghen/blink.cmp",
@@ -1147,14 +1123,6 @@
             "description": "Enhances the development experience for .NET developers."
         },
         {
-            "path": "jim-at-jibba/micropython.nvim",
-            "owner": "jim-at-jibba",
-            "name": "micropython.nvim",
-            "config": "micropython_nvim.lua",
-            "url": "https://github.com/jim-at-jibba/micropython.nvim",
-            "description": "Enhances the development experience for developers using MicroPython for IoT and maker projects."
-        },
-        {
             "path": "neolooong/whichpy.nvim",
             "owner": "neolooong",
             "name": "whichpy.nvim",
@@ -1482,14 +1450,6 @@
         }
     ],
     "Markdown and LaTeX": [
-        {
-            "path": "ellisonleao/glow.nvim",
-            "owner": "ellisonleao",
-            "name": "glow.nvim",
-            "config": "glow_nvim.lua",
-            "url": "https://github.com/ellisonleao/glow.nvim",
-            "description": "Markdown preview using glow."
-        },
         {
             "path": "iamcco/markdown-preview.nvim",
             "owner": "iamcco",
@@ -2735,14 +2695,6 @@
             "config": "fyler_nvim.lua",
             "url": "https://github.com/A7Lavinraj/fyler.nvim",
             "description": "File manager which can edit file system like a buffer with tree view."
-        },
-        {
-            "path": "sukineco/neoproj",
-            "owner": "sukineco",
-            "name": "neoproj",
-            "config": "neoproj.lua",
-            "url": "https://github.com/sukineco/neoproj",
-            "description": "Small yet powerful project (and session) manager."
         },
         {
             "path": "Abstract-IDE/penvim",
@@ -5877,6 +5829,14 @@
             "config": "tts_nvim.lua",
             "url": "https://github.com/johannww/tts.nvim",
             "description": "Text to speech tool based on the Microsoft Edge online services."
+        },
+        {
+            "path": "doctorfree/cheatsheet.nvim",
+            "owner": "doctorfree",
+            "name": "cheatsheet.nvim",
+            "config": "cheatsheet_nvim.lua",
+            "url": "https://github.com/doctorfree/cheatsheet.nvim",
+            "description": "Searchable cheatsheet."
         }
     ],
     "CSV Files": [
@@ -6729,14 +6689,6 @@
             "config": "plenary_nvim.lua",
             "url": "https://github.com/nvim-lua/plenary.nvim",
             "description": "Plenary: full; complete; entire; absolute; unqualified. All the Lua functions I don't want to write twice."
-        },
-        {
-            "path": "nvim-lua/popup.nvim",
-            "owner": "nvim-lua",
-            "name": "popup.nvim",
-            "config": "popup_nvim.lua",
-            "url": "https://github.com/nvim-lua/popup.nvim",
-            "description": "An implementation of the Popup API from Vim."
         },
         {
             "path": "tjdevries/vlog.nvim",
