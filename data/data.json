@@ -107,14 +107,6 @@
             "description": "This is a plugin/library for generating statusline components from the built-in LSP client."
         },
         {
-            "path": "RishabhRD/nvim-lsputils",
-            "owner": "RishabhRD",
-            "name": "nvim-lsputils",
-            "config": "nvim_lsputils.lua",
-            "url": "https://github.com/RishabhRD/nvim-lsputils",
-            "description": "Better defaults for nvim-lsp actions."
-        },
-        {
             "path": "nvimdev/lspsaga.nvim",
             "owner": "nvimdev",
             "name": "lspsaga.nvim",
