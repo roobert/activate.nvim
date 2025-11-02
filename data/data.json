@@ -123,14 +123,6 @@
             "description": "The plugin shows a lightbulb in the sign column whenever a `textDocument/codeAction` is available at the current cursor position."
         },
         {
-            "path": "roobert/action-hints.nvim",
-            "owner": "roobert",
-            "name": "action-hints.nvim",
-            "config": "action_hints_nvim.lua",
-            "url": "https://github.com/roobert/action-hints.nvim",
-            "description": "Show information about the word under the cursor in the statusline or as virtual text."
-        },
-        {
             "path": "onsails/lspkind.nvim",
             "owner": "onsails",
             "name": "lspkind.nvim",
@@ -267,14 +259,6 @@
             "description": "Provide access to the [SchemaStore](https://github.com/SchemaStore/schemastore) catalog."
         },
         {
-            "path": "ldelossa/litee.nvim",
-            "owner": "ldelossa",
-            "name": "litee.nvim",
-            "config": "litee_nvim.lua",
-            "url": "https://github.com/ldelossa/litee.nvim",
-            "description": "Neovim's missing IDE features."
-        },
-        {
             "path": "j-hui/fidget.nvim",
             "owner": "j-hui",
             "name": "fidget.nvim",
@@ -305,14 +289,6 @@
             "config": "nvim_docs_view.lua",
             "url": "https://github.com/amrbashir/nvim-docs-view",
             "description": "Display LSP hover documentation in a side panel."
-        },
-        {
-            "path": "roobert/hoversplit.nvim",
-            "owner": "roobert",
-            "name": "hoversplit.nvim",
-            "config": "hoversplit_nvim.lua",
-            "url": "https://github.com/roobert/hoversplit.nvim",
-            "description": "Automatically updated documentation and information about code symbols in a split window."
         },
         {
             "path": "mfussenegger/nvim-jdtls",
@@ -571,14 +547,6 @@
             "description": "Highly customizable hover formatter, extendable to blink.cmp. As native hover supports multiple LSP servers."
         },
         {
-            "path": "yarospace/dev-tools.nvim",
-            "owner": "yarospace",
-            "name": "dev-tools.nvim",
-            "config": "dev_tools_nvim.lua",
-            "url": "https://github.com/yarospace/dev-tools.nvim",
-            "description": "In-process LSP server of custom code actions, enhanced actions picker, community actions library and a convenient interface for customization and enhancement of your code actions."
-        },
-        {
             "path": "SunnyTamang/neodoc.nvim",
             "owner": "SunnyTamang",
             "name": "neodoc.nvim",
@@ -593,22 +561,6 @@
             "config": "ltex_extra_nvim.lua",
             "url": "https://github.com/barreiroleo/ltex_extra.nvim",
             "description": "LTeX LSP extension providing external file handling (rules and dictionaries). "
-        },
-        {
-            "path": "anott03/nvim-lspinstall",
-            "owner": "anott03",
-            "name": "nvim-lspinstall",
-            "config": "nvim_lspinstall.lua",
-            "url": "https://github.com/anott03/nvim-lspinstall",
-            "description": "Easy to install language servers."
-        },
-        {
-            "path": "alexaandru/nvim-lspupdate",
-            "owner": "alexaandru",
-            "name": "nvim-lspupdate",
-            "config": "nvim_lspupdate.lua",
-            "url": "https://github.com/alexaandru/nvim-lspupdate",
-            "description": "Updates installed (or auto installs if missing) LSP servers."
         },
         {
             "path": "williamboman/mason.nvim",
@@ -635,28 +587,12 @@
             "description": "Render diagnostics using virtual lines on top of the real line of code."
         },
         {
-            "path": "onsails/diaglist.nvim",
-            "owner": "onsails",
-            "name": "diaglist.nvim",
-            "config": "diaglist_nvim.lua",
-            "url": "https://github.com/onsails/diaglist.nvim",
-            "description": "Live render workspace diagnostics in quickfix, buffer diagnostics in loclist."
-        },
-        {
             "path": "folke/trouble.nvim",
             "owner": "folke",
             "name": "trouble.nvim",
             "config": "trouble_nvim.lua",
             "url": "https://github.com/folke/trouble.nvim",
             "description": "A pretty diagnostics list to help you solve all the trouble your code is causing."
-        },
-        {
-            "path": "piersolenski/wtf.nvim",
-            "owner": "piersolenski",
-            "name": "wtf.nvim",
-            "config": "wtf_nvim.lua",
-            "url": "https://github.com/piersolenski/wtf.nvim",
-            "description": "AI powered diagnostic debugging, helps explain complex errors and offers custom tailored solutions."
         },
         {
             "path": "chrisgrieser/nvim-rulebook",
@@ -1027,14 +963,6 @@
             "description": "Tiny plugin to quickly switch Python virtual environments without restarting."
         },
         {
-            "path": "roobert/f-string-toggle.nvim",
-            "owner": "roobert",
-            "name": "f-string-toggle.nvim",
-            "config": "f_string_toggle_nvim.lua",
-            "url": "https://github.com/roobert/f-string-toggle.nvim",
-            "description": "Toggle Python f-strings."
-        },
-        {
             "path": "gennaro-tedesco/nvim-jqx",
             "owner": "gennaro-tedesco",
             "name": "nvim-jqx",
@@ -1083,14 +1011,6 @@
             "description": "Preview Typst documents, respond to file changes."
         },
         {
-            "path": "simaxme/java.nvim",
-            "owner": "simaxme",
-            "name": "java.nvim",
-            "config": "java_nvim.lua",
-            "url": "https://github.com/simaxme/java.nvim",
-            "description": "Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in `nvim-tree`)."
-        },
-        {
             "path": "chomosuke/typst-preview.nvim",
             "owner": "chomosuke",
             "name": "typst-preview.nvim",
@@ -1129,14 +1049,6 @@
             "config": "nvim_java.lua",
             "url": "https://github.com/nvim-java/nvim-java",
             "description": "Everything you need for a painless Java experience."
-        },
-        {
-            "path": "jinzhogjia/zig-lamp",
-            "owner": "jinzhogjia",
-            "name": "zig-lamp",
-            "config": "zig_lamp.lua",
-            "url": "https://github.com/jinzhongjia/zig-lamp",
-            "description": "Improve the Zig experience."
         },
         {
             "path": "kiyoon/python-import.nvim",
@@ -1219,14 +1131,6 @@
             "config": "nvim_go.lua",
             "url": "https://github.com/crispgm/nvim-go",
             "description": "A minimal implementation of Golang development plugin."
-        },
-        {
-            "path": "edolphin-ydf/goimpl.nvim",
-            "owner": "edolphin-ydf",
-            "name": "goimpl.nvim",
-            "config": "goimpl_nvim.lua",
-            "url": "https://github.com/edolphin-ydf/goimpl.nvim",
-            "description": "Generate interface stubs for a type."
         },
         {
             "path": "olexsmir/gopher.nvim",
@@ -1353,36 +1257,12 @@
             "description": "Easy to use HTTP client with IntelliJ (JetBrains) HTTP client syntax compatibility."
         },
         {
-            "path": "ray-x/web-tools.nvim",
-            "owner": "ray-x",
-            "name": "web-tools.nvim",
-            "config": "web_tools_nvim.lua",
-            "url": "https://github.com/ray-x/web-tools.nvim",
-            "description": "Launch a local development server with live reload feature for static & dynamic pages, HTML & CSS tag rename with LSP."
-        },
-        {
-            "path": "roobert/tailwindcss-colorizer-cmp.nvim",
-            "owner": "roobert",
-            "name": "tailwindcss-colorizer-cmp.nvim",
-            "config": "tailwindcss_colorizer_cmp_nvim.lua",
-            "url": "https://github.com/roobert/tailwindcss-colorizer-cmp.nvim",
-            "description": "Add vscode-style TailwindCSS completion to nvim-cmp."
-        },
-        {
             "path": "luckasRanarison/tailwind-tools.nvim",
             "owner": "luckasRanarison",
             "name": "tailwind-tools.nvim",
             "config": "tailwind_tools_nvim.lua",
             "url": "https://github.com/luckasRanarison/tailwind-tools.nvim",
             "description": "Unofficial TailwindCSS tooling."
-        },
-        {
-            "path": "cjodo/convert.nvim",
-            "owner": "cjodo",
-            "name": "convert.nvim",
-            "config": "convert_nvim.lua",
-            "url": "https://github.com/cjodo/convert.nvim",
-            "description": "A tool for CSS unit conversions."
         },
         {
             "path": "farias-hecdin/CSSVarViewer",
@@ -1505,14 +1385,6 @@
             "config": "carrot_nvim.lua",
             "url": "https://github.com/jbyuki/carrot.nvim",
             "description": "Markdown evaluator Lua code blocks."
-        },
-        {
-            "path": "AckslD/nvim-FeMaco.lua",
-            "owner": "AckslD",
-            "name": "nvim-FeMaco.lua",
-            "config": "nvim_FeMaco_lua.lua",
-            "url": "https://github.com/AckslD/nvim-FeMaco.lua",
-            "description": "Catalyze your Fenced Markdown Code-block editing."
         },
         {
             "path": "Nedra1998/nvim-mdlink",
