@@ -1541,14 +1541,6 @@
     ],
     "PHP": [
         {
-            "path": "gbprod/phpactor.nvim",
-            "owner": "gbprod",
-            "name": "phpactor.nvim",
-            "config": "phpactor_nvim.lua",
-            "url": "https://github.com/gbprod/phpactor.nvim",
-            "description": "Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features."
-        },
-        {
             "path": "ta-tikoma/php.easy.nvim",
             "owner": "ta-tikoma",
             "name": "php.easy.nvim",
@@ -1609,14 +1601,6 @@
             "description": "A Vietnamese input method engine with native support to type Vietnamese in insert mode."
         },
         {
-            "path": "kiyoon/Korean-IME.nvim",
-            "owner": "kiyoon",
-            "name": "Korean-IME.nvim",
-            "config": "Korean_IME_nvim.lua",
-            "url": "https://github.com/kiyoon/Korean-IME.nvim",
-            "description": "OS-independent Korean input method that converts English inputs to Korean in-place."
-        },
-        {
             "path": "doodleEsc/translator.nvim",
             "owner": "doodleEsc",
             "name": "translator.nvim",
@@ -1655,14 +1639,6 @@
             "config": "nvim_surround.lua",
             "url": "https://github.com/kylechui/nvim-surround",
             "description": "A plugin for adding/changing/deleting surrounding delimiter pairs."
-        },
-        {
-            "path": "roobert/surround-ui.nvim",
-            "owner": "roobert",
-            "name": "surround-ui.nvim",
-            "config": "surround_ui_nvim.lua",
-            "url": "https://github.com/roobert/surround-ui.nvim",
-            "description": "Helper or training aid for kylechui/nvim-surround."
         },
         {
             "path": "nvim-mini/mini.nvim#mini.surround",
