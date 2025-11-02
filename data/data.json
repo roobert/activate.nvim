@@ -1435,14 +1435,6 @@
             "description": "Easily generate table of contents for Markdown files."
         },
         {
-            "path": "Zeioth/markmap.nvim",
-            "owner": "Zeioth",
-            "name": "markmap.nvim",
-            "config": "markmap_nvim.lua",
-            "url": "https://github.com/Zeioth/markmap.nvim",
-            "description": "Visualize your Markdown as mindmaps."
-        },
-        {
             "path": "tadmccorkle/markdown.nvim",
             "owner": "tadmccorkle",
             "name": "markdown.nvim",
@@ -1459,28 +1451,12 @@
             "description": "Present using Markdown with [Marp](https://marp.app/)."
         },
         {
-            "path": "Myzel394/easytables.nvim",
-            "owner": "Myzel394",
-            "name": "easytables.nvim",
-            "config": "easytables_nvim.lua",
-            "url": "https://github.com/Myzel394/easytables.nvim",
-            "description": "Easily insert and edit Markdown tables with a live preview and useful helpers."
-        },
-        {
             "path": "MeanderingProgrammer/render-markdown.nvim",
             "owner": "MeanderingProgrammer",
             "name": "render-markdown.nvim",
             "config": "render_markdown_nvim.lua",
             "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
             "description": "Improve viewing Markdown files directly."
-        },
-        {
-            "path": "arminveres/md-pdf.nvim",
-            "owner": "arminveres",
-            "name": "md-pdf.nvim",
-            "config": "md_pdf_nvim.lua",
-            "url": "https://github.com/arminveres/md-pdf.nvim",
-            "description": "Preview Markdown files and convert to PDF."
         },
         {
             "path": "ChuufMaster/markdown-toc",
