@@ -1545,6 +1545,14 @@
             "config": "markdown_plus_nvim.lua",
             "url": "https://github.com/YousefHadder/markdown-plus.nvim",
             "description": "Provides a full editing experience for Markdown files which includes support for lists, links, TOC, and more with simple and fast keymaps."
+        },
+        {
+            "path": "Myzel394/easytables.nvim",
+            "owner": "Myzel394",
+            "name": "easytables.nvim",
+            "config": "easytables_nvim.lua",
+            "url": "https://github.com/Myzel394/easytables.nvim",
+            "description": "Easily insert and edit Markdown tables with a live preview and useful helpers."
         }
     ],
     "PHP": [
