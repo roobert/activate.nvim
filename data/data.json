@@ -827,14 +827,6 @@
             "description": "Enrich context for LLM with LSP hover added to clipboard."
         },
         {
-            "path": "supermaven-inc/supermaven-nvim",
-            "owner": "supermaven-inc",
-            "name": "supermaven-nvim",
-            "config": "supermaven_nvim.lua",
-            "url": "https://github.com/supermaven-inc/supermaven-nvim",
-            "description": "The fastest copilot, brought to you by [Supermaven](https://supermaven.com/)."
-        },
-        {
             "path": "milanglacier/yarepl.nvim#aider-extensions",
             "owner": "milanglacier",
             "name": "yarepl.nvim#aider-extensions",
@@ -9071,6 +9063,14 @@
             "config": "tmux_switch_nvim.lua",
             "url": "https://github.com/jkeresman01/tmux-switch.nvim",
             "description": "Provides fuzzy session switching for Tmux."
+        },
+        {
+            "path": "salorak/libtmux.nvim",
+            "owner": "salorak",
+            "name": "libtmux.nvim",
+            "config": "libtmux_nvim.lua",
+            "url": "https://github.com/salorak/libtmux.nvim",
+            "description": "Thin wrapper for using the `tmux` API."
         },
         {
             "path": "ThePrimeagen/vim-be-good",
