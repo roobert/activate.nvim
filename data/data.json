@@ -71,6 +71,14 @@
             "config": "nuwa_nvim.lua",
             "url": "https://github.com/alyxshang/nuwa.nvim",
             "description": "A light Neovim package manager."
+        },
+        {
+            "path": "piersolenski/plugin-addict.nvim",
+            "owner": "piersolenski",
+            "name": "plugin-addict.nvim",
+            "config": "plugin_addict_nvim.lua",
+            "url": "https://github.com/piersolenski/plugin-addict.nvim",
+            "description": "A stupidly simple way to quickly install plugins."
         }
     ],
     "(requires Neovim 0.5)": [
@@ -547,6 +555,14 @@
             "description": "Highly customizable hover formatter, extendable to blink.cmp. As native hover supports multiple LSP servers."
         },
         {
+            "path": "yarospace/dev-tools.nvim",
+            "owner": "yarospace",
+            "name": "dev-tools.nvim",
+            "config": "dev_tools_nvim.lua",
+            "url": "https://github.com/yarospace/dev-tools.nvim",
+            "description": "In-process LSP server for custom code actions, enhanced actions picker, community actions library and a convenient interface to create your own actions."
+        },
+        {
             "path": "SunnyTamang/neodoc.nvim",
             "owner": "SunnyTamang",
             "name": "neodoc.nvim",
@@ -595,6 +611,14 @@
             "description": "A pretty diagnostics list to help you solve all the trouble your code is causing."
         },
         {
+            "path": "piersolenski/wtf.nvim",
+            "owner": "piersolenski",
+            "name": "wtf.nvim",
+            "config": "wtf_nvim.lua",
+            "url": "https://github.com/piersolenski/wtf.nvim",
+            "description": "AI powered diagnostic debugging, helps explain complex errors and offers custom tailored solutions."
+        },
+        {
             "path": "chrisgrieser/nvim-rulebook",
             "owner": "chrisgrieser",
             "name": "nvim-rulebook",
@@ -624,7 +648,7 @@
             "name": "nvim-cmp",
             "config": "nvim_cmp.lua",
             "url": "https://github.com/hrsh7th/nvim-cmp",
-            "description": "A completion plugin written in Lua. New version of nvim-compe."
+            "description": "Completion engine written in Lua, successor of `nvim-compe`."
         },
         {
             "path": "nvim-mini/mini.nvim#mini.completion",
@@ -1615,6 +1639,14 @@
             "config": "translator_nvim.lua",
             "url": "https://github.com/doodleEsc/translator.nvim",
             "description": "A powerful AI-powered translation plugin, leveraging OpenAI's GPT models to provide high-quality translations with natural language understanding."
+        },
+        {
+            "path": "kiyoon/Korean-IME.nvim",
+            "owner": "kiyoon",
+            "name": "Korean-IME.nvim",
+            "config": "Korean_IME_nvim.lua",
+            "url": "https://github.com/kiyoon/Korean-IME.nvim",
+            "description": "OS-independent Korean input method that converts English inputs to Korean in-place."
         },
         {
             "path": "nvim-treesitter/nvim-treesitter",
@@ -5607,6 +5639,14 @@
             "description": "Toggle between common code keywords under the cursor such as true \u21c4 false, on \u21c4 off, enabled \u21c4 disabled, and dev \u21c4 prod."
         },
         {
+            "path": "piersolenski/brewfile.nvim",
+            "owner": "piersolenski",
+            "name": "brewfile.nvim",
+            "config": "brewfile_nvim.lua",
+            "url": "https://github.com/piersolenski/brewfile.nvim",
+            "description": "Manage your [Homebrew](https://brew.sh/) [Brewfile](https://docs.brew.sh/Brew-Bundle-and-Brewfile)."
+        },
+        {
             "path": "ravsii/timers.nvim",
             "owner": "ravsii",
             "name": "timers.nvim",
@@ -5661,6 +5701,22 @@
             "config": "cheatsheet_nvim.lua",
             "url": "https://github.com/doctorfree/cheatsheet.nvim",
             "description": "Searchable cheatsheet."
+        },
+        {
+            "path": "gaborvecsei/cryptoprice.nvim",
+            "owner": "gaborvecsei",
+            "name": "cryptoprice.nvim",
+            "config": "cryptoprice_nvim.lua",
+            "url": "https://github.com/gaborvecsei/cryptoprice.nvim",
+            "description": "Check the price of the defined cryptocurrencies."
+        },
+        {
+            "path": "DrKJeff16/lastplace.nvim",
+            "owner": "DrKJeff16",
+            "name": "lastplace.nvim",
+            "config": "lastplace_nvim.lua",
+            "url": "https://github.com/DrKJeff16/lastplace.nvim",
+            "description": "An up-to-date rewrite of [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) for opening a file in the last edit position."
         }
     ],
     "CSV Files": [
