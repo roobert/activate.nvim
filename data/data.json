@@ -8807,14 +8807,6 @@
             "description": "Provides multi-session management capabilities."
         },
         {
-            "path": "RutaTang/spectacle.nvim",
-            "owner": "RutaTang",
-            "name": "spectacle.nvim",
-            "config": "spectacle_nvim.lua",
-            "url": "https://github.com/RutaTang/spectacle.nvim",
-            "description": "Easily manage multiple sessions with telescope integration."
-        },
-        {
             "path": "coffebar/neovim-project",
             "owner": "coffebar",
             "name": "neovim-project",
