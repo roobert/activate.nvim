@@ -9759,6 +9759,14 @@
             "config": "nvim_training.lua",
             "url": "https://github.com/Weyaaron/nvim-training",
             "description": "A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks."
+        },
+        {
+            "path": "Nvim.app",
+            "owner": "",
+            "name": "Nvim.app",
+            "config": "Nvim_app.lua",
+            "url": "https://nvim.app",
+            "description": "A modern search interface for Neovim plugins with fuzzy search, filtering, and self-service updates for plugin authors."
         }
     ]
 }
