@@ -5711,12 +5711,12 @@
             "description": "Check the price of the defined cryptocurrencies."
         },
         {
-            "path": "DrKJeff16/lastplace.nvim",
-            "owner": "DrKJeff16",
+            "path": "nxhung2304/lastplace.nvim",
+            "owner": "nxhung2304",
             "name": "lastplace.nvim",
             "config": "lastplace_nvim.lua",
-            "url": "https://github.com/DrKJeff16/lastplace.nvim",
-            "description": "An up-to-date rewrite of [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) for opening a file in the last edit position."
+            "url": "https://github.com/nxhung2304/lastplace.nvim",
+            "description": "Intelligently restore your cursor position when reopening files."
         }
     ],
     "CSV Files": [
@@ -8485,28 +8485,12 @@
             "description": "Replace text using custom regex and highlight group rules."
         },
         {
-            "path": "gpanders/editorconfig.nvim",
-            "owner": "gpanders",
-            "name": "editorconfig.nvim",
-            "config": "editorconfig_nvim.lua",
-            "url": "https://github.com/gpanders/editorconfig.nvim",
-            "description": "An EditorConfig plugin written in Fennel."
-        },
-        {
             "path": "mhartington/formatter.nvim",
             "owner": "mhartington",
             "name": "formatter.nvim",
             "config": "formatter_nvim.lua",
             "url": "https://github.com/mhartington/formatter.nvim",
             "description": "A format runner written in Lua."
-        },
-        {
-            "path": "lukas-reineke/lsp-format.nvim",
-            "owner": "lukas-reineke",
-            "name": "lsp-format.nvim",
-            "config": "lsp_format_nvim.lua",
-            "url": "https://github.com/lukas-reineke/lsp-format.nvim",
-            "description": "A wrapper around Neovim's native LSP formatting."
         },
         {
             "path": "sbdchd/neoformat",
@@ -8523,14 +8507,6 @@
             "config": "trim_nvim.lua",
             "url": "https://github.com/cappyzawa/trim.nvim",
             "description": "Trims trailing whitespace and lines."
-        },
-        {
-            "path": "mcauley-penney/tidy.nvim",
-            "owner": "mcauley-penney",
-            "name": "tidy.nvim",
-            "config": "tidy_nvim.lua",
-            "url": "https://github.com/mcauley-penney/tidy.nvim",
-            "description": "Clear trailing whitespace and empty lines at end of file on every save."
         },
         {
             "path": "MunifTanjim/prettier.nvim",
