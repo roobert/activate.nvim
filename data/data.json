@@ -7081,6 +7081,14 @@
             "config": "git_nvim.lua",
             "url": "https://github.com/wsdjeg/git.nvim",
             "description": "An asynchronous git command wrapper plugin, using `:Git` command instead of `:!git`."
+        },
+        {
+            "path": "Mauritz8/gitstatus.nvim",
+            "owner": "Mauritz8",
+            "name": "gitstatus.nvim",
+            "config": "gitstatus_nvim.lua",
+            "url": "https://github.com/Mauritz8/gitstatus.nvim",
+            "description": "Interactive Git status window with support for staging, unstaging, and committing files."
         }
     ],
     "GitHub": [
