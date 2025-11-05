@@ -1993,14 +1993,6 @@
             "description": "Improved global marks and project wide bookmarks, to quickly navigate files."
         },
         {
-            "path": "you-n-g/navigate-note.nvim",
-            "owner": "you-n-g",
-            "name": "navigate-note.nvim",
-            "config": "navigate_note_nvim.lua",
-            "url": "https://github.com/you-n-g/navigate-note.nvim",
-            "description": "Integrating note-taking capabilities with navigation/marking."
-        },
-        {
             "path": "zongben/navimark.nvim",
             "owner": "zongben",
             "name": "navimark.nvim",
@@ -2073,14 +2065,6 @@
             "description": "Highlights the current /, ? or \\* match under your cursor when pressing n or N and gets out of the way afterwards."
         },
         {
-            "path": "gaborvecsei/memento.nvim",
-            "owner": "gaborvecsei",
-            "name": "memento.nvim",
-            "config": "memento_nvim.lua",
-            "url": "https://github.com/gaborvecsei/memento.nvim",
-            "description": "Keeps track of your visited file history after a buffer is closed. Reopen files more easily."
-        },
-        {
             "path": "ray-x/sad.nvim",
             "owner": "ray-x",
             "name": "sad.nvim",
@@ -2095,14 +2079,6 @@
             "config": "nvim_search_and_replace.lua",
             "url": "https://github.com/s1n7ax/nvim-search-and-replace",
             "description": "Search and replace in multiple files at the same time from the current working directory."
-        },
-        {
-            "path": "roobert/search-replace.nvim",
-            "owner": "roobert",
-            "name": "search-replace.nvim",
-            "config": "search_replace_nvim.lua",
-            "url": "https://github.com/roobert/search-replace.nvim",
-            "description": "Builds on the native search and replace experience."
         },
         {
             "path": "AckslD/muren.nvim",
@@ -2313,14 +2289,6 @@
             "description": "Telescope extension to switch between headings of AsciiDoc, Markdown, Vimdoc, etc."
         },
         {
-            "path": "bassamsdata/namu.nvim",
-            "owner": "bassamsdata",
-            "name": "namu.nvim",
-            "config": "namu_nvim.lua",
-            "url": "https://github.com/bassamsdata/namu.nvim",
-            "description": "Flexible and sleek fuzzy picker, LSP symbol navigator, and more. Inspired by Zed."
-        },
-        {
             "path": "folke/snacks.nvim#picker",
             "owner": "folke",
             "name": "snacks.nvim#picker",
@@ -2447,14 +2415,6 @@
             "config": "carbon_nvim.lua",
             "url": "https://github.com/SidOfc/carbon.nvim",
             "description": "The simple directory tree viewer written in Lua."
-        },
-        {
-            "path": "dinhhuy258/sfm.nvim",
-            "owner": "dinhhuy258",
-            "name": "sfm.nvim",
-            "config": "sfm_nvim.lua",
-            "url": "https://github.com/dinhhuy258/sfm.nvim",
-            "description": "An alternative to Nvim-tree designed to be extensible and minimalist."
         },
         {
             "path": "kiran94/s3edit.nvim",
