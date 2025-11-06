@@ -2289,6 +2289,14 @@
             "description": "Telescope extension to switch between headings of AsciiDoc, Markdown, Vimdoc, etc."
         },
         {
+            "path": "bassamsdata/namu.nvim",
+            "owner": "bassamsdata",
+            "name": "namu.nvim",
+            "config": "namu_nvim.lua",
+            "url": "https://github.com/bassamsdata/namu.nvim",
+            "description": "Flexible and sleek fuzzy picker, LSP symbol navigator, and more."
+        },
+        {
             "path": "folke/snacks.nvim#picker",
             "owner": "folke",
             "name": "snacks.nvim#picker",
@@ -2687,14 +2695,6 @@
             "config": "ccc_nvim.lua",
             "url": "https://github.com/uga-rosa/ccc.nvim",
             "description": "Super powerful color picker / colorizer plugin."
-        },
-        {
-            "path": "ziontee113/color-picker.nvim",
-            "owner": "ziontee113",
-            "name": "color-picker.nvim",
-            "config": "color_picker_nvim.lua",
-            "url": "https://github.com/ziontee113/color-picker.nvim",
-            "description": "Plugin that lets users choose & modify RGB/HSL/HEX colors inside Neovim."
         },
         {
             "path": "lcheylus/overlength.nvim",
