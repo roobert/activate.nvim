@@ -6251,14 +6251,6 @@
             "description": "A task runner and job management plugin."
         },
         {
-            "path": "smzm/hydrovim",
-            "owner": "smzm",
-            "name": "hydrovim",
-            "config": "hydrovim.lua",
-            "url": "https://github.com/smzm/hydrovim",
-            "description": "Run Python code inside Neovim."
-        },
-        {
             "path": "desdic/greyjoy.nvim",
             "owner": "desdic",
             "name": "greyjoy.nvim",
@@ -6989,14 +6981,6 @@
             "description": "Work with GitHub issues and PRs from Neovim. Just edit the issue description."
         },
         {
-            "path": "pwntester/codeql.nvim",
-            "owner": "pwntester",
-            "name": "codeql.nvim",
-            "config": "codeql_nvim.lua",
-            "url": "https://github.com/pwntester/codeql.nvim",
-            "description": "Neovim plugin to help writing and testing CodeQL queries."
-        },
-        {
             "path": "ldelossa/gh.nvim",
             "owner": "ldelossa",
             "name": "gh.nvim",
@@ -7027,14 +7011,6 @@
             "config": "octohub_nvim.lua",
             "url": "https://github.com/2KAbhishek/octohub.nvim",
             "description": "Access all your gihub repos, stats and more in simple keystrokes."
-        },
-        {
-            "path": "claydugo/browsher.nvim",
-            "owner": "claydugo",
-            "name": "browsher.nvim",
-            "config": "browsher_nvim.lua",
-            "url": "https://github.com/claydugo/browsher.nvim",
-            "description": "Create commit pinned links to GitHub hosted files/lines. Avoid stale links."
         },
         {
             "path": "comatory/gh-co.nvim",
@@ -7183,28 +7159,12 @@
             "description": "Jump out of brackets, quotes, objects, etc."
         },
         {
-            "path": "roobert/tabtree.nvim",
-            "owner": "roobert",
-            "name": "tabtree.nvim",
-            "config": "tabtree_nvim.lua",
-            "url": "https://github.com/roobert/tabtree.nvim",
-            "description": "Jump between significant code elements, such as brackets, quotes, etc."
-        },
-        {
             "path": "woosaaahh/sj.nvim",
             "owner": "woosaaahh",
             "name": "sj.nvim",
             "config": "sj_nvim.lua",
             "url": "https://github.com/woosaaahh/sj.nvim",
             "description": "Search based navigation combined with quick jump features."
-        },
-        {
-            "path": "Weissle/easy-action",
-            "owner": "Weissle",
-            "name": "easy-action",
-            "config": "easy_action.lua",
-            "url": "https://github.com/Weissle/easy-action",
-            "description": "Easily perform an action on where you can see."
         },
         {
             "path": "cbochs/portal.nvim",
@@ -7239,14 +7199,6 @@
             "description": "Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation."
         },
         {
-            "path": "gsuuon/tshjkl.nvim",
-            "owner": "gsuuon",
-            "name": "tshjkl.nvim",
-            "config": "tshjkl_nvim.lua",
-            "url": "https://github.com/gsuuon/tshjkl.nvim",
-            "description": "Toggle to navigate and select Tree-sitter nodes with hjkl."
-        },
-        {
             "path": "backdround/neowords.nvim",
             "owner": "backdround",
             "name": "neowords.nvim",
@@ -7263,28 +7215,12 @@
             "description": "Improve default `f`/`t` abilities."
         },
         {
-            "path": "jinh0/eyeliner.nvim",
-            "owner": "jinh0",
-            "name": "eyeliner.nvim",
-            "config": "eyeliner_nvim.lua",
-            "url": "https://github.com/jinh0/eyeliner.nvim",
-            "description": "Highlight jump destinations for `f`/`t` motions."
-        },
-        {
             "path": "Mr-LLLLL/treesitter-outer",
             "owner": "Mr-LLLLL",
             "name": "treesitter-outer",
             "config": "treesitter_outer.lua",
             "url": "https://github.com/Mr-LLLLL/treesitter-outer",
             "description": "Jump to outer node with smart."
-        },
-        {
-            "path": "DanilaMihailov/beacon.nvim",
-            "owner": "DanilaMihailov",
-            "name": "beacon.nvim",
-            "config": "beacon_nvim.lua",
-            "url": "https://github.com/DanilaMihailov/beacon.nvim",
-            "description": "Highlights cursor when it moves, changes windows and more. Inspired by Emacs beacon package."
         },
         {
             "path": "Aaronik/Treewalker.nvim",
