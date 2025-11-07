@@ -576,7 +576,7 @@
             "name": "ltex_extra.nvim",
             "config": "ltex_extra_nvim.lua",
             "url": "https://github.com/barreiroleo/ltex_extra.nvim",
-            "description": "LTeX LSP extension providing external file handling (rules and dictionaries). "
+            "description": "LTeX LSP extension providing external file handling (rules and dictionaries)."
         },
         {
             "path": "williamboman/mason.nvim",
@@ -5637,6 +5637,14 @@
             "config": "lastplace_nvim.lua",
             "url": "https://github.com/nxhung2304/lastplace.nvim",
             "description": "Intelligently restore your cursor position when reopening files."
+        },
+        {
+            "path": "wsdjeg/mru.nvim",
+            "owner": "wsdjeg",
+            "name": "mru.nvim",
+            "config": "mru_nvim.lua",
+            "url": "https://github.com/wsdjeg/mru.nvim",
+            "description": "Manage and display your Most Recently Used (MRU) files."
         }
     ],
     "CSV Files": [
@@ -5959,6 +5967,14 @@
             "config": "nvim_dap.lua",
             "url": "https://github.com/mfussenegger/nvim-dap",
             "description": "Debug Adapter Protocol client implementation."
+        },
+        {
+            "path": "sakhnik/nvim-gdb",
+            "owner": "sakhnik",
+            "name": "nvim-gdb",
+            "config": "nvim_gdb.lua",
+            "url": "https://github.com/sakhnik/nvim-gdb",
+            "description": "Thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB."
         },
         {
             "path": "rcarriga/nvim-dap-ui",
@@ -7223,14 +7239,6 @@
             "config": "nvim_treehopper.lua",
             "url": "https://github.com/mfussenegger/nvim-treehopper",
             "description": "Region selection with hints on the AST nodes of a document powered by Tree-sitter."
-        },
-        {
-            "path": "ziontee113/syntax-tree-surfer",
-            "owner": "ziontee113",
-            "name": "syntax-tree-surfer",
-            "config": "syntax_tree_surfer.lua",
-            "url": "https://github.com/ziontee113/syntax-tree-surfer",
-            "description": "Navigate and swap Tree-sitter's AST Nodes. Step into, step out, step over, step back."
         },
         {
             "path": "drybalka/tree-climber.nvim",
