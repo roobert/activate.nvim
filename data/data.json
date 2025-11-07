@@ -2377,14 +2377,6 @@
             "description": "File manager. Better than NERDTree."
         },
         {
-            "path": "is0n/fm-nvim",
-            "owner": "is0n",
-            "name": "fm-nvim",
-            "config": "fm_nvim.lua",
-            "url": "https://github.com/is0n/fm-nvim",
-            "description": "Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders)."
-        },
-        {
             "path": "rolv-apneseth/tfm.nvim",
             "owner": "rolv-apneseth",
             "name": "tfm.nvim",
@@ -2399,14 +2391,6 @@
             "config": "neo_tree_nvim.lua",
             "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
             "description": "Neo-tree is a Neovim plugin to browse the file system and other tree like structures in whatever style suits you, including sidebars, floating windows, netrw split style, or all of them at once."
-        },
-        {
-            "path": "elihunter173/dirbuf.nvim",
-            "owner": "elihunter173",
-            "name": "dirbuf.nvim",
-            "config": "dirbuf_nvim.lua",
-            "url": "https://github.com/elihunter173/dirbuf.nvim",
-            "description": "A file manager which lets you edit your filesystem like you edit text."
         },
         {
             "path": "theblob42/drex.nvim",
@@ -2665,28 +2649,12 @@
             "description": "An extremely lightweight plugin (~ 120loc) that highlights ranges you have entered in commandline."
         },
         {
-            "path": "xiyaowong/transparent.nvim",
-            "owner": "xiyaowong",
-            "name": "transparent.nvim",
-            "config": "transparent_nvim.lua",
-            "url": "https://github.com/xiyaowong/transparent.nvim",
-            "description": "Make your Neovim transparent."
-        },
-        {
             "path": "folke/twilight.nvim",
             "owner": "folke",
             "name": "twilight.nvim",
             "config": "twilight_nvim.lua",
             "url": "https://github.com/folke/twilight.nvim",
             "description": "Dim inactive portions of the code you're editing using Tree-sitter."
-        },
-        {
-            "path": "koenverburg/peepsight.nvim",
-            "owner": "koenverburg",
-            "name": "peepsight.nvim",
-            "config": "peepsight_nvim.lua",
-            "url": "https://github.com/koenverburg/peepsight.nvim",
-            "description": "Focus only the function your cursor is in."
         },
         {
             "path": "uga-rosa/ccc.nvim",
@@ -2703,14 +2671,6 @@
             "config": "overlength_nvim.lua",
             "url": "https://github.com/lcheylus/overlength.nvim",
             "description": "A small plugin to highlight too long lines."
-        },
-        {
-            "path": "brenoprata10/nvim-highlight-colors",
-            "owner": "brenoprata10",
-            "name": "nvim-highlight-colors",
-            "config": "nvim_highlight_colors.lua",
-            "url": "https://github.com/brenoprata10/nvim-highlight-colors",
-            "description": "A plugin to highlight colors with Neovim."
         },
         {
             "path": "max397574/colortils.nvim",
@@ -3897,6 +3857,14 @@
             "config": "neodarcula_nvim.lua",
             "url": "https://github.com/pmouraguedes/neodarcula.nvim",
             "description": "A dark theme with support for transparency, dimming, LSP semantic tokens and more."
+        },
+        {
+            "path": "jpwol/thorn.nvim",
+            "owner": "jpwol",
+            "name": "thorn.nvim",
+            "config": "thorn_nvim.lua",
+            "url": "https://github.com/jpwol/thorn.nvim",
+            "description": "A rich green theme with dark and light options. Supports LSP, transparency, many plugins, and more."
         }
     ],
     "Lua Colorscheme": [
@@ -4887,6 +4855,14 @@
             "description": "Joplin notes utilities: tree browser, search, open, and Telescope integration."
         },
         {
+            "path": "ymich9963/mdnotes.nvim",
+            "owner": "ymich9963",
+            "name": "mdnotes.nvim",
+            "config": "mdnotes_nvim.lua",
+            "url": "https://github.com/ymich9963/mdnotes.nvim",
+            "description": "Simple and improved Markdown note taking."
+        },
+        {
             "path": "gaborvecsei/usage-tracker.nvim",
             "owner": "gaborvecsei",
             "name": "usage-tracker.nvim",
@@ -5761,14 +5737,6 @@
             "description": "Add fancy sub-cursor to signcolumn to show your scroll or jump direction."
         },
         {
-            "path": "cxwx/specs.nvim",
-            "owner": "cxwx",
-            "name": "specs.nvim",
-            "config": "specs_nvim.lua",
-            "url": "https://github.com/cxwx/specs.nvim",
-            "description": "A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped."
-        },
-        {
             "path": "LuxVim/nvim-luxterm",
             "owner": "LuxVim",
             "name": "nvim-luxterm",
@@ -6009,14 +5977,6 @@
             "description": "Debug Adapter Protocol client implementation."
         },
         {
-            "path": "sakhnik/nvim-gdb",
-            "owner": "sakhnik",
-            "name": "nvim-gdb",
-            "config": "nvim_gdb.lua",
-            "url": "https://github.com/sakhnik/nvim-gdb",
-            "description": "Thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB."
-        },
-        {
             "path": "rcarriga/nvim-dap-ui",
             "owner": "rcarriga",
             "name": "nvim-dap-ui",
@@ -6139,14 +6099,6 @@
             "description": "Prettier quickfix/location list windows."
         },
         {
-            "path": "nyngwang/NeoWell.lua",
-            "owner": "nyngwang",
-            "name": "NeoWell.lua",
-            "config": "NeoWell_lua.lua",
-            "url": "https://github.com/nyngwang/NeoWell.lua",
-            "description": "Sometimes you will want to fix some lines later. Store lines into qf with some note so you know what to do when you really want to fix it."
-        },
-        {
             "path": "ashfinal/qfview.nvim",
             "owner": "ashfinal",
             "name": "qfview.nvim",
@@ -6169,14 +6121,6 @@
             "config": "quicker_nvim.lua",
             "url": "https://github.com/stevearc/quicker.nvim",
             "description": "Improved quickfix UI and editable quickfix buffer."
-        },
-        {
-            "path": "coffebar/transfer.nvim",
-            "owner": "coffebar",
-            "name": "transfer.nvim",
-            "config": "transfer_nvim.lua",
-            "url": "https://github.com/coffebar/transfer.nvim",
-            "description": "Sync and diff with remote server using rsync and OpenSSH."
         },
         {
             "path": "OscarCreator/rsync.nvim",
@@ -6513,14 +6457,6 @@
             "config": "vimpeccable.lua",
             "url": "https://github.com/svermeulen/vimpeccable",
             "description": "Commands to help write your .vimrc in Lua or any Lua based language."
-        },
-        {
-            "path": "rafcamlet/nvim-luapad",
-            "owner": "rafcamlet",
-            "name": "nvim-luapad",
-            "config": "nvim_luapad.lua",
-            "url": "https://github.com/rafcamlet/nvim-luapad",
-            "description": "Interactive real time Neovim scratchpad for embedded Lua engine - Type and watch!."
         },
         {
             "path": "nvim-lua/plenary.nvim",
@@ -6905,14 +6841,6 @@
             "config": "nvim_gfold_lua.lua",
             "url": "https://github.com/AckslD/nvim-gfold.lua",
             "description": "Plugin using [gfold](https://github.com/nickgerace/gfold) to switch repo and have statusline component."
-        },
-        {
-            "path": "akinsho/git-conflict.nvim",
-            "owner": "akinsho",
-            "name": "git-conflict.nvim",
-            "config": "git_conflict_nvim.lua",
-            "url": "https://github.com/akinsho/git-conflict.nvim",
-            "description": "A plugin to visualise and resolve merge conflicts."
         },
         {
             "path": "aaronhallaert/advanced-git-search.nvim",
