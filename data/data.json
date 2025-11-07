@@ -1729,14 +1729,6 @@
             "description": "Generic log syntax highlighting and log filetype management support."
         },
         {
-            "path": "norcalli/snippets.nvim",
-            "owner": "norcalli",
-            "name": "snippets.nvim",
-            "config": "snippets_nvim.lua",
-            "url": "https://github.com/norcalli/snippets.nvim",
-            "description": "Snippets in Lua."
-        },
-        {
             "path": "L3MON4D3/LuaSnip",
             "owner": "L3MON4D3",
             "name": "LuaSnip",
@@ -2343,14 +2335,6 @@
             "config": "lir_nvim.lua",
             "url": "https://github.com/tamago324/lir.nvim",
             "description": "Simple file explorer."
-        },
-        {
-            "path": "TimUntersberger/neofs",
-            "owner": "TimUntersberger",
-            "name": "neofs",
-            "config": "neofs.lua",
-            "url": "https://github.com/TimUntersberger/neofs",
-            "description": "A file manager written in Lua."
         },
         {
             "path": "kevinhwang91/rnvimr",
@@ -6363,14 +6347,6 @@
             "description": "Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code."
         },
         {
-            "path": "bfredl/nvim-ipy",
-            "owner": "bfredl",
-            "name": "nvim-ipy",
-            "config": "nvim_ipy.lua",
-            "url": "https://github.com/bfredl/nvim-ipy",
-            "description": "Make interfacing with IPython/Jupyter easier."
-        },
-        {
             "path": "pianocomposer321/officer.nvim",
             "owner": "pianocomposer321",
             "name": "officer.nvim",
@@ -6715,12 +6691,12 @@
             "description": "Import modules faster based on what you've already imported in your project."
         },
         {
-            "path": "Silletr/LazyDevHelper",
+            "path": "Silletr/LazyDeveloperHelper",
             "owner": "Silletr",
-            "name": "LazyDevHelper",
-            "config": "LazyDevHelper.lua",
-            "url": "https://github.com/Silletr/LazyDevHelper",
-            "description": "Python dependencies manager, with auto-adding to your requirements.txt."
+            "name": "LazyDeveloperHelper",
+            "config": "LazyDeveloperHelper.lua",
+            "url": "https://github.com/Silletr/LazyDeveloperHelper",
+            "description": "Python dependencies manager, with auto-adding to your `requirements.txt` file."
         },
         {
             "path": "mrloop/telescope-git-branch.nvim",
@@ -6785,14 +6761,6 @@
             "config": "nvim_blame_line.lua",
             "url": "https://github.com/tveskag/nvim-blame-line",
             "description": "A small plugin that uses Neovim's virtual text to print Git blame info at the end of the current line."
-        },
-        {
-            "path": "ruifm/gitlinker.nvim",
-            "owner": "ruifm",
-            "name": "gitlinker.nvim",
-            "config": "gitlinker_nvim.lua",
-            "url": "https://github.com/ruifm/gitlinker.nvim",
-            "description": "Generate shareable file permalinks for several Git hosts. Inspired by tpope/vim-fugitive's :GBrowse."
         },
         {
             "path": "linrongbin16/gitlinker.nvim",
