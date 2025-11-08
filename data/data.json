@@ -7273,14 +7273,6 @@
             "description": "Enhances insert mode key mapping by showing typed keys in real time, without waiting for timeoutlen. It provides a responsive and intuitive insert-mode experience, ideal for complex input workflows like ime."
         },
         {
-            "path": "TheLazyCat00/racer-nvim",
-            "owner": "TheLazyCat00",
-            "name": "racer-nvim",
-            "config": "racer_nvim.lua",
-            "url": "https://github.com/TheLazyCat00/racer-nvim",
-            "description": "Overload ; and , with custom keymaps."
-        },
-        {
             "path": "folke/which-key.nvim",
             "owner": "folke",
             "name": "which-key.nvim",
