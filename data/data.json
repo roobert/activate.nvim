@@ -7621,14 +7621,6 @@
             "description": "Does the opposite of join-line (J) for arguments, powered by Tree-sitter."
         },
         {
-            "path": "pocco81/auto-save.nvim",
-            "owner": "pocco81",
-            "name": "auto-save.nvim",
-            "config": "auto_save_nvim.lua",
-            "url": "https://github.com/pocco81/auto-save.nvim",
-            "description": "Save your work before the world collapses or you type :qa!"
-        },
-        {
             "path": "okuuva/auto-save.nvim",
             "owner": "okuuva",
             "name": "auto-save.nvim",
@@ -7771,14 +7763,6 @@
             "config": "coerce_nvim.lua",
             "url": "https://github.com/gregorias/coerce.nvim",
             "description": "Change keyword case."
-        },
-        {
-            "path": "johmsalas/text-case.nvim",
-            "owner": "johmsalas",
-            "name": "text-case.nvim",
-            "config": "text_case_nvim.lua",
-            "url": "https://github.com/johmsalas/text-case.nvim",
-            "description": "Text case changes via keybindings and custom substitute command with Telescope and LSP support."
         },
         {
             "path": "nvim-mini/mini.nvim#mini.operators",
