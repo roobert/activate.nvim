@@ -1343,6 +1343,14 @@
             "config": "boundary_nvim.lua",
             "url": "https://github.com/Kenzo-Wada/boundary.nvim",
             "description": "Display `'use client'` markers inline in your JSX code to visualize client component boundaries."
+        },
+        {
+            "path": "abidibo/nvim-httpyac",
+            "owner": "abidibo",
+            "name": "nvim-httpyac",
+            "config": "nvim_httpyac.lua",
+            "url": "https://github.com/abidibo/nvim-httpyac",
+            "description": "Provides integration with `httpYac`."
         }
     ],
     "Markdown and LaTeX": [
@@ -1572,6 +1580,14 @@
         }
     ],
     "PHP": [
+        {
+            "path": "gbprod/phpactor.nvim",
+            "owner": "gbprod",
+            "name": "phpactor.nvim",
+            "config": "phpactor_nvim.lua",
+            "url": "https://github.com/gbprod/phpactor.nvim",
+            "description": "Lua version of [phpactor](https://github.com/phpactor/phpactor)."
+        },
         {
             "path": "ta-tikoma/php.easy.nvim",
             "owner": "ta-tikoma",
@@ -7337,14 +7353,6 @@
             "description": "Create custom submodes and menus. Port of Emacs Hydra. Maintained fork of anuvyklack/hydra.nvim."
         },
         {
-            "path": "anuvyklack/keymap-amend.nvim",
-            "owner": "anuvyklack",
-            "name": "keymap-amend.nvim",
-            "config": "keymap_amend_nvim.lua",
-            "url": "https://github.com/anuvyklack/keymap-amend.nvim",
-            "description": "Amend the existing keymap."
-        },
-        {
             "path": "max397574/better-escape.nvim",
             "owner": "max397574",
             "name": "better-escape.nvim",
@@ -7393,14 +7401,6 @@
             "description": "Use `;` and `,` keys to also repeat jumps to diagnostics (e.g. `]d`) and to [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects?tab=readme-ov-file#text-objects-move) (e.g. `]f`), in addition to repeating `t`/`T`/`f`/`F`."
         },
         {
-            "path": "debugloop/layers.nvim",
-            "owner": "debugloop",
-            "name": "layers.nvim",
-            "config": "layers_nvim.lua",
-            "url": "https://github.com/debugloop/layers.nvim",
-            "description": "Craft temporary keymap overlays and layered modes with ease."
-        },
-        {
             "path": "nvim-mini/mini.nvim#mini.keymap",
             "owner": "nvim-mini",
             "name": "mini.keymap",
@@ -7439,14 +7439,6 @@
             "config": "cinnamon_nvim.lua",
             "url": "https://github.com/declancm/cinnamon.nvim",
             "description": "Smooth scrolling for any movement command."
-        },
-        {
-            "path": "nkakouros-original/scrollofffraction.nvim",
-            "owner": "nkakouros-original",
-            "name": "scrollofffraction.nvim",
-            "config": "scrollofffraction_nvim.lua",
-            "url": "https://github.com/nkakouros-original/scrollofffraction.nvim",
-            "description": "Scrolloff as a fraction of the window height."
         },
         {
             "path": "niuiic/scroll.nvim",
