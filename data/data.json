@@ -79,9 +79,7 @@
             "config": "plugin_addict_nvim.lua",
             "url": "https://github.com/piersolenski/plugin-addict.nvim",
             "description": "A stupidly simple way to quickly install plugins."
-        }
-    ],
-    "(requires Neovim 0.5)": [
+        },
         {
             "path": "romus204/referencer.nvim",
             "owner": "romus204",
@@ -577,7 +575,9 @@
             "config": "ltex_extra_nvim.lua",
             "url": "https://github.com/barreiroleo/ltex_extra.nvim",
             "description": "LTeX LSP extension providing external file handling (rules and dictionaries)."
-        },
+        }
+    ],
+    "LSP Installer": [
         {
             "path": "williamboman/mason.nvim",
             "owner": "williamboman",
@@ -585,7 +585,9 @@
             "config": "mason_nvim.lua",
             "url": "https://github.com/williamboman/mason.nvim",
             "description": "Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters."
-        },
+        }
+    ],
+    "Diagnostics": [
         {
             "path": "sontungexpt/better-diagnostic-virtual-text",
             "owner": "sontungexpt",
