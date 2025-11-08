@@ -7941,14 +7941,6 @@
             "description": "Custom code divider line."
         },
         {
-            "path": "CKolkey/ts-node-action",
-            "owner": "CKolkey",
-            "name": "ts-node-action",
-            "config": "ts_node_action.lua",
-            "url": "https://github.com/CKolkey/ts-node-action",
-            "description": "A framework for executing functional transformations on Tree-sitter nodes - Has a lot of built-in actions for transforming text."
-        },
-        {
             "path": "tomiis4/hypersonic.nvim",
             "owner": "tomiis4",
             "name": "hypersonic.nvim",
