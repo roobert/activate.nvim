@@ -7621,14 +7621,6 @@
             "description": "Does the opposite of join-line (J) for arguments, powered by Tree-sitter."
         },
         {
-            "path": "pocco81/true-zen.nvim",
-            "owner": "pocco81",
-            "name": "true-zen.nvim",
-            "config": "true_zen_nvim.lua",
-            "url": "https://github.com/pocco81/true-zen.nvim",
-            "description": "Clean and elegant distraction-free writing."
-        },
-        {
             "path": "pocco81/high-str.nvim",
             "owner": "pocco81",
             "name": "high-str.nvim",
