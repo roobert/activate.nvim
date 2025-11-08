@@ -7837,14 +7837,6 @@
             "description": "Foldtext customization."
         },
         {
-            "path": "bennypowers/nvim-regexplainer",
-            "owner": "bennypowers",
-            "name": "nvim-regexplainer",
-            "config": "nvim_regexplainer.lua",
-            "url": "https://github.com/bennypowers/nvim-regexplainer",
-            "description": "Explain the regular expression under the cursor."
-        },
-        {
             "path": "gbprod/stay-in-place.nvim",
             "owner": "gbprod",
             "name": "stay-in-place.nvim",
