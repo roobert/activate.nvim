@@ -7589,14 +7589,6 @@
             "description": "Autopair with extensions."
         },
         {
-            "path": "utilyre/sentiment.nvim",
-            "owner": "utilyre",
-            "name": "sentiment.nvim",
-            "config": "sentiment_nvim.lua",
-            "url": "https://github.com/utilyre/sentiment.nvim",
-            "description": "Enhanced matchparen."
-        },
-        {
             "path": "monaqa/dial.nvim",
             "owner": "monaqa",
             "name": "dial.nvim",
@@ -7827,14 +7819,6 @@
             "config": "mini_move.lua",
             "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-move.md",
             "description": "Module of `mini.nvim` to move any selection (charwise, linewise, blockwise, current line in Normal mode) in any direction. Handles both `v:count` and undo history."
-        },
-        {
-            "path": "anuvyklack/pretty-fold.nvim",
-            "owner": "anuvyklack",
-            "name": "pretty-fold.nvim",
-            "config": "pretty_fold_nvim.lua",
-            "url": "https://github.com/anuvyklack/pretty-fold.nvim",
-            "description": "Foldtext customization."
         },
         {
             "path": "gbprod/stay-in-place.nvim",
