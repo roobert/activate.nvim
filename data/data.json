@@ -4865,6 +4865,14 @@
             "description": "Simple and improved Markdown note taking."
         },
         {
+            "path": "gisketch/triforce.nvim",
+            "owner": "gisketch",
+            "name": "triforce.nvim",
+            "config": "triforce_nvim.lua",
+            "url": "https://github.com/gisketch/triforce.nvim",
+            "description": "Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration."
+        },
+        {
             "path": "gaborvecsei/usage-tracker.nvim",
             "owner": "gaborvecsei",
             "name": "usage-tracker.nvim",
