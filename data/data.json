@@ -661,11 +661,11 @@
             "description": "Module of `mini.nvim` for asynchronous two-stage completion. Supports showing completion item info and independent function signature."
         },
         {
-            "path": "Saghen/blink.cmp",
-            "owner": "Saghen",
+            "path": "saghen/blink.cmp",
+            "owner": "saghen",
             "name": "blink.cmp",
             "config": "blink_cmp.lua",
-            "url": "https://github.com/Saghen/blink.cmp",
+            "url": "https://github.com/saghen/blink.cmp",
             "description": "Really fast completion with LSP & snippet support, along with signature help, cmdline completion, and autobracket support (based on semantic tokens)."
         },
         {
@@ -7419,11 +7419,11 @@
             "description": "Mouse gesture plugin."
         },
         {
-            "path": "Saghen/filler-begone.nvim",
-            "owner": "Saghen",
+            "path": "saghen/filler-begone.nvim",
+            "owner": "saghen",
             "name": "filler-begone.nvim",
             "config": "filler_begone_nvim.lua",
-            "url": "https://github.com/Saghen/filler-begone.nvim",
+            "url": "https://github.com/saghen/filler-begone.nvim",
             "description": "Prevents scrolling past the bottom of the buffer and showing unnecessary filler lines."
         },
         {
@@ -8336,6 +8336,14 @@
         }
     ],
     "Indent": [
+        {
+            "path": "saghen/blink.indent",
+            "owner": "saghen",
+            "name": "blink.indent",
+            "config": "blink_indent.lua",
+            "url": "https://github.com/saghen/blink.indent",
+            "description": "Performant indent guides with scope on every keystroke."
+        },
         {
             "path": "nvimdev/indentmini.nvim",
             "owner": "nvimdev",
