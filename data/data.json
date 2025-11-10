@@ -1667,6 +1667,14 @@
             "description": "OS-independent Korean input method that converts English inputs to Korean in-place."
         },
         {
+            "path": "bennorichters/taal.nvim",
+            "owner": "bennorichters",
+            "name": "taal.nvim",
+            "config": "taal_nvim.lua",
+            "url": "https://github.com/bennorichters/taal.nvim",
+            "description": "Improve grammar and spelling errors in multiple languages using LLMs."
+        },
+        {
             "path": "nvim-treesitter/nvim-treesitter",
             "owner": "nvim-treesitter",
             "name": "nvim-treesitter",
