@@ -1579,6 +1579,14 @@
             "config": "easytables_nvim.lua",
             "url": "https://github.com/Myzel394/easytables.nvim",
             "description": "Easily insert and edit Markdown tables with a live preview and useful helpers."
+        },
+        {
+            "path": "tttol/md-outline.nvim",
+            "owner": "tttol",
+            "name": "md-outline.nvim",
+            "config": "md_outline_nvim.lua",
+            "url": "https://github.com/tttol/md-outline.nvim",
+            "description": "Automatically displays an outline for Markdown files."
         }
     ],
     "PHP": [
