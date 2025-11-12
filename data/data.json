@@ -2949,14 +2949,6 @@
             "description": "A dark and light Neovim theme written in fennel, inspired by IBM Carbon."
         },
         {
-            "path": "kyazdani42/blue-moon",
-            "owner": "kyazdani42",
-            "name": "blue-moon",
-            "config": "blue_moon.lua",
-            "url": "https://github.com/kyazdani42/blue-moon",
-            "description": "A dark color scheme derived from palenight and carbonight."
-        },
-        {
             "path": "mhartington/oceanic-next",
             "owner": "mhartington",
             "name": "oceanic-next",
@@ -3037,28 +3029,12 @@
             "description": "An Atom One inspired dark and light colorscheme."
         },
         {
-            "path": "PHSix/nvim-hybrid",
-            "owner": "PHSix",
-            "name": "nvim-hybrid",
-            "config": "nvim_hybrid.lua",
-            "url": "https://github.com/PHSix/nvim-hybrid",
-            "description": "A Neovim colorscheme write in Lua."
-        },
-        {
             "path": "Th3Whit3Wolf/space-nvim",
             "owner": "Th3Whit3Wolf",
             "name": "space-nvim",
             "config": "space_nvim.lua",
             "url": "https://github.com/Th3Whit3Wolf/space-nvim",
             "description": "A spacemacs inspired dark and light colorscheme."
-        },
-        {
-            "path": "yonlu/omni.vim",
-            "owner": "yonlu",
-            "name": "omni.vim",
-            "config": "omni_vim.lua",
-            "url": "https://github.com/yonlu/omni.vim",
-            "description": "Omni color scheme for Vim."
         },
         {
             "path": "ray-x/aurora",
@@ -3309,14 +3285,6 @@
             "description": "A soft dark, fully customizable Neovim theme, with support for LSP, Tree-sitter and a variety of plugins."
         },
         {
-            "path": "kvrohit/substrata.nvim",
-            "owner": "kvrohit",
-            "name": "substrata.nvim",
-            "config": "substrata_nvim.lua",
-            "url": "https://github.com/kvrohit/substrata.nvim",
-            "description": "A cold, dark color scheme written in Lua ported from [arzg/vim-substrata](https://github.com/arzg/vim-substrata) theme."
-        },
-        {
             "path": "ldelossa/vimdark",
             "owner": "ldelossa",
             "name": "vimdark",
@@ -3355,14 +3323,6 @@
             "config": "onenord_nvim.lua",
             "url": "https://github.com/rmehri01/onenord.nvim",
             "description": "A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience."
-        },
-        {
-            "path": "RishabhRD/gruvy",
-            "owner": "RishabhRD",
-            "name": "gruvy",
-            "config": "gruvy.lua",
-            "url": "https://github.com/RishabhRD/gruvy",
-            "description": "Gruvbuddy without colorbuddy using Lush."
         },
         {
             "path": "nvim-mini/mini.nvim#colorschemes",
@@ -3413,14 +3373,6 @@
             "description": "Dark (only) theme."
         },
         {
-            "path": "tiagovla/tokyodark.nvim",
-            "owner": "tiagovla",
-            "name": "tokyodark.nvim",
-            "config": "tokyodark_nvim.lua",
-            "url": "https://github.com/tiagovla/tokyodark.nvim",
-            "description": "A clean dark theme written in Lua (Neovim >= 0.5) and above."
-        },
-        {
             "path": "cpea2506/one_monokai.nvim",
             "owner": "cpea2506",
             "name": "one_monokai.nvim",
@@ -3437,28 +3389,12 @@
             "description": "A low-contrast dark colorscheme with support for various plugins."
         },
         {
-            "path": "kvrohit/rasmus.nvim",
-            "owner": "kvrohit",
-            "name": "rasmus.nvim",
-            "config": "rasmus_nvim.lua",
-            "url": "https://github.com/kvrohit/rasmus.nvim",
-            "description": "A dark color scheme written in Lua ported from [rsms/sublime-theme](https://github.com/rsms/sublime-theme) theme."
-        },
-        {
             "path": "chrsm/paramount-ng.nvim",
             "owner": "chrsm",
             "name": "paramount-ng.nvim",
             "config": "paramount_ng_nvim.lua",
             "url": "https://github.com/chrsm/paramount-ng.nvim",
             "description": "A dark color scheme written using Lush. Tree-sitter supported."
-        },
-        {
-            "path": "lmburns/kimbox",
-            "owner": "lmburns",
-            "name": "kimbox",
-            "config": "kimbox.lua",
-            "url": "https://github.com/lmburns/kimbox",
-            "description": "A colorscheme with a dark background, and vibrant foreground that is centered around the color brown. A modification of [Kimbie Dark](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus)."
         },
         {
             "path": "qaptoR-nvim/chocolatier.nvim",
@@ -3891,6 +3827,14 @@
             "config": "thorn_nvim.lua",
             "url": "https://github.com/jpwol/thorn.nvim",
             "description": "A rich green theme with dark and light options. Supports LSP, transparency, many plugins, and more."
+        },
+        {
+            "path": "calind/selenized.nvim",
+            "owner": "calind",
+            "name": "selenized.nvim",
+            "config": "selenized_nvim.lua",
+            "url": "https://github.com/calind/selenized.nvim",
+            "description": "Lua port of [selenized](https://github.com/jan-warchol/selenized) with support for Tree-sitter, `nvim-cmp`, GitSigns, and more."
         }
     ],
     "Lua Colorscheme": [
@@ -3909,14 +3853,6 @@
             "config": "cobalt2_nvim.lua",
             "url": "https://github.com/lalitmee/cobalt2.nvim",
             "description": "A port of cobalt2 colorscheme using colorbuddy."
-        },
-        {
-            "path": "calind/selenized.nvim",
-            "owner": "calind",
-            "name": "selenized.nvim",
-            "config": "selenized_nvim.lua",
-            "url": "https://github.com/calind/selenized.nvim",
-            "description": "Lua port of Selenized theme with support for Tree-sitter, nvim-cmp, GitSigns and some more."
         }
     ],
     "Colorscheme Creation": [
