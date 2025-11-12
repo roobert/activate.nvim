@@ -1469,6 +1469,14 @@
             "description": "Easily generate table of contents for Markdown files."
         },
         {
+            "path": "Zeioth/markmap.nvim",
+            "owner": "Zeioth",
+            "name": "markmap.nvim",
+            "config": "markmap_nvim.lua",
+            "url": "https://github.com/Zeioth/markmap.nvim",
+            "description": "Visualize your Markdown as mindmaps."
+        },
+        {
             "path": "tadmccorkle/markdown.nvim",
             "owner": "tadmccorkle",
             "name": "markdown.nvim",
@@ -7539,6 +7547,14 @@
             "config": "scrollbar_nvim.lua",
             "url": "https://github.com/wsdjeg/scrollbar.nvim",
             "description": "Floating scrollbar."
+        },
+        {
+            "path": "qwavies/smart-backspace.nvim",
+            "owner": "qwavies",
+            "name": "smart-backspace.nvim",
+            "config": "smart_backspace_nvim.lua",
+            "url": "https://github.com/qwavies/smart-backspace.nvim",
+            "description": "Context-aware backspace which handles pairs, whitespace and indentation."
         },
         {
             "path": "TheLazyCat00/replace-nvim",
