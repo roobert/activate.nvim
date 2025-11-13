@@ -3421,14 +3421,6 @@
             "description": "Pleasant and productive colorscheme."
         },
         {
-            "path": "Yazeed1s/minimal.nvim",
-            "owner": "Yazeed1s",
-            "name": "minimal.nvim",
-            "config": "minimal_nvim.lua",
-            "url": "https://github.com/Yazeed1s/minimal.nvim",
-            "description": "Two Tree-sitter supported colorschemes that are inspired by base16-tomorrow-night and monokai-pro."
-        },
-        {
             "path": "lewpoly/sherbet.nvim",
             "owner": "lewpoly",
             "name": "sherbet.nvim",
@@ -3445,14 +3437,6 @@
             "description": "Colorscheme based on GNOME Adwaita syntax with support for popular plugins."
         },
         {
-            "path": "olivercederborg/poimandres.nvim",
-            "owner": "olivercederborg",
-            "name": "poimandres.nvim",
-            "config": "poimandres_nvim.lua",
-            "url": "https://github.com/olivercederborg/poimandres.nvim",
-            "description": "Neovim port of [poimandres VSCode theme](https://github.com/drcmda/poimandres-theme) with Tree-sitter support, written in Lua."
-        },
-        {
             "path": "mellow-theme/mellow.nvim",
             "owner": "mellow-theme",
             "name": "mellow.nvim",
@@ -3467,14 +3451,6 @@
             "config": "nord_nvim.lua",
             "url": "https://github.com/gbprod/nord.nvim",
             "description": "An arctic, north-bluish clean and elegant Neovim theme, based on Nord Palette."
-        },
-        {
-            "path": "Yazeed1s/oh-lucy.nvim",
-            "owner": "Yazeed1s",
-            "name": "oh-lucy.nvim",
-            "config": "oh_lucy_nvim.lua",
-            "url": "https://github.com/Yazeed1s/oh-lucy.nvim",
-            "description": "Two Tree-sitter supported colorschemes, inspired by oh-lucy in vscode."
         },
         {
             "path": "embark-theme/vim",
@@ -3779,22 +3755,6 @@
             "config": "slack_nvim.lua",
             "url": "https://github.com/ntk148v/slack.nvim",
             "description": "A ported Slack colorscheme."
-        },
-        {
-            "path": "motaz-shokry/gruvbox.nvim",
-            "owner": "motaz-shokry",
-            "name": "gruvbox.nvim",
-            "config": "gruvbox_nvim.lua",
-            "url": "https://gitlab.com/motaz-shokry/gruvbox.nvim",
-            "description": "A new gruvbox that the hard variant bg is \"#1b1b1b\", and it comes with 4 variants."
-        },
-        {
-            "path": "mcauley-penney/techbase.nvim",
-            "owner": "mcauley-penney",
-            "name": "techbase.nvim",
-            "config": "techbase_nvim.lua",
-            "url": "https://github.com/mcauley-penney/techbase.nvim",
-            "description": "Dark, cold color scheme inspired by sci-fi horror and retro technology."
         },
         {
             "path": "y3owk1n/base16-pro-max.nvim",
