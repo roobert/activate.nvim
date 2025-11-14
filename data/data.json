@@ -6957,6 +6957,14 @@
             "config": "git_needy_nvim.lua",
             "url": "https://github.com/cd-4/git-needy.nvim",
             "description": "Keeps a tally of workflows that need to be reviewed in your statusbar."
+        },
+        {
+            "path": "claydugo/browsher.nvim",
+            "owner": "claydugo",
+            "name": "browsher.nvim",
+            "config": "browsher_nvim.lua",
+            "url": "https://github.com/claydugo/browsher.nvim",
+            "description": "Create commit pinned links to GitHub hosted files/lines."
         }
     ],
     "GitLab": [
