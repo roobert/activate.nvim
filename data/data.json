@@ -1771,6 +1771,14 @@
             "description": "Generic log syntax highlighting and log filetype management support."
         },
         {
+            "path": "MeanderingProgrammer/treesitter-modules.nvim",
+            "owner": "MeanderingProgrammer",
+            "name": "treesitter-modules.nvim",
+            "config": "treesitter_modules_nvim.lua",
+            "url": "https://github.com/MeanderingProgrammer/treesitter-modules.nvim",
+            "description": "Original modules from nvim-treesitter master branch."
+        },
+        {
             "path": "L3MON4D3/LuaSnip",
             "owner": "L3MON4D3",
             "name": "LuaSnip",
@@ -8699,14 +8707,6 @@
             "description": "Collection of window functions which includes moving between, closing and maximizing Neovim splits and Tmux panes."
         },
         {
-            "path": "otavioschwanck/tmux-awesome-manager.nvim",
-            "owner": "otavioschwanck",
-            "name": "tmux-awesome-manager.nvim",
-            "config": "tmux_awesome_manager_nvim.lua",
-            "url": "https://github.com/otavioschwanck/tmux-awesome-manager.nvim",
-            "description": "Run your workflow commands like yarn install, rails console, yarn add, bundle install, etc."
-        },
-        {
             "path": "karshPrime/only-tmux.nvim",
             "owner": "karshPrime",
             "name": "only-tmux.nvim",
@@ -8721,14 +8721,6 @@
             "config": "tmux_compile_nvim.lua",
             "url": "https://github.com/karshPrime/tmux-compile.nvim",
             "description": "Set up same key, like F5, to run any compile/run command per language, like `make` for C and `cargo build` for Rust, and have the project run or compile in a new tmux pane or window."
-        },
-        {
-            "path": "EvWilson/slimux.nvim",
-            "owner": "EvWilson",
-            "name": "slimux.nvim",
-            "config": "slimux_nvim.lua",
-            "url": "https://github.com/EvWilson/slimux.nvim",
-            "description": "Send content from the current buffer to a configurable tmux pane."
         },
         {
             "path": "juselara1/tmutils.nvim",
@@ -8761,14 +8753,6 @@
             "config": "libtmux_nvim.lua",
             "url": "https://github.com/salorak/libtmux.nvim",
             "description": "Thin wrapper for using the `tmux` API."
-        },
-        {
-            "path": "ThePrimeagen/vim-be-good",
-            "owner": "ThePrimeagen",
-            "name": "vim-be-good",
-            "config": "vim_be_good.lua",
-            "url": "https://github.com/ThePrimeagen/vim-be-good",
-            "description": "Vim-be-good is a Neovim plugin designed to make you better at Vim Movements."
         },
         {
             "path": "alec-gibson/nvim-tetris",
@@ -8885,14 +8869,6 @@
             "description": "Helping you establish good command workflow and habit."
         },
         {
-            "path": "antonk52/bad-practices.nvim",
-            "owner": "antonk52",
-            "name": "bad-practices.nvim",
-            "config": "bad_practices_nvim.lua",
-            "url": "https://github.com/antonk52/bad-practices.nvim",
-            "description": "Helping you give up bad practices in Vim."
-        },
-        {
             "path": "saxon1964/neovim-tips",
             "owner": "saxon1964",
             "name": "neovim-tips",
@@ -8923,14 +8899,6 @@
             "config": "neomongo_nvim.lua",
             "url": "https://github.com/tashikomaaa/neomongo.nvim",
             "description": "Explore, query, and edit MongoDB collections directly through a Telescope-powered dashboard."
-        },
-        {
-            "path": "Cris-lml007/NeoPlus",
-            "owner": "Cris-lml007",
-            "name": "NeoPlus",
-            "config": "NeoPlus.lua",
-            "url": "https://github.com/Cris-lml007/NeoPlus",
-            "description": "NeoPlus is a free, open source IDE with tools that works on Neovim."
         },
         {
             "path": "pgosar/CyberNvim",
@@ -9005,14 +8973,6 @@
             "description": "Easily configurable distro with solid defaults and a cozy editor experience."
         },
         {
-            "path": "crivotz/nv-ide",
-            "owner": "crivotz",
-            "name": "nv-ide",
-            "config": "nv_ide.lua",
-            "url": "https://github.com/crivotz/nv-ide",
-            "description": "Neovim custom configuration, oriented for full stack developers (Rails, Ruby, PHP, HTML, CSS, SCSS, JavaScript)."
-        },
-        {
             "path": "LunarVim/LunarVim",
             "owner": "LunarVim",
             "name": "LunarVim",
@@ -9035,14 +8995,6 @@
             "config": "NvChad.lua",
             "url": "https://github.com/siduck76/NvChad",
             "description": "An attempt to make Neovim cli as functional as an IDE while being very beautiful and less bloated."
-        },
-        {
-            "path": "nvoid-lua/nvoid",
-            "owner": "nvoid-lua",
-            "name": "nvoid",
-            "config": "nvoid.lua",
-            "url": "https://github.com/nvoid-lua/nvoid",
-            "description": "Simple Neovim config written in Lua with all the modern features available in any **IDE**"
         },
         {
             "path": "cstsunfu/.sea.nvim",
@@ -9117,28 +9069,12 @@
             "description": "Neovim custom configuration, focused on JS/TS, Go, and Java development. Very IDE like."
         },
         {
-            "path": "otavioschwanck/mood-nvim",
-            "owner": "otavioschwanck",
-            "name": "mood-nvim",
-            "config": "mood_nvim.lua",
-            "url": "https://github.com/otavioschwanck/mood-nvim",
-            "description": "Ready to use configuration for Ruby on Rails, JavaScript and Typescript."
-        },
-        {
             "path": "ldelossa/nvim-ide",
             "owner": "ldelossa",
             "name": "nvim-ide",
             "config": "nvim_ide.lua",
             "url": "https://github.com/ldelossa/nvim-ide",
             "description": "A full featured IDE layer heavily inspired by VSCode."
-        },
-        {
-            "path": "jonathandion/web-dev.nvim",
-            "owner": "jonathandion",
-            "name": "web-dev.nvim",
-            "config": "web_dev_nvim.lua",
-            "url": "https://github.com/jonathandion/web-dev.nvim",
-            "description": "Small, simple and flexible configuration for web development."
         },
         {
             "path": "linrongbin16/lin.nvim",
