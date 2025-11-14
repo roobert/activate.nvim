@@ -8981,6 +8981,14 @@
             "description": "Easily configurable distro with solid defaults and a cozy editor experience."
         },
         {
+            "path": "crivotz/nv-ide",
+            "owner": "crivotz",
+            "name": "nv-ide",
+            "config": "nv_ide.lua",
+            "url": "https://github.com/crivotz/nv-ide",
+            "description": "Neovim custom configuration, oriented for full stack developers (Rails, Ruby, PHP, HTML, CSS, SCSS, JavaScript)."
+        },
+        {
             "path": "LunarVim/LunarVim",
             "owner": "LunarVim",
             "name": "LunarVim",
