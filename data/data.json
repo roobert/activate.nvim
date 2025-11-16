@@ -5583,6 +5583,14 @@
             "config": "strudel_nvim.lua",
             "url": "https://github.com/gruvw/strudel.nvim",
             "description": "Live coding controller for [strudel](https://strudel.cc)."
+        },
+        {
+            "path": "wsdjeg/ctags.nvim",
+            "owner": "wsdjeg",
+            "name": "ctags.nvim",
+            "config": "ctags_nvim.lua",
+            "url": "https://github.com/wsdjeg/ctags.nvim",
+            "description": "Generate tags files and update tags option automatically."
         }
     ],
     "CSV Files": [
