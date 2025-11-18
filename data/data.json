@@ -4785,6 +4785,14 @@
             "description": "Simple and improved Markdown note taking."
         },
         {
+            "path": "necrom4/convy.nvim",
+            "owner": "necrom4",
+            "name": "convy.nvim",
+            "config": "convy_nvim.lua",
+            "url": "https://github.com/necrom4/convy.nvim",
+            "description": "Easily convert strings between various formats."
+        },
+        {
             "path": "gisketch/triforce.nvim",
             "owner": "gisketch",
             "name": "triforce.nvim",
