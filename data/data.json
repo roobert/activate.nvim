@@ -1739,6 +1739,14 @@
             "description": "Highlight arguments' definitions and usages, using Tree-sitter."
         },
         {
+            "path": "calops/hmts.nvim",
+            "owner": "calops",
+            "name": "hmts.nvim",
+            "config": "hmts_nvim.lua",
+            "url": "https://github.com/calops/hmts.nvim",
+            "description": "Tree-sitter queries for Home Manager Nix files."
+        },
+        {
             "path": "LhKipp/nvim-nu",
             "owner": "LhKipp",
             "name": "nvim-nu",
@@ -4090,7 +4098,7 @@
             "name": "witch-line",
             "config": "witch_line.lua",
             "url": "https://github.com/sontungexpt/witch-line",
-            "description": "A blazing fast, lazy loading and easy to configure Neovim statusline."
+            "description": "A blazing fast statusline based on reference concept."
         },
         {
             "path": "nvim-lualine/lualine.nvim",
@@ -8103,6 +8111,14 @@
             "description": "Highlight, list and search todo comments in your projects."
         },
         {
+            "path": "alexmozaidze/tree-comment.nvim",
+            "owner": "alexmozaidze",
+            "name": "tree-comment.nvim",
+            "config": "tree_comment_nvim.lua",
+            "url": "https://github.com/alexmozaidze/tree-comment.nvim",
+            "description": "Highlight and configure TODO comments for [tree-sitter-comment](https://github.com/stsewd/tree-sitter-comment)."
+        },
+        {
             "path": "terrortylor/nvim-comment",
             "owner": "terrortylor",
             "name": "nvim-comment",
@@ -9219,6 +9235,14 @@
             "config": "MiniMax.lua",
             "url": "https://github.com/nvim-mini/MiniMax",
             "description": "A collection of self-contained and extensively commented configurations which mostly use MINI tools."
+        },
+        {
+            "path": "TheItcor/MoaiVim",
+            "owner": "TheItcor",
+            "name": "MoaiVim",
+            "config": "MoaiVim.lua",
+            "url": "https://github.com/TheItcor/MoaiVim",
+            "description": "A minimalist config that emulates a lightweight IDE."
         }
     ],
     "Version Manager": [
