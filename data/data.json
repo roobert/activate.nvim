@@ -1090,7 +1090,7 @@
             "name": "haskell-scope-highlighting.nvim",
             "config": "haskell_scope_highlighting_nvim.lua",
             "url": "https://github.com/kiyoon/haskell-scope-highlighting.nvim",
-            "description": "Haskell syntax highlighting that considers variable scopes. Inspired from \"Context Coloring\" by prof. Douglas Crockford."
+            "description": "Haskell syntax highlighting which considers variable scopes. Inspired from \"Context Coloring\" by prof. Douglas Crockford."
         },
         {
             "path": "apyra/nvim-unity.nvim",
