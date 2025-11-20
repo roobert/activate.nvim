@@ -1731,6 +1731,14 @@
             "description": "Module of `mini.nvim` for working with text surroundings (add, delete, replace, find, highlight). Supports dot-repeat, different search methods, \"last\"/\"next\" extended mappings, Tree-sitter integration, and more."
         },
         {
+            "path": "Hdoc1509/gh-actions.nvim",
+            "owner": "Hdoc1509",
+            "name": "gh-actions.nvim",
+            "config": "gh_actions_nvim.lua",
+            "url": "https://github.com/Hdoc1509/gh-actions.nvim",
+            "description": "Tree-sitter grammar and LSP query configuration for GitHub Actions."
+        },
+        {
             "path": "m-demare/hlargs.nvim",
             "owner": "m-demare",
             "name": "hlargs.nvim",
