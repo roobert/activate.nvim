@@ -6701,6 +6701,14 @@
             "description": "Python dependencies manager, with auto-adding to your `requirements.txt` file."
         },
         {
+            "path": "JesperLundberg/projektgunnar.nvim",
+            "owner": "JesperLundberg",
+            "name": "projektgunnar.nvim",
+            "config": "projektgunnar_nvim.lua",
+            "url": "https://github.com/JesperLundberg/projektgunnar",
+            "description": "C# dependency manager with support for handling references between projects and solution files."
+        },
+        {
             "path": "mrloop/telescope-git-branch.nvim",
             "owner": "mrloop",
             "name": "telescope-git-branch.nvim",
