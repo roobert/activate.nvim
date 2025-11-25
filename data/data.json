@@ -6963,6 +6963,14 @@
             "config": "gitstatus_nvim.lua",
             "url": "https://github.com/Mauritz8/gitstatus.nvim",
             "description": "Interactive Git status window with support for staging, unstaging, and committing files."
+        },
+        {
+            "path": "esmuellert/vscode-diff.nvim",
+            "owner": "esmuellert",
+            "name": "vscode-diff.nvim",
+            "config": "vscode_diff_nvim.lua",
+            "url": "https://github.com/esmuellert/vscode-diff.nvim",
+            "description": "VSCode-style side-by-side diff with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C."
         }
     ],
     "GitHub": [
