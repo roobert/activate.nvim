@@ -134,7 +134,7 @@
             "name": "lspkind.nvim",
             "config": "lspkind_nvim.lua",
             "url": "https://github.com/onsails/lspkind.nvim",
-            "description": "The plugin adds vscode-like icons to Neovim LSP completions."
+            "description": "The plugin adds VSCode-like icons to Neovim LSP completions."
         },
         {
             "path": "ojroques/nvim-lspfuzzy",
@@ -938,7 +938,7 @@
             "name": "vs-code-companion",
             "config": "vs_code_companion.lua",
             "url": "https://github.com/3ZsForInsomnia/vs-code-companion",
-            "description": "Tool for importing VS Code's Markdown prompts into CodeCompanion."
+            "description": "Tool for importing VSCode's Markdown prompts into CodeCompanion."
         },
         {
             "path": "3ZsForInsomnia/token-count.nvim",
@@ -2858,7 +2858,7 @@
             "name": "vesper.nvim",
             "config": "vesper_nvim.lua",
             "url": "https://github.com/datsfilipe/vesper.nvim",
-            "description": "It's a port of the popular VS Code theme Vesper, written in Lua."
+            "description": "It's a port of the popular VSCode theme Vesper, written in Lua."
         },
         {
             "path": "sontungexpt/witch",
@@ -2890,7 +2890,7 @@
             "name": "vim-code-dark",
             "config": "vim_code_dark.lua",
             "url": "https://github.com/tomasiser/vim-code-dark",
-            "description": "A dark color scheme heavily inspired by the look of the Dark+ scheme of Visual Studio Code."
+            "description": "A dark color scheme heavily inspired by the look of the Dark+ scheme of VSCode."
         },
         {
             "path": "Mofiqul/vscode.nvim",
@@ -2898,7 +2898,7 @@
             "name": "vscode.nvim",
             "config": "vscode_nvim.lua",
             "url": "https://github.com/Mofiqul/vscode.nvim",
-            "description": "A Lua port of vim-code-dark colorscheme with vscode light and dark theme."
+            "description": "A Lua port of vim-code-dark colorscheme with VSCode light and dark theme."
         },
         {
             "path": "askfiy/visual_studio_code",
@@ -2906,7 +2906,7 @@
             "name": "visual_studio_code",
             "config": "visual_studio_code.lua",
             "url": "https://github.com/askfiy/visual_studio_code",
-            "description": "A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode."
+            "description": "A Neovim theme that highly restores VSCode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using VSCode."
         },
         {
             "path": "marko-cerovac/material.nvim",
@@ -3960,7 +3960,7 @@
             "name": "themery.nvim",
             "config": "themery_nvim.lua",
             "url": "https://github.com/zaldih/themery.nvim",
-            "description": "A new way to change the colorscheme on the fly like in vscode."
+            "description": "A new way to change the colorscheme on the fly like in VSCode."
         },
         {
             "path": "linrongbin16/colorbox.nvim",
@@ -4040,7 +4040,7 @@
             "name": "barbecue.nvim",
             "config": "barbecue_nvim.lua",
             "url": "https://github.com/utilyre/barbecue.nvim",
-            "description": "A VS Code like winbar."
+            "description": "A VSCode like winbar."
         },
         {
             "path": "Bekaboo/dropbar.nvim",
@@ -6266,7 +6266,7 @@
             "name": "greyjoy.nvim",
             "config": "greyjoy_nvim.lua",
             "url": "https://github.com/desdic/greyjoy.nvim",
-            "description": "A modular task runner for Makefiles, vscode tasks, kitchen etc."
+            "description": "A modular task runner for Makefiles, VSCode tasks, kitchen etc."
         },
         {
             "path": "Shatur/neovim-tasks",
@@ -7328,7 +7328,7 @@
             "name": "legendary.nvim",
             "config": "legendary_nvim.lua",
             "url": "https://github.com/mrjones2014/legendary.nvim",
-            "description": "Define your keymaps, commands, and autocommands as simple Lua tables, and create a legend for them at the same time (like VS Code's Command Palette), integrates with `which-key.nvim`."
+            "description": "Define your keymaps, commands, and autocommands as simple Lua tables, and create a legend for them at the same time (like VSCode's Command Palette), integrates with `which-key.nvim`."
         },
         {
             "path": "Iron-E/nvim-cartographer",
@@ -7754,7 +7754,7 @@
             "name": "renamer.nvim",
             "config": "renamer_nvim.lua",
             "url": "https://github.com/filipdutescu/renamer.nvim",
-            "description": "VS Code-like renaming UI, written in Lua."
+            "description": "VSCode-like renaming UI, written in Lua."
         },
         {
             "path": "gbprod/cutlass.nvim",
@@ -8937,6 +8937,14 @@
             "config": "actually_doom_nvim.lua",
             "url": "https://github.com/seandewar/actually-doom.nvim",
             "description": "Editing text is boring; play DOOM instead!."
+        },
+        {
+            "path": "piersolenski/skifree.nvim",
+            "owner": "piersolenski",
+            "name": "skifree.nvim",
+            "config": "skifree_nvim.lua",
+            "url": "https://github.com/piersolenski/skifree.nvim",
+            "description": "Play the Windows 3.1 SkiFree game."
         }
     ],
     "Competitive Programming": [
