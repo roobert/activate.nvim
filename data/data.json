@@ -2809,6 +2809,14 @@
             "config": "pacer_nvim.lua",
             "url": "https://github.com/3ZsForInsomnia/pacer.nvim",
             "description": "Creates a reading pacer by highlighting one word at a time and dimming all text outside the current paragraph-and-some to help you read faster."
+        },
+        {
+            "path": "wsdjeg/cpicker.nvim",
+            "owner": "wsdjeg",
+            "name": "cpicker.nvim",
+            "config": "cpicker_nvim.lua",
+            "url": "https://github.com/wsdjeg/cpicker.nvim",
+            "description": "A lightweight color palette plugin that supports a wide range of color models."
         }
     ],
     "Tree-sitter Supported Colorscheme": [
