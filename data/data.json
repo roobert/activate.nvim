@@ -4465,6 +4465,14 @@
             "description": "A picker for selecting Nerd Font icons using `fzf-lua`."
         },
         {
+            "path": "melMass/echo.nvim",
+            "owner": "melMass",
+            "name": "echo.nvim",
+            "config": "echo_nvim.lua",
+            "url": "https://github.com/melMass/echo.nvim",
+            "description": "Seamless sound integration for your editing workflow."
+        },
+        {
             "path": "pandasoli/nekovim",
             "owner": "pandasoli",
             "name": "nekovim",
