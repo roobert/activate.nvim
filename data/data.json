@@ -3931,6 +3931,14 @@
     ],
     "Colorscheme Switchers": [
         {
+            "path": "itsfernn/auto-gnome-theme.nvim",
+            "owner": "itsfernn",
+            "name": "auto-gnome-theme.nvim",
+            "config": "auto_gnome_theme_nvim.lua",
+            "url": "https://github.com/itsfernn/auto-gnome-theme.nvim",
+            "description": "Fast colorscheme switcher following GNOME system's light/dark mode (based on `gsetting monitor`)."
+        },
+        {
             "path": "flashcodes-themayankjha/fkthemes.nvim",
             "owner": "flashcodes-themayankjha",
             "name": "fkthemes.nvim",
