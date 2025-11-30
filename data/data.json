@@ -81,6 +81,14 @@
             "description": "A stupidly simple way to quickly install plugins."
         },
         {
+            "path": "synapse.nvim",
+            "owner": "",
+            "name": "synapse.nvim",
+            "config": "synapse_nvim.lua",
+            "url": "https://github.com/OriginCoderPulse/synapse.nvim",
+            "description": "A modern, lightweight plugin manager with beautiful UI, intelligent dependency management, tag/branch support, and post-install command execution."
+        },
+        {
             "path": "romus204/referencer.nvim",
             "owner": "romus204",
             "name": "referencer.nvim",
@@ -1689,6 +1697,14 @@
             "config": "taal_nvim.lua",
             "url": "https://github.com/bennorichters/taal.nvim",
             "description": "Improve grammar and spelling errors in multiple languages using LLMs."
+        },
+        {
+            "path": "walkersumida/deepl.nvim",
+            "owner": "walkersumida",
+            "name": "deepl.nvim",
+            "config": "deepl_nvim.lua",
+            "url": "https://github.com/walkersumida/deepl.nvim",
+            "description": "Translates text using the DeepL API with multiple output modes (float, replace, append)."
         },
         {
             "path": "nvim-treesitter/nvim-treesitter",
