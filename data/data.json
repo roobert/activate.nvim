@@ -3851,6 +3851,14 @@
             "config": "gruvbox_nvim.lua",
             "url": "https://gitlab.com/motaz-shokry/gruvbox.nvim",
             "description": "A new gruvbox theme with a different background color for the hard variant, and comes with 4 variants."
+        },
+        {
+            "path": "pebeto/dookie.nvim",
+            "owner": "pebeto",
+            "name": "dookie.nvim",
+            "config": "dookie_nvim.lua",
+            "url": "https://github.com/pebeto/dookie.nvim",
+            "description": "A color scheme inspired by Plan9's acme editor."
         }
     ],
     "Lua Colorscheme": [
