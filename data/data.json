@@ -1361,6 +1361,14 @@
             "config": "nvim_httpyac.lua",
             "url": "https://github.com/abidibo/nvim-httpyac",
             "description": "Provides integration with `httpYac`."
+        },
+        {
+            "path": "rodrigoscc/nurl.nvim",
+            "owner": "rodrigoscc",
+            "name": "nurl.nvim",
+            "config": "nurl_nvim.lua",
+            "url": "https://github.com/rodrigoscc/nurl.nvim",
+            "description": "HTTP client with requests defined in pure Lua."
         }
     ],
     "Markdown and LaTeX": [
