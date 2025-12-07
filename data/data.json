@@ -1715,6 +1715,14 @@
             "description": "Translates text using the DeepL API with multiple output modes (float, replace, append)."
         },
         {
+            "path": "acidsugarx/babel.nvim",
+            "owner": "acidsugarx",
+            "name": "babel.nvim",
+            "config": "babel_nvim.lua",
+            "url": "https://github.com/acidsugarx/babel.nvim",
+            "description": "Translate text using Google Translate with async support, float display, and multi-picker integration."
+        },
+        {
             "path": "nvim-treesitter/nvim-treesitter",
             "owner": "nvim-treesitter",
             "name": "nvim-treesitter",
