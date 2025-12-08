@@ -8553,6 +8553,14 @@
             "description": "Helix-like command line with fuzzy autocompletion."
         },
         {
+            "path": "nvim-mini/mini.nvim#mini.cmdline",
+            "owner": "nvim-mini",
+            "name": "mini.cmdline",
+            "config": "mini_cmdline.lua",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-cmdline.md",
+            "description": "Module of `mini.nvim` for command line tweaks. Adds autocompletion with customizable delay, autocorrection for words with fixed candidates, and autopeek command range in a floating window."
+        },
+        {
             "path": "rmagatti/auto-session",
             "owner": "rmagatti",
             "name": "auto-session",
