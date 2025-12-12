@@ -4521,11 +4521,11 @@
             "description": "Seamless sound integration for your editing workflow."
         },
         {
-            "path": "pandasoli/nekovim",
-            "owner": "pandasoli",
+            "path": "~elisoli/nekovim",
+            "owner": "~elisoli",
             "name": "nekovim",
             "config": "nekovim.lua",
-            "url": "https://github.com/pandasoli/nekovim",
+            "url": "https://git.sr.ht/~elisoli/nekovim",
             "description": "Flexible Discord rich presence."
         },
         {
