@@ -5703,6 +5703,14 @@
             "config": "pomodoro_nvim.lua",
             "url": "https://github.com/QuentinGruber/pomodoro.nvim",
             "description": "Use the Pomodoro Technique with built-in session tracking and break reminders."
+        },
+        {
+            "path": "leo-alvarenga/quoth.nvim",
+            "owner": "leo-alvarenga",
+            "name": "quoth.nvim",
+            "config": "quoth_nvim.lua",
+            "url": "https://github.com/leo-alvarenga/quoth.nvim",
+            "description": "A lightweight, configurable random quote provider with lazy loading, custom tables, and filters."
         }
     ],
     "CSV Files": [
@@ -6137,6 +6145,14 @@
             "config": "nvim_dap_envfile.lua",
             "url": "https://github.com/ravsii/nvim-dap-envfile",
             "description": "Automatic `envFile` support for nvim-dap."
+        },
+        {
+            "path": "fschaal/azfunc.nvim",
+            "owner": "fschaal",
+            "name": "azfunc.nvim",
+            "config": "azfunc_nvim.lua",
+            "url": "https://github.com/fschaal/azfunc.nvim",
+            "description": "Seamlessly debug Azure Functions with automatic DAP integration."
         }
     ],
     "Quickfix": [
