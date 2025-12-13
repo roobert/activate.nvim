@@ -5377,14 +5377,6 @@
             "description": "Interact with iOS Simulators."
         },
         {
-            "path": "pluffie/md-babel.nvim",
-            "owner": "pluffie",
-            "name": "md-babel.nvim",
-            "config": "md_babel_nvim.lua",
-            "url": "https://codeberg.org/pluffie/md-babel.nvim",
-            "description": "Run code chunks from Markdown files, like `org-babel`."
-        },
-        {
             "path": "mistricky/codesnap.nvim",
             "owner": "mistricky",
             "name": "codesnap.nvim",
@@ -6785,7 +6777,7 @@
             "owner": "JesperLundberg",
             "name": "projektgunnar.nvim",
             "config": "projektgunnar_nvim.lua",
-            "url": "https://github.com/JesperLundberg/projektgunnar",
+            "url": "https://github.com/JesperLundberg/projektgunnar.nvim",
             "description": "C# dependency manager with support for handling references between projects and solution files."
         },
         {
