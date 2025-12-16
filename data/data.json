@@ -4857,6 +4857,22 @@
             "description": "Simple and improved Markdown note taking."
         },
         {
+            "path": "nbeversl/urtext_neovim",
+            "owner": "nbeversl",
+            "name": "urtext_neovim",
+            "config": "urtext_neovim.lua",
+            "url": "https://github.com/nbeversl/urtext_neovim",
+            "description": "An implementation of Urtext."
+        },
+        {
+            "path": "necrom4/calcium.nvim",
+            "owner": "necrom4",
+            "name": "calcium.nvim",
+            "config": "calcium_nvim.lua",
+            "url": "https://github.com/necrom4/calcium.nvim",
+            "description": "A powerful [`lua-lib-math`](https://www.lua.org/pil/18.html) in-buffer calculator with visual mode, functions and variable support."
+        },
+        {
             "path": "necrom4/convy.nvim",
             "owner": "necrom4",
             "name": "convy.nvim",
