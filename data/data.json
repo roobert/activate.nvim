@@ -3061,14 +3061,6 @@
             "description": "Clean & Elegant Color Scheme inspired by Atom One and Material."
         },
         {
-            "path": "theniceboy/nvim-deus",
-            "owner": "theniceboy",
-            "name": "nvim-deus",
-            "config": "nvim_deus.lua",
-            "url": "https://github.com/theniceboy/nvim-deus",
-            "description": "Vim-deus with Tree-sitter support."
-        },
-        {
             "path": "bkegley/gloombuddy",
             "owner": "bkegley",
             "name": "gloombuddy",
