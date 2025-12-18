@@ -3377,8 +3377,8 @@
             "owner": "nvim-mini",
             "name": "mini.nvim#colorschemes",
             "config": "mini_nvim#colorschemes.lua",
-            "url": "https://github.com/nvim-mini/mini.nvim#plugin-colorschemes",
-            "description": "Color schemes included in `mini.nvim` plugin. All of them prioritize high contrast ratio for reading text and computing palettes in perceptually uniform color spaces."
+            "url": "https://github.com/nvim-mini/mini.nvim#plugin-color-schemes",
+            "description": "Color schemes included in `mini.nvim`. All of them prioritize high contrast ratio for reading text and computing palettes in perceptually uniform color spaces."
         },
         {
             "path": "luisiacc/gruvbox-baby",
@@ -3619,14 +3619,6 @@
             "config": "night_owl_nvim.lua",
             "url": "https://github.com/oxfist/night-owl.nvim",
             "description": "A [Night Owl colorscheme port from VSCode](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens."
-        },
-        {
-            "path": "svermeulen/text-to-colorscheme",
-            "owner": "svermeulen",
-            "name": "text-to-colorscheme",
-            "config": "text_to_colorscheme.lua",
-            "url": "https://github.com/svermeulen/text-to-colorscheme",
-            "description": "Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT."
         },
         {
             "path": "miikanissi/modus-themes.nvim",
@@ -3951,6 +3943,14 @@
             "config": "polychrome_nvim.lua",
             "url": "https://github.com/loganswartz/polychrome.nvim",
             "description": "A colorscheme micro-framework, with support for specifying colors directly in many different formats (sRGB, HSL, Oklab, XYZ and more, with intelligent chroma clipping), live editing preview, and a simple DSL."
+        },
+        {
+            "path": "svermeulen/text-to-colorscheme",
+            "owner": "svermeulen",
+            "name": "text-to-colorscheme",
+            "config": "text_to_colorscheme.lua",
+            "url": "https://github.com/svermeulen/text-to-colorscheme",
+            "description": "Allows the user to generate colorschemes with a text prompt using OpenAI's GPT API."
         }
     ],
     "Colorscheme Switchers": [
