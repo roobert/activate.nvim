@@ -6493,6 +6493,14 @@
             "description": "Run Python code, execute Jupyter cells, debug, and explore variables."
         },
         {
+            "path": "wsdjeg/code-runner.nvim",
+            "owner": "wsdjeg",
+            "name": "code-runner.nvim",
+            "config": "code_runner_nvim.lua",
+            "url": "https://github.com/wsdjeg/code-runner.nvim",
+            "description": "Async code runner with range support."
+        },
+        {
             "path": "folke/lazydev.nvim",
             "owner": "folke",
             "name": "lazydev.nvim",
