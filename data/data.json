@@ -2707,6 +2707,14 @@
             "description": "Change working directory to project root."
         },
         {
+            "path": "mrjones2014/codesettings.nvim",
+            "owner": "mrjones2014",
+            "name": "codesettings.nvim",
+            "config": "codesettings_nvim.lua",
+            "url": "https://github.com/mrjones2014/codesettings.nvim",
+            "description": "Load project-local settings (like `.vscode/settings.json`) into Neovim 0.11+ native LSP settings easily."
+        },
+        {
             "path": "catgoose/nvim-colorizer.lua",
             "owner": "catgoose",
             "name": "nvim-colorizer.lua",
@@ -3123,14 +3131,6 @@
             "config": "melange_nvim.lua",
             "url": "https://github.com/savq/melange-nvim",
             "description": "Warm colorscheme written in Lua with support for various terminal emulators."
-        },
-        {
-            "path": "RRethy/base16-nvim",
-            "owner": "RRethy",
-            "name": "base16-nvim",
-            "config": "base16_nvim.lua",
-            "url": "https://github.com/RRethy/base16-nvim",
-            "description": "Neovim plugin for building base16 colorschemes. Includes support for Tree-sitter and LSP highlight groups."
         },
         {
             "path": "fenetikm/falcon",
@@ -4041,6 +4041,14 @@
             "config": "theme_hub_nvim.lua",
             "url": "https://github.com/Erl-koenig/theme-hub.nvim",
             "description": "Manage and install colorschemes via telescope-pickers."
+        },
+        {
+            "path": "RRethy/base16-nvim",
+            "owner": "RRethy",
+            "name": "base16-nvim",
+            "config": "base16_nvim.lua",
+            "url": "https://github.com/RRethy/base16-nvim",
+            "description": "A base16 colorscheme builder. Includes support for Tree-sitter and LSP highlight groups."
         },
         {
             "path": "Bekaboo/deadcolumn.nvim",
