@@ -738,7 +738,7 @@
             "name": "model.nvim",
             "config": "model_nvim.lua",
             "url": "https://github.com/gsuuon/model.nvim",
-            "description": "Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp."
+            "description": "Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), `PaLM`, `Hugging Face`, and local engines like `llamacpp`."
         },
         {
             "path": "dense-analysis/neural",
@@ -754,7 +754,7 @@
             "name": "nvim-llama",
             "config": "nvim_llama.lua",
             "url": "https://github.com/jpmcb/nvim-llama",
-            "description": "LLM (Llama 2 and llama.cpp) wrappers."
+            "description": "LLM (LLaMA 2 and `llama.cpp`) wrappers."
         },
         {
             "path": "David-Kunz/gen.nvim",
@@ -1288,7 +1288,7 @@
             "name": "tailwind-tools.nvim",
             "config": "tailwind_tools_nvim.lua",
             "url": "https://github.com/luckasRanarison/tailwind-tools.nvim",
-            "description": "Unofficial TailwindCSS tooling."
+            "description": "Unofficial Tailwind CSS tooling."
         },
         {
             "path": "farias-hecdin/CSSVarViewer",
@@ -2392,7 +2392,7 @@
             "name": "fff.nvim",
             "config": "fff_nvim.lua",
             "url": "https://github.com/dmtrKovalenko/fff.nvim",
-            "description": "Fuzzy file picker with a standalone native implementation of file indexing and typo resistant fuzzy matcher. Includes all the QOL features, file previews (and images), frecency sorting, last query matching, proximity, git status bonuses and much more."
+            "description": "Fuzzy file picker with a standalone native implementation of file indexing and typo resistant fuzzy matcher. Includes all the QOL features, file previews (and images), frecency sorting, last query matching, proximity, Git status bonuses and much more."
         },
         {
             "path": "wsdjeg/picker.nvim",
@@ -5370,7 +5370,7 @@
             "name": "neopyter",
             "config": "neopyter.lua",
             "url": "https://github.com/SUSTech-data/neopyter",
-            "description": "The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab."
+            "description": "The bridge between Neovim and Jupyter lab, edit in Neovim and preview/run in Jupyter Lab."
         },
         {
             "path": "terje/simctl.nvim",
@@ -6124,7 +6124,7 @@
             "name": "visidata.nvim",
             "config": "visidata_nvim.lua",
             "url": "https://github.com/Willem-J-an/visidata.nvim",
-            "description": "Render pandas dataframes in nvim-dap using the power of visidata."
+            "description": "Render Pandas dataframes in `nvim-dap` using the power of visidata."
         },
         {
             "path": "igorlfs/nvim-dap-view",
@@ -6270,7 +6270,7 @@
             "name": "neotest-jest",
             "config": "neotest_jest.lua",
             "url": "https://github.com/nvim-neotest/neotest-jest",
-            "description": "Neotest adapter for running jest tests."
+            "description": "Neotest adapter for running Jest tests."
         },
         {
             "path": "MisanthropicBit/neotest-busted",
@@ -6438,7 +6438,7 @@
             "name": "molten-nvim",
             "config": "molten_nvim.lua",
             "url": "https://github.com/benlubas/molten-nvim",
-            "description": "Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code."
+            "description": "Enables running code chunks via the Jupyter kernel. Output (including image output) is rendered in a floating window below the code."
         },
         {
             "path": "pianocomposer321/officer.nvim",
@@ -6814,7 +6814,7 @@
             "name": "telescope-git-branch.nvim",
             "config": "telescope_git_branch_nvim.lua",
             "url": "https://github.com/mrloop/telescope-git-branch.nvim",
-            "description": "A telescope picker to find which files and preview what changes have been made to your git branch across multiple commits."
+            "description": "A telescope picker to find which files and preview what changes have been made to your Git branch across multiple commits."
         },
         {
             "path": "f-person/git-blame.nvim",
@@ -6958,7 +6958,7 @@
             "name": "telescope-git-file-history.nvim",
             "config": "telescope_git_file_history_nvim.lua",
             "url": "https://github.com/isak102/telescope-git-file-history.nvim",
-            "description": "Open/preview contents of the current file at a specific commit, without using git checkout."
+            "description": "Open/preview contents of the current file at a specific commit, without using `git checkout`."
         },
         {
             "path": "moyiz/git-dev.nvim",
@@ -7022,7 +7022,7 @@
             "name": "csc.nvim",
             "config": "csc_nvim.lua",
             "url": "https://github.com/yus-works/csc.nvim",
-            "description": "Conventional commit scope completion that learns from git history."
+            "description": "Conventional commit scope completion that learns from Git history."
         },
         {
             "path": "404pilo/aicommits.nvim",
@@ -7038,7 +7038,7 @@
             "name": "git.nvim",
             "config": "git_nvim.lua",
             "url": "https://github.com/wsdjeg/git.nvim",
-            "description": "An asynchronous git command wrapper plugin, using `:Git` command instead of `:!git`."
+            "description": "An asynchronous Git command wrapper plugin, using `:Git` command instead of `:!git`."
         },
         {
             "path": "Mauritz8/gitstatus.nvim",
@@ -7250,7 +7250,7 @@
             "name": "tabout.nvim",
             "config": "tabout_nvim.lua",
             "url": "https://github.com/abecodes/tabout.nvim",
-            "description": "Jump out of brackets, quotes, objects, etc."
+            "description": "Jump out of bracket pairs, quotes, objects, etc."
         },
         {
             "path": "woosaaahh/sj.nvim",
@@ -7338,7 +7338,7 @@
             "name": "neovimacs.nvim",
             "config": "neovimacs_nvim.lua",
             "url": "https://github.com/millerjason/neovimacs.nvim",
-            "description": "Provides emacs movement and buffer keybindings while in insert mode."
+            "description": "Provides Emacs movement and buffer keybindings while in insert mode."
         }
     ],
     "Tree-sitter Based": [
@@ -8344,7 +8344,7 @@
             "name": "neoformat",
             "config": "neoformat.lua",
             "url": "https://github.com/sbdchd/neoformat",
-            "description": "A (Neo)vim plugin for formatting code."
+            "description": "A code formatting runner."
         },
         {
             "path": "cappyzawa/trim.nvim",
@@ -8682,7 +8682,7 @@
             "name": "nvim-remote-containers",
             "config": "nvim_remote_containers.lua",
             "url": "https://github.com/jamestthompson3/nvim-remote-containers",
-            "description": "Develop inside docker containers, just like VSCode."
+            "description": "Develop inside Docker containers, just like VSCode."
         },
         {
             "path": "esensar/nvim-dev-container",
@@ -8956,7 +8956,7 @@
             "name": "nvim-tetris",
             "config": "nvim_tetris.lua",
             "url": "https://github.com/alec-gibson/nvim-tetris",
-            "description": "Bringing emacs' greatest feature to Neovim - Tetris!."
+            "description": "Bringing Emacs' greatest feature to Neovim - Tetris!."
         },
         {
             "path": "seandewar/nvimesweeper",
@@ -9532,7 +9532,7 @@
             "name": "Dotfyle",
             "config": "Dotfyle.lua",
             "url": "https://dotfyle.com",
-            "description": "Dotfyle is a site for sharing and discovering Neovim configs and plugins."
+            "description": "A site for sharing and discovering Neovim configs and plugins."
         },
         {
             "path": "NeoLand",
