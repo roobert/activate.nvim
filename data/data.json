@@ -693,6 +693,14 @@
             "description": "A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism."
         },
         {
+            "path": "carlos-algms/agentic.nvim",
+            "owner": "carlos-algms",
+            "name": "agentic.nvim",
+            "config": "agentic_nvim.lua",
+            "url": "https://github.com/carlos-algms/agentic.nvim",
+            "description": "Chat interface for AI ACP providers such as Claude, Gemini, Codex, OpenCode and Cursor."
+        },
+        {
             "path": "blob42/codegpt-ng.nvim",
             "owner": "blob42",
             "name": "codegpt-ng.nvim",
