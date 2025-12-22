@@ -7063,6 +7063,14 @@
             "config": "vscode_diff_nvim.lua",
             "url": "https://github.com/esmuellert/vscode-diff.nvim",
             "description": "VSCode-style side-by-side diff with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C."
+        },
+        {
+            "path": "ajatdarojat45/commitmate.nvim",
+            "owner": "ajatdarojat45",
+            "name": "commitmate.nvim",
+            "config": "commitmate_nvim.lua",
+            "url": "https://github.com/ajatdarojat45/commitmate.nvim",
+            "description": "An AI-assisted commit message generator following common commit conventions."
         }
     ],
     "GitHub": [
