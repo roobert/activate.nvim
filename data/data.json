@@ -89,6 +89,14 @@
             "description": "A modern, lightweight plugin manager with beautiful UI, intelligent dependency management, tag/branch support, and post-install command execution."
         },
         {
+            "path": "zuqini/zpack.nvim",
+            "owner": "zuqini",
+            "name": "zpack.nvim",
+            "config": "zpack_nvim.lua",
+            "url": "https://github.com/zuqini/zpack.nvim",
+            "description": "A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec."
+        },
+        {
             "path": "romus204/referencer.nvim",
             "owner": "romus204",
             "name": "referencer.nvim",
