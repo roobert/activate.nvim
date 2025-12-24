@@ -8883,6 +8883,14 @@
             "config": "windowcolumns_nvim.lua",
             "url": "https://github.com/mkajsjo/windowcolumns.nvim",
             "description": "Column-first window management."
+        },
+        {
+            "path": "wsdjeg/bufdel.nvim",
+            "owner": "wsdjeg",
+            "name": "bufdel.nvim",
+            "config": "bufdel_nvim.lua",
+            "url": "https://github.com/wsdjeg/bufdel.nvim",
+            "description": "Delete buffers without changing windows layout."
         }
     ],
     "Tmux": [
