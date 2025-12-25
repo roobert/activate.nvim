@@ -4885,6 +4885,14 @@
             "description": "An implementation of Urtext."
         },
         {
+            "path": "losch/ztl",
+            "owner": "losch",
+            "name": "ztl",
+            "config": "ztl.lua",
+            "url": "https://codeberg.org/losch/ztl",
+            "description": "A fast static note generator in a single binary with everything built-in."
+        },
+        {
             "path": "necrom4/calcium.nvim",
             "owner": "necrom4",
             "name": "calcium.nvim",
@@ -9103,6 +9111,14 @@
             "config": "exercism_nvim.lua",
             "url": "https://github.com/2KAbhishek/exercism.nvim",
             "description": "Browse and solve Exercism problems."
+        },
+        {
+            "path": "kuri-sun/comment-graph.nvim",
+            "owner": "kuri-sun",
+            "name": "comment-graph.nvim",
+            "config": "comment_graph_nvim.lua",
+            "url": "https://github.com/kuri-sun/comment-graph.nvim",
+            "description": "Integration with [comment-graph](https://github.com/kuri-sun/comment-graph) that makes your codebase traceable at a glance."
         },
         {
             "path": "letieu/jira.nvim",
