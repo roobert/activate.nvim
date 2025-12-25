@@ -9105,6 +9105,14 @@
             "description": "Browse and solve Exercism problems."
         },
         {
+            "path": "letieu/jira.nvim",
+            "owner": "letieu",
+            "name": "jira.nvim",
+            "config": "jira_nvim.lua",
+            "url": "https://github.com/letieu/jira.nvim",
+            "description": "Manage Jira tasks with a beautiful UI."
+        },
+        {
             "path": "m4xshen/hardtime.nvim",
             "owner": "m4xshen",
             "name": "hardtime.nvim",
