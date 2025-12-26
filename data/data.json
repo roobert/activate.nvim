@@ -1241,14 +1241,6 @@
     ],
     "YAML": [
         {
-            "path": "someone-stole-my-name/yaml-companion.nvim",
-            "owner": "someone-stole-my-name",
-            "name": "yaml-companion.nvim",
-            "config": "yaml_companion_nvim.lua",
-            "url": "https://github.com/someone-stole-my-name/yaml-companion.nvim",
-            "description": "Get, set and autodetect YAML schemas in your buffers."
-        },
-        {
             "path": "cuducos/yaml.nvim",
             "owner": "cuducos",
             "name": "yaml.nvim",
