@@ -41,11 +41,11 @@
             "description": "Plugins discovery tool with hourly updated database, and one-key installation for `lazy.nvim` and `vim.pack`."
         },
         {
-            "path": "nvim-neorocks/rocks.nvim",
-            "owner": "nvim-neorocks",
+            "path": "lumen-oss/rocks.nvim",
+            "owner": "lumen-oss",
             "name": "rocks.nvim",
             "config": "rocks_nvim.lua",
-            "url": "https://github.com/nvim-neorocks/rocks.nvim",
+            "url": "https://github.com/lumen-oss/rocks.nvim",
             "description": "A modern approach to plugin management using Luarocks, inspired by Cargo."
         },
         {
@@ -63,14 +63,6 @@
             "config": "nvim_plug.lua",
             "url": "https://github.com/wsdjeg/nvim-plug",
             "description": "Asynchronous Neovim plugin manager written in Lua."
-        },
-        {
-            "path": "alyxshang/nuwa.nvim",
-            "owner": "alyxshang",
-            "name": "nuwa.nvim",
-            "config": "nuwa_nvim.lua",
-            "url": "https://github.com/alyxshang/nuwa.nvim",
-            "description": "A light Neovim package manager."
         },
         {
             "path": "piersolenski/plugin-addict.nvim",
@@ -595,11 +587,11 @@
     ],
     "LSP Installer": [
         {
-            "path": "williamboman/mason.nvim",
-            "owner": "williamboman",
+            "path": "mason-org/mason.nvim",
+            "owner": "mason-org",
             "name": "mason.nvim",
             "config": "mason_nvim.lua",
-            "url": "https://github.com/williamboman/mason.nvim",
+            "url": "https://github.com/mason-org/mason.nvim",
             "description": "Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters."
         }
     ],
@@ -3003,11 +2995,11 @@
             "description": "**_`[TS][LSP][L/D][Lua]`_** A clean, dark and light Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins."
         },
         {
-            "path": "comfysage/evergarden",
-            "owner": "comfysage",
-            "name": "evergarden",
-            "config": "evergarden.lua",
-            "url": "https://github.com/comfysage/evergarden",
+            "path": "everviolet/nvim",
+            "owner": "everviolet",
+            "name": "nvim",
+            "config": "nvim.lua",
+            "url": "https://github.com/everviolet/nvim",
             "description": "**_`[TS][LSP][L/D][Lua]`_** A comfy Neovim colorscheme for cozy morning coding."
         },
         {
@@ -6545,11 +6537,11 @@
             "description": "Faster LuaLS setup."
         },
         {
-            "path": "nvim-neorocks/luarocks-tag-release",
-            "owner": "nvim-neorocks",
+            "path": "lumen-oss/luarocks-tag-release",
+            "owner": "lumen-oss",
             "name": "luarocks-tag-release",
             "config": "luarocks_tag_release.lua",
-            "url": "https://github.com/nvim-neorocks/luarocks-tag-release",
+            "url": "https://github.com/lumen-oss/luarocks-tag-release",
             "description": "A GitHub action that publishes your Neovim plugins to LuaRocks."
         },
         {
