@@ -5731,6 +5731,14 @@
             "config": "quoth_nvim.lua",
             "url": "https://github.com/leo-alvarenga/quoth.nvim",
             "description": "A lightweight, configurable random quote provider with lazy loading, custom tables, and filters."
+        },
+        {
+            "path": "stikypiston/cheaty.nvim",
+            "owner": "stikypiston",
+            "name": "cheaty.nvim",
+            "config": "cheaty_nvim.lua",
+            "url": "https://github.com/stikypiston/cheaty.nvim",
+            "description": "A simple, configurable cheatsheet."
         }
     ],
     "CSV Files": [
