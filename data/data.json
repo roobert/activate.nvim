@@ -73,8 +73,8 @@
             "description": "A stupidly simple way to quickly install plugins."
         },
         {
-            "path": "synapse.nvim",
-            "owner": "",
+            "path": "OriginCoderPulse/synapse.nvim",
+            "owner": "OriginCoderPulse",
             "name": "synapse.nvim",
             "config": "synapse_nvim.lua",
             "url": "https://github.com/OriginCoderPulse/synapse.nvim",
