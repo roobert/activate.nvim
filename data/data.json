@@ -3873,6 +3873,14 @@
             "config": "cobalt2_nvim.lua",
             "url": "https://github.com/lalitmee/cobalt2.nvim",
             "description": "**_`[Lua]`_** A port of cobalt2 colorscheme using colorbuddy."
+        },
+        {
+            "path": "dybdeskarphet/gruvbox-minimal.nvim",
+            "owner": "dybdeskarphet",
+            "name": "gruvbox-minimal.nvim",
+            "config": "gruvbox_minimal_nvim.lua",
+            "url": "https://github.com/dybdeskarphet/gruvbox-minimal.nvim",
+            "description": "**_`[TS][L/D][Lua]`_** A Gruvbox Material theme conceptually inspired by Alabaster."
         }
     ],
     "Colorscheme Creation": [
