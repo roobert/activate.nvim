@@ -965,6 +965,14 @@
             "description": "Shows the token count for the current buffer, with integrations for Lualine and NeoTree."
         },
         {
+            "path": "nishu-murmu/cursor-inline",
+            "owner": "nishu-murmu",
+            "name": "cursor-inline",
+            "config": "cursor_inline.lua",
+            "url": "https://github.com/nishu-murmu/cursor-inline",
+            "description": "Cursor-style inline AI editing. Select code, describe the change, and get an inline, highlighted edit you can accept or reject\u2014similar to Cursor inline workflow."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
@@ -4883,6 +4891,14 @@
             "config": "ztl.lua",
             "url": "https://codeberg.org/losch/ztl",
             "description": "A fast static note generator in a single binary with everything built-in."
+        },
+        {
+            "path": "stikypiston/studytools.nvim",
+            "owner": "stikypiston",
+            "name": "studytools.nvim",
+            "config": "studytools_nvim.lua",
+            "url": "https://github.com/stikypiston/studytools.nvim",
+            "description": "Various utilities to enhance the studying and note-taking experience."
         },
         {
             "path": "necrom4/calcium.nvim",
