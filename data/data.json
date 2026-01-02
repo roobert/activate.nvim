@@ -3783,7 +3783,7 @@
             "owner": "m15a",
             "name": "nvim-srcerite",
             "config": "nvim_srcerite.lua",
-            "url": "https://github.com/m15a/nvim-srcerite",
+            "url": "https://codeberg.org/m15a/nvim-srcerite",
             "description": "**_`[TS][Lua]`_** A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`."
         },
         {
@@ -9127,14 +9127,6 @@
             "config": "exercism_nvim.lua",
             "url": "https://github.com/2KAbhishek/exercism.nvim",
             "description": "Browse and solve Exercism problems."
-        },
-        {
-            "path": "kuri-sun/comment-graph.nvim",
-            "owner": "kuri-sun",
-            "name": "comment-graph.nvim",
-            "config": "comment_graph_nvim.lua",
-            "url": "https://github.com/kuri-sun/comment-graph.nvim",
-            "description": "Integration with [comment-graph](https://github.com/kuri-sun/comment-graph) that makes your codebase traceable at a glance."
         },
         {
             "path": "letieu/jira.nvim",
