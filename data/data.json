@@ -2731,6 +2731,134 @@
             "description": "Easily load project-local settings (like `.vscode/settings.json`) into Neovim 0.11+ native LSP settings."
         },
         {
+            "path": "dzfrias/arena.nvim",
+            "owner": "dzfrias",
+            "name": "arena.nvim",
+            "config": "arena_nvim.lua",
+            "url": "https://github.com/dzfrias/arena.nvim",
+            "description": "A smart (frecency-based) buffer switcher."
+        },
+        {
+            "path": "backdround/tabscope.nvim",
+            "owner": "backdround",
+            "name": "tabscope.nvim",
+            "config": "tabscope_nvim.lua",
+            "url": "https://github.com/backdround/tabscope.nvim",
+            "description": "Make tab-local buffers."
+        },
+        {
+            "path": "j-morano/buffer_manager.nvim",
+            "owner": "j-morano",
+            "name": "buffer_manager.nvim",
+            "config": "buffer_manager_nvim.lua",
+            "url": "https://github.com/j-morano/buffer_manager.nvim",
+            "description": "Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window."
+        },
+        {
+            "path": "kazhala/close-buffers.nvim",
+            "owner": "kazhala",
+            "name": "close-buffers.nvim",
+            "config": "close_buffers_nvim.lua",
+            "url": "https://github.com/kazhala/close-buffers.nvim",
+            "description": "Delete multiple Vim buffers based on different conditions."
+        },
+        {
+            "path": "sQVe/bufignore.nvim",
+            "owner": "sQVe",
+            "name": "bufignore.nvim",
+            "config": "bufignore_nvim.lua",
+            "url": "https://github.com/sQVe/bufignore.nvim",
+            "description": "Unlist hidden buffers matching specified ignore sources."
+        },
+        {
+            "path": "rgroli/other.nvim",
+            "owner": "rgroli",
+            "name": "other.nvim",
+            "config": "other_nvim.lua",
+            "url": "https://github.com/rgroli/other.nvim",
+            "description": "Open alternative files for the current buffer."
+        },
+        {
+            "path": "chrisgrieser/nvim-early-retirement",
+            "owner": "chrisgrieser",
+            "name": "nvim-early-retirement",
+            "config": "nvim_early_retirement.lua",
+            "url": "https://github.com/chrisgrieser/nvim-early-retirement",
+            "description": "Send buffers into early retirement by automatically closing them after x minutes of inactivity."
+        },
+        {
+            "path": "axkirillov/hbac.nvim",
+            "owner": "axkirillov",
+            "name": "hbac.nvim",
+            "config": "hbac_nvim.lua",
+            "url": "https://github.com/axkirillov/hbac.nvim",
+            "description": "Automatically close buffers you are not working on."
+        },
+        {
+            "path": "ChuufMaster/buffer-vacuum",
+            "owner": "ChuufMaster",
+            "name": "buffer-vacuum",
+            "config": "buffer_vacuum.lua",
+            "url": "https://github.com/ChuufMaster/buffer-vacuum",
+            "description": "Set a maximum number of buffers to keep open and intelligently delete the oldest buffers over the maximum."
+        },
+        {
+            "path": "mong8se/buffish.nvim",
+            "owner": "mong8se",
+            "name": "buffish.nvim",
+            "config": "buffish_nvim.lua",
+            "url": "https://github.com/mong8se/buffish.nvim",
+            "description": "A buffer switcher in the spirit of dirvish or vinegar."
+        },
+        {
+            "path": "BibekBhusal0/bufstack.nvim",
+            "owner": "BibekBhusal0",
+            "name": "bufstack.nvim",
+            "config": "bufstack_nvim.lua",
+            "url": "https://github.com/BibekBhusal0/bufstack.nvim",
+            "description": "Track recently visited buffers and reopen recently closed buffers."
+        },
+        {
+            "path": "francescarpi/buffon.nvim",
+            "owner": "francescarpi",
+            "name": "buffon.nvim",
+            "config": "buffon_nvim.lua",
+            "url": "https://github.com/francescarpi/buffon.nvim",
+            "description": "Buffers navigation, reorganize and close."
+        },
+        {
+            "path": "ahkohd/buffer-sticks.nvim",
+            "owner": "ahkohd",
+            "name": "buffer-sticks.nvim",
+            "config": "buffer_sticks_nvim.lua",
+            "url": "https://github.com/ahkohd/buffer-sticks.nvim",
+            "description": "Cosmetic buffers indicator & picker."
+        },
+        {
+            "path": "famiu/bufdelete.nvim",
+            "owner": "famiu",
+            "name": "bufdelete.nvim",
+            "config": "bufdelete_nvim.lua",
+            "url": "https://github.com/famiu/bufdelete.nvim",
+            "description": "Delete buffers without losing your window layout."
+        },
+        {
+            "path": "wsdjeg/bufdel.nvim",
+            "owner": "wsdjeg",
+            "name": "bufdel.nvim",
+            "config": "bufdel_nvim.lua",
+            "url": "https://github.com/wsdjeg/bufdel.nvim",
+            "description": "Delete buffers without changing windows layout."
+        },
+        {
+            "path": "m-demare/attempt.nvim",
+            "owner": "m-demare",
+            "name": "attempt.nvim",
+            "config": "attempt_nvim.lua",
+            "url": "https://github.com/m-demare/attempt.nvim",
+            "description": "Manage and run temporary buffers."
+        },
+        {
             "path": "catgoose/nvim-colorizer.lua",
             "owner": "catgoose",
             "name": "nvim-colorizer.lua",
@@ -4909,62 +5037,6 @@
             "description": "A powerful [`lua-lib-math`](https://www.lua.org/pil/18.html) in-buffer calculator with visual mode, functions and variable support."
         },
         {
-            "path": "necrom4/convy.nvim",
-            "owner": "necrom4",
-            "name": "convy.nvim",
-            "config": "convy_nvim.lua",
-            "url": "https://github.com/necrom4/convy.nvim",
-            "description": "Easily convert strings between various formats."
-        },
-        {
-            "path": "gisketch/triforce.nvim",
-            "owner": "gisketch",
-            "name": "triforce.nvim",
-            "config": "triforce_nvim.lua",
-            "url": "https://github.com/gisketch/triforce.nvim",
-            "description": "Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration."
-        },
-        {
-            "path": "gaborvecsei/usage-tracker.nvim",
-            "owner": "gaborvecsei",
-            "name": "usage-tracker.nvim",
-            "config": "usage_tracker_nvim.lua",
-            "url": "https://github.com/gaborvecsei/usage-tracker.nvim",
-            "description": "Track your Neovim usage and visualize statistics easily."
-        },
-        {
-            "path": "mateuszwieloch/automkdir.nvim",
-            "owner": "mateuszwieloch",
-            "name": "automkdir.nvim",
-            "config": "automkdir_nvim.lua",
-            "url": "https://github.com/mateuszwieloch/automkdir.nvim",
-            "description": "Automatically create non-existent parent directories when writing a file."
-        },
-        {
-            "path": "jghauser/mkdir.nvim",
-            "owner": "jghauser",
-            "name": "mkdir.nvim",
-            "config": "mkdir_nvim.lua",
-            "url": "https://github.com/jghauser/mkdir.nvim",
-            "description": "Automatically create missing directories when saving files."
-        },
-        {
-            "path": "matbme/JABS.nvim",
-            "owner": "matbme",
-            "name": "JABS.nvim",
-            "config": "JABS_nvim.lua",
-            "url": "https://github.com/matbme/JABS.nvim",
-            "description": "Pretty and minimal buffer switcher window."
-        },
-        {
-            "path": "j-morano/buffer_manager.nvim",
-            "owner": "j-morano",
-            "name": "buffer_manager.nvim",
-            "config": "buffer_manager_nvim.lua",
-            "url": "https://github.com/j-morano/buffer_manager.nvim",
-            "description": "Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window."
-        },
-        {
             "path": "hat0uma/prelive.nvim",
             "owner": "hat0uma",
             "name": "prelive.nvim",
@@ -4989,84 +5061,12 @@
             "description": "A port of Assorted Biscuits. Ends up with more supported languages too."
         },
         {
-            "path": "kazhala/close-buffers.nvim",
-            "owner": "kazhala",
-            "name": "close-buffers.nvim",
-            "config": "close_buffers_nvim.lua",
-            "url": "https://github.com/kazhala/close-buffers.nvim",
-            "description": "Delete multiple Vim buffers based on different conditions."
-        },
-        {
             "path": "rktjmp/paperplanes.nvim",
             "owner": "rktjmp",
             "name": "paperplanes.nvim",
             "config": "paperplanes_nvim.lua",
             "url": "https://github.com/rktjmp/paperplanes.nvim",
             "description": "Post selections or buffers to online paste bins."
-        },
-        {
-            "path": "rcarriga/nvim-notify",
-            "owner": "rcarriga",
-            "name": "nvim-notify",
-            "config": "nvim_notify.lua",
-            "url": "https://github.com/rcarriga/nvim-notify",
-            "description": "A fancy, configurable, notification manager."
-        },
-        {
-            "path": "nvim-mini/mini.nvim#mini.notify",
-            "owner": "nvim-mini",
-            "name": "mini.notify",
-            "config": "mini_notify.lua",
-            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-notify.md",
-            "description": "Module of `mini.nvim` to show one or more highlighted notifications in a single window. Provides maker of `vim.notify()` implementation and sets up automated LSP progress updates."
-        },
-        {
-            "path": "folke/noice.nvim",
-            "owner": "folke",
-            "name": "noice.nvim",
-            "config": "noice_nvim.lua",
-            "url": "https://github.com/folke/noice.nvim",
-            "description": "Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu."
-        },
-        {
-            "path": "sQVe/bufignore.nvim",
-            "owner": "sQVe",
-            "name": "bufignore.nvim",
-            "config": "bufignore_nvim.lua",
-            "url": "https://github.com/sQVe/bufignore.nvim",
-            "description": "Unlist hidden buffers matching specified ignore sources."
-        },
-        {
-            "path": "saifulapm/commasemi.nvim",
-            "owner": "saifulapm",
-            "name": "commasemi.nvim",
-            "config": "commasemi_nvim.lua",
-            "url": "https://github.com/saifulapm/commasemi.nvim",
-            "description": "Toggle comma and semicolon."
-        },
-        {
-            "path": "jghauser/fold-cycle.nvim",
-            "owner": "jghauser",
-            "name": "fold-cycle.nvim",
-            "config": "fold_cycle_nvim.lua",
-            "url": "https://github.com/jghauser/fold-cycle.nvim",
-            "description": "Cycle folds open or closed."
-        },
-        {
-            "path": "rgroli/other.nvim",
-            "owner": "rgroli",
-            "name": "other.nvim",
-            "config": "other_nvim.lua",
-            "url": "https://github.com/rgroli/other.nvim",
-            "description": "Open alternative files for the current buffer."
-        },
-        {
-            "path": "toppair/reach.nvim",
-            "owner": "toppair",
-            "name": "reach.nvim",
-            "config": "reach_nvim.lua",
-            "url": "https://github.com/toppair/reach.nvim",
-            "description": "Buffer, mark, tabpage switcher."
         },
         {
             "path": "axieax/urlview.nvim",
@@ -5085,22 +5085,6 @@
             "description": "Update plugin under cursor by `lazy.nvim`."
         },
         {
-            "path": "nkakouros-original/numbers.nvim",
-            "owner": "nkakouros-original",
-            "name": "numbers.nvim",
-            "config": "numbers_nvim.lua",
-            "url": "https://github.com/nkakouros-original/numbers.nvim",
-            "description": "Toggle relativenumber whenever it makes sense."
-        },
-        {
-            "path": "ghillb/cybu.nvim",
-            "owner": "ghillb",
-            "name": "cybu.nvim",
-            "config": "cybu_nvim.lua",
-            "url": "https://github.com/ghillb/cybu.nvim",
-            "description": "Displays a notification window with context when cycling buffers."
-        },
-        {
             "path": "sontungexpt/url-open",
             "owner": "sontungexpt",
             "name": "url-open",
@@ -5117,60 +5101,12 @@
             "description": "Remember file locations and sort by time and frequency."
         },
         {
-            "path": "m-demare/attempt.nvim",
-            "owner": "m-demare",
-            "name": "attempt.nvim",
-            "config": "attempt_nvim.lua",
-            "url": "https://github.com/m-demare/attempt.nvim",
-            "description": "Manage and run temporary buffers."
-        },
-        {
-            "path": "kevinhwang91/nvim-ufo",
-            "owner": "kevinhwang91",
-            "name": "nvim-ufo",
-            "config": "nvim_ufo.lua",
-            "url": "https://github.com/kevinhwang91/nvim-ufo",
-            "description": "Ultra fold with modern looking and performance boosting."
-        },
-        {
-            "path": "sitiom/nvim-numbertoggle",
-            "owner": "sitiom",
-            "name": "nvim-numbertoggle",
-            "config": "nvim_numbertoggle.lua",
-            "url": "https://github.com/sitiom/nvim-numbertoggle",
-            "description": "Automatically toggle between relative and absolute line numbers."
-        },
-        {
-            "path": "nguyenvukhang/nvim-toggler",
-            "owner": "nguyenvukhang",
-            "name": "nvim-toggler",
-            "config": "nvim_toggler.lua",
-            "url": "https://github.com/nguyenvukhang/nvim-toggler",
-            "description": "Invert text, such as toggling between `true` and `false`."
-        },
-        {
-            "path": "CosmicNvim/cosmic-ui",
-            "owner": "CosmicNvim",
-            "name": "cosmic-ui",
-            "config": "cosmic_ui.lua",
-            "url": "https://github.com/CosmicNvim/cosmic-ui",
-            "description": "Cosmic-UI is a simple wrapper around specific Vim functionality."
-        },
-        {
             "path": "jbyuki/instant.nvim",
             "owner": "jbyuki",
             "name": "instant.nvim",
             "config": "instant_nvim.lua",
             "url": "https://github.com/jbyuki/instant.nvim",
             "description": "A collaborative editing plugin written in Lua with no dependencies."
-        },
-        {
-            "path": "zbirenbaum/neodim",
-            "owner": "zbirenbaum",
-            "name": "neodim",
-            "config": "neodim.lua",
-            "url": "https://github.com/zbirenbaum/neodim",
-            "description": "Dimming the highlights of unused functions, variables, parameters, and more."
         },
         {
             "path": "bfredl/nvim-miniyank",
@@ -5189,28 +5125,12 @@
             "description": "Convenience file operations, written in Lua."
         },
         {
-            "path": "chrisgrieser/nvim-recorder",
-            "owner": "chrisgrieser",
-            "name": "nvim-recorder",
-            "config": "nvim_recorder.lua",
-            "url": "https://github.com/chrisgrieser/nvim-recorder",
-            "description": "Simplifying and improving how you interact with macros."
-        },
-        {
             "path": "figsoda/nix-develop.nvim",
             "owner": "figsoda",
             "name": "nix-develop.nvim",
             "config": "nix_develop_nvim.lua",
             "url": "https://github.com/figsoda/nix-develop.nvim",
             "description": "Run `nix develop` without restarting Neovim."
-        },
-        {
-            "path": "yaocccc/nvim-foldsign",
-            "owner": "yaocccc",
-            "name": "nvim-foldsign",
-            "config": "nvim_foldsign.lua",
-            "url": "https://github.com/yaocccc/nvim-foldsign",
-            "description": "Display folds on sign column."
         },
         {
             "path": "tenxsoydev/nx.nvim",
@@ -5221,44 +5141,12 @@
             "description": "Neovim API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options."
         },
         {
-            "path": "zdcthomas/yop.nvim",
-            "owner": "zdcthomas",
-            "name": "yop.nvim",
-            "config": "yop_nvim.lua",
-            "url": "https://github.com/zdcthomas/yop.nvim",
-            "description": "Easily create your own operators (like `d` and `y`)."
-        },
-        {
             "path": "mluders/comfy-line-numbers.nvim",
             "owner": "mluders",
             "name": "comfy-line-numbers.nvim",
             "config": "comfy_line_numbers_nvim.lua",
             "url": "https://github.com/mluders/comfy-line-numbers.nvim",
             "description": "Limits relative numbers to only show left-hand digits on the keyboard."
-        },
-        {
-            "path": "cpea2506/relative-toggle.nvim",
-            "owner": "cpea2506",
-            "name": "relative-toggle.nvim",
-            "config": "relative_toggle_nvim.lua",
-            "url": "https://github.com/cpea2506/relative-toggle.nvim",
-            "description": "Toggles smoothly between number and relative numbers, supporting various number combinations, highly customizable."
-        },
-        {
-            "path": "chrisgrieser/nvim-early-retirement",
-            "owner": "chrisgrieser",
-            "name": "nvim-early-retirement",
-            "config": "nvim_early_retirement.lua",
-            "url": "https://github.com/chrisgrieser/nvim-early-retirement",
-            "description": "Send buffers into early retirement by automatically closing them after x minutes of inactivity."
-        },
-        {
-            "path": "axkirillov/hbac.nvim",
-            "owner": "axkirillov",
-            "name": "hbac.nvim",
-            "config": "hbac_nvim.lua",
-            "url": "https://github.com/axkirillov/hbac.nvim",
-            "description": "Automatically close buffers you are not working on."
         },
         {
             "path": "ragnarok22/whereami.nvim",
@@ -5269,36 +5157,12 @@
             "description": "Test your VPN by getting you current location."
         },
         {
-            "path": "ecthelionvi/NeoComposer.nvim",
-            "owner": "ecthelionvi",
-            "name": "NeoComposer.nvim",
-            "config": "NeoComposer_nvim.lua",
-            "url": "https://github.com/ecthelionvi/NeoComposer.nvim",
-            "description": "Simplify macro management, enhance productivity, and create harmonious workflows."
-        },
-        {
             "path": "LukasPietzschmann/telescope-tabs",
             "owner": "LukasPietzschmann",
             "name": "telescope-tabs",
             "config": "telescope_tabs.lua",
             "url": "https://github.com/LukasPietzschmann/telescope-tabs",
             "description": "Quickly navigate between tabs using telescope."
-        },
-        {
-            "path": "RutaTang/compter.nvim",
-            "owner": "RutaTang",
-            "name": "compter.nvim",
-            "config": "compter_nvim.lua",
-            "url": "https://github.com/RutaTang/compter.nvim",
-            "description": "Power and extend the ability of `<C-a>` and `<C-x>` with customized patterns."
-        },
-        {
-            "path": "yagiziskirik/AirSupport.nvim",
-            "owner": "yagiziskirik",
-            "name": "AirSupport.nvim",
-            "config": "AirSupport_nvim.lua",
-            "url": "https://github.com/yagiziskirik/AirSupport.nvim",
-            "description": "Searchable reminder window for your custom shortcuts and commands."
         },
         {
             "path": "aPeoplesCalendar/apc.nvim",
@@ -5315,22 +5179,6 @@
             "config": "nvim_ghost_nvim.lua",
             "url": "https://github.com/subnut/nvim-ghost.nvim",
             "description": "GhostText support with zero dependencies."
-        },
-        {
-            "path": "malbertzard/inline-fold.nvim",
-            "owner": "malbertzard",
-            "name": "inline-fold.nvim",
-            "config": "inline_fold_nvim.lua",
-            "url": "https://github.com/malbertzard/inline-fold.nvim",
-            "description": "Hide certain elements inline like long CSS classes or `href` content."
-        },
-        {
-            "path": "chrisgrieser/nvim-origami",
-            "owner": "chrisgrieser",
-            "name": "nvim-origami",
-            "config": "nvim_origami.lua",
-            "url": "https://github.com/chrisgrieser/nvim-origami",
-            "description": "Fold with relentless elegance."
         },
         {
             "path": "LintaoAmons/scratch.nvim",
@@ -5370,15 +5218,7 @@
             "name": "bmessages.nvim",
             "config": "bmessages_nvim.lua",
             "url": "https://github.com/ariel-frischer/bmessages.nvim",
-            "description": "Replace the default :messages window with a configurable, auto-updating buffer."
-        },
-        {
-            "path": "backdround/tabscope.nvim",
-            "owner": "backdround",
-            "name": "tabscope.nvim",
-            "config": "tabscope_nvim.lua",
-            "url": "https://github.com/backdround/tabscope.nvim",
-            "description": "Make tab-local buffers."
+            "description": "Replace the default `:messages` window with a configurable, auto-updating buffer."
         },
         {
             "path": "linrongbin16/gentags.nvim",
@@ -5387,14 +5227,6 @@
             "config": "gentags_nvim.lua",
             "url": "https://github.com/linrongbin16/gentags.nvim",
             "description": "The tags generator/management for old school vimers."
-        },
-        {
-            "path": "mcauley-penney/visual-whitespace.nvim",
-            "owner": "mcauley-penney",
-            "name": "visual-whitespace.nvim",
-            "config": "visual_whitespace_nvim.lua",
-            "url": "https://github.com/mcauley-penney/visual-whitespace.nvim",
-            "description": "See whitespace characters in Visual selections, like VSCode."
         },
         {
             "path": "Zeioth/distroupdate.nvim",
@@ -5434,7 +5266,7 @@
             "name": "freeze-code.nvim",
             "config": "freeze_code_nvim.lua",
             "url": "https://github.com/AlejandroSuero/freeze-code.nvim",
-            "description": "Code screenshot plugin that makes use of [freeze](https://github.com/charmbracelet/freeze) inside the editor, it lets you **copy** the generated image to **paste it anywhere**."
+            "description": "Code screenshot plugin that makes use of [freeze](https://github.com/charmbracelet/freeze) inside the editor."
         },
         {
             "path": "ysmb-wtsg/in-and-out.nvim",
@@ -5445,22 +5277,6 @@
             "description": "Quick navigation in and out of surrounding characters."
         },
         {
-            "path": "ChuufMaster/buffer-vacuum",
-            "owner": "ChuufMaster",
-            "name": "buffer-vacuum",
-            "config": "buffer_vacuum.lua",
-            "url": "https://github.com/ChuufMaster/buffer-vacuum",
-            "description": "Set a maximum number of buffers to keep open and intelligently delete the oldest buffers over the maximum."
-        },
-        {
-            "path": "mong8se/buffish.nvim",
-            "owner": "mong8se",
-            "name": "buffish.nvim",
-            "config": "buffish_nvim.lua",
-            "url": "https://github.com/mong8se/buffish.nvim",
-            "description": "A buffer switcher in the spirit of dirvish or vinegar."
-        },
-        {
             "path": "niuiic/todo.nvim",
             "owner": "niuiic",
             "name": "todo.nvim",
@@ -5469,44 +5285,12 @@
             "description": "Simple but powerful todo manager based on text."
         },
         {
-            "path": "SunnyTamang/pendulum.nvim",
-            "owner": "SunnyTamang",
-            "name": "pendulum.nvim",
-            "config": "pendulum_nvim.lua",
-            "url": "https://github.com/SunnyTamang/pendulum.nvim",
-            "description": "Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc."
-        },
-        {
-            "path": "ptdewey/pendulum-nvim",
-            "owner": "ptdewey",
-            "name": "pendulum-nvim",
-            "config": "pendulum_nvim.lua",
-            "url": "https://github.com/ptdewey/pendulum-nvim",
-            "description": "Track time spent coding and glean insights through on-demand time reports."
-        },
-        {
-            "path": "rlychrisg/truncateline.nvim",
-            "owner": "rlychrisg",
-            "name": "truncateline.nvim",
-            "config": "truncateline_nvim.lua",
-            "url": "https://github.com/rlychrisg/truncateline.nvim",
-            "description": "Truncate long lines to keep track of where you are when the start gets lost off the left side of the screen."
-        },
-        {
             "path": "ellisonleao/dotenv.nvim",
             "owner": "ellisonleao",
             "name": "dotenv.nvim",
             "config": "dotenv_nvim.lua",
             "url": "https://github.com/ellisonleao/dotenv.nvim",
-            "description": "Minimalist .env support."
-        },
-        {
-            "path": "dzfrias/arena.nvim",
-            "owner": "dzfrias",
-            "name": "arena.nvim",
-            "config": "arena_nvim.lua",
-            "url": "https://github.com/dzfrias/arena.nvim",
-            "description": "A smart (frecency-based) buffer switcher."
+            "description": "Minimalist `.env` support."
         },
         {
             "path": "MisanthropicBit/decipher.nvim",
@@ -5573,28 +5357,12 @@
             "description": "Take control of your edit history with an interactive timeline, diff previews, taggings, live reloading trees and cleanup functions."
         },
         {
-            "path": "BibekBhusal0/bufstack.nvim",
-            "owner": "BibekBhusal0",
-            "name": "bufstack.nvim",
-            "config": "bufstack_nvim.lua",
-            "url": "https://github.com/BibekBhusal0/bufstack.nvim",
-            "description": "Track recently visited buffers and reopen recently closed buffers."
-        },
-        {
-            "path": "OXY2DEV/ui.nvim",
-            "owner": "OXY2DEV",
-            "name": "ui.nvim",
-            "config": "ui_nvim.lua",
-            "url": "https://github.com/OXY2DEV/ui.nvim",
-            "description": "A blueprint/template/guide for customizing the UI."
-        },
-        {
             "path": "athar-qadri/weather.nvim",
             "owner": "athar-qadri",
             "name": "weather.nvim",
             "config": "weather_nvim.lua",
             "url": "https://github.com/athar-qadri/weather.nvim",
-            "description": "Realtime Weather and Earthquake alerts with support for lualine integration (no api key required)."
+            "description": "Realtime weather and earthquake alerts with support for lualine integration (no API key required)."
         },
         {
             "path": "penaz91/MiniDYM",
@@ -5603,14 +5371,6 @@
             "config": "MiniDYM.lua",
             "url": "https://github.com/Penaz91/MiniDYM",
             "description": "A very small \"Did you mean\" plugin, suggesting files the user might have wanted to open instead of creating a new one."
-        },
-        {
-            "path": "attilarepka/header.nvim",
-            "owner": "attilarepka",
-            "name": "header.nvim",
-            "config": "header_nvim.lua",
-            "url": "https://github.com/attilarepka/header.nvim",
-            "description": "Add or update copyright and license headers in any source file."
         },
         {
             "path": "Owen-Dechow/videre.nvim",
@@ -5643,30 +5403,6 @@
             "config": "brewfile_nvim.lua",
             "url": "https://github.com/piersolenski/brewfile.nvim",
             "description": "Manage your [Homebrew](https://brew.sh/) [Brewfile](https://docs.brew.sh/Brew-Bundle-and-Brewfile)."
-        },
-        {
-            "path": "ravsii/timers.nvim",
-            "owner": "ravsii",
-            "name": "timers.nvim",
-            "config": "timers_nvim.lua",
-            "url": "https://github.com/ravsii/timers.nvim",
-            "description": "Timer manager, a clean Lua API, supporting multiple timers, persistence, UI, and plugin integrations."
-        },
-        {
-            "path": "francescarpi/buffon.nvim",
-            "owner": "francescarpi",
-            "name": "buffon.nvim",
-            "config": "buffon_nvim.lua",
-            "url": "https://github.com/francescarpi/buffon.nvim",
-            "description": "Buffers navigation, reorganize and close."
-        },
-        {
-            "path": "ahkohd/buffer-sticks.nvim",
-            "owner": "ahkohd",
-            "name": "buffer-sticks.nvim",
-            "config": "buffer_sticks_nvim.lua",
-            "url": "https://github.com/ahkohd/buffer-sticks.nvim",
-            "description": "Cosmetic buffers indicator & picker."
         },
         {
             "path": "gpanders/nvim-moonwalk",
@@ -5709,14 +5445,6 @@
             "description": "Check the price of the defined cryptocurrencies."
         },
         {
-            "path": "nxhung2304/lastplace.nvim",
-            "owner": "nxhung2304",
-            "name": "lastplace.nvim",
-            "config": "lastplace_nvim.lua",
-            "url": "https://github.com/nxhung2304/lastplace.nvim",
-            "description": "Intelligently restore your cursor position when reopening files."
-        },
-        {
             "path": "wsdjeg/mru.nvim",
             "owner": "wsdjeg",
             "name": "mru.nvim",
@@ -5739,14 +5467,6 @@
             "config": "ctags_nvim.lua",
             "url": "https://github.com/wsdjeg/ctags.nvim",
             "description": "Generate tags files and update tags option automatically."
-        },
-        {
-            "path": "QuentinGruber/pomodoro.nvim",
-            "owner": "QuentinGruber",
-            "name": "pomodoro.nvim",
-            "config": "pomodoro_nvim.lua",
-            "url": "https://github.com/QuentinGruber/pomodoro.nvim",
-            "description": "Use the Pomodoro Technique with built-in session tracking and break reminders."
         },
         {
             "path": "leo-alvarenga/quoth.nvim",
@@ -7431,6 +7151,30 @@
             "description": "Context-aware indent textobject powered by Tree-sitter."
         },
         {
+            "path": "RutaTang/compter.nvim",
+            "owner": "RutaTang",
+            "name": "compter.nvim",
+            "config": "compter_nvim.lua",
+            "url": "https://github.com/RutaTang/compter.nvim",
+            "description": "Power and extend the ability of `<C-a>` and `<C-x>` with customized patterns."
+        },
+        {
+            "path": "zdcthomas/yop.nvim",
+            "owner": "zdcthomas",
+            "name": "yop.nvim",
+            "config": "yop_nvim.lua",
+            "url": "https://github.com/zdcthomas/yop.nvim",
+            "description": "Easily create your own operators (like `d` and `y`)."
+        },
+        {
+            "path": "chrisgrieser/nvim-recorder",
+            "owner": "chrisgrieser",
+            "name": "nvim-recorder",
+            "config": "nvim_recorder.lua",
+            "url": "https://github.com/chrisgrieser/nvim-recorder",
+            "description": "Simplifying and improving how you interact with macros."
+        },
+        {
             "path": "sontungexpt/bim.nvim",
             "owner": "sontungexpt",
             "name": "bim.nvim",
@@ -7468,7 +7212,7 @@
             "name": "nvim-cartographer",
             "config": "nvim_cartographer.lua",
             "url": "https://github.com/Iron-E/nvim-cartographer",
-            "description": "a more convenient `:map`ping syntax for Lua environments."
+            "description": "A more convenient `:map`ping syntax for Lua environments."
         },
         {
             "path": "LionC/nest.nvim",
@@ -7663,6 +7407,62 @@
             "config": "scrollbar_nvim.lua",
             "url": "https://github.com/wsdjeg/scrollbar.nvim",
             "description": "Floating scrollbar."
+        },
+        {
+            "path": "nxhung2304/lastplace.nvim",
+            "owner": "nxhung2304",
+            "name": "lastplace.nvim",
+            "config": "lastplace_nvim.lua",
+            "url": "https://github.com/nxhung2304/lastplace.nvim",
+            "description": "Intelligently restore your cursor position when reopening files."
+        },
+        {
+            "path": "attilarepka/header.nvim",
+            "owner": "attilarepka",
+            "name": "header.nvim",
+            "config": "header_nvim.lua",
+            "url": "https://github.com/attilarepka/header.nvim",
+            "description": "Add or update copyright and license headers in any source file."
+        },
+        {
+            "path": "rlychrisg/truncateline.nvim",
+            "owner": "rlychrisg",
+            "name": "truncateline.nvim",
+            "config": "truncateline_nvim.lua",
+            "url": "https://github.com/rlychrisg/truncateline.nvim",
+            "description": "Truncate long lines to keep track of where you are when the start gets lost off the left side of the screen."
+        },
+        {
+            "path": "zbirenbaum/neodim",
+            "owner": "zbirenbaum",
+            "name": "neodim",
+            "config": "neodim.lua",
+            "url": "https://github.com/zbirenbaum/neodim",
+            "description": "Dimming the highlights of unused functions, variables, parameters, and more."
+        },
+        {
+            "path": "nguyenvukhang/nvim-toggler",
+            "owner": "nguyenvukhang",
+            "name": "nvim-toggler",
+            "config": "nvim_toggler.lua",
+            "url": "https://github.com/nguyenvukhang/nvim-toggler",
+            "description": "Invert text, such as toggling between `true` and `false`."
+        },
+        {
+            "path": "saifulapm/commasemi.nvim",
+            "owner": "saifulapm",
+            "name": "commasemi.nvim",
+            "config": "commasemi_nvim.lua",
+            "url": "https://github.com/saifulapm/commasemi.nvim",
+            "description": "Toggle comma and semicolon."
+        },
+        {
+            "path": "necrom4/convy.nvim",
+            "owner": "necrom4",
+            "name": "convy.nvim",
+            "config": "convy_nvim.lua",
+            "url": "https://github.com/necrom4/convy.nvim",
+            "description": "Easily convert strings between various formats."
         },
         {
             "path": "qwavies/smart-backspace.nvim",
@@ -8369,6 +8169,16 @@
             "config": "dooku_nvim.lua",
             "url": "https://github.com/Zeioth/dooku.nvim",
             "description": "Generate and open your HTML code documentation."
+        }
+    ],
+    "Folding": [
+        {
+            "path": "yaocccc/nvim-foldsign",
+            "owner": "yaocccc",
+            "name": "nvim-foldsign",
+            "config": "nvim_foldsign.lua",
+            "url": "https://github.com/yaocccc/nvim-foldsign",
+            "description": "Display folds on sign column."
         },
         {
             "path": "soemre/commentless.nvim",
@@ -8377,6 +8187,38 @@
             "config": "commentless_nvim.lua",
             "url": "https://github.com/soemre/commentless.nvim",
             "description": "Fold all comments to better visualize your code logic, and unfold them whenever needed."
+        },
+        {
+            "path": "jghauser/fold-cycle.nvim",
+            "owner": "jghauser",
+            "name": "fold-cycle.nvim",
+            "config": "fold_cycle_nvim.lua",
+            "url": "https://github.com/jghauser/fold-cycle.nvim",
+            "description": "Cycle folds open or closed."
+        },
+        {
+            "path": "kevinhwang91/nvim-ufo",
+            "owner": "kevinhwang91",
+            "name": "nvim-ufo",
+            "config": "nvim_ufo.lua",
+            "url": "https://github.com/kevinhwang91/nvim-ufo",
+            "description": "Ultra fold with modern looking and performance boosting."
+        },
+        {
+            "path": "chrisgrieser/nvim-origami",
+            "owner": "chrisgrieser",
+            "name": "nvim-origami",
+            "config": "nvim_origami.lua",
+            "url": "https://github.com/chrisgrieser/nvim-origami",
+            "description": "Fold with relentless elegance."
+        },
+        {
+            "path": "malbertzard/inline-fold.nvim",
+            "owner": "malbertzard",
+            "name": "inline-fold.nvim",
+            "config": "inline_fold_nvim.lua",
+            "url": "https://github.com/malbertzard/inline-fold.nvim",
+            "description": "Hide certain elements inline like long CSS classes or `href` content."
         },
         {
             "path": "TheLazyCat00/simple-format",
@@ -8845,14 +8687,6 @@
             "description": "Layout preserving buffer deletion."
         },
         {
-            "path": "famiu/bufdelete.nvim",
-            "owner": "famiu",
-            "name": "bufdelete.nvim",
-            "config": "bufdelete_nvim.lua",
-            "url": "https://github.com/famiu/bufdelete.nvim",
-            "description": "Delete buffers without losing your window layout."
-        },
-        {
             "path": "nvim-mini/mini.nvim#mini.bufremove",
             "owner": "nvim-mini",
             "name": "mini.bufremove",
@@ -8907,14 +8741,6 @@
             "config": "windowcolumns_nvim.lua",
             "url": "https://github.com/mkajsjo/windowcolumns.nvim",
             "description": "Column-first window management."
-        },
-        {
-            "path": "wsdjeg/bufdel.nvim",
-            "owner": "wsdjeg",
-            "name": "bufdel.nvim",
-            "config": "bufdel_nvim.lua",
-            "url": "https://github.com/wsdjeg/bufdel.nvim",
-            "description": "Delete buffers without changing windows layout."
         }
     ],
     "Tmux": [
@@ -9151,6 +8977,90 @@
             "config": "neovim_tips.lua",
             "url": "https://github.com/saxon1964/neovim-tips",
             "description": "Provides hundreds of built-in tips, tricks and shortcuts, with a custom picker interface and the ability to add your own tips."
+        },
+        {
+            "path": "ecthelionvi/NeoComposer.nvim",
+            "owner": "ecthelionvi",
+            "name": "NeoComposer.nvim",
+            "config": "NeoComposer_nvim.lua",
+            "url": "https://github.com/ecthelionvi/NeoComposer.nvim",
+            "description": "Simplify macro management, enhance productivity, and create harmonious workflows."
+        },
+        {
+            "path": "yagiziskirik/AirSupport.nvim",
+            "owner": "yagiziskirik",
+            "name": "AirSupport.nvim",
+            "config": "AirSupport_nvim.lua",
+            "url": "https://github.com/yagiziskirik/AirSupport.nvim",
+            "description": "Searchable reminder window for your custom shortcuts and commands."
+        }
+    ],
+    "Stats Tracking": [
+        {
+            "path": "gisketch/triforce.nvim",
+            "owner": "gisketch",
+            "name": "triforce.nvim",
+            "config": "triforce_nvim.lua",
+            "url": "https://github.com/gisketch/triforce.nvim",
+            "description": "Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration."
+        },
+        {
+            "path": "QuentinGruber/pomodoro.nvim",
+            "owner": "QuentinGruber",
+            "name": "pomodoro.nvim",
+            "config": "pomodoro_nvim.lua",
+            "url": "https://github.com/QuentinGruber/pomodoro.nvim",
+            "description": "Use the Pomodoro Technique with built-in session tracking and break reminders."
+        },
+        {
+            "path": "gaborvecsei/usage-tracker.nvim",
+            "owner": "gaborvecsei",
+            "name": "usage-tracker.nvim",
+            "config": "usage_tracker_nvim.lua",
+            "url": "https://github.com/gaborvecsei/usage-tracker.nvim",
+            "description": "Track your Neovim usage and visualize statistics easily."
+        },
+        {
+            "path": "SunnyTamang/pendulum.nvim",
+            "owner": "SunnyTamang",
+            "name": "pendulum.nvim",
+            "config": "pendulum_nvim.lua",
+            "url": "https://github.com/SunnyTamang/pendulum.nvim",
+            "description": "Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc."
+        },
+        {
+            "path": "ptdewey/pendulum-nvim",
+            "owner": "ptdewey",
+            "name": "pendulum-nvim",
+            "config": "pendulum_nvim.lua",
+            "url": "https://github.com/ptdewey/pendulum-nvim",
+            "description": "Track time spent coding and glean insights through on-demand time reports."
+        },
+        {
+            "path": "ravsii/timers.nvim",
+            "owner": "ravsii",
+            "name": "timers.nvim",
+            "config": "timers_nvim.lua",
+            "url": "https://github.com/ravsii/timers.nvim",
+            "description": "Timer manager, a clean Lua API, supporting multiple timers, persistence, UI, and plugin integrations."
+        }
+    ],
+    "Automation": [
+        {
+            "path": "mateuszwieloch/automkdir.nvim",
+            "owner": "mateuszwieloch",
+            "name": "automkdir.nvim",
+            "config": "automkdir_nvim.lua",
+            "url": "https://github.com/mateuszwieloch/automkdir.nvim",
+            "description": "Automatically create non-existent parent directories when writing a file."
+        },
+        {
+            "path": "jghauser/mkdir.nvim",
+            "owner": "jghauser",
+            "name": "mkdir.nvim",
+            "config": "mkdir_nvim.lua",
+            "url": "https://github.com/jghauser/mkdir.nvim",
+            "description": "Automatically create missing directories when saving files."
         },
         {
             "path": "zongben/dbout.nvim",
@@ -9549,6 +9459,102 @@
             "config": "flake_awesome_neovim_plugins.lua",
             "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
             "description": "Nix flake that provides a collection of `awesome-neovim` plugins as Nix packages."
+        },
+        {
+            "path": "OXY2DEV/ui.nvim",
+            "owner": "OXY2DEV",
+            "name": "ui.nvim",
+            "config": "ui_nvim.lua",
+            "url": "https://github.com/OXY2DEV/ui.nvim",
+            "description": "A blueprint/template/guide for customizing the UI."
+        },
+        {
+            "path": "mcauley-penney/visual-whitespace.nvim",
+            "owner": "mcauley-penney",
+            "name": "visual-whitespace.nvim",
+            "config": "visual_whitespace_nvim.lua",
+            "url": "https://github.com/mcauley-penney/visual-whitespace.nvim",
+            "description": "See whitespace characters in Visual selections, like VSCode."
+        },
+        {
+            "path": "matbme/JABS.nvim",
+            "owner": "matbme",
+            "name": "JABS.nvim",
+            "config": "JABS_nvim.lua",
+            "url": "https://github.com/matbme/JABS.nvim",
+            "description": "Pretty and minimal buffer switcher window."
+        },
+        {
+            "path": "rcarriga/nvim-notify",
+            "owner": "rcarriga",
+            "name": "nvim-notify",
+            "config": "nvim_notify.lua",
+            "url": "https://github.com/rcarriga/nvim-notify",
+            "description": "A fancy, configurable, notification manager."
+        },
+        {
+            "path": "nvim-mini/mini.nvim#mini.notify",
+            "owner": "nvim-mini",
+            "name": "mini.notify",
+            "config": "mini_notify.lua",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-notify.md",
+            "description": "Module of `mini.nvim` to show one or more highlighted notifications in a single window. Provides maker of `vim.notify()` implementation and sets up automated LSP progress updates."
+        },
+        {
+            "path": "folke/noice.nvim",
+            "owner": "folke",
+            "name": "noice.nvim",
+            "config": "noice_nvim.lua",
+            "url": "https://github.com/folke/noice.nvim",
+            "description": "Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu."
+        },
+        {
+            "path": "toppair/reach.nvim",
+            "owner": "toppair",
+            "name": "reach.nvim",
+            "config": "reach_nvim.lua",
+            "url": "https://github.com/toppair/reach.nvim",
+            "description": "Buffer, mark, tabpage switcher."
+        },
+        {
+            "path": "ghillb/cybu.nvim",
+            "owner": "ghillb",
+            "name": "cybu.nvim",
+            "config": "cybu_nvim.lua",
+            "url": "https://github.com/ghillb/cybu.nvim",
+            "description": "Displays a notification window with context when cycling buffers."
+        },
+        {
+            "path": "CosmicNvim/cosmic-ui",
+            "owner": "CosmicNvim",
+            "name": "cosmic-ui",
+            "config": "cosmic_ui.lua",
+            "url": "https://github.com/CosmicNvim/cosmic-ui",
+            "description": "Cosmic-UI is a simple wrapper around specific Vim functionality."
+        },
+        {
+            "path": "sitiom/nvim-numbertoggle",
+            "owner": "sitiom",
+            "name": "nvim-numbertoggle",
+            "config": "nvim_numbertoggle.lua",
+            "url": "https://github.com/sitiom/nvim-numbertoggle",
+            "description": "Automatically toggle between relative and absolute line numbers."
+        },
+        {
+            "path": "nkakouros-original/numbers.nvim",
+            "owner": "nkakouros-original",
+            "name": "numbers.nvim",
+            "config": "numbers_nvim.lua",
+            "url": "https://github.com/nkakouros-original/numbers.nvim",
+            "description": "Toggle relativenumber whenever it makes sense."
+        },
+        {
+            "path": "cpea2506/relative-toggle.nvim",
+            "owner": "cpea2506",
+            "name": "relative-toggle.nvim",
+            "config": "relative_toggle_nvim.lua",
+            "url": "https://github.com/cpea2506/relative-toggle.nvim",
+            "description": "Toggles smoothly between number and relative numbers, supporting various number combinations, highly customizable."
         },
         {
             "path": "tokiory/neovim-boilerplate",
