@@ -7151,6 +7151,14 @@
             "description": "Context-aware indent textobject powered by Tree-sitter."
         },
         {
+            "path": "subev/sibling-jump.nvim",
+            "owner": "subev",
+            "name": "sibling-jump.nvim",
+            "config": "sibling_jump_nvim.lua",
+            "url": "https://github.com/subev/sibling-jump.nvim",
+            "description": "Context-aware navigation between sibling Tree-sitter nodes."
+        },
+        {
             "path": "RutaTang/compter.nvim",
             "owner": "RutaTang",
             "name": "compter.nvim",
