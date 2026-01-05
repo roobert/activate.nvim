@@ -1249,11 +1249,11 @@
     ],
     "YAML": [
         {
-            "path": "cuducos/yaml.nvim",
-            "owner": "cuducos",
+            "path": "cuducos.me/yaml.nvim",
+            "owner": "cuducos.me",
             "name": "yaml.nvim",
             "config": "yaml_nvim.lua",
-            "url": "https://github.com/cuducos/yaml.nvim",
+            "url": "https://tangled.org/cuducos.me/yaml.nvim",
             "description": "Utils to work with YAML files."
         }
     ],
