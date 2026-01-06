@@ -4653,6 +4653,14 @@
             "description": "A picker for selecting Nerd Font icons using `fzf-lua`."
         },
         {
+            "path": "ricmonmol/nvim-music-player",
+            "owner": "ricmonmol",
+            "name": "nvim-music-player",
+            "config": "nvim_music_player.lua",
+            "url": "https://github.com/ricmonmol/nvim-music-player",
+            "description": "A simple music player powered by `mpv`, written in Python, including a Telescope browser."
+        },
+        {
             "path": "melMass/echo.nvim",
             "owner": "melMass",
             "name": "echo.nvim",
