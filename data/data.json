@@ -7093,6 +7093,14 @@
             "description": "Improve default `f`/`t` abilities."
         },
         {
+            "path": "cosmicbuffalo/eyeliner.nvim",
+            "owner": "cosmicbuffalo",
+            "name": "eyeliner.nvim",
+            "config": "eyeliner_nvim.lua",
+            "url": "https://github.com/cosmicbuffalo/eyeliner.nvim",
+            "description": "Highlight jump destinations for `f`/`t` motions."
+        },
+        {
             "path": "Mr-LLLLL/treesitter-outer",
             "owner": "Mr-LLLLL",
             "name": "treesitter-outer",
