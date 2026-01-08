@@ -1923,6 +1923,14 @@
             "description": "A flexible snippet system using the native snippet API."
         },
         {
+            "path": "bfredl/nvim-miniyank",
+            "owner": "bfredl",
+            "name": "nvim-miniyank",
+            "config": "nvim_miniyank.lua",
+            "url": "https://github.com/bfredl/nvim-miniyank",
+            "description": "The killring-alike plugin with no default mappings."
+        },
+        {
             "path": "gennaro-tedesco/nvim-peekup",
             "owner": "gennaro-tedesco",
             "name": "nvim-peekup",
@@ -3001,6 +3009,14 @@
             "config": "cpicker_nvim.lua",
             "url": "https://github.com/wsdjeg/cpicker.nvim",
             "description": "A lightweight color palette plugin that supports a wide range of color models."
+        },
+        {
+            "path": "serhez/teide.nvim",
+            "owner": "serhez",
+            "name": "teide.nvim",
+            "config": "teide_nvim.lua",
+            "url": "https://github.com/serhez/teide.nvim",
+            "description": "**_`[TS][LSP][L/D][Lua]`_** A fork of folke's `tokyonight.nvim` with a different color palette."
         },
         {
             "path": "kuri-sun/yoda.nvim",
@@ -4797,6 +4813,14 @@
             "description": "Small TUI that allows for controlling Spotify playback."
         },
         {
+            "path": "niuiic/todo.nvim",
+            "owner": "niuiic",
+            "name": "todo.nvim",
+            "config": "todo_nvim.lua",
+            "url": "https://github.com/niuiic/todo.nvim",
+            "description": "Simple but powerful todo manager based on text."
+        },
+        {
             "path": "flashcodes-themayankjha/Fknotes.nvim",
             "owner": "flashcodes-themayankjha",
             "name": "Fknotes.nvim",
@@ -5053,22 +5077,6 @@
             "description": "A powerful [`lua-lib-math`](https://www.lua.org/pil/18.html) in-buffer calculator with visual mode, functions and variable support."
         },
         {
-            "path": "hat0uma/prelive.nvim",
-            "owner": "hat0uma",
-            "name": "prelive.nvim",
-            "config": "prelive_nvim.lua",
-            "url": "https://github.com/hat0uma/prelive.nvim",
-            "description": "A simple luv-based development server with live reloading."
-        },
-        {
-            "path": "hat0uma/doxygen-previewer.nvim",
-            "owner": "hat0uma",
-            "name": "doxygen-previewer.nvim",
-            "config": "doxygen_previewer_nvim.lua",
-            "url": "https://github.com/hat0uma/doxygen-previewer.nvim",
-            "description": "Live previewing of Doxygen documentation."
-        },
-        {
             "path": "code-biscuits/nvim-biscuits",
             "owner": "code-biscuits",
             "name": "nvim-biscuits",
@@ -5125,14 +5133,6 @@
             "description": "A collaborative editing plugin written in Lua with no dependencies."
         },
         {
-            "path": "bfredl/nvim-miniyank",
-            "owner": "bfredl",
-            "name": "nvim-miniyank",
-            "config": "nvim_miniyank.lua",
-            "url": "https://github.com/bfredl/nvim-miniyank",
-            "description": "The killring-alike plugin with no default mappings."
-        },
-        {
             "path": "chrisgrieser/nvim-genghis",
             "owner": "chrisgrieser",
             "name": "nvim-genghis",
@@ -5171,14 +5171,6 @@
             "config": "whereami_nvim.lua",
             "url": "https://github.com/ragnarok22/whereami.nvim",
             "description": "Test your VPN by getting you current location."
-        },
-        {
-            "path": "LukasPietzschmann/telescope-tabs",
-            "owner": "LukasPietzschmann",
-            "name": "telescope-tabs",
-            "config": "telescope_tabs.lua",
-            "url": "https://github.com/LukasPietzschmann/telescope-tabs",
-            "description": "Quickly navigate between tabs using telescope."
         },
         {
             "path": "aPeoplesCalendar/apc.nvim",
@@ -5229,14 +5221,6 @@
             "description": "Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc."
         },
         {
-            "path": "ariel-frischer/bmessages.nvim",
-            "owner": "ariel-frischer",
-            "name": "bmessages.nvim",
-            "config": "bmessages_nvim.lua",
-            "url": "https://github.com/ariel-frischer/bmessages.nvim",
-            "description": "Replace the default `:messages` window with a configurable, auto-updating buffer."
-        },
-        {
             "path": "linrongbin16/gentags.nvim",
             "owner": "linrongbin16",
             "name": "gentags.nvim",
@@ -5251,14 +5235,6 @@
             "config": "distroupdate_nvim.lua",
             "url": "https://github.com/Zeioth/distroupdate.nvim",
             "description": "Distro agnostic updater to get the latest changes from the Git repository of your config."
-        },
-        {
-            "path": "SUSTech-data/neopyter",
-            "owner": "SUSTech-data",
-            "name": "neopyter",
-            "config": "neopyter.lua",
-            "url": "https://github.com/SUSTech-data/neopyter",
-            "description": "Edit in Neovim and preview/run in Jupyter Lab."
         },
         {
             "path": "terje/simctl.nvim",
@@ -5291,14 +5267,6 @@
             "config": "in_and_out_nvim.lua",
             "url": "https://github.com/ysmb-wtsg/in-and-out.nvim",
             "description": "Quick navigation in and out of surrounding characters."
-        },
-        {
-            "path": "niuiic/todo.nvim",
-            "owner": "niuiic",
-            "name": "todo.nvim",
-            "config": "todo_nvim.lua",
-            "url": "https://github.com/niuiic/todo.nvim",
-            "description": "Simple but powerful todo manager based on text."
         },
         {
             "path": "ellisonleao/dotenv.nvim",
@@ -5355,14 +5323,6 @@
             "config": "endec_nvim.lua",
             "url": "https://github.com/ovk/endec.nvim",
             "description": "Encode, decode and re-encode text using Base64, Base64URL and URL (percent) encodings."
-        },
-        {
-            "path": "kiyoon/jupynium.nvim",
-            "owner": "kiyoon",
-            "name": "jupynium.nvim",
-            "config": "jupynium_nvim.lua",
-            "url": "https://github.com/kiyoon/jupynium.nvim",
-            "description": "Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time."
         },
         {
             "path": "y3owk1n/time-machine.nvim",
@@ -5429,14 +5389,6 @@
             "description": "Use any language that compiles to Lua anywhere in your Neovim configuration."
         },
         {
-            "path": "markgandolfo/lightswitch.nvim",
-            "owner": "markgandolfo",
-            "name": "lightswitch.nvim",
-            "config": "lightswitch_nvim.lua",
-            "url": "https://github.com/markgandolfo/lightswitch.nvim",
-            "description": "Toggle various options using the `nui.nvim` library."
-        },
-        {
             "path": "johannww/tts.nvim",
             "owner": "johannww",
             "name": "tts.nvim",
@@ -5467,14 +5419,6 @@
             "config": "mru_nvim.lua",
             "url": "https://github.com/wsdjeg/mru.nvim",
             "description": "Manage and display your Most Recently Used (MRU) files."
-        },
-        {
-            "path": "gruvw/strudel.nvim",
-            "owner": "gruvw",
-            "name": "strudel.nvim",
-            "config": "strudel_nvim.lua",
-            "url": "https://github.com/gruvw/strudel.nvim",
-            "description": "Live coding controller for [strudel](https://strudel.cc)."
         },
         {
             "path": "wsdjeg/ctags.nvim",
@@ -6855,6 +6799,14 @@
             "config": "remarks_nvim.lua",
             "url": "https://github.com/Enigama/remarks.nvim",
             "description": "Personal developer notes attached to Git commits."
+        },
+        {
+            "path": "Salanoid/gitlogdiff.nvim",
+            "owner": "Salanoid",
+            "name": "gitlogdiff.nvim",
+            "config": "gitlogdiff_nvim.lua",
+            "url": "https://github.com/Salanoid/gitlogdiff.nvim",
+            "description": "Diff between multiple git commits, similar to JetBrains's git log."
         }
     ],
     "GitHub": [
@@ -8671,6 +8623,46 @@
             "description": "Provides remote collaboration capabilities from anywhere, making it ideal for pair-programming scenarios."
         },
         {
+            "path": "hat0uma/prelive.nvim",
+            "owner": "hat0uma",
+            "name": "prelive.nvim",
+            "config": "prelive_nvim.lua",
+            "url": "https://github.com/hat0uma/prelive.nvim",
+            "description": "A simple luv-based development server with live reloading."
+        },
+        {
+            "path": "hat0uma/doxygen-previewer.nvim",
+            "owner": "hat0uma",
+            "name": "doxygen-previewer.nvim",
+            "config": "doxygen_previewer_nvim.lua",
+            "url": "https://github.com/hat0uma/doxygen-previewer.nvim",
+            "description": "Live previewing of Doxygen documentation."
+        },
+        {
+            "path": "SUSTech-data/neopyter",
+            "owner": "SUSTech-data",
+            "name": "neopyter",
+            "config": "neopyter.lua",
+            "url": "https://github.com/SUSTech-data/neopyter",
+            "description": "Edit in Neovim and preview/run in Jupyter Lab."
+        },
+        {
+            "path": "kiyoon/jupynium.nvim",
+            "owner": "kiyoon",
+            "name": "jupynium.nvim",
+            "config": "jupynium_nvim.lua",
+            "url": "https://github.com/kiyoon/jupynium.nvim",
+            "description": "Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time."
+        },
+        {
+            "path": "gruvw/strudel.nvim",
+            "owner": "gruvw",
+            "name": "strudel.nvim",
+            "config": "strudel_nvim.lua",
+            "url": "https://github.com/gruvw/strudel.nvim",
+            "description": "Live coding controller for [strudel](https://strudel.cc)."
+        },
+        {
             "path": "~henriquehbr/ataraxis.lua",
             "owner": "~henriquehbr",
             "name": "ataraxis.lua",
@@ -9597,6 +9589,30 @@
             "description": "Toggles smoothly between number and relative numbers, supporting various number combinations, highly customizable."
         },
         {
+            "path": "LukasPietzschmann/telescope-tabs",
+            "owner": "LukasPietzschmann",
+            "name": "telescope-tabs",
+            "config": "telescope_tabs.lua",
+            "url": "https://github.com/LukasPietzschmann/telescope-tabs",
+            "description": "Quickly navigate between tabs using telescope."
+        },
+        {
+            "path": "ariel-frischer/bmessages.nvim",
+            "owner": "ariel-frischer",
+            "name": "bmessages.nvim",
+            "config": "bmessages_nvim.lua",
+            "url": "https://github.com/ariel-frischer/bmessages.nvim",
+            "description": "Replace the default `:messages` window with a configurable, auto-updating buffer."
+        },
+        {
+            "path": "markgandolfo/lightswitch.nvim",
+            "owner": "markgandolfo",
+            "name": "lightswitch.nvim",
+            "config": "lightswitch_nvim.lua",
+            "url": "https://github.com/markgandolfo/lightswitch.nvim",
+            "description": "Toggle various options using the `nui.nvim` library."
+        },
+        {
             "path": "tokiory/neovim-boilerplate",
             "owner": "tokiory",
             "name": "neovim-boilerplate",
@@ -9627,14 +9643,6 @@
             "config": "awesome_vim#tools.lua",
             "url": "https://github.com/akrawchyk/awesome-vim#tools",
             "description": "A short list of Vim plugins and helpful guides."
-        },
-        {
-            "path": "altermo/vim-plugin-list",
-            "owner": "altermo",
-            "name": "vim-plugin-list",
-            "config": "vim_plugin_list.lua",
-            "url": "https://github.com/altermo/vim-plugin-list",
-            "description": "List of Vim and Neovim plugins."
         },
         {
             "path": "Neovimcraft",
