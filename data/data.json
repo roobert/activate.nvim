@@ -6847,6 +6847,14 @@
             "config": "commitmate_nvim.lua",
             "url": "https://github.com/ajatdarojat45/commitmate.nvim",
             "description": "An AI-assisted commit message generator following common commit conventions."
+        },
+        {
+            "path": "Enigama/remarks.nvim",
+            "owner": "Enigama",
+            "name": "remarks.nvim",
+            "config": "remarks_nvim.lua",
+            "url": "https://github.com/Enigama/remarks.nvim",
+            "description": "Personal developer notes attached to Git commits."
         }
     ],
     "GitHub": [
