@@ -1369,6 +1369,14 @@
             "config": "nurl_nvim.lua",
             "url": "https://github.com/rodrigoscc/nurl.nvim",
             "description": "HTTP client with requests defined in pure Lua."
+        },
+        {
+            "path": "cjodo/convert.nvim",
+            "owner": "cjodo",
+            "name": "convert.nvim",
+            "config": "convert_nvim.lua",
+            "url": "https://github.com/cjodo/convert.nvim",
+            "description": "Helps with CSS unit conversions."
         }
     ],
     "Markdown and LaTeX": [
