@@ -2739,6 +2739,14 @@
             "description": "Change working directory to project root."
         },
         {
+            "path": "cosmicbuffalo/root_swapper.nvim",
+            "owner": "cosmicbuffalo",
+            "name": "root_swapper.nvim",
+            "config": "root_swapper_nvim.lua",
+            "url": "https://github.com/cosmicbuffalo/root_swapper.nvim",
+            "description": "Lightweight root swapper that uses `lcd` to swap to the appropriate root directory based on the current buffer."
+        },
+        {
             "path": "mrjones2014/codesettings.nvim",
             "owner": "mrjones2014",
             "name": "codesettings.nvim",
@@ -6535,6 +6543,14 @@
             "config": "projektgunnar_nvim.lua",
             "url": "https://github.com/JesperLundberg/projektgunnar.nvim",
             "description": "C# dependency manager with support for handling references between projects and solution files."
+        },
+        {
+            "path": "cosmicbuffalo/gem_install.nvim",
+            "owner": "cosmicbuffalo",
+            "name": "gem_install.nvim",
+            "config": "gem_install_nvim.lua",
+            "url": "https://github.com/cosmicbuffalo/gem_install.nvim",
+            "description": "Install Ruby gems, trigger `bundle install` and `gem install` with progress and caching to prevent retries when installs fail."
         },
         {
             "path": "mrloop/telescope-git-branch.nvim",
