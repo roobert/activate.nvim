@@ -9135,6 +9135,14 @@
             "description": "Explore, query, and edit MongoDB collections directly through a Telescope-powered dashboard."
         },
         {
+            "path": "abdellatif-temsamani/adev.nvim",
+            "owner": "abdellatif-temsamani",
+            "name": "adev.nvim",
+            "config": "adev_nvim.lua",
+            "url": "https://github.com/abdellatif-temsamani/adev.nvim",
+            "description": "The over-engineered Neovim distribution for developers who want everything."
+        },
+        {
             "path": "pgosar/CyberNvim",
             "owner": "pgosar",
             "name": "CyberNvim",
