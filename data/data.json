@@ -1255,6 +1255,14 @@
             "config": "yaml_nvim.lua",
             "url": "https://tangled.org/cuducos.me/yaml.nvim",
             "description": "Utils to work with YAML files."
+        },
+        {
+            "path": "mosheavni/yaml-companion.nvim",
+            "owner": "mosheavni",
+            "name": "yaml-companion.nvim",
+            "config": "yaml_companion_nvim.lua",
+            "url": "https://github.com/mosheavni/yaml-companion.nvim",
+            "description": "Automatic schema detection and selection for YAML files with `yaml-language-server`, including built-in Kubernetes support."
         }
     ],
     "Web Development": [
