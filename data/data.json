@@ -9637,6 +9637,14 @@
             "description": "Toggle various options using the `nui.nvim` library."
         },
         {
+            "path": "wsdjeg/calendar.nvim",
+            "owner": "wsdjeg",
+            "name": "calendar.nvim",
+            "config": "calendar_nvim.lua",
+            "url": "https://github.com/wsdjeg/calendar.nvim",
+            "description": "A simple floating calendar with extensions support."
+        },
+        {
             "path": "tokiory/neovim-boilerplate",
             "owner": "tokiory",
             "name": "neovim-boilerplate",
