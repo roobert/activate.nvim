@@ -1557,14 +1557,6 @@
             "description": "A Markdown table editor that formats the table as you type."
         },
         {
-            "path": "brianhuster/live-preview.nvim",
-            "owner": "brianhuster",
-            "name": "live-preview.nvim",
-            "config": "live_preview_nvim.lua",
-            "url": "https://github.com/brianhuster/live-preview.nvim",
-            "description": "Live preview HTML, Markdown and Asciidoc in the browser."
-        },
-        {
             "path": "timantipov/md-table-tidy.nvim",
             "owner": "timantipov",
             "name": "md-table-tidy.nvim",
@@ -5535,6 +5527,14 @@
             "description": "Add fancy sub-cursor to signcolumn to show your scroll or jump direction."
         },
         {
+            "path": "stikypiston/smudge.nvim",
+            "owner": "stikypiston",
+            "name": "smudge.nvim",
+            "config": "smudge_nvim.lua",
+            "url": "https://github.com/stikypiston/smudge.nvim",
+            "description": "Performant cursor animations."
+        },
+        {
             "path": "LuxVim/nvim-luxterm",
             "owner": "LuxVim",
             "name": "nvim-luxterm",
@@ -6015,6 +6015,14 @@
             "config": "neotest_busted.lua",
             "url": "https://github.com/MisanthropicBit/neotest-busted",
             "description": "Neotest adapter for running busted tests using Neovim as a Lua interpreter."
+        },
+        {
+            "path": "mr-u0b0dy/crazy-coverage.nvim",
+            "owner": "mr-u0b0dy",
+            "name": "crazy-coverage.nvim",
+            "config": "crazy_coverage_nvim.lua",
+            "url": "https://github.com/mr-u0b0dy/crazy-coverage.nvim",
+            "description": "Display code coverage."
         },
         {
             "path": "michaelb/sniprun",
@@ -8653,6 +8661,14 @@
             "config": "doxygen_previewer_nvim.lua",
             "url": "https://github.com/hat0uma/doxygen-previewer.nvim",
             "description": "Live previewing of Doxygen documentation."
+        },
+        {
+            "path": "brianhuster/live-preview.nvim",
+            "owner": "brianhuster",
+            "name": "live-preview.nvim",
+            "config": "live_preview_nvim.lua",
+            "url": "https://github.com/brianhuster/live-preview.nvim",
+            "description": "Live preview HTML, Markdown and Asciidoc in the browser."
         },
         {
             "path": "SUSTech-data/neopyter",
