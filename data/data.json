@@ -8201,6 +8201,14 @@
             "config": "dooku_nvim.lua",
             "url": "https://github.com/Zeioth/dooku.nvim",
             "description": "Generate and open your HTML code documentation."
+        },
+        {
+            "path": "georgeharker/comment-tasks.nvim",
+            "owner": "georgeharker",
+            "name": "comment-tasks.nvim",
+            "config": "comment_tasks_nvim.lua",
+            "url": "https://github.com/georgeharker/comment-tasks.nvim",
+            "description": "Keep your task manager up to date from TODO and FIXME comments in code."
         }
     ],
     "Folding": [
