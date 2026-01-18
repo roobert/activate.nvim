@@ -5085,6 +5085,14 @@
             "description": "Various utilities to enhance the studying and note-taking experience."
         },
         {
+            "path": "iwe-org/iwe.nvim",
+            "owner": "iwe-org",
+            "name": "iwe.nvim",
+            "config": "iwe_nvim.lua",
+            "url": "https://github.com/iwe-org/iwe.nvim",
+            "description": "Integration with `IWE`, an LSP designed for Markdown-based knowledge management and note-taking workflows."
+        },
+        {
             "path": "necrom4/calcium.nvim",
             "owner": "necrom4",
             "name": "calcium.nvim",
