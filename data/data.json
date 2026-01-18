@@ -6481,6 +6481,14 @@
             "description": "A simple lazy loading library for Neovim plugins."
         },
         {
+            "path": "jrop/morph.nvim",
+            "owner": "jrop",
+            "name": "morph.nvim",
+            "config": "morph_nvim.lua",
+            "url": "https://github.com/jrop/morph.nvim",
+            "description": "A React-like renderer for building interactive buffers/TUIs."
+        },
+        {
             "path": "aileot/nvim-thyme",
             "owner": "aileot",
             "name": "nvim-thyme",
