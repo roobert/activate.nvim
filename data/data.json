@@ -8615,6 +8615,14 @@
             "description": "A lightweight plugin to manage session based on current working directory."
         },
         {
+            "path": "Akmadan23/local-session.nvim",
+            "owner": "Akmadan23",
+            "name": "local-session.nvim",
+            "config": "local_session_nvim.lua",
+            "url": "https://github.com/Akmadan23/local-session.nvim",
+            "description": "A fast, minimal and implicit current-working-directory-based session manager with easy to configure session files in Lua."
+        },
+        {
             "path": "inhesrom/remote-ssh.nvim",
             "owner": "inhesrom",
             "name": "remote-ssh.nvim",
@@ -9595,6 +9603,14 @@
             "config": "visual_whitespace_nvim.lua",
             "url": "https://github.com/mcauley-penney/visual-whitespace.nvim",
             "description": "See whitespace characters in Visual selections, like VSCode."
+        },
+        {
+            "path": "jrop/tuis.nvim",
+            "owner": "jrop",
+            "name": "tuis.nvim",
+            "config": "tuis_nvim.lua",
+            "url": "https://github.com/jrop/tuis.nvim",
+            "description": "A collection of interactive TUIs which provides rich, interactive UIs to various CLIs."
         },
         {
             "path": "matbme/JABS.nvim",
