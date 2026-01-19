@@ -3491,6 +3491,14 @@
             "description": "**_`[TS][LSP][L/D][Lua]`_** Warm mid-tone dark theme to show off your vibrant self! With support for native LSP, Tree-sitter, and more."
         },
         {
+            "path": "samesense/savitsky.nvim",
+            "owner": "samesense",
+            "name": "savitsky.nvim",
+            "config": "savitsky_nvim.lua",
+            "url": "https://github.com/samesense/savitsky.nvim",
+            "description": "**_`[TS][LSP][L/D][Lua]`_** Curated color palettes inspired by paintings from the Savitsky Museum, built on top of `catppuccin`."
+        },
+        {
             "path": "FrenzyExists/aquarium-vim",
             "owner": "FrenzyExists",
             "name": "aquarium-vim",
