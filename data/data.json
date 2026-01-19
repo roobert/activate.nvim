@@ -6863,6 +6863,14 @@
             "config": "gitlogdiff_nvim.lua",
             "url": "https://github.com/Salanoid/gitlogdiff.nvim",
             "description": "Diff between multiple git commits, similar to JetBrains's git log."
+        },
+        {
+            "path": "Sengoku11/commitpad.nvim",
+            "owner": "Sengoku11",
+            "name": "commitpad.nvim",
+            "config": "commitpad_nvim.lua",
+            "url": "https://github.com/Sengoku11/commitpad.nvim",
+            "description": "Write informative commits with persistent worktree-isolated drafts, visual 50/72 guides, and a Markdown buffer."
         }
     ],
     "GitHub": [
