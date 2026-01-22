@@ -6870,7 +6870,7 @@
             "name": "gitlogdiff.nvim",
             "config": "gitlogdiff_nvim.lua",
             "url": "https://github.com/Salanoid/gitlogdiff.nvim",
-            "description": "Diff between multiple git commits, similar to JetBrains's git log."
+            "description": "Diff between multiple Git commits, similar to JetBrains's Git log."
         },
         {
             "path": "Sengoku11/commitpad.nvim",
