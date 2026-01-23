@@ -5101,6 +5101,14 @@
             "description": "Integration with `IWE`, an LSP designed for Markdown-based knowledge management and note-taking workflows."
         },
         {
+            "path": "StefanBartl/color_my_ascii.nvim",
+            "owner": "StefanBartl",
+            "name": "color_my_ascii.nvim",
+            "config": "color_my_ascii_nvim.lua",
+            "url": "https://github.com/StefanBartl/color_my_ascii.nvim",
+            "description": "Colorful highlighting of ASCII art in Markdown code blocks."
+        },
+        {
             "path": "necrom4/calcium.nvim",
             "owner": "necrom4",
             "name": "calcium.nvim",
