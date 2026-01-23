@@ -1377,6 +1377,14 @@
             "config": "convert_nvim.lua",
             "url": "https://github.com/cjodo/convert.nvim",
             "description": "Helps with CSS unit conversions."
+        },
+        {
+            "path": "tednguyendev/recent_rails.nvim",
+            "owner": "tednguyendev",
+            "name": "recent_rails.nvim",
+            "config": "recent_rails_nvim.lua",
+            "url": "https://github.com/tednguyendev/recent_rails.nvim",
+            "description": "Telescope picker for recent Rails actions, views, and errors."
         }
     ],
     "Markdown and LaTeX": [
