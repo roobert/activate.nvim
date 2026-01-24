@@ -3192,7 +3192,7 @@
             "name": "oxocarbon.nvim",
             "config": "oxocarbon_nvim.lua",
             "url": "https://github.com/nyoom-engineering/oxocarbon.nvim",
-            "description": "**_`[TS][LSP][L/D][Lua]`_** A dark and light theme written in fennel, inspired by IBM Carbon."
+            "description": "**_`[TS][LSP][L/D][Lua]`_** A dark and light theme written in Fennel, inspired by IBM Carbon."
         },
         {
             "path": "mhartington/oceanic-next",
@@ -6558,7 +6558,7 @@
             "name": "tangerine.nvim",
             "config": "tangerine_nvim.lua",
             "url": "https://github.com/udayvir-singh/tangerine.nvim",
-            "description": "Tangerine provides a painless way to add fennel to your config."
+            "description": "Tangerine provides a painless way to add Fennel to your config."
         },
         {
             "path": "udayvir-singh/hibiscus.nvim",
@@ -9195,6 +9195,14 @@
             "config": "timers_nvim.lua",
             "url": "https://github.com/ravsii/timers.nvim",
             "description": "Timer manager, a clean Lua API, supporting multiple timers, persistence, UI, and plugin integrations."
+        },
+        {
+            "path": "Rtarun3606k/takatime",
+            "owner": "Rtarun3606k",
+            "name": "takatime",
+            "config": "takatime.lua",
+            "url": "https://github.com/Rtarun3606k/takatime",
+            "description": "Privacy-first WakaTime alternative using Go and MongoDB."
         }
     ],
     "Automation": [
