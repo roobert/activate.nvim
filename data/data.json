@@ -2163,6 +2163,14 @@
             "description": "Display marks in the buffer gutter."
         },
         {
+            "path": "2KAbhishek/seeker.nvim",
+            "owner": "2KAbhishek",
+            "name": "seeker.nvim",
+            "config": "seeker_nvim.lua",
+            "url": "https://github.com/2KAbhishek/seeker.nvim",
+            "description": "Progressive file seeker built on top of `snacks.nvim`."
+        },
+        {
             "path": "wurli/visimatch.nvim",
             "owner": "wurli",
             "name": "visimatch.nvim",
@@ -4850,7 +4858,7 @@
             "name": "todo.nvim",
             "config": "todo_nvim.lua",
             "url": "https://github.com/niuiic/todo.nvim",
-            "description": "Simple but powerful todo manager based on text."
+            "description": "Simple but powerful TODO manager based on text."
         },
         {
             "path": "flashcodes-themayankjha/Fknotes.nvim",
@@ -4858,7 +4866,7 @@
             "name": "Fknotes.nvim",
             "config": "Fknotes_nvim.lua",
             "url": "https://github.com/flashcodes-themayankjha/Fknotes.nvim",
-            "description": "Take notes, TODOS from anywhere inside your project, search all todos, get reminders and more."
+            "description": "Take notes, TODOs from anywhere inside your project, search all TODOs, get reminders and more."
         },
         {
             "path": "apdot/doodle",
@@ -4882,7 +4890,7 @@
             "name": "checkmate.nvim",
             "config": "checkmate_nvim.lua",
             "url": "https://github.com/bngarren/checkmate.nvim",
-            "description": "A full-featured Markdown-based todo plugin."
+            "description": "A full-featured Markdown-based TODO plugin."
         },
         {
             "path": "lfilho/note2cal.nvim",
@@ -8168,7 +8176,7 @@
             "name": "todo-comments.nvim",
             "config": "todo_comments_nvim.lua",
             "url": "https://github.com/folke/todo-comments.nvim",
-            "description": "Highlight, list and search todo comments in your projects."
+            "description": "Highlight, list and search TODO comments in your projects."
         },
         {
             "path": "alexmozaidze/tree-comment.nvim",
@@ -8370,7 +8378,7 @@
             "name": "nvim-strict",
             "config": "nvim_strict.lua",
             "url": "https://github.com/emileferreira/nvim-strict",
-            "description": "Strict, native code style formatting which exposes deep nesting, overlong lines, trailing whitespace, trailing empty lines, todos and inconsistent indentation."
+            "description": "Strict, native code style formatting which exposes deep nesting, overlong lines, trailing whitespace, trailing empty lines, TODOs and inconsistent indentation."
         },
         {
             "path": "~nedia/auto-format.nvim",
