@@ -6903,6 +6903,14 @@
             "config": "commitpad_nvim.lua",
             "url": "https://github.com/Sengoku11/commitpad.nvim",
             "description": "Write informative commits with persistent worktree-isolated drafts, visual 50/72 guides, and a Markdown buffer."
+        },
+        {
+            "path": "BibekBhusal0/nvim-git-utils",
+            "owner": "BibekBhusal0",
+            "name": "nvim-git-utils",
+            "config": "nvim_git_utils.lua",
+            "url": "https://github.com/BibekBhusal0/nvim-git-utils",
+            "description": "Simple commands to make life easier while working with Git."
         }
     ],
     "GitHub": [
