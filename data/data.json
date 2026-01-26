@@ -5823,6 +5823,14 @@
             "description": "Edit GPG encrypted files symmetrically."
         },
         {
+            "path": "gh-liu/nvim-winterm",
+            "owner": "gh-liu",
+            "name": "nvim-winterm",
+            "config": "nvim_winterm.lua",
+            "url": "https://github.com/gh-liu/nvim-winterm",
+            "description": "Multi-terminal window manager."
+        },
+        {
             "path": "mfussenegger/nvim-dap",
             "owner": "mfussenegger",
             "name": "nvim-dap",
@@ -8323,6 +8331,14 @@
             "config": "inline_fold_nvim.lua",
             "url": "https://github.com/malbertzard/inline-fold.nvim",
             "description": "Hide certain elements inline like long CSS classes or `href` content."
+        },
+        {
+            "path": "netmute/foldchanged.nvim",
+            "owner": "netmute",
+            "name": "foldchanged.nvim",
+            "config": "foldchanged_nvim.lua",
+            "url": "https://github.com/netmute/foldchanged.nvim",
+            "description": "Adds a `FoldChanged` User event."
         },
         {
             "path": "netmute/foldsigns.nvim",
