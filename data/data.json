@@ -5499,6 +5499,14 @@
             "config": "cheaty_nvim.lua",
             "url": "https://github.com/stikypiston/cheaty.nvim",
             "description": "A simple, configurable cheatsheet."
+        },
+        {
+            "path": "stikypiston/unobtrusive-relnums.nvim",
+            "owner": "stikypiston",
+            "name": "unobtrusive-relnums.nvim",
+            "config": "unobtrusive_relnums_nvim.lua",
+            "url": "https://github.com/stikypiston/unobtrusive-relnums",
+            "description": "Unobtrusive relative line numbers in the sign column."
         }
     ],
     "CSV Files": [
