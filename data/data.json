@@ -8933,6 +8933,14 @@
             "config": "windowcolumns_nvim.lua",
             "url": "https://github.com/mkajsjo/windowcolumns.nvim",
             "description": "Column-first window management."
+        },
+        {
+            "path": "aronjohanns/smooth-resize.nvim",
+            "owner": "aronjohanns",
+            "name": "smooth-resize.nvim",
+            "config": "smooth_resize_nvim.lua",
+            "url": "https://github.com/aronjohanns/smooth-resize.nvim",
+            "description": "Smooth, continuous window resizing with the default window resizing mappings."
         }
     ],
     "Tmux": [
