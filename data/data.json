@@ -5117,6 +5117,14 @@
             "description": "Integration with `IWE`, an LSP designed for Markdown-based knowledge management and note-taking workflows."
         },
         {
+            "path": "carloscalla/notepad.nvim",
+            "owner": "carloscalla",
+            "name": "notepad.nvim",
+            "config": "notepad_nvim.lua",
+            "url": "https://github.com/carloscalla/notepad.nvim",
+            "description": "Quick note-taking in Markdown with both repo-specific and global notepad support."
+        },
+        {
             "path": "StefanBartl/color_my_ascii.nvim",
             "owner": "StefanBartl",
             "name": "color_my_ascii.nvim",
