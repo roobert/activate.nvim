@@ -674,7 +674,7 @@
             "name": "blink.cmp",
             "config": "blink_cmp.lua",
             "url": "https://github.com/saghen/blink.cmp",
-            "description": "Really fast completion with LSP & snippet support, along with signature help, cmdline completion, and autobracket support (based on semantic tokens)."
+            "description": "Really fast completion with LSP and snippet support, along with signature help, cmdline completion, and autobracket support (based on semantic tokens)."
         },
         {
             "path": "zbirenbaum/copilot.lua",
@@ -2136,7 +2136,7 @@
             "name": "warp.nvim",
             "config": "warp_nvim.lua",
             "url": "https://github.com/y3owk1n/warp.nvim",
-            "description": "Simple harpoon alternative that focuses on marking & navigating between files."
+            "description": "Simple harpoon alternative that focuses on marking and navigating between files."
         },
         {
             "path": "walkersumida/fusen.nvim",
@@ -2872,7 +2872,7 @@
             "name": "buffer-sticks.nvim",
             "config": "buffer_sticks_nvim.lua",
             "url": "https://github.com/ahkohd/buffer-sticks.nvim",
-            "description": "Cosmetic buffers indicator & picker."
+            "description": "Cosmetic buffers indicator and picker."
         },
         {
             "path": "famiu/bufdelete.nvim",
@@ -3192,7 +3192,7 @@
             "name": "sonokai",
             "config": "sonokai.lua",
             "url": "https://github.com/sainnhe/sonokai",
-            "description": "**_`[TS][LSP]`_** High Contrast & Vivid Color Scheme based on Monokai Pro."
+            "description": "**_`[TS][LSP]`_** High Contrast and Vivid Color Scheme based on Monokai Pro."
         },
         {
             "path": "nyoom-engineering/oxocarbon.nvim",
@@ -3840,7 +3840,7 @@
             "name": "cyberdream.nvim",
             "config": "cyberdream_nvim.lua",
             "url": "https://github.com/scottmckendry/cyberdream.nvim",
-            "description": "**_`[TS][L/D][Lua]`_** A high-contrast, futuristic & vibrant coloursheme."
+            "description": "**_`[TS][L/D][Lua]`_** A high-contrast, futuristic and vibrant coloursheme."
         },
         {
             "path": "HoNamDuong/hybrid.nvim",
@@ -4082,7 +4082,7 @@
             "name": "colorbuddy.nvim",
             "config": "colorbuddy_nvim.lua",
             "url": "https://github.com/tjdevries/colorbuddy.nvim",
-            "description": "A colorscheme helper. Written in Lua! Quick & Easy Color Schemes."
+            "description": "A colorscheme helper. Written in Lua! Quick and Easy Color Schemes."
         },
         {
             "path": "norcalli/nvim-base16.lua",
@@ -4340,7 +4340,7 @@
             "name": "bars.nvim",
             "config": "bars_nvim.lua",
             "url": "https://github.com/OXY2DEV/bars.nvim",
-            "description": "A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar."
+            "description": "A starting point/guide for creating custom statusline, statuscolumn, tabline and winbar."
         }
     ],
     "Statusline": [
@@ -4914,7 +4914,7 @@
             "name": "mkdnflow.nvim",
             "config": "mkdnflow_nvim.lua",
             "url": "https://github.com/jakewvincent/mkdnflow.nvim",
-            "description": "Fluent Markdown notebook navigation & management (create links, follow links, create and manage to-do lists, reference bib files, and more)."
+            "description": "Fluent Markdown notebook navigation and management (create links, follow links, create and manage to-do lists, reference bib files, and more)."
         },
         {
             "path": "jbyuki/nabla.nvim",
@@ -5556,7 +5556,7 @@
             "name": "nvim-luxmotion",
             "config": "nvim_luxmotion.lua",
             "url": "https://github.com/LuxVim/nvim-luxmotion",
-            "description": "Smooth, high\u2011performance motion & scrolling animations \u2014 60fps fluid cursor moves, word jumps, and viewport scrolling, all in one."
+            "description": "Smooth, high\u2011performance motion and scrolling animations \u2014 60fps fluid cursor moves, word jumps, and viewport scrolling, all in one."
         },
         {
             "path": "sphamba/smear-cursor.nvim",
@@ -5708,7 +5708,7 @@
             "name": "nvim-terminal",
             "config": "nvim_terminal.lua",
             "url": "https://github.com/s1n7ax/nvim-terminal",
-            "description": "A simple & easy to use multi-terminal plugin."
+            "description": "A simple and easy to use multi-terminal plugin."
         },
         {
             "path": "logicmagix/tide42",
@@ -6366,7 +6366,7 @@
             "name": "vlog.nvim",
             "config": "vlog_nvim.lua",
             "url": "https://github.com/tjdevries/vlog.nvim",
-            "description": "Single file, no dependency, easy copy & paste log file to add to your Neovim Lua plugins."
+            "description": "Single file, no dependency, easy copy and paste log file to add to your Neovim Lua plugins."
         },
         {
             "path": "bfredl/nvim-luadev",
@@ -6478,7 +6478,7 @@
             "name": "helpview.nvim",
             "config": "helpview_nvim.lua",
             "url": "https://github.com/OXY2DEV/helpview.nvim",
-            "description": "A hackable & fancy `vimdoc/help` file viewer."
+            "description": "A hackable and fancy `vimdoc/help` file viewer."
         },
         {
             "path": "niuiic/omega.nvim",
@@ -7870,7 +7870,7 @@
             "name": "duplicate.nvim",
             "config": "duplicate_nvim.lua",
             "url": "https://github.com/hinell/duplicate.nvim",
-            "description": "Duplicate lines & blocks of lines easily; undo & unfolding support; full OOP."
+            "description": "Duplicate lines and blocks of lines easily; undo and unfolding support; full OOP."
         },
         {
             "path": "hinell/move.nvim",
@@ -7974,7 +7974,7 @@
             "name": "auto-save.nvim",
             "config": "auto_save_nvim.lua",
             "url": "https://git.sr.ht/~nedia/auto-save.nvim",
-            "description": "Extremely simple auto saving on `InsertLeave` & `TextChanged`. Based on Pocco81/AutoSave but lighter."
+            "description": "Extremely simple auto saving on `InsertLeave` and `TextChanged`. Based on Pocco81/AutoSave but lighter."
         },
         {
             "path": "nvim-mini/mini.nvim#mini.basics",
@@ -8086,7 +8086,7 @@
             "name": "foldtext.nvim",
             "config": "foldtext_nvim.lua",
             "url": "https://github.com/OXY2DEV/foldtext.nvim",
-            "description": "Dynamic & stylized foldtext."
+            "description": "Dynamic and stylized foldtext."
         },
         {
             "path": "tummetott/unimpaired.nvim",
@@ -8900,7 +8900,7 @@
             "name": "ventana.nvim",
             "config": "ventana_nvim.lua",
             "url": "https://github.com/jyscao/ventana.nvim",
-            "description": "Convenient flips & shifts for your windows layout."
+            "description": "Convenient flips and shifts for your windows layout."
         },
         {
             "path": "mrjones2014/smart-splits.nvim",
