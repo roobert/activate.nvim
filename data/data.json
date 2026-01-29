@@ -6935,6 +6935,14 @@
             "config": "nvim_git_utils.lua",
             "url": "https://github.com/BibekBhusal0/nvim-git-utils",
             "description": "Simple commands to make life easier while working with Git."
+        },
+        {
+            "path": "spacedentist/resolve.nvim",
+            "owner": "spacedentist",
+            "name": "resolve.nvim",
+            "config": "resolve_nvim.lua",
+            "url": "https://github.com/spacedentist/resolve.nvim",
+            "description": "Resolve merge conflicts with ease."
         }
     ],
     "GitHub": [
