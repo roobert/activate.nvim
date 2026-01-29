@@ -2288,7 +2288,7 @@
             "name": "nvim-rip-substitute",
             "config": "nvim_rip_substitute.lua",
             "url": "https://github.com/chrisgrieser/nvim-rip-substitute",
-            "description": "Search and replace in the current buffer with a modern UI and modern regex flavor. A substitute for Vim's `:substitute` using `ripgrep`."
+            "description": "Search and replace in the current buffer or workspace with incremental preview, a convenient UI, and modern regex syntax."
         },
         {
             "path": "wsdjeg/flygrep.nvim",
