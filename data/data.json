@@ -2315,6 +2315,14 @@
             "description": "Simple, effective, search and replace functionality for the pragmatic engineer."
         },
         {
+            "path": "bravoecho/brook.nvim",
+            "owner": "bravoecho",
+            "name": "brook.nvim",
+            "config": "brook_nvim.lua",
+            "url": "https://github.com/bravoecho/brook.nvim",
+            "description": "Responsive, shell-safe ripgrep search for the quickfix list, with native n/N navigation. "
+        },
+        {
             "path": "nvim-telescope/telescope.nvim",
             "owner": "nvim-telescope",
             "name": "telescope.nvim",
