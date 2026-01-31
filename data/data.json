@@ -3051,6 +3051,14 @@
             "description": "A lightweight color palette plugin that supports a wide range of color models."
         },
         {
+            "path": "silentium-theme/silentium.nvim",
+            "owner": "silentium-theme",
+            "name": "silentium.nvim",
+            "config": "silentium_nvim.lua",
+            "url": "https://github.com/silentium-theme/silentium.nvim",
+            "description": "**_`[TS][Lu\u0430]`_** Pragmatic and monochrome theme with the goal to increase reading speed and reduce eye strain by highlighting only what is needed."
+        },
+        {
             "path": "serhez/teide.nvim",
             "owner": "serhez",
             "name": "teide.nvim",
