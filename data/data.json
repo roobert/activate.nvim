@@ -6967,6 +6967,14 @@
             "config": "resolve_nvim.lua",
             "url": "https://github.com/spacedentist/resolve.nvim",
             "description": "Resolve merge conflicts with ease."
+        },
+        {
+            "path": "jceb/jiejie.nvim",
+            "owner": "jceb",
+            "name": "jiejie.nvim",
+            "config": "jiejie_nvim.lua",
+            "url": "https://github.com/jceb/jiejie.nvim",
+            "description": "Frontend for Jujutsu in the style of `fugitive`."
         }
     ],
     "GitHub": [
