@@ -2787,6 +2787,14 @@
             "description": "Easily load project-local settings (like `.vscode/settings.json`) into Neovim 0.11+ native LSP settings."
         },
         {
+            "path": "josephschmitt/pj.nvim",
+            "owner": "josephschmitt",
+            "name": "pj.nvim",
+            "config": "pj_nvim.lua",
+            "url": "https://github.com/josephschmitt/pj.nvim",
+            "description": "Automatic project discovery with configurable depth with multiple pickers supported (Snacks, Telescope, fzf-lua)."
+        },
+        {
             "path": "dzfrias/arena.nvim",
             "owner": "dzfrias",
             "name": "arena.nvim",
