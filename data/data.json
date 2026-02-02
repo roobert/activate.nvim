@@ -6633,6 +6633,14 @@
             "description": "Highly opinionated macros to elegantly write your config."
         },
         {
+            "path": "DrKJeff16/pipenv.nvim",
+            "owner": "DrKJeff16",
+            "name": "pipenv.nvim",
+            "config": "pipenv_nvim.lua",
+            "url": "https://github.com/DrKJeff16/pipenv.nvim",
+            "description": "Manage your [Pipenv](https://pypi.org/project/pipenv/) virtual environment while editing."
+        },
+        {
             "path": "vuki656/package-info.nvim",
             "owner": "vuki656",
             "name": "package-info.nvim",
