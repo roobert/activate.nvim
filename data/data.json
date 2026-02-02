@@ -9681,7 +9681,7 @@
             "description": "Another Neovim version manager with config switcher."
         }
     ],
-    "Boilerplate": [
+    "Plugin Template": [
         {
             "path": "gennaro-tedesco/boilit",
             "owner": "gennaro-tedesco",
