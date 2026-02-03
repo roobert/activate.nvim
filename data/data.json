@@ -3059,6 +3059,14 @@
             "description": "A lightweight color palette plugin that supports a wide range of color models."
         },
         {
+            "path": "yonatan-perel/lake-dweller.nvim",
+            "owner": "yonatan-perel",
+            "name": "lake-dweller.nvim",
+            "config": "lake_dweller_nvim.lua",
+            "url": "https://github.com/yonatan-perel/lake-dweller.nvim",
+            "description": "**_`[TS][LSP][Lua]`_** Dark and opinionated with selective highlighting aiming to be readable at a glance."
+        },
+        {
             "path": "silentium-theme/silentium.nvim",
             "owner": "silentium-theme",
             "name": "silentium.nvim",
