@@ -583,6 +583,14 @@
             "config": "ltex_extra_nvim.lua",
             "url": "https://github.com/barreiroleo/ltex_extra.nvim",
             "description": "LTeX LSP extension providing external file handling (rules and dictionaries)."
+        },
+        {
+            "path": "chojs23/ts-bridge",
+            "owner": "chojs23",
+            "name": "ts-bridge",
+            "config": "ts_bridge.lua",
+            "url": "https://github.com/chojs23/ts-bridge",
+            "description": "TypeScript language server shim that bridges the built-in LSP client with `tsserver`."
         }
     ],
     "LSP Installer": [
@@ -8901,6 +8909,14 @@
             "config": "strudel_nvim.lua",
             "url": "https://github.com/gruvw/strudel.nvim",
             "description": "Live coding controller for [strudel](https://strudel.cc)."
+        },
+        {
+            "path": "wsdjeg/tabman.nvim",
+            "owner": "wsdjeg",
+            "name": "tabman.nvim",
+            "config": "tabman_nvim.lua",
+            "url": "https://github.com/wsdjeg/tabman.nvim",
+            "description": "Navigate between tabs and the windows they contain."
         },
         {
             "path": "~henriquehbr/ataraxis.lua",
