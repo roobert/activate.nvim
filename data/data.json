@@ -7101,6 +7101,14 @@
             "description": "Enhances gf/gF/gx with look-ahead and smarter file, line/column number, and link resolution. Also provides visual targets for files/links, new motion commands, and link description retrieval."
         },
         {
+            "path": "nolleh/warp.nvim",
+            "owner": "nolleh",
+            "name": "warp.nvim",
+            "config": "warp_nvim.lua",
+            "url": "https://github.com/nolleh/warp.nvim",
+            "description": "Jump based on labels to file paths, URLs, and Markdown links from any buffer."
+        },
+        {
             "path": "tris203/precognition.nvim",
             "owner": "tris203",
             "name": "precognition.nvim",
@@ -9233,6 +9241,14 @@
             "config": "competitest_nvim.lua",
             "url": "https://github.com/xeluxee/competitest.nvim",
             "description": "A plugin to automate testcases management and checking for Competitive Programming contests."
+        },
+        {
+            "path": "barrettruth/cp.nvim",
+            "owner": "barrettruth",
+            "name": "cp.nvim",
+            "config": "cp_nvim.lua",
+            "url": "https://github.com/barrettruth/cp.nvim",
+            "description": "Competitive programming workflow for popular contest platforms (CodeForces, CSES, etc.) Includes automatic test scraping, I/O view, and diff panel."
         },
         {
             "path": "kawre/leetcode.nvim",
