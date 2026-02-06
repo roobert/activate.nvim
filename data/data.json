@@ -1635,6 +1635,14 @@
             "config": "md_outline_nvim.lua",
             "url": "https://github.com/tttol/md-outline.nvim",
             "description": "Automatically displays an outline for Markdown files."
+        },
+        {
+            "path": "rogue-87/inlyne.nvim",
+            "owner": "rogue-87",
+            "name": "inlyne.nvim",
+            "config": "inlyne_nvim.lua",
+            "url": "https://github.com/rogue-87/inlyne.nvim",
+            "description": "Wrapper for [inlyne](https://github.com/Inlyne-Project/inlyne) Markdown viewer."
         }
     ],
     "PHP": [
@@ -6791,6 +6799,14 @@
             "config": "diffview_nvim.lua",
             "url": "https://github.com/sindrets/diffview.nvim",
             "description": "Single tabpage interface for easily cycling through diffs for all modified files for any Git rev."
+        },
+        {
+            "path": "barrettruth/diffs.nvim",
+            "owner": "barrettruth",
+            "name": "diffs.nvim",
+            "config": "diffs_nvim.lua",
+            "url": "https://github.com/barrettruth/diffs.nvim",
+            "description": "Syntax highlighting for diffs with Tree-sitter support for `vim-fugitive` and `&diff` buffers."
         },
         {
             "path": "kdheepak/lazygit.nvim",
