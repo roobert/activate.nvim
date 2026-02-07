@@ -981,12 +981,12 @@
             "description": "Cursor-style inline AI editing. Select code, describe the change, and get an inline, highlighted edit you can accept or reject\u2014similar to Cursor inline workflow."
         },
         {
-            "path": "codex.nvim",
-            "owner": "",
+            "path": "ishiooon/codex.nvim",
+            "owner": "ishiooon",
             "name": "codex.nvim",
             "config": "codex_nvim.lua",
             "url": "https://github.com/ishiooon/codex.nvim",
-            "description": "Codex IDE integration inside Neovim (no API key required)."
+            "description": "Codex IDE integration, no API key required."
         },
         {
             "path": "Julian/lean.nvim",
