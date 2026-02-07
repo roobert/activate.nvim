@@ -6161,6 +6161,14 @@
             "description": "Display code coverage."
         },
         {
+            "path": "rafcamlet/nvim-luapad",
+            "owner": "rafcamlet",
+            "name": "nvim-luapad",
+            "config": "nvim_luapad.lua",
+            "url": "https://github.com/rafcamlet/nvim-luapad",
+            "description": "Interactive scratchpad for running Lua code."
+        },
+        {
             "path": "michaelb/sniprun",
             "owner": "michaelb",
             "name": "sniprun",
