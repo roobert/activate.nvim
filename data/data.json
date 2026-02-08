@@ -989,6 +989,14 @@
             "description": "Codex IDE integration, no API key required."
         },
         {
+            "path": "alessio-vivaldelli/java-creator-nvim",
+            "owner": "alessio-vivaldelli",
+            "name": "java-creator-nvim",
+            "config": "java_creator_nvim.lua",
+            "url": "https://github.com/alessio-vivaldelli/java-creator-nvim",
+            "description": "Interactive Java file creator with automatic package detection, supporting classes, interfaces, enums, records and abstract classes."
+        },
+        {
             "path": "Julian/lean.nvim",
             "owner": "Julian",
             "name": "lean.nvim",
