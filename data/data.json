@@ -2344,7 +2344,7 @@
             "name": "brook.nvim",
             "config": "brook_nvim.lua",
             "url": "https://github.com/bravoecho/brook.nvim",
-            "description": "Responsive, shell-safe ripgrep search for the quickfix list, with native n/N navigation. "
+            "description": "Responsive, shell-safe ripgrep search for the quickfix list, with native n/N navigation."
         },
         {
             "path": "nvim-telescope/telescope.nvim",
@@ -9963,6 +9963,14 @@
             "config": "calendar_nvim.lua",
             "url": "https://github.com/wsdjeg/calendar.nvim",
             "description": "A simple floating calendar with extensions support."
+        },
+        {
+            "path": "xieyonn/spinner.nvim",
+            "owner": "xieyonn",
+            "name": "spinner.nvim",
+            "config": "spinner_nvim.lua",
+            "url": "https://github.com/xieyonn/spinner.nvim",
+            "description": "Extensible spinner framework for animated spinners in statusline, tabline, winbar, buffer, cmdline, or next to the cursor."
         },
         {
             "path": "tokiory/neovim-boilerplate",
