@@ -591,6 +591,14 @@
             "config": "ts_bridge.lua",
             "url": "https://github.com/chojs23/ts-bridge",
             "description": "TypeScript language server shim that bridges the built-in LSP client with `tsserver`."
+        },
+        {
+            "path": "akioweh/lsp-document-highlight.nvim",
+            "owner": "akioweh",
+            "name": "lsp-document-highlight.nvim",
+            "config": "lsp_document_highlight_nvim.lua",
+            "url": "https://github.com/akioweh/lsp-document-highlight.nvim",
+            "description": "Instantaneous LSP symbol reference highlighting under the cursor."
         }
     ],
     "LSP Installer": [
