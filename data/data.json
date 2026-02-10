@@ -9447,6 +9447,14 @@
             "description": "Explore, query, and edit MongoDB collections directly through a Telescope-powered dashboard."
         },
         {
+            "path": "zerochae/dbab.nvim",
+            "owner": "zerochae",
+            "name": "dbab.nvim",
+            "config": "dbab_nvim.lua",
+            "url": "https://github.com/zerochae/dbab.nvim",
+            "description": "Lightweight database client with a modern UI and async execution."
+        },
+        {
             "path": "abdellatif-temsamani/adev.nvim",
             "owner": "abdellatif-temsamani",
             "name": "adev.nvim",
@@ -9827,6 +9835,14 @@
             "config": "alfred_neovim_utilities.lua",
             "url": "https://github.com/chrisgrieser/alfred-neovim-utilities",
             "description": "Search Neovim plugins and online `:help` via Alfred (macOS)."
+        },
+        {
+            "path": "iamironz/android-nvim-plugin",
+            "owner": "iamironz",
+            "name": "android-nvim-plugin",
+            "config": "android_nvim_plugin.lua",
+            "url": "https://github.com/iamironz/android-nvim-plugin",
+            "description": "Android build, deploy, and logcat commands with Gradle integration."
         },
         {
             "path": "massix/termux.nvim",
