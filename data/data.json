@@ -2696,7 +2696,7 @@
             "name": "project.nvim",
             "config": "project_nvim.lua",
             "url": "https://github.com/DrKJeff16/project.nvim",
-            "description": "An actively maintained fork of [`ahmedkhalf/project.nvim`](https://github.com/ahmedkhalf/project.nvim) with documented code, `fzf-lua` support and new features."
+            "description": "Project manager with project root detection, documented code and lots of improvements, including `snacks.nvim`, `fzf-lua` and `picker.nvim` support."
         },
         {
             "path": "klen/nvim-config-local",
