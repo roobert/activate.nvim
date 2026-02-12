@@ -7047,6 +7047,14 @@
             "config": "jiejie_nvim.lua",
             "url": "https://github.com/jceb/jiejie.nvim",
             "description": "Frontend for Jujutsu in the style of `fugitive`."
+        },
+        {
+            "path": "chojs23/ec",
+            "owner": "chojs23",
+            "name": "ec",
+            "config": "ec.lua",
+            "url": "https://github.com/chojs23/ec",
+            "description": "A TUI native Git mergetool with 3 panes."
         }
     ],
     "GitHub": [
