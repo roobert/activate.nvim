@@ -6686,7 +6686,7 @@
             "name": "pipenv.nvim",
             "config": "pipenv_nvim.lua",
             "url": "https://github.com/DrKJeff16/pipenv.nvim",
-            "description": "Manage your [Pipenv](https://pypi.org/project/pipenv/) virtual environment while editing."
+            "description": "Asynchronous `Pipenv` manager with `spinner.nvim` integration."
         },
         {
             "path": "vuki656/package-info.nvim",
@@ -8311,6 +8311,14 @@
             "config": "atone_nvim.lua",
             "url": "https://github.com/XXiaoA/atone.nvim",
             "description": "Undo tree for visualizing and managing undo history."
+        },
+        {
+            "path": "nemanjamalesija/smart-paste.nvim",
+            "owner": "nemanjamalesija",
+            "name": "smart-paste.nvim",
+            "config": "smart_paste_nvim.lua",
+            "url": "https://github.com/nemanjamalesija/smart-paste.nvim",
+            "description": "Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic)."
         }
     ],
     "Comment": [
