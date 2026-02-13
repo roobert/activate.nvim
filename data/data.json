@@ -2835,6 +2835,14 @@
             "description": "Automatic project discovery with configurable depth with multiple pickers supported (Snacks, Telescope, fzf-lua)."
         },
         {
+            "path": "TheLazyCat00/workspaces-nvim",
+            "owner": "TheLazyCat00",
+            "name": "workspaces-nvim",
+            "config": "workspaces_nvim.lua",
+            "url": "https://github.com/TheLazyCat00/workspaces-nvim",
+            "description": "Pin files to specific keys within a project workspace, giving you quick access to your most important files."
+        },
+        {
             "path": "dzfrias/arena.nvim",
             "owner": "dzfrias",
             "name": "arena.nvim",
