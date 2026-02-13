@@ -1659,6 +1659,14 @@
             "config": "inlyne_nvim.lua",
             "url": "https://github.com/rogue-87/inlyne.nvim",
             "description": "Wrapper for [inlyne](https://github.com/Inlyne-Project/inlyne) Markdown viewer."
+        },
+        {
+            "path": "Prgebish/sigil.nvim",
+            "owner": "Prgebish",
+            "name": "sigil.nvim",
+            "config": "sigil_nvim.lua",
+            "url": "https://github.com/Prgebish/sigil.nvim",
+            "description": "Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files."
         }
     ],
     "PHP": [
@@ -5679,6 +5687,14 @@
             "description": "Performant cursor animations."
         },
         {
+            "path": "TheLazyCat00/runner-nvim",
+            "owner": "TheLazyCat00",
+            "name": "runner-nvim",
+            "config": "runner_nvim.lua",
+            "url": "https://github.com/TheLazyCat00/runner-nvim",
+            "description": "Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands."
+        },
+        {
             "path": "LuxVim/nvim-luxterm",
             "owner": "LuxVim",
             "name": "nvim-luxterm",
@@ -6735,6 +6751,14 @@
             "config": "gem_install_nvim.lua",
             "url": "https://github.com/cosmicbuffalo/gem_install.nvim",
             "description": "Install Ruby gems, trigger `bundle install` and `gem install` with progress and caching to prevent retries when installs fail."
+        },
+        {
+            "path": "YouSame2/inlinediff-nvim",
+            "owner": "YouSame2",
+            "name": "inlinediff-nvim",
+            "config": "inlinediff_nvim.lua",
+            "url": "https://github.com/YouSame2/inlinediff-nvim",
+            "description": "Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`)."
         },
         {
             "path": "mrloop/telescope-git-branch.nvim",
