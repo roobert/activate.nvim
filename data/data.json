@@ -997,6 +997,14 @@
             "description": "Codex IDE integration, no API key required."
         },
         {
+            "path": "nickjvandyke/opencode.nvim",
+            "owner": "nickjvandyke",
+            "name": "opencode.nvim",
+            "config": "opencode_nvim.lua",
+            "url": "https://github.com/nickjvandyke/opencode.nvim",
+            "description": "OpenCode AI assistant integration."
+        },
+        {
             "path": "alessio-vivaldelli/java-creator-nvim",
             "owner": "alessio-vivaldelli",
             "name": "java-creator-nvim",
