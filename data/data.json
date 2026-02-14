@@ -5381,6 +5381,14 @@
             "description": "Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc."
         },
         {
+            "path": "zeybek/camouflage.nvim",
+            "owner": "zeybek",
+            "name": "camouflage.nvim",
+            "config": "camouflage_nvim.lua",
+            "url": "https://github.com/zeybek/camouflage.nvim",
+            "description": "Hide sensitive values in configuration files during screen sharing by visually masking secrets in `.env`, `.json`, `.yaml`, `.toml`, and `.properties` files."
+        },
+        {
             "path": "linrongbin16/gentags.nvim",
             "owner": "linrongbin16",
             "name": "gentags.nvim",
@@ -5611,6 +5619,14 @@
             "config": "unobtrusive_relnums_nvim.lua",
             "url": "https://github.com/stikypiston/unobtrusive-relnums",
             "description": "Unobtrusive relative line numbers in the sign column."
+        },
+        {
+            "path": "glyccogen/imprint.nvim",
+            "owner": "glyccogen",
+            "name": "imprint.nvim",
+            "config": "imprint_nvim.lua",
+            "url": "https://github.com/glyccogen/imprint.nvim",
+            "description": "Take WYSIWYG screenshots of your code via Playwright and headless Chromium, preserving your colorscheme and highlights."
         }
     ],
     "CSV Files": [
