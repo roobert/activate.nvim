@@ -2515,6 +2515,14 @@
             "description": "Simple fuzzy finder, including files, ctags outline, and more."
         },
         {
+            "path": "juniorsundar/refer.nvim",
+            "owner": "juniorsundar",
+            "name": "refer.nvim",
+            "config": "refer_nvim.lua",
+            "url": "https://github.com/juniorsundar/refer.nvim",
+            "description": "A minimalist picker that doesn't get in your way."
+        },
+        {
             "path": "nvim-tree/nvim-tree.lua",
             "owner": "nvim-tree",
             "name": "nvim-tree.lua",
@@ -6638,7 +6646,7 @@
             "name": "wezterm-types",
             "config": "wezterm_types.lua",
             "url": "https://github.com/DrKJeff16/wezterm-types",
-            "description": "WezTerm config type annotations for Lua Language Server."
+            "description": "WezTerm config type annotations for Lua Language Server, including support for community plugins."
         },
         {
             "path": "chrisgve/databox.nvim",
