@@ -1787,6 +1787,14 @@
             "description": "Translate text using Google Translate with async support, float display, and multi-picker integration."
         },
         {
+            "path": "noir4y/comment-translate.nvim",
+            "owner": "noir4y",
+            "name": "comment-translate.nvim",
+            "config": "comment_translate_nvim.lua",
+            "url": "https://github.com/noir4y/comment-translate.nvim",
+            "description": "Translate code comments and strings using online as well as local LLMs or external translators."
+        },
+        {
             "path": "nvim-treesitter/nvim-treesitter",
             "owner": "nvim-treesitter",
             "name": "nvim-treesitter",
