@@ -9437,6 +9437,14 @@
     ],
     "Stats Tracking": [
         {
+            "path": "aikhe/wrapped.nvim",
+            "owner": "aikhe",
+            "name": "wrapped.nvim",
+            "config": "wrapped_nvim.lua",
+            "url": "https://github.com/aikhe/wrapped.nvim",
+            "description": "Visualize and review your configuration activity with stats, insights, history, heatmaps and more."
+        },
+        {
             "path": "gisketch/triforce.nvim",
             "owner": "gisketch",
             "name": "triforce.nvim",
