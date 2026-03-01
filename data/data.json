@@ -46,7 +46,7 @@
             "name": "rocks.nvim",
             "config": "rocks_nvim.lua",
             "url": "https://github.com/lumen-oss/rocks.nvim",
-            "description": "A modern approach to plugin management using Luarocks, inspired by Cargo."
+            "description": "A modern approach to plugin management using LuaRocks, inspired by Cargo."
         },
         {
             "path": "nvim-mini/mini.nvim#mini.deps",
@@ -4845,6 +4845,14 @@
             "description": "Load the file you actually meant to load."
         },
         {
+            "path": "leo-alvarenga/homecoming.nvim",
+            "owner": "leo-alvarenga",
+            "name": "homecoming.nvim",
+            "config": "homecoming_nvim.lua",
+            "url": "https://github.com/leo-alvarenga/homecoming.nvim",
+            "description": "A dead-simple, customizable and cozy dashboard with sane defaults and zero config required."
+        },
+        {
             "path": "nvim-tree/nvim-web-devicons",
             "owner": "nvim-tree",
             "name": "nvim-web-devicons",
@@ -6100,7 +6108,7 @@
             "name": "perfanno.nvim",
             "config": "perfanno_nvim.lua",
             "url": "https://github.com/t-troebst/perfanno.nvim",
-            "description": "Annotate your code with callgraph profiling data. Native support for perf, flamegraph and the LuaJit profiler."
+            "description": "Annotate your code with callgraph profiling data. Native support for perf, flamegraph and the LuaJIT profiler."
         },
         {
             "path": "niuiic/dap-utils",
@@ -6375,6 +6383,14 @@
             "config": "compiler_explorer_nvim.lua",
             "url": "https://github.com/krady21/compiler-explorer.nvim",
             "description": "Asynchronous compilation using the [compiler-explorer](https://godbolt.org/) REST API."
+        },
+        {
+            "path": "hadishahpuri/nvimlaunch",
+            "owner": "hadishahpuri",
+            "name": "nvimlaunch",
+            "config": "nvimlaunch.lua",
+            "url": "https://github.com/hadishahpuri/nvimlaunch",
+            "description": "Define, run, and manage project-specific commands."
         },
         {
             "path": "milanglacier/yarepl.nvim",
@@ -6710,7 +6726,7 @@
             "name": "wezterm-types",
             "config": "wezterm_types.lua",
             "url": "https://github.com/DrKJeff16/wezterm-types",
-            "description": "WezTerm config type annotations for Lua Language Server, including support for community plugins."
+            "description": "WezTerm config type annotations for LuaLS, including support for community plugins."
         },
         {
             "path": "chrisgve/databox.nvim",
