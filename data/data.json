@@ -3200,7 +3200,7 @@
             "name": "yoda.nvim",
             "config": "yoda_nvim.lua",
             "url": "https://github.com/kuri-sun/yoda.nvim",
-            "description": "**_`[TS][LSP][L/D][Lua]`_** Muted green palette for focused, balanced editing."
+            "description": "**_`[TS][L/D][Lua]`_** Muted green palette for focused, balanced editing."
         },
         {
             "path": "wurli/cobalt.nvim",
