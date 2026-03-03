@@ -4845,6 +4845,14 @@
             "description": "Load the file you actually meant to load."
         },
         {
+            "path": "Kurama622/profile.nvim",
+            "owner": "Kurama622",
+            "name": "profile.nvim",
+            "config": "profile_nvim.lua",
+            "url": "https://github.com/Kurama622/profile.nvim",
+            "description": "A dashboard, similar to GitHub homepage."
+        },
+        {
             "path": "leo-alvarenga/homecoming.nvim",
             "owner": "leo-alvarenga",
             "name": "homecoming.nvim",
