@@ -1650,7 +1650,7 @@
             "name": "mdmath.nvim",
             "config": "mdmath_nvim.lua",
             "url": "https://github.com/Thiago4532/mdmath.nvim",
-            "description": "A Markdown equation previewer, using Kitty Graphics Protocol."
+            "description": "A Markdown equation previewer, using kitty Graphics Protocol."
         },
         {
             "path": "OXY2DEV/markdoc.nvim",
@@ -4978,7 +4978,7 @@
             "name": "image.nvim",
             "config": "image_nvim.lua",
             "url": "https://github.com/3rd/image.nvim",
-            "description": "Add image support through Kitty's graphics protocol or ueberzugpp."
+            "description": "Add image support through kitty's graphics protocol or ueberzugpp."
         },
         {
             "path": "adelarsq/image_preview.nvim",
@@ -5972,7 +5972,7 @@
             "name": "kitty-scrollback.nvim",
             "config": "kitty_scrollback_nvim.lua",
             "url": "https://github.com/mikesmithgh/kitty-scrollback.nvim",
-            "description": "Open your Kitty scrollback buffer. Ameowzing."
+            "description": "Open your kitty scrollback buffer. Ameowzing."
         },
         {
             "path": "niuiic/terminal.nvim",
@@ -5988,7 +5988,7 @@
             "name": "nekifoch.nvim",
             "config": "nekifoch_nvim.lua",
             "url": "https://github.com/NeViRAIDE/nekifoch.nvim",
-            "description": "Managing Kitty terminal font settings."
+            "description": "Managing kitty terminal font settings."
         },
         {
             "path": "2KAbhishek/termim.nvim",
