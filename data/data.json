@@ -669,6 +669,14 @@
             "description": "Populate diagnostics for all projects files, not just the opened ones."
         },
         {
+            "path": "Kurama622/clean-diagnostic",
+            "owner": "Kurama622",
+            "name": "clean-diagnostic",
+            "config": "clean_diagnostic.lua",
+            "url": "https://github.com/Kurama622/clean-diagnostic",
+            "description": "Display diagnostic count using virtual text, and show diagnostic details in a floating window."
+        },
+        {
             "path": "ms-jpq/coq_nvim",
             "owner": "ms-jpq",
             "name": "coq_nvim",
