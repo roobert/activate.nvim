@@ -6561,6 +6561,14 @@
             "description": "Async code runner with range support."
         },
         {
+            "path": "mikeboiko/nvim-flow",
+            "owner": "mikeboiko",
+            "name": "nvim-flow",
+            "config": "nvim_flow.lua",
+            "url": "https://github.com/mikeboiko/nvim-flow",
+            "description": "File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix."
+        },
+        {
             "path": "folke/lazydev.nvim",
             "owner": "folke",
             "name": "lazydev.nvim",
