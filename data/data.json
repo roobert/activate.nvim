@@ -6189,6 +6189,14 @@
             "config": "azfunc_nvim.lua",
             "url": "https://github.com/fschaal/azfunc.nvim",
             "description": "Seamlessly debug Azure Functions with automatic DAP integration."
+        },
+        {
+            "path": "evanmcpheron/rocketlog.nvim",
+            "owner": "evanmcpheron",
+            "name": "rocketlog.nvim",
+            "config": "rocketlog_nvim.lua",
+            "url": "https://github.com/evanmcpheron/rocketlog.nvim",
+            "description": "Seamlessly add logging for JavaScript and TypeScript files, with log and metadata searching."
         }
     ],
     "Quickfix": [
@@ -9661,6 +9669,14 @@
             "config": "dbab_nvim.lua",
             "url": "https://github.com/zerochae/dbab.nvim",
             "description": "Lightweight database client with a modern UI and async execution."
+        },
+        {
+            "path": "joryeugene/dadbod-grip.nvim",
+            "owner": "joryeugene",
+            "name": "dadbod-grip.nvim",
+            "config": "dadbod_grip_nvim.lua",
+            "url": "https://github.com/joryeugene/dadbod-grip.nvim",
+            "description": "Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support."
         },
         {
             "path": "abdellatif-temsamani/adev.nvim",
