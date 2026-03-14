@@ -733,6 +733,14 @@
             "description": "Chat interface for AI ACP providers such as Claude, Gemini, Codex, OpenCode and Cursor."
         },
         {
+            "path": "0xble/dotagent.nvim",
+            "owner": "0xble",
+            "name": "dotagent.nvim",
+            "config": "dotagent_nvim.lua",
+            "url": "https://github.com/0xble/dotagent.nvim",
+            "description": "Command and skill completion for Claude Code and Codex-style prompt editors, configurable from local agent command and skill directories."
+        },
+        {
             "path": "blob42/codegpt-ng.nvim",
             "owner": "blob42",
             "name": "codegpt-ng.nvim",
