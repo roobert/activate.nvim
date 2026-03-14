@@ -5309,11 +5309,11 @@
             "description": "A fast static note generator in a single binary with everything built-in."
         },
         {
-            "path": "stikypiston/studytools.nvim",
-            "owner": "stikypiston",
+            "path": "indium114/studytools.nvim",
+            "owner": "indium114",
             "name": "studytools.nvim",
             "config": "studytools_nvim.lua",
-            "url": "https://github.com/stikypiston/studytools.nvim",
+            "url": "https://github.com/indium114/studytools.nvim",
             "description": "Various utilities to enhance the studying and note-taking experience."
         },
         {
@@ -5717,19 +5717,19 @@
             "description": "A lightweight, configurable random quote provider with lazy loading, custom tables, and filters."
         },
         {
-            "path": "stikypiston/cheaty.nvim",
-            "owner": "stikypiston",
+            "path": "indium114/cheaty.nvim",
+            "owner": "indium114",
             "name": "cheaty.nvim",
             "config": "cheaty_nvim.lua",
-            "url": "https://github.com/stikypiston/cheaty.nvim",
+            "url": "https://github.com/indium114/cheaty.nvim",
             "description": "A simple, configurable cheatsheet."
         },
         {
-            "path": "stikypiston/unobtrusive-relnums.nvim",
-            "owner": "stikypiston",
+            "path": "indium114/unobtrusive-relnums.nvim",
+            "owner": "indium114",
             "name": "unobtrusive-relnums.nvim",
             "config": "unobtrusive_relnums_nvim.lua",
-            "url": "https://github.com/stikypiston/unobtrusive-relnums",
+            "url": "https://github.com/indium114/unobtrusive-relnums",
             "description": "Unobtrusive relative line numbers in the sign column."
         },
         {
@@ -5823,11 +5823,11 @@
             "description": "Add fancy sub-cursor to signcolumn to show your scroll or jump direction."
         },
         {
-            "path": "stikypiston/smudge.nvim",
-            "owner": "stikypiston",
+            "path": "indium114/smudge.nvim",
+            "owner": "indium114",
             "name": "smudge.nvim",
             "config": "smudge_nvim.lua",
-            "url": "https://github.com/stikypiston/smudge.nvim",
+            "url": "https://github.com/indium114/smudge.nvim",
             "description": "Performant cursor animations."
         },
         {
