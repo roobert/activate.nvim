@@ -5739,6 +5739,14 @@
             "config": "imprint_nvim.lua",
             "url": "https://github.com/glyccogen/imprint.nvim",
             "description": "Take WYSIWYG screenshots of your code via Playwright and headless Chromium, preserving your colorscheme and highlights."
+        },
+        {
+            "path": "emrearmagan/dockyard.nvim",
+            "owner": "emrearmagan",
+            "name": "dockyard.nvim",
+            "config": "dockyard_nvim.lua",
+            "url": "https://github.com/emrearmagan/dockyard.nvim",
+            "description": "Docker dashboard for managing containers, images, networks, and logs."
         }
     ],
     "CSV Files": [
