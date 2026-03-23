@@ -1955,6 +1955,14 @@
             "description": "Edit text and nevigate based on Tree-sitter."
         },
         {
+            "path": "Sang-it/fluoride",
+            "owner": "Sang-it",
+            "name": "fluoride",
+            "config": "fluoride.lua",
+            "url": "https://github.com/Sang-it/fluoride",
+            "description": "A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter."
+        },
+        {
             "path": "L3MON4D3/LuaSnip",
             "owner": "L3MON4D3",
             "name": "LuaSnip",
