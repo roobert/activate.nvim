@@ -1219,6 +1219,14 @@
             "config": "hopcsharp_nvim.lua",
             "url": "https://github.com/leblocks/hopcsharp.nvim",
             "description": "Provides LSP-less navigation and type-hierarchy information in C# repositories."
+        },
+        {
+            "path": "AnsonH/copy-python-path.nvim",
+            "owner": "AnsonH",
+            "name": "copy-python-path.nvim",
+            "config": "copy_python_path_nvim.lua",
+            "url": "https://github.com/AnsonH/copy-python-path.nvim",
+            "description": "Copy the reference or import path of a Python symbol."
         }
     ],
     "Golang": [
