@@ -1723,6 +1723,14 @@
             "config": "sigil_nvim.lua",
             "url": "https://github.com/Prgebish/sigil.nvim",
             "description": "Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files."
+        },
+        {
+            "path": "satozawa/graft.nvim",
+            "owner": "satozawa",
+            "name": "graft.nvim",
+            "config": "graft_nvim.lua",
+            "url": "https://github.com/username/graft.nvim",
+            "description": "Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations."
         }
     ],
     "PHP": [
@@ -7353,6 +7361,14 @@
             "config": "browsher_nvim.lua",
             "url": "https://github.com/claydugo/browsher.nvim",
             "description": "Create commit pinned links to GitHub hosted files/lines."
+        },
+        {
+            "path": "gh-tui-tools/gh-review.nvim",
+            "owner": "gh-tui-tools",
+            "name": "gh-review.nvim",
+            "config": "gh_review_nvim.lua",
+            "url": "https://github.com/gh-tui-tools/gh-review.nvim",
+            "description": "Review GitHub PRs."
         }
     ],
     "GitLab": [
