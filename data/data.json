@@ -1473,6 +1473,14 @@
             "config": "recent_rails_nvim.lua",
             "url": "https://github.com/tednguyendev/recent_rails.nvim",
             "description": "Telescope picker for recent Rails actions, views, and errors."
+        },
+        {
+            "path": "ankushbhagats/liveserver.nvim",
+            "owner": "ankushbhagats",
+            "name": "liveserver.nvim",
+            "config": "liveserver_nvim.lua",
+            "url": "https://github.com/ankushbhagats/liveserver.nvim",
+            "description": "Live-server integration with smart commands and a clickable lualine toggle."
         }
     ],
     "Markdown and LaTeX": [
@@ -1729,7 +1737,7 @@
             "owner": "satozawa",
             "name": "graft.nvim",
             "config": "graft_nvim.lua",
-            "url": "https://github.com/username/graft.nvim",
+            "url": "https://github.com/satozawa/graft.nvim",
             "description": "Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations."
         }
     ],
@@ -4273,6 +4281,14 @@
             "config": "cyberpunk_nvim.lua",
             "url": "https://github.com/taigrr/cyberpunk.nvim",
             "description": "**_`[TS][LSP][Lua]`_** Dark neon colorscheme with green, cyan, yellow, and red highlights on a black background."
+        },
+        {
+            "path": "ankushbhagats/pastel.nvim",
+            "owner": "ankushbhagats",
+            "name": "pastel.nvim",
+            "config": "pastel_nvim.lua",
+            "url": "https://github.com/ankushbhagats/pastel.nvim",
+            "description": "**_`[TS][LSP][L/D][Lua]`_** Elegant pastel colorschemes with advanced customization, styles, and integrations."
         }
     ],
     "Colorscheme Creation": [
