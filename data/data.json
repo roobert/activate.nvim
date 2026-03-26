@@ -5325,12 +5325,12 @@
             "description": "Joplin notes utilities: tree browser, search, open, and Telescope integration."
         },
         {
-            "path": "ymich9963/mdnotes.nvim",
-            "owner": "ymich9963",
+            "path": "ymic9963/mdnotes.nvim",
+            "owner": "ymic9963",
             "name": "mdnotes.nvim",
             "config": "mdnotes_nvim.lua",
-            "url": "https://github.com/ymich9963/mdnotes.nvim",
-            "description": "Simple and improved Markdown note taking."
+            "url": "https://github.com/ymic9963/mdnotes.nvim",
+            "description": "Simple, improved, and extensible Markdown note taking."
         },
         {
             "path": "nbeversl/urtext_neovim",
