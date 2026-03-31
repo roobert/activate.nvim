@@ -2491,6 +2491,14 @@
             "description": "The Lua version of `fzf.vim`, high-performance and fully async, supports `nvim-web-devicons`, Git indicators, LSP, quickfix/location lists and more. Also supports [`skim`](https://github.com/lotabout/skim) as its fzf binary."
         },
         {
+            "path": "willyelm/pulse.nvim",
+            "owner": "willyelm",
+            "name": "pulse.nvim",
+            "config": "pulse_nvim.lua",
+            "url": "https://github.com/willyelm/pulse.nvim",
+            "description": "A single entrypoint for commands. Use prefixes to quickly access diagnostics, Git and more via pickers."
+        },
+        {
             "path": "jvgrootveld/telescope-zoxide",
             "owner": "jvgrootveld",
             "name": "telescope-zoxide",
