@@ -4289,6 +4289,14 @@
             "config": "pastel_nvim.lua",
             "url": "https://github.com/ankushbhagats/pastel.nvim",
             "description": "**_`[TS][LSP][L/D][Lua]`_** Elegant pastel colorschemes with advanced customization, styles, and integrations."
+        },
+        {
+            "path": "0x-ximon/acario.nvim",
+            "owner": "0x-ximon",
+            "name": "acario.nvim",
+            "config": "acario_nvim.lua",
+            "url": "https://github.com/0x-ximon/acario.nvim",
+            "description": "**_`[TS][LSP][L/D][Lua]`_** A port of the clean, high-contrast Doom Emacs Acario theme."
         }
     ],
     "Colorscheme Creation": [
