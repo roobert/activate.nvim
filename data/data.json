@@ -725,6 +725,14 @@
             "description": "A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism."
         },
         {
+            "path": "cursortab/cursortab.nvim",
+            "owner": "cursortab",
+            "name": "cursortab.nvim",
+            "config": "cursortab_nvim.lua",
+            "url": "https://github.com/cursortab/cursortab.nvim",
+            "description": "Edit completions and cursor predictions with multiple AI providers."
+        },
+        {
             "path": "carlos-algms/agentic.nvim",
             "owner": "carlos-algms",
             "name": "agentic.nvim",
