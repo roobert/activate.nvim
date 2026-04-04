@@ -329,11 +329,11 @@
             "description": "Seamless integration for Haskell development tools like `haskell-language-server` and Hoogle."
         },
         {
-            "path": "p00f/clangd_extensions.nvim",
-            "owner": "p00f",
+            "path": "dchinmay2/clangd_extensions.nvim",
+            "owner": "dchinmay2",
             "name": "clangd_extensions.nvim",
             "config": "clangd_extensions_nvim.lua",
-            "url": "https://github.com/p00f/clangd_extensions.nvim",
+            "url": "https://github.com/dchinmay2/clangd_extensions.nvim",
             "description": "Off-spec `clangd` features for the built-in LSP client."
         },
         {
@@ -9563,11 +9563,11 @@
     ],
     "Competitive Programming": [
         {
-            "path": "p00f/cphelper.nvim",
-            "owner": "p00f",
+            "path": "dchinmay2/cphelper.nvim",
+            "owner": "dchinmay2",
             "name": "cphelper.nvim",
             "config": "cphelper_nvim.lua",
-            "url": "https://github.com/p00f/cphelper.nvim",
+            "url": "https://github.com/dchinmay2/cphelper.nvim",
             "description": "Helper for competitive programming written in Lua."
         },
         {
