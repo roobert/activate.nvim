@@ -9641,6 +9641,14 @@
             "config": "AirSupport_nvim.lua",
             "url": "https://github.com/yagiziskirik/AirSupport.nvim",
             "description": "Searchable reminder window for your custom shortcuts and commands."
+        },
+        {
+            "path": "emrearmagan/atlas.nvim",
+            "owner": "emrearmagan",
+            "name": "atlas.nvim",
+            "config": "atlas_nvim.lua",
+            "url": "https://github.com/emrearmagan/atlas.nvim",
+            "description": "Manage Bitbucket PRs and Jira issues."
         }
     ],
     "Stats Tracking": [
