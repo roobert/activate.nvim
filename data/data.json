@@ -1002,7 +1002,7 @@
             "name": "code-companion-picker",
             "config": "code_companion_picker.lua",
             "url": "https://github.com/3ZsForInsomnia/code-companion-picker",
-            "description": "Telescope and Snacks picker integrations for previewing CodeCompanion prompts."
+            "description": "Snacks picker integrations for previewing CodeCompanion prompts and Skills (using OpenSkills)."
         },
         {
             "path": "3ZsForInsomnia/vs-code-companion",
