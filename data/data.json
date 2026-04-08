@@ -2467,6 +2467,14 @@
             "description": "Responsive, shell-safe ripgrep search for the quickfix list, with native n/N navigation."
         },
         {
+            "path": "KieranCanter/candela.nvim",
+            "owner": "KieranCanter",
+            "name": "candela.nvim",
+            "config": "candela_nvim.lua",
+            "url": "https://github.com/KieranCanter/candela.nvim",
+            "description": "Analyze logs by defining regex patterns to highlight and/or isolate matching lines."
+        },
+        {
             "path": "nvim-telescope/telescope.nvim",
             "owner": "nvim-telescope",
             "name": "telescope.nvim",
