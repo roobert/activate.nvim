@@ -1875,6 +1875,14 @@
             "description": "Tree-sitter configurations and abstraction layer."
         },
         {
+            "path": "romus204/tree-sitter-manager.nvim",
+            "owner": "romus204",
+            "name": "tree-sitter-manager.nvim",
+            "config": "tree_sitter_manager_nvim.lua",
+            "url": "https://github.com/romus204/tree-sitter-manager.nvim",
+            "description": "A lightweight Tree-sitter parser manager for Neovim 0.12+ to replace the archived `nvim-treesitter` plugin."
+        },
+        {
             "path": "nvim-treesitter/nvim-treesitter-textobjects",
             "owner": "nvim-treesitter",
             "name": "nvim-treesitter-textobjects",
@@ -5801,7 +5809,7 @@
             "owner": "indium114",
             "name": "unobtrusive-relnums.nvim",
             "config": "unobtrusive_relnums_nvim.lua",
-            "url": "https://github.com/indium114/unobtrusive-relnums",
+            "url": "https://github.com/indium114/unobtrusive-relnums.nvim",
             "description": "Unobtrusive relative line numbers in the sign column."
         },
         {
