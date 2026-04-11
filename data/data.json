@@ -4345,6 +4345,14 @@
             "config": "acario_nvim.lua",
             "url": "https://github.com/0x-ximon/acario.nvim",
             "description": "**_`[TS][LSP][L/D][Lua]`_** A port of the clean, high-contrast Doom Emacs Acario theme."
+        },
+        {
+            "path": "hyperb1iss/silkcircuit",
+            "owner": "hyperb1iss",
+            "name": "silkcircuit",
+            "config": "silkcircuit.lua",
+            "url": "https://github.com/hyperb1iss/silkcircuit",
+            "description": "**_`[TS][LSP][L/D][Lua]`_** Vibrant cyberpunk color system with five variants, 40+ plugin integrations, WCAG AA compliant. Supports multiple editors, terminals and CLI tools."
         }
     ],
     "Colorscheme Creation": [
