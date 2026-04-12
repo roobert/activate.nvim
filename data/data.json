@@ -2979,6 +2979,14 @@
             "description": "Automatic project discovery with configurable depth with multiple pickers supported (Snacks, Telescope, fzf-lua)."
         },
         {
+            "path": "martuscellifaria/ahoicpp.nvim",
+            "owner": "martuscellifaria",
+            "name": "ahoicpp.nvim",
+            "config": "ahoicpp_nvim.lua",
+            "url": "https://github.com/martuscellifaria/ahoicpp.nvim",
+            "description": "Sets up C++ projects on a modular fashion and helps newcomers with the language heavy lifting."
+        },
+        {
             "path": "TheLazyCat00/workspaces-nvim",
             "owner": "TheLazyCat00",
             "name": "workspaces-nvim",
