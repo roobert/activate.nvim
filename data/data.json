@@ -789,6 +789,14 @@
             "description": "Minimalist command based AI coding with a powerful template system. Supports Ollama, OpenAI and more."
         },
         {
+            "path": "ray-x/copilot-agent.nvim",
+            "owner": "ray-x",
+            "name": "copilot-agent.nvim",
+            "config": "copilot_agent_nvim.lua",
+            "url": "https://github.com/ray-x/copilot-agent.nvim",
+            "description": "GitHub Copilot agent runtime with native tool execution, session persistence, and fine-grained permissions."
+        },
+        {
             "path": "Aaronik/GPTModels.nvim",
             "owner": "Aaronik",
             "name": "GPTModels.nvim",
