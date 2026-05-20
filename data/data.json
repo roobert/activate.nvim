@@ -1283,6 +1283,14 @@
             "config": "classlayout_nvim.lua",
             "url": "https://github.com/J-Cowsert/classlayout.nvim",
             "description": "Visualize C/C++ struct and class memory layouts (field offsets, padding, alignment) in a floating window."
+        },
+        {
+            "path": "awsum-lang/awsum-nvim",
+            "owner": "awsum-lang",
+            "name": "awsum-nvim",
+            "config": "awsum_nvim.lua",
+            "url": "https://github.com/awsum-lang/awsum-nvim",
+            "description": "LSP client and Tree-sitter highlighting for the [Awsum](https://awsum-lang.org) programming language."
         }
     ],
     "Golang": [
@@ -9831,6 +9839,14 @@
             "config": "skifree_nvim.lua",
             "url": "https://github.com/piersolenski/skifree.nvim",
             "description": "Play the Windows 3.1 SkiFree game."
+        },
+        {
+            "path": "xiangnongWu2233/rubiks-cube.nvim",
+            "owner": "xiangnongWu2233",
+            "name": "rubiks-cube.nvim",
+            "config": "rubiks_cube_nvim.lua",
+            "url": "https://github.com/xiangnongWu2233/rubiks-cube.nvim",
+            "description": "A playable Rubik's cube with auto-solver."
         }
     ],
     "Competitive Programming": [
