@@ -2175,7 +2175,7 @@
             "owner": "tversteeg",
             "name": "registers.nvim",
             "config": "registers_nvim.lua",
-            "url": "https://github.com/tversteeg/registers.nvim",
+            "url": "https://codeberg.org/fosk/registers.nvim",
             "description": "Non-obtrusive minimal preview of Vim registers."
         },
         {
@@ -9533,6 +9533,14 @@
             "config": "strudel_nvim.lua",
             "url": "https://github.com/gruvw/strudel.nvim",
             "description": "Live coding controller for [strudel](https://strudel.cc)."
+        },
+        {
+            "path": "ritschalex/jupyter_ascending.nvim",
+            "owner": "ritschalex",
+            "name": "jupyter_ascending.nvim",
+            "config": "jupyter_ascending_nvim.lua",
+            "url": "https://github.com/RitschAlex/jupyter_ascending.nvim",
+            "description": "A seamless way to work with Jupyter Notebooks using Jupyter Ascending."
         },
         {
             "path": "wsdjeg/tabman.nvim",
