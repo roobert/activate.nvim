@@ -2907,6 +2907,14 @@
             "description": "File manager which can edit file system like a buffer with tree view."
         },
         {
+            "path": "adriancmiranda/glimpse.nvim",
+            "owner": "adriancmiranda",
+            "name": "glimpse.nvim",
+            "config": "glimpse_nvim.lua",
+            "url": "https://github.com/adriancmiranda/glimpse.nvim",
+            "description": "Fast multi-format file previewer with inline kitty graphics support, external pane previews, and integrations for file explorers and pickers."
+        },
+        {
             "path": "Abstract-IDE/penvim",
             "owner": "Abstract-IDE",
             "name": "penvim",
@@ -8913,6 +8921,14 @@
             "config": "todo_comments_nvim.lua",
             "url": "https://github.com/folke/todo-comments.nvim",
             "description": "Highlight, list and search TODO comments in your projects."
+        },
+        {
+            "path": "kuri-sun/todoage.nvim",
+            "owner": "kuri-sun",
+            "name": "todoage.nvim",
+            "config": "todoage_nvim.lua",
+            "url": "https://github.com/kuri-sun/todoage.nvim",
+            "description": "Show how old your TODOs are."
         },
         {
             "path": "alexmozaidze/tree-comment.nvim",
