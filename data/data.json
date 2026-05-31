@@ -10711,6 +10711,14 @@
             "description": "Structured, keyboard-driven menus and context menus with nested navigation."
         },
         {
+            "path": "ln.nvim",
+            "owner": "",
+            "name": "ln.nvim",
+            "config": "ln_nvim.lua",
+            "url": "https://github.com/markosnarinian/ln.nvim",
+            "description": "Relative numbers on the active window, absolute everywhere else."
+        },
+        {
             "path": "tokiory/neovim-boilerplate",
             "owner": "tokiory",
             "name": "neovim-boilerplate",
