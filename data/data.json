@@ -4497,6 +4497,14 @@
             "config": "Oshen_nvim.lua",
             "url": "https://github.com/54L1M/Oshen.nvim",
             "description": "**_`[TS][LSP][Lua]`_** Dark colorscheme inspired by deep ocean water at night, derived entirely from five source colors."
+        },
+        {
+            "path": "marekh19/meowsoot.nvim",
+            "owner": "marekh19",
+            "name": "meowsoot.nvim",
+            "config": "meowsoot_nvim.lua",
+            "url": "https://github.com/marekh19/meowsoot.nvim",
+            "description": "**_`[TS][LSP][L/D][Lua]`_** A dark pink\u2013cyan\u2013lavender colorscheme where strings are yellow and green never reaches code."
         }
     ],
     "Colorscheme Creation": [
