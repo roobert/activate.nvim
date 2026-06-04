@@ -6051,6 +6051,14 @@
             "config": "dockyard_nvim.lua",
             "url": "https://github.com/emrearmagan/dockyard.nvim",
             "description": "Docker dashboard for managing containers, images, networks, and logs."
+        },
+        {
+            "path": "ChuYanLon/telegram.nvim",
+            "owner": "ChuYanLon",
+            "name": "telegram.nvim",
+            "config": "telegram_nvim.lua",
+            "url": "https://github.com/ChuYanLon/telegram.nvim",
+            "description": "A Telegram chat client powered by TDLib supporting real-time messaging, group management, and media preview."
         }
     ],
     "CSV Files": [
