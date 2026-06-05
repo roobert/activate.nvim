@@ -1069,6 +1069,14 @@
             "description": "Cursor-style inline AI editing. Select code, describe the change, and get an inline, highlighted edit you can accept or reject\u2014similar to Cursor inline workflow."
         },
         {
+            "path": "alsi-lawr/agent-term.nvim",
+            "owner": "alsi-lawr",
+            "name": "agent-term.nvim",
+            "config": "agent_term_nvim.lua",
+            "url": "https://github.com/alsi-lawr/agent-term.nvim",
+            "description": "Terminal-agent UI with persistent views, lightweight hook-based editor context, and extensible presets for any native AI TUI."
+        },
+        {
             "path": "ishiooon/codex.nvim",
             "owner": "ishiooon",
             "name": "codex.nvim",
