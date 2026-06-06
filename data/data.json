@@ -7939,6 +7939,14 @@
             "config": "repeatable_move_nvim.lua",
             "url": "https://github.com/kiyoon/repeatable-move.nvim",
             "description": "Make any motion repeatable with `;` and `,` keys."
+        },
+        {
+            "path": "kkew3/jieba.vim",
+            "owner": "kkew3",
+            "name": "jieba.vim",
+            "config": "jieba_vim.lua",
+            "url": "https://github.com/kkew3/jieba.vim",
+            "description": "Word motions and word text objects for Chinese."
         }
     ],
     "Tree-sitter Based": [
