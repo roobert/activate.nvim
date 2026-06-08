@@ -6945,6 +6945,14 @@
             "description": "File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix."
         },
         {
+            "path": "negativo/nx-nvim",
+            "owner": "negativo",
+            "name": "nx-nvim",
+            "config": "nx_nvim.lua",
+            "url": "https://github.com/negativo/nx-nvim",
+            "description": "Telescope picker for NX monorepo projects and targets, running the selected one in a split terminal."
+        },
+        {
             "path": "saghen/blink.lib",
             "owner": "saghen",
             "name": "blink.lib",
@@ -10749,6 +10757,14 @@
             "config": "ln_nvim.lua",
             "url": "https://github.com/markosnarinian/ln.nvim",
             "description": "Relative numbers on the active window, absolute everywhere else."
+        },
+        {
+            "path": "nvim-mini/mini.nvim#mini.input",
+            "owner": "nvim-mini",
+            "name": "mini.input",
+            "config": "mini_input.lua",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-input.md",
+            "description": "Module of `mini.nvim` for getting user input with fully customizable key and view handling. Can show as floating window, statusline/tabline/winbar, virtual line/text. Provides `vim.ui.input()` implementation."
         },
         {
             "path": "tokiory/neovim-boilerplate",
