@@ -5341,6 +5341,14 @@
             "description": "Play YouTube audio using `mpv` and `yt-dlp` via IPC socket."
         },
         {
+            "path": "T-b-t-nchos/FMP7.nvim",
+            "owner": "T-b-t-nchos",
+            "name": "FMP7.nvim",
+            "config": "FMP7_nvim.lua",
+            "url": "https://github.com/T-b-t-nchos/FMP7.nvim",
+            "description": "Control FMP7 and play FM/SSG/PCM driver music files (Only for Windows)."
+        },
+        {
             "path": "DaFi-1/tasknvim",
             "owner": "DaFi-1",
             "name": "tasknvim",
