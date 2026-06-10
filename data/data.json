@@ -7057,6 +7057,14 @@
             "description": "A reference for built-in Lua functions."
         },
         {
+            "path": "DrKJeff16/nvim-luaref",
+            "owner": "DrKJeff16",
+            "name": "nvim-luaref",
+            "config": "nvim_luaref.lua",
+            "url": "https://github.com/DrKJeff16/nvim-luaref",
+            "description": "Forked from `milisims/nvim-luaref`, adds built-in Lua 5.1 help docs."
+        },
+        {
             "path": "nvim-mini/mini.nvim#mini.test",
             "owner": "nvim-mini",
             "name": "mini.test",
