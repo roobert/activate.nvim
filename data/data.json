@@ -10853,6 +10853,14 @@
             "config": "Nvim_app.lua",
             "url": "https://nvim.app",
             "description": "A modern search interface for Neovim plugins with fuzzy search, filtering, and self-service updates for plugin authors."
+        },
+        {
+            "path": "ChuYanLon/chad46",
+            "owner": "ChuYanLon",
+            "name": "chad46",
+            "config": "chad46.lua",
+            "url": "https://github.com/ChuYanLon/chad46",
+            "description": "94 themes with 44 highlight integrations, daily synced from NvChad/base46."
         }
     ]
 }
