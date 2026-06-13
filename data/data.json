@@ -9793,11 +9793,11 @@
             "description": "Collection of window functions which includes moving between, closing and maximizing Neovim splits and tmux panes."
         },
         {
-            "path": "karshPrime/only-tmux.nvim",
-            "owner": "karshPrime",
+            "path": "karnull/only-tmux.nvim",
+            "owner": "karnull",
             "name": "only-tmux.nvim",
             "config": "only_tmux_nvim.lua",
-            "url": "https://github.com/karshPrime/only-tmux.nvim",
+            "url": "https://github.com/karnull/only-tmux.nvim",
             "description": "Expand the functionality of `:only` with tmux panes in the same window, with either moving them to a new window or closing them."
         },
         {
