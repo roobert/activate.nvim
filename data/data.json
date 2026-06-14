@@ -1299,6 +1299,14 @@
             "config": "awsum_nvim.lua",
             "url": "https://github.com/awsum-lang/awsum-nvim",
             "description": "LSP client and Tree-sitter highlighting for the [Awsum](https://awsum-lang.org) programming language."
+        },
+        {
+            "path": "simonwinther/cppman.nvim",
+            "owner": "simonwinther",
+            "name": "cppman.nvim",
+            "config": "cppman_nvim.lua",
+            "url": "https://github.com/simonwinther/cppman.nvim",
+            "description": "Search C++ docs from cppman and view results in a floating window, backed by a local SQLite index for fast lookups."
         }
     ],
     "Golang": [
