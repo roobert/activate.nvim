@@ -2923,11 +2923,11 @@
             "description": "Fast multi-format file previewer with inline kitty graphics support, external pane previews, and integrations for file explorers and pickers."
         },
         {
-            "path": "karshPrime/switchboard.nvim",
-            "owner": "karshPrime",
+            "path": "karnull/switchboard.nvim",
+            "owner": "karnull",
             "name": "switchboard.nvim",
             "config": "switchboard_nvim.lua",
-            "url": "https://github.com/karshPrime/switchboard.nvim",
+            "url": "https://github.com/karnull/switchboard.nvim",
             "description": "Define \"run\", \"build\", or any custom command/bind per language or project, then use the same keybinds everywhere."
         },
         {
