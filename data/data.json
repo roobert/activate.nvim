@@ -639,16 +639,14 @@
             "config": "ts_expand_hover_nvim.lua",
             "url": "https://github.com/nemanjamalesija/ts-expand-hover.nvim",
             "description": "Progressively expand and collapse TypeScript type aliases inside the hover float."
-        }
-    ],
-    "LSP Installer": [
+        },
         {
             "path": "mason-org/mason.nvim",
             "owner": "mason-org",
             "name": "mason.nvim",
             "config": "mason_nvim.lua",
             "url": "https://github.com/mason-org/mason.nvim",
-            "description": "Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters."
+            "description": "Easily install and manage LSP servers, DAP servers, linters, and formatters."
         }
     ],
     "Diagnostics": [
@@ -1301,6 +1299,62 @@
             "description": "LSP client and Tree-sitter highlighting for the [Awsum](https://awsum-lang.org) programming language."
         },
         {
+            "path": "cuducos.me/yaml.nvim",
+            "owner": "cuducos.me",
+            "name": "yaml.nvim",
+            "config": "yaml_nvim.lua",
+            "url": "https://tangled.org/cuducos.me/yaml.nvim",
+            "description": "Utils to work with YAML files."
+        },
+        {
+            "path": "mosheavni/yaml-companion.nvim",
+            "owner": "mosheavni",
+            "name": "yaml-companion.nvim",
+            "config": "yaml_companion_nvim.lua",
+            "url": "https://github.com/mosheavni/yaml-companion.nvim",
+            "description": "Automatic schema detection and selection for YAML files with `yaml-language-server`, including built-in Kubernetes support."
+        },
+        {
+            "path": "gbprod/phpactor.nvim",
+            "owner": "gbprod",
+            "name": "phpactor.nvim",
+            "config": "phpactor_nvim.lua",
+            "url": "https://github.com/gbprod/phpactor.nvim",
+            "description": "Lua version of [phpactor](https://github.com/phpactor/phpactor)."
+        },
+        {
+            "path": "ta-tikoma/php.easy.nvim",
+            "owner": "ta-tikoma",
+            "name": "php.easy.nvim",
+            "config": "php_easy_nvim.lua",
+            "url": "https://github.com/ta-tikoma/php.easy.nvim",
+            "description": "Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity."
+        },
+        {
+            "path": "TheLeoP/powershell.nvim",
+            "owner": "TheLeoP",
+            "name": "powershell.nvim",
+            "config": "powershell_nvim.lua",
+            "url": "https://github.com/TheLeoP/powershell.nvim",
+            "description": "First class PowerShell editor integration. Includes LSP, debugging (requires nvim-dap) and $psEditor API support."
+        },
+        {
+            "path": "Who5673/who5673-nasm",
+            "owner": "Who5673",
+            "name": "who5673-nasm",
+            "config": "who5673_nasm.lua",
+            "url": "https://github.com/Who5673/who5673-nasm",
+            "description": "Helps people program Netwide Assembler language faster and more convenient using snippets."
+        },
+        {
+            "path": "sachinsenal0x64/hot.nvim",
+            "owner": "sachinsenal0x64",
+            "name": "hot.nvim",
+            "config": "hot_nvim.lua",
+            "url": "https://github.com/sachinsenal0x64/hot.nvim",
+            "description": "A hot reloader that works with any programming language."
+        },
+        {
             "path": "simonwinther/cppman.nvim",
             "owner": "simonwinther",
             "name": "cppman.nvim",
@@ -1421,24 +1475,6 @@
             "config": "goplexity_nvim.lua",
             "url": "https://github.com/sjclayton/goplexity.nvim",
             "description": "Time/space (Big-O) complexity analyzer for Golang."
-        }
-    ],
-    "YAML": [
-        {
-            "path": "cuducos.me/yaml.nvim",
-            "owner": "cuducos.me",
-            "name": "yaml.nvim",
-            "config": "yaml_nvim.lua",
-            "url": "https://tangled.org/cuducos.me/yaml.nvim",
-            "description": "Utils to work with YAML files."
-        },
-        {
-            "path": "mosheavni/yaml-companion.nvim",
-            "owner": "mosheavni",
-            "name": "yaml-companion.nvim",
-            "config": "yaml_companion_nvim.lua",
-            "url": "https://github.com/mosheavni/yaml-companion.nvim",
-            "description": "Automatic schema detection and selection for YAML files with `yaml-language-server`, including built-in Kubernetes support."
         }
     ],
     "Web Development": [
@@ -1835,44 +1871,6 @@
             "config": "tirenvi_nvim.lua",
             "url": "https://github.com/kibi2/tirenvi.nvim",
             "description": "Edit Markdown and CSV tables with lossless round-trip."
-        }
-    ],
-    "PHP": [
-        {
-            "path": "gbprod/phpactor.nvim",
-            "owner": "gbprod",
-            "name": "phpactor.nvim",
-            "config": "phpactor_nvim.lua",
-            "url": "https://github.com/gbprod/phpactor.nvim",
-            "description": "Lua version of [phpactor](https://github.com/phpactor/phpactor)."
-        },
-        {
-            "path": "ta-tikoma/php.easy.nvim",
-            "owner": "ta-tikoma",
-            "name": "php.easy.nvim",
-            "config": "php_easy_nvim.lua",
-            "url": "https://github.com/ta-tikoma/php.easy.nvim",
-            "description": "Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity."
-        }
-    ],
-    "Powershell": [
-        {
-            "path": "TheLeoP/powershell.nvim",
-            "owner": "TheLeoP",
-            "name": "powershell.nvim",
-            "config": "powershell_nvim.lua",
-            "url": "https://github.com/TheLeoP/powershell.nvim",
-            "description": "First class powershell editor integration. Includes LSP, debugging (requires nvim-dap) and $psEditor API support."
-        }
-    ],
-    "Assembly": [
-        {
-            "path": "Who5673/who5673-nasm",
-            "owner": "Who5673",
-            "name": "who5673-nasm",
-            "config": "who5673_nasm.lua",
-            "url": "https://github.com/Who5673/who5673-nasm",
-            "description": "Helps people program Netwide Assembler language faster and more convenient using snippets."
         },
         {
             "path": "potamides/pantran.nvim",
@@ -3097,6 +3095,14 @@
             "config": "ahoicpp_nvim.lua",
             "url": "https://github.com/martuscellifaria/ahoicpp.nvim",
             "description": "Sets up C++ projects on a modular fashion and helps newcomers with the language heavy lifting."
+        },
+        {
+            "path": "OscarCreator/rsync.nvim",
+            "owner": "OscarCreator",
+            "name": "rsync.nvim",
+            "config": "rsync_nvim.lua",
+            "url": "https://github.com/OscarCreator/rsync.nvim",
+            "description": "Automatically sync up/down project to a remote with rsync."
         },
         {
             "path": "TheLazyCat00/workspaces-nvim",
@@ -6083,6 +6089,14 @@
             "config": "telegram_nvim.lua",
             "url": "https://github.com/ChuYanLon/telegram.nvim",
             "description": "A Telegram chat client powered by TDLib supporting real-time messaging, group management, and media preview."
+        },
+        {
+            "path": "paulburgess1357/nvim-mcp",
+            "owner": "paulburgess1357",
+            "name": "nvim-mcp",
+            "config": "nvim_mcp.lua",
+            "url": "https://github.com/paulburgess1357/nvim-mcp",
+            "description": "MCP server giving AI agents access to buffers, commands, and LSP diagnostics through Neovim's msgpack-RPC socket."
         }
     ],
     "CSV Files": [
@@ -6615,22 +6629,6 @@
             "config": "quicker_nvim.lua",
             "url": "https://github.com/stevearc/quicker.nvim",
             "description": "Improved quickfix UI and editable quickfix buffer."
-        },
-        {
-            "path": "OscarCreator/rsync.nvim",
-            "owner": "OscarCreator",
-            "name": "rsync.nvim",
-            "config": "rsync_nvim.lua",
-            "url": "https://github.com/OscarCreator/rsync.nvim",
-            "description": "Automatically sync up/down project to a remote with rsync."
-        },
-        {
-            "path": "sachinsenal0x64/hot.nvim",
-            "owner": "sachinsenal0x64",
-            "name": "hot.nvim",
-            "config": "hot_nvim.lua",
-            "url": "https://github.com/sachinsenal0x64/hot.nvim",
-            "description": "A hot reloader that works with any programming language."
         },
         {
             "path": "David-Kunz/jester",
@@ -7655,6 +7653,14 @@
             "config": "ec.lua",
             "url": "https://github.com/chojs23/ec",
             "description": "A TUI native Git mergetool with 3 panes."
+        },
+        {
+            "path": "harrisoncramer/GitLab.nvim",
+            "owner": "harrisoncramer",
+            "name": "GitLab.nvim",
+            "config": "GitLab_nvim.lua",
+            "url": "https://github.com/harrisoncramer/GitLab.nvim",
+            "description": "Review pull requests and manage other GitLab resources."
         }
     ],
     "GitHub": [
@@ -7737,16 +7743,6 @@
             "config": "gh_review_nvim.lua",
             "url": "https://github.com/gh-tui-tools/gh-review.nvim",
             "description": "Review GitHub PRs."
-        }
-    ],
-    "GitLab": [
-        {
-            "path": "harrisoncramer/GitLab.nvim",
-            "owner": "harrisoncramer",
-            "name": "GitLab.nvim",
-            "config": "GitLab_nvim.lua",
-            "url": "https://github.com/harrisoncramer/GitLab.nvim",
-            "description": "Review pull requests and manage other GitLab resources."
         },
         {
             "path": "HawkinsT/pathfinder.nvim",
@@ -10065,6 +10061,22 @@
             "config": "atlas_nvim.lua",
             "url": "https://github.com/emrearmagan/atlas.nvim",
             "description": "A single workflow for GitHub, GitLab, Bitbucket, and Jira."
+        },
+        {
+            "path": "mateuszwieloch/automkdir.nvim",
+            "owner": "mateuszwieloch",
+            "name": "automkdir.nvim",
+            "config": "automkdir_nvim.lua",
+            "url": "https://github.com/mateuszwieloch/automkdir.nvim",
+            "description": "Automatically create non-existent parent directories when writing a file."
+        },
+        {
+            "path": "jghauser/mkdir.nvim",
+            "owner": "jghauser",
+            "name": "mkdir.nvim",
+            "config": "mkdir_nvim.lua",
+            "url": "https://github.com/jghauser/mkdir.nvim",
+            "description": "Automatically create missing directories when saving files."
         }
     ],
     "Stats Tracking": [
@@ -10139,24 +10151,6 @@
             "config": "blast_nvim.lua",
             "url": "https://github.com/taigrr/blast.nvim",
             "description": "Activity tracking client for NvimBlast with per-project configuration, monorepo support, and privacy controls."
-        }
-    ],
-    "Automation": [
-        {
-            "path": "mateuszwieloch/automkdir.nvim",
-            "owner": "mateuszwieloch",
-            "name": "automkdir.nvim",
-            "config": "automkdir_nvim.lua",
-            "url": "https://github.com/mateuszwieloch/automkdir.nvim",
-            "description": "Automatically create non-existent parent directories when writing a file."
-        },
-        {
-            "path": "jghauser/mkdir.nvim",
-            "owner": "jghauser",
-            "name": "mkdir.nvim",
-            "config": "mkdir_nvim.lua",
-            "url": "https://github.com/jghauser/mkdir.nvim",
-            "description": "Automatically create missing directories when saving files."
         },
         {
             "path": "zongben/dbout.nvim",
@@ -10197,6 +10191,22 @@
             "config": "dadbod_grip_nvim.lua",
             "url": "https://github.com/joryeugene/dadbod-grip.nvim",
             "description": "Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support."
+        },
+        {
+            "path": "tokiory/neovim-boilerplate",
+            "owner": "tokiory",
+            "name": "neovim-boilerplate",
+            "config": "neovim_boilerplate.lua",
+            "url": "https://github.com/tokiory/neovim-boilerplate",
+            "description": "Starter boilerplate for making new configurations."
+        },
+        {
+            "path": "frans-johansson/lazy-nvim-starter",
+            "owner": "frans-johansson",
+            "name": "lazy-nvim-starter",
+            "config": "lazy_nvim_starter.lua",
+            "url": "https://github.com/frans-johansson/lazy-nvim-starter",
+            "description": "Starter boilerplate with lazy plugin manager."
         },
         {
             "path": "abdellatif-temsamani/adev.nvim",
@@ -10579,16 +10589,6 @@
             "description": "Template for new Neovim plugins."
         }
     ],
-    "Remote Control": [
-        {
-            "path": "paulburgess1357/nvim-mcp",
-            "owner": "paulburgess1357",
-            "name": "nvim-mcp",
-            "config": "nvim_mcp.lua",
-            "url": "https://github.com/paulburgess1357/nvim-mcp",
-            "description": "MCP server giving AI agents access to buffers, commands, and LSP diagnostics through Neovim's msgpack-RPC socket."
-        }
-    ],
     "OS-specific": [
         {
             "path": "chrisgrieser/alfred-neovim-utilities",
@@ -10789,22 +10789,6 @@
             "config": "mini_input.lua",
             "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-input.md",
             "description": "Module of `mini.nvim` for getting user input with fully customizable key and view handling. Can show as floating window, statusline/tabline/winbar, virtual line/text. Provides `vim.ui.input()` implementation."
-        },
-        {
-            "path": "tokiory/neovim-boilerplate",
-            "owner": "tokiory",
-            "name": "neovim-boilerplate",
-            "config": "neovim_boilerplate.lua",
-            "url": "https://github.com/tokiory/neovim-boilerplate",
-            "description": "Starter boilerplate for making new configurations."
-        },
-        {
-            "path": "frans-johansson/lazy-nvim-starter",
-            "owner": "frans-johansson",
-            "name": "lazy-nvim-starter",
-            "config": "lazy_nvim_starter.lua",
-            "url": "https://github.com/frans-johansson/lazy-nvim-starter",
-            "description": "Starter boilerplate with lazy plugin manager."
         },
         {
             "path": "Vimawesome",
