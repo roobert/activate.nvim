@@ -1769,6 +1769,14 @@
             "description": "A hackable Markdown, Typst, LaTeX, HTML (inline) and YAML renderer."
         },
         {
+            "path": "gunasekar/markview-smart-tables.nvim",
+            "owner": "gunasekar",
+            "name": "markview-smart-tables.nvim",
+            "config": "markview_smart_tables_nvim.lua",
+            "url": "https://github.com/gunasekar/markview-smart-tables.nvim",
+            "description": "Auto-fit and word-wrap wide Markdown tables in `markview.nvim`."
+        },
+        {
             "path": "Kicamon/markdown-table-mode.nvim",
             "owner": "Kicamon",
             "name": "markdown-table-mode.nvim",
@@ -5987,6 +5995,14 @@
             "description": "Toggle between common code keywords under the cursor such as true \u21c4 false, on \u21c4 off, enabled \u21c4 disabled, and dev \u21c4 prod."
         },
         {
+            "path": "leblocks/toggle.nvim",
+            "owner": "leblocks",
+            "name": "toggle.nvim",
+            "config": "toggle_nvim.lua",
+            "url": "https://github.com/leblocks/toggle.nvim",
+            "description": "Toggle between common words under the cursor such as _public_ \u21c4 _private_ \u21c4 _protected_. Easy to add and overwrite built-in toggles."
+        },
+        {
             "path": "piersolenski/brewfile.nvim",
             "owner": "piersolenski",
             "name": "brewfile.nvim",
@@ -10191,6 +10207,14 @@
             "config": "dadbod_grip_nvim.lua",
             "url": "https://github.com/joryeugene/dadbod-grip.nvim",
             "description": "Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support."
+        },
+        {
+            "path": "clang-engineer/dadbod-vertica.nvim",
+            "owner": "clang-engineer",
+            "name": "dadbod-vertica.nvim",
+            "config": "dadbod_vertica_nvim.lua",
+            "url": "https://github.com/clang-engineer/dadbod-vertica.nvim",
+            "description": "Vertica adapter for [vim-dadbod](https://github.com/tpope/vim-dadbod) via the official `vsql` client, with schema-tree integration for `vim-dadbod-ui`."
         },
         {
             "path": "tokiory/neovim-boilerplate",
