@@ -771,6 +771,14 @@
             "description": "Chat interface for AI ACP providers such as Claude, Gemini, Codex, OpenCode and Cursor."
         },
         {
+            "path": "BRONZowl/codux.nvim",
+            "owner": "BRONZowl",
+            "name": "codux.nvim",
+            "config": "codux_nvim.lua",
+            "url": "https://github.com/BRONZowl/codux.nvim",
+            "description": "Run OpenAI Codex in a persistent floating terminal and send files, selections, diagnostics, or file explorer targets."
+        },
+        {
             "path": "0xble/dotagent.nvim",
             "owner": "0xble",
             "name": "dotagent.nvim",
