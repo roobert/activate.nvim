@@ -241,12 +241,12 @@
             "description": "A code outline window for skimming and quick navigation."
         },
         {
-            "path": "SmiteshP/nvim-navbuddy",
-            "owner": "SmiteshP",
+            "path": "hasansujon786/nvim-navbuddy",
+            "owner": "hasansujon786",
             "name": "nvim-navbuddy",
             "config": "nvim_navbuddy.lua",
-            "url": "https://github.com/SmiteshP/nvim-navbuddy",
-            "description": "A simple popup display that provides breadcrumbs like navigation features using LSP."
+            "url": "https://github.com/hasansujon786/nvim-navbuddy",
+            "description": "A simple popup display that provides breadcrumbs like navigation feature but in keyboard centric manner, inspired by the `ranger` file manager."
         },
         {
             "path": "tamago324/nlsp-settings.nvim",
@@ -409,14 +409,6 @@
             "description": "Display function references above function definition like IDEA codelens."
         },
         {
-            "path": "chrisgrieser/nvim-dr-lsp",
-            "owner": "chrisgrieser",
-            "name": "nvim-dr-lsp",
-            "config": "nvim_dr_lsp.lua",
-            "url": "https://github.com/chrisgrieser/nvim-dr-lsp",
-            "description": "Status line component showing the number of LSP definition and reference of the token under the cursor."
-        },
-        {
             "path": "Wansmer/symbol-usage.nvim",
             "owner": "Wansmer",
             "name": "symbol-usage.nvim",
@@ -457,12 +449,12 @@
             "description": "Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua."
         },
         {
-            "path": "zeioth/none-ls-autoload.nvim",
-            "owner": "zeioth",
+            "path": "Zeioth/none-ls-autoload.nvim",
+            "owner": "Zeioth",
             "name": "none-ls-autoload.nvim",
             "config": "none_ls_autoload_nvim.lua",
-            "url": "https://github.com/zeioth/none-ls-autoload.nvim",
-            "description": "Auto-load/Auto-unload none-ls sources installed with mason. It supports built-in sources and external sources."
+            "url": "https://github.com/Zeioth/none-ls-autoload.nvim",
+            "description": "Auto-load/unload `none-ls` sources installed with `mason`, with support for built-in and external sources."
         },
         {
             "path": "vxpm/ferris.nvim",
