@@ -1235,6 +1235,14 @@
             "description": "Everything you need for a painless Java experience."
         },
         {
+            "path": "clang-engineer/jvm-env.nvim",
+            "owner": "clang-engineer",
+            "name": "jvm-env.nvim",
+            "config": "jvm_env_nvim.lua",
+            "url": "https://github.com/clang-engineer/jvm-env.nvim",
+            "description": "Auto-detects installed JDKs by major version, with separate environment variables for jdtls and Gradle."
+        },
+        {
             "path": "kiyoon/python-import.nvim",
             "owner": "kiyoon",
             "name": "python-import.nvim",
