@@ -639,6 +639,14 @@
             "config": "mason_nvim.lua",
             "url": "https://github.com/mason-org/mason.nvim",
             "description": "Easily install and manage LSP servers, DAP servers, linters, and formatters."
+        },
+        {
+            "path": "Crysthamus/nvim-file-operations",
+            "owner": "Crysthamus",
+            "name": "nvim-file-operations",
+            "config": "nvim_file_operations.lua",
+            "url": "https://github.com/Crysthamus/nvim-file-operations",
+            "description": "Add support for workspace file operations using built-in LSPs."
         }
     ],
     "Diagnostics": [
