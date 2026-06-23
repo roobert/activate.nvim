@@ -3121,6 +3121,14 @@
             "description": "Automatically sync up/down project to a remote with rsync."
         },
         {
+            "path": "zachyarbrough/anchor.nvim",
+            "owner": "zachyarbrough",
+            "name": "anchor.nvim",
+            "config": "anchor_nvim.lua",
+            "url": "https://github.com/zachyarbrough/anchor.nvim",
+            "description": "Pin project-specific directories for instant fuzzy searching. Inspired by Harpoon."
+        },
+        {
             "path": "TheLazyCat00/workspaces-nvim",
             "owner": "TheLazyCat00",
             "name": "workspaces-nvim",
