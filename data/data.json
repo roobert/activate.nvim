@@ -446,7 +446,7 @@
             "name": "none-ls.nvim",
             "config": "none_ls_nvim.lua",
             "url": "https://github.com/nvimtools/none-ls.nvim",
-            "description": "Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua."
+            "description": "A reloaded `null-ls.nvim` to use your editor as a language server to inject LSP diagnostics, code actions, and more via Lua."
         },
         {
             "path": "Zeioth/none-ls-autoload.nvim",
@@ -526,7 +526,7 @@
             "name": "ohm",
             "config": "ohm.lua",
             "url": "https://github.com/ryan-WORK/ohm",
-            "description": "A persistent LSP process manager daemon for Neovim. Fixes memory bloat, stuck diagnostics, monorepo server duplication, and session degradation."
+            "description": "A persistent LSP process manager daemon which fixes memory bloat, stuck diagnostics, monorepo server duplication, and session degradation."
         },
         {
             "path": "rachartier/tiny-inline-diagnostic.nvim",
@@ -1264,7 +1264,7 @@
             "name": "nvim-unity.nvim",
             "config": "nvim_unity_nvim.lua",
             "url": "https://github.com/apyra/nvim-unity",
-            "description": "Use Neovim as your default Unity editor with full LSP support via OmniSharp."
+            "description": "Editor support for Unity with full LSP support via OmniSharp."
         },
         {
             "path": "atomicptr/defold.nvim",
@@ -1990,7 +1990,7 @@
             "name": "tree-sitter-manager.nvim",
             "config": "tree_sitter_manager_nvim.lua",
             "url": "https://github.com/romus204/tree-sitter-manager.nvim",
-            "description": "A lightweight Tree-sitter parser manager for Neovim 0.12+ to replace the archived `nvim-treesitter` plugin."
+            "description": "A lightweight Tree-sitter parser manager to replace the archived `nvim-treesitter` plugin."
         },
         {
             "path": "nvim-treesitter/nvim-treesitter-textobjects",
@@ -2734,7 +2734,7 @@
             "name": "snacks.nvim#picker",
             "config": "snacks_nvim#picker.lua",
             "url": "https://github.com/folke/snacks.nvim/blob/main/docs/picker.md",
-            "description": "A modern fuzzy-finder to navigate the Neovim universe."
+            "description": "A modern fuzzy-finder to navigate your editor."
         },
         {
             "path": "dmtrKovalenko/fff.nvim",
@@ -2974,7 +2974,7 @@
             "name": "nvim-projectconfig",
             "config": "nvim_projectconfig.lua",
             "url": "https://github.com/windwp/nvim-projectconfig",
-            "description": "Loads Neovim config depending on the project directory."
+            "description": "Load specific configs depending on the project directory."
         },
         {
             "path": "DrKJeff16/project.nvim",
@@ -3102,7 +3102,7 @@
             "name": "codesettings.nvim",
             "config": "codesettings_nvim.lua",
             "url": "https://github.com/mrjones2014/codesettings.nvim",
-            "description": "Easily load project-local settings (like `.vscode/settings.json`) into Neovim 0.11+ native LSP settings."
+            "description": "Easily load project-local settings (like `.vscode/settings.json`) into native LSP settings."
         },
         {
             "path": "josephschmitt/pj.nvim",
@@ -3606,7 +3606,7 @@
             "name": "oasis.nvim",
             "config": "oasis_nvim.lua",
             "url": "https://github.com/uhs-robert/oasis.nvim",
-            "description": "**_`[TS][LSP][L/D][Lua]`_** Desert theme from Vim ported to Neovim and made modern with 12 variants, a collection of dark themes for every color of the rainbow."
+            "description": "**_`[TS][LSP][L/D][Lua]`_** Desert theme ported from Vim and made modern with 12 variants, a collection of dark themes for every color of the rainbow."
         },
         {
             "path": "sainnhe/sonokai",
@@ -3918,7 +3918,7 @@
             "name": "zenbones.nvim",
             "config": "zenbones_nvim.lua",
             "url": "https://github.com/zenbones-theme/zenbones.nvim",
-            "description": "**_`[TS][LSP][L/D][Lua]`_** A collection of Vim/Neovim colorschemes designed to highlight code using contrasts and font variations."
+            "description": "**_`[TS][LSP][L/D][Lua]`_** A collection of colorschemes designed to highlight code using contrasts and font variations."
         },
         {
             "path": "catppuccin/nvim",
@@ -4430,7 +4430,7 @@
             "name": "base16-pro-max.nvim",
             "config": "base16_pro_max_nvim.lua",
             "url": "https://github.com/y3owk1n/base16-pro-max.nvim",
-            "description": "**_`[TS][LSP][Lua]`_** Base16 for modern Neovim \u2014 not just colors."
+            "description": "**_`[TS][LSP][Lua]`_** Base16 for modern editing \u2014 not just colors."
         },
         {
             "path": "ellisonleao/gruvbox.nvim",
@@ -4584,7 +4584,7 @@
             "name": "lush.nvim",
             "config": "lush_nvim.lua",
             "url": "https://github.com/rktjmp/lush.nvim",
-            "description": "Define Neovim themes as a DSL in Lua, with real-time feedback."
+            "description": "Define colorschemes as a DSL in Lua, with real-time feedback."
         },
         {
             "path": "Iron-E/nvim-highlite",
@@ -4608,7 +4608,7 @@
             "name": "themer.lua",
             "config": "themer_lua.lua",
             "url": "https://github.com/ThemerCorp/themer.lua",
-            "description": "A simple highlighter with a huge collection of colorschemes. It also has ability to create colorschemes for Vim/Neovim and other supported apps (such as `kitty` and `alacritty`)."
+            "description": "A simple highlighter with a huge collection of colorschemes. It also has ability to create colorschemes for your editor and other supported apps (such as `kitty` and `alacritty`)."
         },
         {
             "path": "nvim-mini/mini.nvim#mini.colors",
@@ -4706,7 +4706,7 @@
             "name": "colorbox.nvim",
             "config": "colorbox_nvim.lua",
             "url": "https://github.com/linrongbin16/colorbox.nvim",
-            "description": "Load all the ultra colorschemes into your Neovim player."
+            "description": "Load all the ultra colorschemes into your editor's player."
         },
         {
             "path": "CWood-sdf/pineapple",
@@ -4932,7 +4932,7 @@
             "name": "incline.nvim",
             "config": "incline_nvim.lua",
             "url": "https://github.com/b0o/incline.nvim",
-            "description": "Lightweight floating statuslines, intended for use with Neovim's new global statusline."
+            "description": "Lightweight floating statuslines, intended for use with the new global statusline."
         },
         {
             "path": "rebelot/heirline.nvim",
@@ -5784,7 +5784,7 @@
             "name": "nix-develop.nvim",
             "config": "nix_develop_nvim.lua",
             "url": "https://github.com/figsoda/nix-develop.nvim",
-            "description": "Run `nix develop` without restarting Neovim."
+            "description": "Run `nix develop` without restarting."
         },
         {
             "path": "tenxsoydev/nx.nvim",
@@ -5792,7 +5792,7 @@
             "name": "nx.nvim",
             "config": "nx_nvim.lua",
             "url": "https://github.com/tenxsoydev/nx.nvim",
-            "description": "Neovim API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options."
+            "description": "Built-in API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options."
         },
         {
             "path": "mluders/comfy-line-numbers.nvim",
@@ -6040,7 +6040,7 @@
             "name": "nvim-moonwalk",
             "config": "nvim_moonwalk.lua",
             "url": "https://github.com/gpanders/nvim-moonwalk",
-            "description": "Use any language that compiles to Lua anywhere in your Neovim configuration."
+            "description": "Use any language that compiles to Lua anywhere in your configuration."
         },
         {
             "path": "johannww/tts.nvim",
@@ -6136,7 +6136,7 @@
             "name": "nvim-mcp",
             "config": "nvim_mcp.lua",
             "url": "https://github.com/paulburgess1357/nvim-mcp",
-            "description": "MCP server giving AI agents access to buffers, commands, and LSP diagnostics through Neovim's msgpack-RPC socket."
+            "description": "MCP server giving AI agents access to buffers, commands, and LSP diagnostics through the built-in msgpack-RPC socket."
         }
     ],
     "CSV Files": [
@@ -6282,7 +6282,7 @@
             "name": "neomux",
             "config": "neomux.lua",
             "url": "https://github.com/nikvdp/neomux",
-            "description": "Control Neovim from shells ran through the `:term` command."
+            "description": "Control your editor from shells ran through the `:term` command."
         },
         {
             "path": "willothy/flatten.nvim",
@@ -6290,7 +6290,7 @@
             "name": "flatten.nvim",
             "config": "flatten_nvim.lua",
             "url": "https://github.com/willothy/flatten.nvim",
-            "description": "Open files from terminal buffers in your current Neovim instance instead of launching a nested instance."
+            "description": "Open files from terminal buffers in your current editor instance instead of launching a nested instance."
         },
         {
             "path": "akinsho/toggleterm.nvim",
@@ -6346,7 +6346,7 @@
             "name": "tide42",
             "config": "tide42.lua",
             "url": "https://github.com/logicmagix/tide42",
-            "description": "A fully integrated terminal IDE built on Neovim, tmux, and scriptable workflows."
+            "description": "A fully integrated terminal IDE built on Lua, tmux, and scriptable workflows."
         },
         {
             "path": "samjwill/nvim-unception",
@@ -6354,7 +6354,7 @@
             "name": "nvim-unception",
             "config": "nvim_unception.lua",
             "url": "https://github.com/samjwill/nvim-unception",
-            "description": "Automatic unnesting of Neovim sessions started from terminal buffers."
+            "description": "Automatic unnesting of editor sessions started from terminal buffers."
         },
         {
             "path": "kassio/neoterm",
@@ -6378,7 +6378,7 @@
             "name": "nvim-channelot",
             "config": "nvim_channelot.lua",
             "url": "https://github.com/idanarye/nvim-channelot",
-            "description": "Operate Neovim jobs from Lua coroutines."
+            "description": "Operate editor jobs from Lua coroutines."
         },
         {
             "path": "chomosuke/term-edit.nvim",
@@ -6418,7 +6418,7 @@
             "name": "termim.nvim",
             "config": "termim_nvim.lua",
             "url": "https://github.com/2KAbhishek/termim.nvim/",
-            "description": "Neovim Terminal, Improved."
+            "description": "Built-in terminal, improved."
         },
         {
             "path": "samharju/yeet.nvim",
@@ -6692,7 +6692,7 @@
             "name": "neotest",
             "config": "neotest.lua",
             "url": "https://github.com/nvim-neotest/neotest",
-            "description": "An extensible framework for interacting with tests within Neovim."
+            "description": "An extensible framework for interacting with tests within your editor."
         },
         {
             "path": "andythigpen/nvim-coverage",
@@ -6732,7 +6732,7 @@
             "name": "neotest-busted",
             "config": "neotest_busted.lua",
             "url": "https://github.com/MisanthropicBit/neotest-busted",
-            "description": "Neotest adapter for running busted tests using Neovim as a Lua interpreter."
+            "description": "Neotest adapter for running busted tests using your editor as a Lua interpreter."
         },
         {
             "path": "mr-u0b0dy/crazy-coverage.nvim",
@@ -6756,7 +6756,7 @@
             "name": "sniprun",
             "config": "sniprun.lua",
             "url": "https://github.com/michaelb/sniprun",
-            "description": "Run parts of code of any language directly from Neovim."
+            "description": "Run parts of code of any language directly from your editor."
         },
         {
             "path": "CRAG666/code_runner.nvim",
@@ -7028,7 +7028,7 @@
             "name": "luarocks-tag-release",
             "config": "luarocks_tag_release.lua",
             "url": "https://github.com/lumen-oss/luarocks-tag-release",
-            "description": "A GitHub action that publishes your Neovim plugins to LuaRocks."
+            "description": "A GitHub action that publishes your plugins to LuaRocks."
         },
         {
             "path": "svermeulen/vimpeccable",
@@ -7052,7 +7052,7 @@
             "name": "vlog.nvim",
             "config": "vlog_nvim.lua",
             "url": "https://github.com/tjdevries/vlog.nvim",
-            "description": "Single file, no dependency, easy copy and paste log file to add to your Neovim Lua plugins."
+            "description": "Single file, no dependency, easy copy and paste log file to add to your Lua plugins."
         },
         {
             "path": "bfredl/nvim-luadev",
@@ -7068,7 +7068,7 @@
             "name": "one-small-step-for-vimkind",
             "config": "one_small_step_for_vimkind.lua",
             "url": "https://github.com/jbyuki/one-small-step-for-vimkind",
-            "description": "An adapter for the Neovim Lua language that allows debugging any Lua code running within a Neovim instance."
+            "description": "An adapter for the built-in Lua language that allows debugging any Lua code running within an editor instance."
         },
         {
             "path": "kkharji/sqlite.lua",
@@ -7116,7 +7116,7 @@
             "name": "mini.test",
             "config": "mini_test.lua",
             "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-test.md",
-            "description": "Module of `mini.nvim` with framework for writing extensive Neovim plugin tests with support for hierarchical tests, hooks, parametrization, filtering, screen tests, \"busted-style\" emulation, customizable reporters, and more."
+            "description": "Module of `mini.nvim` with framework for writing extensive plugin tests with support for hierarchical tests, hooks, parametrization, filtering, screen tests, \"busted-style\" emulation, customizable reporters, and more."
         },
         {
             "path": "ray-x/guihua.lua",
@@ -7196,7 +7196,7 @@
             "name": "lua-console.nvim",
             "config": "lua_console_nvim.lua",
             "url": "https://github.com/YaroSpace/lua-console.nvim",
-            "description": "A handy scratch pad / REPL / debug console for Neovim Lua development."
+            "description": "A handy scratch pad / REPL / debug console for built-in Lua development."
         },
         {
             "path": "DrKJeff16/wezterm-types",
@@ -7220,7 +7220,7 @@
             "name": "lze",
             "config": "lze.lua",
             "url": "https://github.com/BirdeeHub/lze",
-            "description": "A lazy-loading library for Neovim plugins."
+            "description": "A lazy-loading library for plugins."
         },
         {
             "path": "lumen-oss/lz.n",
@@ -7228,7 +7228,7 @@
             "name": "lz.n",
             "config": "lz_n.lua",
             "url": "https://github.com/lumen-oss/lz.n",
-            "description": "A simple lazy loading library for Neovim plugins."
+            "description": "A simple lazy loading library for plugins."
         },
         {
             "path": "jrop/morph.nvim",
@@ -7252,7 +7252,7 @@
             "name": "aniseed",
             "config": "aniseed.lua",
             "url": "https://github.com/Olical/aniseed",
-            "description": "Configure and extend Neovim with Fennel."
+            "description": "Configure and extend your editor with Fennel."
         },
         {
             "path": "Olical/nfnl",
@@ -7276,7 +7276,7 @@
             "name": "hotpot.nvim",
             "config": "hotpot_nvim.lua",
             "url": "https://github.com/rktjmp/hotpot.nvim",
-            "description": "Seamless, transparent Fennel inside Neovim."
+            "description": "Seamless, transparent Fennel inside your editor."
         },
         {
             "path": "udayvir-singh/tangerine.nvim",
@@ -7412,7 +7412,7 @@
             "name": "mini.git",
             "config": "mini_git.lua",
             "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-git.md",
-            "description": "Module of `mini.nvim` for enhanced Git integration with current Neovim process that implements tracking of Git related data, `:Git` user command, and various helpers to explore Git history."
+            "description": "Module of `mini.nvim` for enhanced Git integration with current editor process that implements tracking of Git related data, `:Git` user command, and various helpers to explore Git history."
         },
         {
             "path": "NeogitOrg/neogit",
@@ -8594,7 +8594,7 @@
             "name": "im-select.nvim",
             "config": "im_select_nvim.lua",
             "url": "https://github.com/keaising/im-select.nvim",
-            "description": "Switching and restoring input method automatically depends on Neovim's edit mode."
+            "description": "Switching and restoring input method automatically depends on your editor's edit mode."
         },
         {
             "path": "nvim-mini/mini.nvim#mini.trailspace",
@@ -9648,7 +9648,7 @@
             "name": "neopyter",
             "config": "neopyter.lua",
             "url": "https://github.com/SUSTech-data/neopyter",
-            "description": "Edit in Neovim and preview/run in Jupyter Lab."
+            "description": "Edit and preview/run in Jupyter Lab."
         },
         {
             "path": "kiyoon/jupynium.nvim",
@@ -9656,7 +9656,7 @@
             "name": "jupynium.nvim",
             "config": "jupynium_nvim.lua",
             "url": "https://github.com/kiyoon/jupynium.nvim",
-            "description": "Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time."
+            "description": "Selenium-automated Jupyter Notebook that is synchronised with your editor in real-time."
         },
         {
             "path": "gruvw/strudel.nvim",
@@ -9826,7 +9826,7 @@
             "name": "nvimux",
             "config": "nvimux.lua",
             "url": "https://github.com/hkupty/nvimux",
-            "description": "Use Neovim as a tmux replacement."
+            "description": "Use your editor as a tmux replacement."
         },
         {
             "path": "numToStr/Navigator.nvim",
@@ -9834,7 +9834,7 @@
             "name": "Navigator.nvim",
             "config": "Navigator_nvim.lua",
             "url": "https://github.com/numToStr/Navigator.nvim",
-            "description": "Smoothly navigate between Neovim splits and tmux panes."
+            "description": "Smoothly navigate between editor splits and tmux panes."
         },
         {
             "path": "declancm/windex.nvim",
@@ -9842,7 +9842,7 @@
             "name": "windex.nvim",
             "config": "windex_nvim.lua",
             "url": "https://github.com/declancm/windex.nvim",
-            "description": "Collection of window functions which includes moving between, closing and maximizing Neovim splits and tmux panes."
+            "description": "Collection of window functions which includes moving between, closing and maximizing editor splits and tmux panes."
         },
         {
             "path": "karnull/only-tmux.nvim",
@@ -9906,7 +9906,7 @@
             "name": "nvim-tetris",
             "config": "nvim_tetris.lua",
             "url": "https://github.com/alec-gibson/nvim-tetris",
-            "description": "Bringing Emacs' greatest feature to Neovim - Tetris."
+            "description": "Bringing Emacs' greatest feature - Tetris."
         },
         {
             "path": "seandewar/nvimesweeper",
@@ -10158,7 +10158,7 @@
             "name": "usage-tracker.nvim",
             "config": "usage_tracker_nvim.lua",
             "url": "https://github.com/gaborvecsei/usage-tracker.nvim",
-            "description": "Track your Neovim usage and visualize statistics easily."
+            "description": "Track your usage and visualize statistics easily."
         },
         {
             "path": "SunnyTamang/pendulum.nvim",
@@ -10302,7 +10302,7 @@
             "name": "SpaceVim",
             "config": "SpaceVim.lua",
             "url": "https://spacevim.org",
-            "description": "A community-driven modular Vim/Neovim distribution, inspired by `spacemacs`."
+            "description": "A community-driven modular Neovim distribution, inspired by `spacemacs`."
         },
         {
             "path": "CosmicNvim/CosmicNvim",
@@ -10374,7 +10374,7 @@
             "name": "NvChad",
             "config": "NvChad.lua",
             "url": "https://github.com/siduck76/NvChad",
-            "description": "An attempt to make Neovim's CLI as functional as an IDE while retaining beauty with less bloat."
+            "description": "An attempt to make the built-in CLI as functional as an IDE while retaining beauty with less bloat."
         },
         {
             "path": "cstsunfu/.sea.nvim",
@@ -10390,7 +10390,7 @@
             "name": "roshnivim",
             "config": "roshnivim.lua",
             "url": "https://github.com/shaeinst/roshnivim",
-            "description": "A predefined config to save you thousands of hours to setup Neovim as an IDE."
+            "description": "A predefined config to save you thousands of hours to setup your editor as an IDE."
         },
         {
             "path": "AstroNvim/AstroNvim",
@@ -10430,7 +10430,7 @@
             "name": "kickstart.nvim",
             "config": "kickstart_nvim.lua",
             "url": "https://github.com/nvim-lua/kickstart.nvim",
-            "description": "A launch point for your personal Neovim configuration."
+            "description": "A launch point for your personal editor configuration."
         },
         {
             "path": "dam9000/kickstart-modular.nvim",
@@ -10486,7 +10486,7 @@
             "name": "nvim-kickstart-python",
             "config": "nvim_kickstart_python.lua",
             "url": "https://github.com/chrisgrieser/nvim-kickstart-python",
-            "description": "A launch point for your Neovim configuration (for Python)."
+            "description": "A launch point for your editor configuration (for Python)."
         },
         {
             "path": "mrcjkb/kickstart-nix.nvim",
@@ -10494,7 +10494,7 @@
             "name": "kickstart-nix.nvim",
             "config": "kickstart_nix_nvim.lua",
             "url": "https://github.com/mrcjkb/kickstart-nix.nvim",
-            "description": "A simple [Nix flake](https://wiki.nixos.org/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations."
+            "description": "A simple [Nix flake](https://wiki.nixos.org/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing editor configurations."
         },
         {
             "path": "drybalka/clean.nvim",
@@ -10568,7 +10568,7 @@
             "name": "bob",
             "config": "bob.lua",
             "url": "https://github.com/MordechaiHadad/bob",
-            "description": "A cross-platform, easy to use Neovim version manager."
+            "description": "A cross-platform, easy to use version manager."
         },
         {
             "path": "NTBBloodbath/nvenv",
@@ -10576,7 +10576,7 @@
             "name": "nvenv",
             "config": "nvenv.lua",
             "url": "https://github.com/NTBBloodbath/nvenv",
-            "description": "A lightweight and blazingly fast Neovim version manager."
+            "description": "A lightweight and blazingly fast version manager."
         },
         {
             "path": "y3owk1n/nvs",
@@ -10584,7 +10584,7 @@
             "name": "nvs",
             "config": "nvs.lua",
             "url": "https://github.com/y3owk1n/nvs",
-            "description": "Another Neovim version manager with config switcher."
+            "description": "Another version manager with config switcher."
         }
     ],
     "Plugin Template": [
@@ -10610,7 +10610,7 @@
             "name": "nvim-plugin-template",
             "config": "nvim_plugin_template.lua",
             "url": "https://github.com/ellisonleao/nvim-plugin-template",
-            "description": "Another Neovim plugin template, using GitHub's template feature."
+            "description": "Another plugin template, using GitHub's template feature."
         },
         {
             "path": "2KAbhishek/template.nvim",
@@ -10642,7 +10642,7 @@
             "name": "nvim-pseudometa-plugin-template",
             "config": "nvim_pseudometa_plugin_template.lua",
             "url": "https://github.com/chrisgrieser/nvim-pseudometa-plugin-template",
-            "description": "Template for new Neovim plugins."
+            "description": "Template for new plugins."
         }
     ],
     "OS-specific": [
@@ -10652,7 +10652,7 @@
             "name": "alfred-neovim-utilities",
             "config": "alfred_neovim_utilities.lua",
             "url": "https://github.com/chrisgrieser/alfred-neovim-utilities",
-            "description": "Search Neovim plugins and online `:help` via Alfred (macOS)."
+            "description": "Search plugins and online `:help` via Alfred (macOS)."
         },
         {
             "path": "iamironz/android-nvim-plugin",
@@ -10876,7 +10876,7 @@
             "name": "Dotfyle",
             "config": "Dotfyle.lua",
             "url": "https://dotfyle.com",
-            "description": "A site for sharing and discovering Neovim configs and plugins."
+            "description": "A site for sharing and discovering configurations and plugins."
         },
         {
             "path": "NeoLand",
@@ -10900,7 +10900,7 @@
             "name": "Nvim.app",
             "config": "Nvim_app.lua",
             "url": "https://nvim.app",
-            "description": "A modern search interface for Neovim plugins with fuzzy search, filtering, and self-service updates for plugin authors."
+            "description": "A modern search interface for plugins with fuzzy search, filtering, and self-service updates for plugin authors."
         },
         {
             "path": "ChuYanLon/chad46",
