@@ -7785,6 +7785,14 @@
             "description": "Review GitHub PRs."
         },
         {
+            "path": "justinmk/guh.nvim",
+            "owner": "justinmk",
+            "name": "guh.nvim",
+            "config": "guh_nvim.lua",
+            "url": "https://github.com/justinmk/guh.nvim",
+            "description": "View any GitHub object, including CI logs."
+        },
+        {
             "path": "HawkinsT/pathfinder.nvim",
             "owner": "HawkinsT",
             "name": "pathfinder.nvim",
