@@ -97,6 +97,14 @@
             "description": "A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec."
         },
         {
+            "path": "nvim-pio",
+            "owner": "",
+            "name": "nvim-pio",
+            "config": "nvim_pio.lua",
+            "url": "https://github.com/batoaqaa/nvim-pio",
+            "description": "Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP."
+        },
+        {
             "path": "romus204/referencer.nvim",
             "owner": "romus204",
             "name": "referencer.nvim",
@@ -8995,6 +9003,14 @@
             "config": "smart_paste_nvim.lua",
             "url": "https://github.com/nemanjamalesija/smart-paste.nvim",
             "description": "Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic)."
+        },
+        {
+            "path": "neur1n/hyphen.nvim",
+            "owner": "neur1n",
+            "name": "hyphen.nvim",
+            "config": "hyphen_nvim.lua",
+            "url": "https://github.com/neur1n/hyphen.nvim",
+            "description": "Show TeX-style hyphenation breakpoints in text."
         }
     ],
     "Comment": [
