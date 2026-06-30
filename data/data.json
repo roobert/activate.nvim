@@ -3145,6 +3145,14 @@
             "description": "Pin project-specific directories for instant fuzzy searching. Inspired by Harpoon."
         },
         {
+            "path": "Rimkomatic/vimtagger.nvim",
+            "owner": "Rimkomatic",
+            "name": "vimtagger.nvim",
+            "config": "vimtagger_nvim.lua",
+            "url": "https://github.com/Rimkomatic/vimtagger.nvim",
+            "description": "Semantic file tagging for projects with Telescope integration. Organize files using custom tags, search them quickly, and manage tags through an interactive UI."
+        },
+        {
             "path": "TheLazyCat00/workspaces-nvim",
             "owner": "TheLazyCat00",
             "name": "workspaces-nvim",
