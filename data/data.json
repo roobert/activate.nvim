@@ -10933,6 +10933,14 @@
             "config": "chad46.lua",
             "url": "https://github.com/ChuYanLon/chad46",
             "description": "94 themes with 44 highlight integrations, daily synced from NvChad/base46."
+        },
+        {
+            "path": "Neovim Cheatsheet",
+            "owner": "",
+            "name": "Neovim Cheatsheet",
+            "config": "Neovim Cheatsheet.lua",
+            "url": "https://neovimcheatsheet.com",
+            "description": "Searchable, interactive cheatsheet with per-keypress search, remappable keybindings, and JSON import/export."
         }
     ]
 }
