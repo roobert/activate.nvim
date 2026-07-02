@@ -1865,6 +1865,14 @@
             "description": "Easily insert and edit Markdown tables with a live preview and useful helpers."
         },
         {
+            "path": "dominic-righthere/markdown-pipetable.nvim",
+            "owner": "dominic-righthere",
+            "name": "markdown-pipetable.nvim",
+            "config": "markdown_pipetable_nvim.lua",
+            "url": "https://github.com/dominic-righthere/markdown-pipetable.nvim",
+            "description": "Interactive, fit-to-width inline Markdown table editor with cell navigation, visual selection, row/column operations, and CSV/TSV conversion."
+        },
+        {
             "path": "tttol/md-outline.nvim",
             "owner": "tttol",
             "name": "md-outline.nvim",
