@@ -771,6 +771,14 @@
             "description": "Edit completions and cursor predictions with multiple AI providers."
         },
         {
+            "path": "ctchen222/openspec.nvim",
+            "owner": "ctchen222",
+            "name": "openspec.nvim",
+            "config": "openspec_nvim.lua",
+            "url": "https://github.com/ctchen222/openspec.nvim",
+            "description": "OpenSpec workflow context, model/provider selection, and coding-agent implementation handoffs."
+        },
+        {
             "path": "carlos-algms/agentic.nvim",
             "owner": "carlos-algms",
             "name": "agentic.nvim",
@@ -1008,7 +1016,7 @@
             "name": "flemma.nvim",
             "config": "flemma_nvim.lua",
             "url": "https://github.com/Flemma-Dev/flemma.nvim",
-            "description": "A first-class AI workspace."
+            "description": "Turn messy inputs (meeting transcripts, briefs, PDFs, email threads) into polished documents, iterate over many turns, and get a second opinion from a different model on the same draft, stored in a `.chat` file."
         },
         {
             "path": "heilgar/nochat.nvim",
@@ -5577,6 +5585,14 @@
             "config": "obsidian_nvim.lua",
             "url": "https://github.com/obsidian-nvim/obsidian.nvim",
             "description": "Plugin for Obsidian, written in Lua."
+        },
+        {
+            "path": "jjuchara/obsidian-tasks.nvim",
+            "owner": "jjuchara",
+            "name": "obsidian-tasks.nvim",
+            "config": "obsidian_tasks_nvim.lua",
+            "url": "https://github.com/jjuchara/obsidian-tasks.nvim",
+            "description": "Keyboard-first Obsidian task management across multiple vaults with ordered tag trees."
         },
         {
             "path": "IlyasYOY/obs.nvim",
