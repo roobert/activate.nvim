@@ -715,6 +715,14 @@
             "description": "Display diagnostic count using virtual text, and show diagnostic details in a floating window."
         },
         {
+            "path": "tumillanino/semgrep.nvim",
+            "owner": "tumillanino",
+            "name": "semgrep.nvim",
+            "config": "semgrep_nvim.lua",
+            "url": "https://github.com/tumillanino/semgrep.nvim",
+            "description": "Lightweight Semgrep static analysis integration to catch bugs and vulnerabilities."
+        },
+        {
             "path": "ms-jpq/coq_nvim",
             "owner": "ms-jpq",
             "name": "coq_nvim",
@@ -7045,6 +7053,14 @@
             "config": "nx_nvim.lua",
             "url": "https://github.com/negativo/nx-nvim",
             "description": "Telescope picker for NX monorepo projects and targets, running the selected one in a split terminal."
+        },
+        {
+            "path": "lewistg/pesto.nvim",
+            "owner": "lewistg",
+            "name": "pesto.nvim",
+            "config": "pesto_nvim.lua",
+            "url": "https://github.com/lewistg/pesto.nvim",
+            "description": "- Bazel integration through its _Build Event Protocol_ to find, fetch, and parse error logs for failed build actions, including logs stored remotely."
         },
         {
             "path": "saghen/blink.lib",
