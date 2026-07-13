@@ -2993,6 +2993,14 @@
             "description": "Fast multi-format file previewer with inline kitty graphics support, external pane previews, and integrations for file explorers and pickers."
         },
         {
+            "path": "ingur/fzf-oil.nvim",
+            "owner": "ingur",
+            "name": "fzf-oil.nvim",
+            "config": "fzf_oil_nvim.lua",
+            "url": "https://github.com/ingur/fzf-oil.nvim",
+            "description": "A tiny file browser with seamless toggling between fzf-lua and oil.nvim."
+        },
+        {
             "path": "karnull/switchboard.nvim",
             "owner": "karnull",
             "name": "switchboard.nvim",
@@ -9205,6 +9213,14 @@
             "config": "comment_tasks_nvim.lua",
             "url": "https://github.com/georgeharker/comment-tasks.nvim",
             "description": "Keep your task manager up to date from TODO and FIXME comments in code."
+        },
+        {
+            "path": "celeste3z/celeste_comment.nvim",
+            "owner": "celeste3z",
+            "name": "celeste_comment.nvim",
+            "config": "celeste_comment_nvim.lua",
+            "url": "https://github.com/celeste3z/celeste_comment.nvim",
+            "description": "VSCode-style commenting plugin with support for line and block comments, and textobjects."
         }
     ],
     "Folding": [
