@@ -10233,6 +10233,14 @@
             "description": "Use the Pomodoro Technique with built-in session tracking and break reminders."
         },
         {
+            "path": "yal212/pomodoro.nvim",
+            "owner": "yal212",
+            "name": "pomodoro.nvim",
+            "config": "pomodoro_nvim.lua",
+            "url": "https://github.com/yal212/pomodoro.nvim",
+            "description": "Focus-first Pomodoro timer with automatic work, break cycles, session statistics, and a distraction-free focus mode."
+        },
+        {
             "path": "gaborvecsei/usage-tracker.nvim",
             "owner": "gaborvecsei",
             "name": "usage-tracker.nvim",
