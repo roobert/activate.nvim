@@ -25,14 +25,6 @@
             "description": "Package manager written in Lua."
         },
         {
-            "path": "NTBBloodbath/cheovim",
-            "owner": "NTBBloodbath",
-            "name": "cheovim",
-            "config": "cheovim.lua",
-            "url": "https://github.com/NTBBloodbath/cheovim",
-            "description": "A configuration switcher written in Lua. Inspired by [chemacs](https://github.com/plexus/chemacs)."
-        },
-        {
             "path": "folke/lazy.nvim",
             "owner": "folke",
             "name": "lazy.nvim",
