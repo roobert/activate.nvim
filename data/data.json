@@ -9067,6 +9067,14 @@
             "config": "hyphen_nvim.lua",
             "url": "https://github.com/neur1n/hyphen.nvim",
             "description": "Show TeX-style hyphenation breakpoints in text."
+        },
+        {
+            "path": "ntk148v/yankdown.nvim",
+            "owner": "ntk148v",
+            "name": "yankdown.nvim",
+            "config": "yankdown_nvim.lua",
+            "url": "https://github.com/ntk148v/yankdown.nvim",
+            "description": "Paste rich clipboard content as clean Markdown."
         }
     ],
     "Comment": [
