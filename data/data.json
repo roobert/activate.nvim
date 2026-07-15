@@ -4705,6 +4705,14 @@
             "config": "base16_nvim.lua",
             "url": "https://github.com/RRethy/base16-nvim",
             "description": "A base16 colorscheme builder. Includes support for Tree-sitter and LSP highlight groups."
+        },
+        {
+            "path": "Senal-D-A-Gunaratna/matugen.nvim",
+            "owner": "Senal-D-A-Gunaratna",
+            "name": "matugen.nvim",
+            "config": "matugen_nvim.lua",
+            "url": "https://github.com/Senal-D-A-Gunaratna/matugen.nvim",
+            "description": "Material You colorscheme generator using an external template system. Supports Tree-sitter, LSP, and Lua."
         }
     ],
     "Colorscheme Switchers": [
