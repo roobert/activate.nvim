@@ -7087,6 +7087,14 @@
             "description": "- Bazel integration through its _Build Event Protocol_ to find, fetch, and parse error logs for failed build actions, including logs stored remotely."
         },
         {
+            "path": "wsdjeg/tasks.nvim",
+            "owner": "wsdjeg",
+            "name": "tasks.nvim",
+            "config": "tasks_nvim.lua",
+            "url": "https://github.com/wsdjeg/tasks.nvim",
+            "description": "A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager."
+        },
+        {
             "path": "saghen/blink.lib",
             "owner": "saghen",
             "name": "blink.lib",
