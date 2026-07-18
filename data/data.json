@@ -4623,6 +4623,14 @@
             "config": "meowsoot_nvim.lua",
             "url": "https://github.com/marekh19/meowsoot.nvim",
             "description": "**_`[TS][LSP][L/D][Lua]`_** A dark pink\u2013cyan\u2013lavender colorscheme where strings are yellow and green never reaches code."
+        },
+        {
+            "path": "ntk148v/lauds",
+            "owner": "ntk148v",
+            "name": "lauds",
+            "config": "lauds.lua",
+            "url": "https://github.com/ntk148v/lauds",
+            "description": "**_`[TS][Lua]`_** Paper-light color theme for prose and code \u2014 warm off-white paper, terracotta orange, deep mint."
         }
     ],
     "Colorscheme Creation": [
