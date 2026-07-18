@@ -3481,6 +3481,14 @@
             "description": "Focus on one symbol at a time by dimming unrelated lines."
         },
         {
+            "path": "cxwx/shadowMyName.nvim",
+            "owner": "cxwx",
+            "name": "shadowMyName.nvim",
+            "config": "shadowMyName_nvim.lua",
+            "url": "https://github.com/cxwx/shadowMyName.nvim",
+            "description": "Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen."
+        },
+        {
             "path": "ThorstenRhau/token",
             "owner": "ThorstenRhau",
             "name": "token",
