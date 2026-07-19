@@ -2145,6 +2145,14 @@
             "description": "A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter."
         },
         {
+            "path": "bird-chinese-community/BIRD.nvim",
+            "owner": "bird-chinese-community",
+            "name": "BIRD.nvim",
+            "config": "BIRD_nvim.lua",
+            "url": "https://github.com/bird-chinese-community/BIRD.nvim",
+            "description": "Syntax highlighting, automatic filetype detection, and filetype-specific editing support for BIRD 2 and BIRD 3 configuration files."
+        },
+        {
             "path": "L3MON4D3/LuaSnip",
             "owner": "L3MON4D3",
             "name": "LuaSnip",
@@ -4631,6 +4639,14 @@
             "config": "lauds.lua",
             "url": "https://github.com/ntk148v/lauds",
             "description": "**_`[TS][Lua]`_** Paper-light color theme for prose and code \u2014 warm off-white paper, terracotta orange, deep mint."
+        },
+        {
+            "path": "alsi-lawr/neotheme.nvim",
+            "owner": "alsi-lawr",
+            "name": "neotheme.nvim",
+            "config": "neotheme_nvim.lua",
+            "url": "https://github.com/alsi-lawr/neotheme.nvim",
+            "description": "**_`[TS][LSP][L/D][Lua]`_** A semantic, palette-driven theme engine, with live theme switching and multiple built-in families."
         }
     ],
     "Colorscheme Creation": [
