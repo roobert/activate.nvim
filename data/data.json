@@ -2030,7 +2030,7 @@
             "name": "tree-sitter-manager.nvim",
             "config": "tree_sitter_manager_nvim.lua",
             "url": "https://github.com/romus204/tree-sitter-manager.nvim",
-            "description": "A lightweight Tree-sitter parser manager for Neovim 0.12+ to replace the archived `nvim-treesitter`."
+            "description": "A lightweight Tree-sitter parser manager for Neovim 0.12+."
         },
         {
             "path": "nvim-treesitter/nvim-treesitter-textobjects",
@@ -7125,6 +7125,14 @@
             "config": "tasks_nvim.lua",
             "url": "https://github.com/wsdjeg/tasks.nvim",
             "description": "A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager."
+        },
+        {
+            "path": "JulOuellet/bzl.nvim",
+            "owner": "JulOuellet",
+            "name": "bzl.nvim",
+            "config": "bzl_nvim.lua",
+            "url": "https://github.com/JulOuellet/bzl.nvim",
+            "description": "Bazel integration: target picker and tree, run/test/build with streaming output, and LSP support for Bazel-managed dependencies."
         },
         {
             "path": "saghen/blink.lib",
