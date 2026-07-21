@@ -4609,6 +4609,14 @@
             "description": "**_`[TS][LSP][L/D][Lua]`_** Vibrant cyberpunk color system with five variants, 40+ plugin integrations, WCAG AA compliant. Supports multiple editors, terminals and CLI tools."
         },
         {
+            "path": "Aejkatappaja/sora",
+            "owner": "Aejkatappaja",
+            "name": "sora",
+            "config": "sora.lua",
+            "url": "https://github.com/Aejkatappaja/sora",
+            "description": "**_`[TS][LSP][Lua]`_** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools."
+        },
+        {
             "path": "T-b-t-nchos/Aquavium.nvim",
             "owner": "T-b-t-nchos",
             "name": "Aquavium.nvim",
