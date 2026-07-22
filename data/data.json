@@ -8243,6 +8243,14 @@
             "description": "Shows a popup with possible keybindings of the command you started typing."
         },
         {
+            "path": "kamegoro/tobira.nvim",
+            "owner": "kamegoro",
+            "name": "tobira.nvim",
+            "config": "tobira_nvim.lua",
+            "url": "https://github.com/kamegoro/tobira.nvim",
+            "description": "Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns."
+        },
+        {
             "path": "nvim-mini/mini.nvim#mini.clue",
             "owner": "nvim-mini",
             "name": "mini.clue",
