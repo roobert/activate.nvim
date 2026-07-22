@@ -10337,6 +10337,14 @@
             "description": "Focus-first Pomodoro timer with automatic work, break cycles, session statistics, and a distraction-free focus mode."
         },
         {
+            "path": "raymondware/focusmode.nvim",
+            "owner": "raymondware",
+            "name": "focusmode.nvim",
+            "config": "focusmode_nvim.lua",
+            "url": "https://github.com/raymondware/focusmode.nvim",
+            "description": "Pomodoro and deep-work timer with configurable intervals, distraction blocking, session statistics, and a dashboard."
+        },
+        {
             "path": "gaborvecsei/usage-tracker.nvim",
             "owner": "gaborvecsei",
             "name": "usage-tracker.nvim",
