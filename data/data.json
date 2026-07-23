@@ -4655,6 +4655,14 @@
             "config": "neotheme_nvim.lua",
             "url": "https://github.com/alsi-lawr/neotheme.nvim",
             "description": "**_`[TS][LSP][L/D][Lua]`_** A semantic, palette-driven theme engine, with live theme switching and multiple built-in families."
+        },
+        {
+            "path": "brargenzilian/darcula-solid.nvim",
+            "owner": "brargenzilian",
+            "name": "darcula-solid.nvim",
+            "config": "darcula_solid_nvim.lua",
+            "url": "https://codeberg.org/brargenzilian/darcula-solid.nvim",
+            "description": "**_`[TS][Lua]`_** A color-scheme that was heavily inspired by the JetBrains IntelliJ IDEA default theme, but was carefully refined to bring a more pleasant, aesthetic, and contrasting experience."
         }
     ],
     "Colorscheme Creation": [
