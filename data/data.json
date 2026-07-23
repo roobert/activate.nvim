@@ -1259,6 +1259,14 @@
             "description": "Auto-detects installed JDKs by major version, with separate environment variables for jdtls and Gradle."
         },
         {
+            "path": "artur-shaik/jc.nvim",
+            "owner": "artur-shaik",
+            "name": "jc.nvim",
+            "config": "jc_nvim.lua",
+            "url": "https://github.com/artur-shaik/jc.nvim",
+            "description": "Java productivity layer on top of an externally managed `jdtls`, including class creation, code generation, annotation by search, refactoring, a neotest test runner, and a task runner for `gradle` and `maven`."
+        },
+        {
             "path": "kiyoon/python-import.nvim",
             "owner": "kiyoon",
             "name": "python-import.nvim",
