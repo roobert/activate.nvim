@@ -7945,6 +7945,14 @@
             "description": "View any GitHub object, including CI logs."
         },
         {
+            "path": "mesirendon/nvim-ghrelease",
+            "owner": "mesirendon",
+            "name": "nvim-ghrelease",
+            "config": "nvim_ghrelease.lua",
+            "url": "https://github.com/mesirendon/nvim-ghrelease",
+            "description": "Create a new GitHub release based on current releases of the repo."
+        },
+        {
             "path": "HawkinsT/pathfinder.nvim",
             "owner": "HawkinsT",
             "name": "pathfinder.nvim",
