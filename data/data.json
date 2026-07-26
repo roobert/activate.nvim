@@ -641,6 +641,14 @@
             "description": "Easily install and manage LSP servers, DAP servers, linters, and formatters."
         },
         {
+            "path": "Senal-D-A-Gunaratna/swapson.nvim",
+            "owner": "Senal-D-A-Gunaratna",
+            "name": "swapson.nvim",
+            "config": "swapson_nvim.lua",
+            "url": "https://github.com/Senal-D-A-Gunaratna/swapson.nvim",
+            "description": "Monkeypatches `mason.nvim` to route `npm` and `pip` installs through `bun` and `uv`, speeding up LSP and tool installation."
+        },
+        {
             "path": "Crysthamus/nvim-file-operations",
             "owner": "Crysthamus",
             "name": "nvim-file-operations",
