@@ -6265,6 +6265,14 @@
             "config": "nvim_mcp.lua",
             "url": "https://github.com/paulburgess1357/nvim-mcp",
             "description": "MCP server giving AI agents access to buffers, commands, and LSP diagnostics through the built-in msgpack-RPC socket."
+        },
+        {
+            "path": "dpezto/chezmoi-template.nvim",
+            "owner": "dpezto",
+            "name": "chezmoi-template.nvim",
+            "config": "chezmoi_template_nvim.lua",
+            "url": "https://github.com/dpezto/chezmoi-template.nvim",
+            "description": "Edit chezmoi source files natively: target-language Tree-sitter injection, template-aware formatting, live preview, diagnostics and completion."
         }
     ],
     "CSV Files": [
@@ -6355,6 +6363,14 @@
             "config": "smudge_nvim.lua",
             "url": "https://github.com/indium114/smudge.nvim",
             "description": "Performant cursor animations."
+        },
+        {
+            "path": "TheLazyCat00/termfile-nvim",
+            "owner": "TheLazyCat00",
+            "name": "termfile-nvim",
+            "config": "termfile_nvim.lua",
+            "url": "https://github.com/TheLazyCat00/termfile-nvim",
+            "description": "Turn files into persistent terminal sessions that flawlessly allow for background work."
         },
         {
             "path": "TheLazyCat00/runner-nvim",
