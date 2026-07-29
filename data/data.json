@@ -9197,6 +9197,14 @@
             "description": "Paste rich clipboard content as clean Markdown."
         },
         {
+            "path": "Chiarandini/smart-enter.nvim",
+            "owner": "Chiarandini",
+            "name": "smart-enter.nvim",
+            "config": "smart_enter_nvim.lua",
+            "url": "https://github.com/Chiarandini/smart-enter.nvim",
+            "description": "Context-aware newline that continues LaTeX environments, Markdown lists, and more."
+        },
+        {
             "path": "yaocccc/visual-multi.nvim",
             "owner": "yaocccc",
             "name": "visual-multi.nvim",
