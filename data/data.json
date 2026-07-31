@@ -779,6 +779,14 @@
             "description": "Edit completions and cursor predictions with multiple AI providers."
         },
         {
+            "path": "teocns/neocursor.nvim",
+            "owner": "teocns",
+            "name": "neocursor.nvim",
+            "config": "neocursor_nvim.lua",
+            "url": "https://github.com/teocns/neocursor.nvim",
+            "description": "Next-edit predictions, cursor jumps, and ghost text, all driven by an existing Cursor session instead of an API key."
+        },
+        {
             "path": "ctchen222/openspec.nvim",
             "owner": "ctchen222",
             "name": "openspec.nvim",
@@ -1129,6 +1137,14 @@
             "config": "neocrush_nvim.lua",
             "url": "https://github.com/taigrr/neocrush.nvim",
             "description": "Integration with Crush AI coding assistant, with edit highlighting, auto-focus, Telescope support, terminal and version management."
+        },
+        {
+            "path": "zgs225/pi2.nvim",
+            "owner": "zgs225",
+            "name": "pi2.nvim",
+            "config": "pi2_nvim.lua",
+            "url": "https://github.com/zgs225/pi2.nvim",
+            "description": "Frontend for the [pi](https://pi.dev) coding agent with in-editor chat, reviewed diffs, session-tree navigation, and extension prompts."
         },
         {
             "path": "alessio-vivaldelli/java-creator-nvim",
@@ -4671,6 +4687,14 @@
             "config": "darcula_solid_nvim.lua",
             "url": "https://codeberg.org/brargenzilian/darcula-solid.nvim",
             "description": "**_`[TS][Lua]`_** A color-scheme that was heavily inspired by the JetBrains IntelliJ IDEA default theme, but was carefully refined to bring a more pleasant, aesthetic, and contrasting experience."
+        },
+        {
+            "path": "tan-wei/zimablue.nvim",
+            "owner": "tan-wei",
+            "name": "zimablue.nvim",
+            "config": "zimablue_nvim.lua",
+            "url": "https://github.com/tan-wei/zimablue.nvim",
+            "description": "**_`[TS][LSP][Lua]`_** A dark Neovim colorscheme inspired by the iconic color from the _Love, Death and Robots_ episode _Zima Blue_."
         }
     ],
     "Colorscheme Creation": [
@@ -6499,6 +6523,14 @@
             "config": "nvim_unception.lua",
             "url": "https://github.com/samjwill/nvim-unception",
             "description": "Automatic unnesting of editor sessions started from terminal buffers."
+        },
+        {
+            "path": "Senal-D-A-Gunaratna/hyprfade.nvim",
+            "owner": "Senal-D-A-Gunaratna",
+            "name": "hyprfade.nvim",
+            "config": "hyprfade_nvim.lua",
+            "url": "https://github.com/Senal-D-A-Gunaratna/hyprfade.nvim",
+            "description": "When using Hyprland, fade the terminal window via `hyprctl`."
         },
         {
             "path": "kassio/neoterm",
