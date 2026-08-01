@@ -121,14 +121,6 @@
             "description": "Quickstart configurations for the LSP client."
         },
         {
-            "path": "nvim-lua/lsp-status.nvim",
-            "owner": "nvim-lua",
-            "name": "lsp-status.nvim",
-            "config": "lsp_status_nvim.lua",
-            "url": "https://github.com/nvim-lua/lsp-status.nvim",
-            "description": "This is a plugin/library for generating statusline components from the built-in LSP client."
-        },
-        {
             "path": "nvimdev/lspsaga.nvim",
             "owner": "nvimdev",
             "name": "lspsaga.nvim",
