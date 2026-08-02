@@ -6661,6 +6661,14 @@
             "description": "Avoid yanking newlines in a terminal buffer."
         },
         {
+            "path": "jaimeibanezrivera/zj-theme",
+            "owner": "jaimeibanezrivera",
+            "name": "zj-theme",
+            "config": "zj_theme.lua",
+            "url": "https://github.com/jaimeibanezrivera/zj-theme",
+            "description": "Syncs zellij's theme to whatever colorscheme is active, live, no restart needed."
+        },
+        {
             "path": "mfussenegger/nvim-dap",
             "owner": "mfussenegger",
             "name": "nvim-dap",
@@ -9761,6 +9769,14 @@
             "config": "persistence_nvim.lua",
             "url": "https://github.com/folke/persistence.nvim",
             "description": "Simple automated session management."
+        },
+        {
+            "path": "dmshvedchenko/persist.nvim",
+            "owner": "dmshvedchenko",
+            "name": "persist.nvim",
+            "config": "persist_nvim.lua",
+            "url": "https://github.com/dmshvedchenko/persist.nvim",
+            "description": "Lightweight session persistence with interactive recovery of unnamed scratch buffers."
         },
         {
             "path": "Shatur/neovim-session-manager",
