@@ -4687,6 +4687,14 @@
             "config": "zimablue_nvim.lua",
             "url": "https://github.com/tan-wei/zimablue.nvim",
             "description": "**_`[TS][LSP][Lua]`_** A dark Neovim colorscheme inspired by the iconic color from the _Love, Death and Robots_ episode _Zima Blue_."
+        },
+        {
+            "path": "mitander/flume.nvim",
+            "owner": "mitander",
+            "name": "flume.nvim",
+            "config": "flume_nvim.lua",
+            "url": "https://github.com/mitander/flume.nvim",
+            "description": "`[TS][LSP][L/D][Lua]` Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools."
         }
     ],
     "Colorscheme Creation": [
