@@ -4649,6 +4649,14 @@
             "description": "**_`[TS][LSP][L/D][Lua]`_** Inspired by deep ocean water at night, derived entirely from five source colors."
         },
         {
+            "path": "Aejkatappaja/cendre",
+            "owner": "Aejkatappaja",
+            "name": "cendre",
+            "config": "cendre.lua",
+            "url": "https://github.com/Aejkatappaja/cendre",
+            "description": "**_`[TS][LSP][Lua]`_** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools."
+        },
+        {
             "path": "marekh19/meowsoot.nvim",
             "owner": "marekh19",
             "name": "meowsoot.nvim",
