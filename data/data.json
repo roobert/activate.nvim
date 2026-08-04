@@ -4702,7 +4702,7 @@
             "name": "flume.nvim",
             "config": "flume_nvim.lua",
             "url": "https://github.com/mitander/flume.nvim",
-            "description": "`[TS][LSP][L/D][Lua]` Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools."
+            "description": "**_`[TS][LSP][L/D][Lua]`_** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools."
         }
     ],
     "Colorscheme Creation": [
