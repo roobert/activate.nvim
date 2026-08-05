@@ -4705,6 +4705,14 @@
             "description": "**_`[TS][LSP][L/D][Lua]`_** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools."
         },
         {
+            "path": "aadielpr/bono.nvim",
+            "owner": "aadielpr",
+            "name": "bono.nvim",
+            "config": "bono_nvim.lua",
+            "url": "https://github.com/aadielpr/bono.nvim",
+            "description": "**_`[TS][LSP][Lua]`_** A warm muted colorscheme with cream (light) variants."
+        },
+        {
             "path": "art220/dancheong.nvim",
             "owner": "art220",
             "name": "dancheong.nvim",
@@ -5401,6 +5409,14 @@
             "config": "fzf_nerdfont_nvim.lua",
             "url": "https://github.com/stephansama/fzf-nerdfont.nvim",
             "description": "A picker for selecting Nerd Font icons using `fzf-lua`."
+        },
+        {
+            "path": "Mirsmog/real-icons.nvim",
+            "owner": "Mirsmog",
+            "name": "real-icons.nvim",
+            "config": "real_icons_nvim.lua",
+            "url": "https://github.com/Mirsmog/real-icons.nvim",
+            "description": "Renders PNG and SVG file icons in explorers, pickers, statuslines, and tablines through kitty's graphics protocol."
         },
         {
             "path": "ricmonmol/nvim-music-player",
