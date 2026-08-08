@@ -1961,6 +1961,14 @@
             "description": "Edit Markdown and CSV tables with lossless round-trip."
         },
         {
+            "path": "itsfernn/vimtex-follow",
+            "owner": "itsfernn",
+            "name": "vimtex-follow",
+            "config": "vimtex_follow.lua",
+            "url": "https://github.com/itsfernn/vimtex-follow",
+            "description": "Adds a toggleable \"follow mode\", synchronizing your PDF viewer with your cursor position."
+        },
+        {
             "path": "potamides/pantran.nvim",
             "owner": "potamides",
             "name": "pantran.nvim",
