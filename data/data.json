@@ -763,6 +763,14 @@
             "description": "A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism."
         },
         {
+            "path": "nwiizo/signalbox.nvim",
+            "owner": "nwiizo",
+            "name": "signalbox.nvim",
+            "config": "signalbox_nvim.lua",
+            "url": "https://github.com/nwiizo/signalbox.nvim",
+            "description": "Attention-first control surface for monitoring and routing persistent Herdr coding agents."
+        },
+        {
             "path": "cursortab/cursortab.nvim",
             "owner": "cursortab",
             "name": "cursortab.nvim",
