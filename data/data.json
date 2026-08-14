@@ -4833,6 +4833,14 @@
             "config": "matugen_nvim.lua",
             "url": "https://github.com/Senal-D-A-Gunaratna/matugen.nvim",
             "description": "Material You colorscheme generator using an external template system. Supports Tree-sitter, LSP, and Lua."
+        },
+        {
+            "path": "nitinbhat972/cwal.nvim",
+            "owner": "nitinbhat972",
+            "name": "cwal.nvim",
+            "config": "cwal_nvim.lua",
+            "url": "https://github.com/nitinbhat972/cwal.nvim",
+            "description": "Generates dynamic colorschemes from cwal-generated color palettes."
         }
     ],
     "Colorscheme Switchers": [
