@@ -8765,6 +8765,14 @@
             "description": "Extended increment/decrement."
         },
         {
+            "path": "DRoma82/add-subtract-ex.nvim",
+            "owner": "DRoma82",
+            "name": "add-subtract-ex.nvim",
+            "config": "add_subtract_ex_nvim.lua",
+            "url": "https://github.com/DRoma82/add-subtract-ex.nvim",
+            "description": "Extends `<C-a>`/`<C-x>` to toggle booleans, comparison/logical operators, and shift letters, deferring to native number handling."
+        },
+        {
             "path": "HiPhish/rainbow-delimiters.nvim",
             "owner": "HiPhish",
             "name": "rainbow-delimiters.nvim",
