@@ -2145,14 +2145,6 @@
             "description": "Navigate via Tree-sitter nodes using Telescope or FZF."
         },
         {
-            "path": "IndianBoy42/tree-sitter-just",
-            "owner": "IndianBoy42",
-            "name": "tree-sitter-just",
-            "config": "tree_sitter_just.lua",
-            "url": "https://github.com/IndianBoy42/tree-sitter-just",
-            "description": "Tree-sitter grammar for [Justfiles](https://github.com/casey/just)."
-        },
-        {
             "path": "fei6409/log-highlight.nvim",
             "owner": "fei6409",
             "name": "log-highlight.nvim",
