@@ -3377,6 +3377,14 @@
             "description": "Manage and run temporary buffers."
         },
         {
+            "path": "iago-lito/bufmarks.nvim",
+            "owner": "iago-lito",
+            "name": "bufmarks.nvim",
+            "config": "bufmarks_nvim.lua",
+            "url": "https://codeberg.org/iago-lito/bufmarks.nvim",
+            "description": "Navigation method inspired from Harpoon, but indexing buffers with \"mark\"-like keys instead of an ordered list."
+        },
+        {
             "path": "catgoose/nvim-colorizer.lua",
             "owner": "catgoose",
             "name": "nvim-colorizer.lua",
@@ -9315,6 +9323,14 @@
             "config": "visual_multi_nvim.lua",
             "url": "https://github.com/yaocccc/visual-multi.nvim",
             "description": "A fast, core-focused multi-cursor plugin written in Lua with Normal, Insert, and Extend modes."
+        },
+        {
+            "path": "iago-lito/lastput.nvim",
+            "owner": "iago-lito",
+            "name": "lastput.nvim",
+            "config": "lastput_nvim.lua",
+            "url": "https://codeberg.org/iago-lito/lastput.nvim",
+            "description": "One mapping to (re)select the last piece of text you've pasted."
         }
     ],
     "Comment": [
