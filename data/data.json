@@ -763,6 +763,14 @@
             "description": "A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism."
         },
         {
+            "path": "saya-ashen/agent-workbench.nvim",
+            "owner": "saya-ashen",
+            "name": "agent-workbench.nvim",
+            "config": "agent_workbench_nvim.lua",
+            "url": "https://github.com/saya-ashen/agent-workbench.nvim",
+            "description": "Workspace frontend for pi.dev with sessions, diff review, and persistent shell worksheets."
+        },
+        {
             "path": "nwiizo/signalbox.nvim",
             "owner": "nwiizo",
             "name": "signalbox.nvim",
@@ -3039,6 +3047,14 @@
             "config": "fzf_oil_nvim.lua",
             "url": "https://github.com/ingur/fzf-oil.nvim",
             "description": "A tiny file browser with seamless toggling between fzf-lua and oil.nvim."
+        },
+        {
+            "path": "Dev-Addict/FloatingFile.nvim",
+            "owner": "Dev-Addict",
+            "name": "FloatingFile.nvim",
+            "config": "FloatingFile_nvim.lua",
+            "url": "https://github.com/Dev-Addict/FloatingFile.nvim",
+            "description": "Quickly preview any readable file in a centered floating window without replacing the current buffer."
         },
         {
             "path": "karnull/switchboard.nvim",
