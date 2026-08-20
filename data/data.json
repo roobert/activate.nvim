@@ -73,14 +73,6 @@
             "description": "A stupidly simple way to quickly install plugins."
         },
         {
-            "path": "OriginCoderPulse/synapse.nvim",
-            "owner": "OriginCoderPulse",
-            "name": "synapse.nvim",
-            "config": "synapse_nvim.lua",
-            "url": "https://github.com/OriginCoderPulse/synapse.nvim",
-            "description": "A modern, lightweight plugin manager with beautiful UI, intelligent dependency management, tag/branch support, and post-install command execution."
-        },
-        {
             "path": "zuqini/zpack.nvim",
             "owner": "zuqini",
             "name": "zpack.nvim",
@@ -4369,14 +4361,6 @@
             "description": "**_`[TS][LSP][Lua]`_** A [Night Owl colorscheme port from VSCode](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens."
         },
         {
-            "path": "micdzu/aalto.nvim",
-            "owner": "micdzu",
-            "name": "aalto.nvim",
-            "config": "aalto_nvim.lua",
-            "url": "https://github.com/micdzu/aalto.nvim",
-            "description": "**_`[TS][LSP][L/D][Lua]`_** A semantic colorscheme with a perceptual OKLCH engine, featuring four semantic roles and both dark and light variants."
-        },
-        {
             "path": "miikanissi/modus-themes.nvim",
             "owner": "miikanissi",
             "name": "modus-themes.nvim",
@@ -5641,14 +5625,6 @@
             "config": "doodle.lua",
             "url": "https://github.com/apdot/doodle",
             "description": "A developer-centric knowledge base with project/branch scoped notes, bi-directional linking, note-tagging, graph-view, telescope integration, and Git synchronization."
-        },
-        {
-            "path": "sduras/duras_bridge",
-            "owner": "sduras",
-            "name": "duras_bridge",
-            "config": "duras_bridge.lua",
-            "url": "https://github.com/sduras/duras_bridge",
-            "description": "Bridge for [duras](https://codeberg.org/duras/duras) plain-text daily notes; append, search, and open notes from the editor."
         },
         {
             "path": "gmcusaro/ma.nvim",
@@ -7637,6 +7613,14 @@
             "config": "glaze_nvim.lua",
             "url": "https://github.com/taigrr/glaze.nvim",
             "description": "Centralized manager for Go binaries, with parallel installs, auto-update checking, and a Mason-style UI."
+        },
+        {
+            "path": "Darkskittlz/GitCompanion",
+            "owner": "Darkskittlz",
+            "name": "GitCompanion",
+            "config": "GitCompanion.lua",
+            "url": "https://github.com/Darkskittlz/GitCompanion",
+            "description": "A lightweight, terminal-native Git interface. Inspect diffs, manage branches, stage modified files, manage stashes, and handle merges or commits."
         },
         {
             "path": "YouSame2/inlinediff-nvim",
