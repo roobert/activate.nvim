@@ -10761,14 +10761,6 @@
             "description": "A modular configuration with a beautiful UI and some useful features such as a pomodoro clock and window numbers."
         },
         {
-            "path": "shaeinst/roshnivim",
-            "owner": "shaeinst",
-            "name": "roshnivim",
-            "config": "roshnivim.lua",
-            "url": "https://github.com/shaeinst/roshnivim",
-            "description": "A predefined config to save you thousands of hours to setup your editor as an IDE."
-        },
-        {
             "path": "AstroNvim/AstroNvim",
             "owner": "AstroNvim",
             "name": "AstroNvim",
