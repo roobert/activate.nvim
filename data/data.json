@@ -10769,14 +10769,6 @@
             "description": "An aesthetic and feature-rich config that is extensible and easy to use with a great set of plugins."
         },
         {
-            "path": "shaunsingh/nyoom.nvim",
-            "owner": "shaunsingh",
-            "name": "nyoom.nvim",
-            "config": "nyoom_nvim.lua",
-            "url": "https://github.com/shaunsingh/nyoom.nvim",
-            "description": "Blazing fast, configurable, minimal and \"lispy\" config written in Fennel."
-        },
-        {
             "path": "jrychn/moduleVim",
             "owner": "jrychn",
             "name": "moduleVim",
