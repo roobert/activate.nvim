@@ -4909,14 +4909,6 @@
             "description": "Install any colorscheme in your config without leaving your terminal. Collects every colorscheme on the internet and allows you to preview them all before installing."
         },
         {
-            "path": "BrunoCiccarino/gardenal",
-            "owner": "BrunoCiccarino",
-            "name": "gardenal",
-            "config": "gardenal.lua",
-            "url": "https://github.com/BrunoCiccarino/gardenal",
-            "description": "Gardenal is a theme switcher, which allows the user to create keyboard shortcuts to switch between themes with one click."
-        },
-        {
             "path": "LmanTW/themify.nvim",
             "owner": "LmanTW",
             "name": "themify.nvim",
@@ -7223,11 +7215,11 @@
             "description": "Async code runner with range support."
         },
         {
-            "path": "mikeboiko/nvim-flow",
-            "owner": "mikeboiko",
+            "path": "bytehound-labs/nvim-flow",
+            "owner": "bytehound-labs",
             "name": "nvim-flow",
             "config": "nvim_flow.lua",
-            "url": "https://github.com/mikeboiko/nvim-flow",
+            "url": "https://github.com/bytehound-labs/nvim-flow",
             "description": "File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix."
         },
         {
