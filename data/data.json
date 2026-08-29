@@ -10359,14 +10359,6 @@
             "description": "A plugin to automate testcases management and checking for Competitive Programming contests."
         },
         {
-            "path": "barrettruth/cp.nvim",
-            "owner": "barrettruth",
-            "name": "cp.nvim",
-            "config": "cp_nvim.lua",
-            "url": "https://github.com/barrettruth/cp.nvim",
-            "description": "Competitive programming workflow for popular contest platforms (CodeForces, CSES, etc.) Includes automatic test scraping, I/O view, and diff panel."
-        },
-        {
             "path": "kawre/leetcode.nvim",
             "owner": "kawre",
             "name": "leetcode.nvim",
@@ -10591,14 +10583,6 @@
             "config": "neomongo_nvim.lua",
             "url": "https://github.com/tashikomaaa/neomongo.nvim",
             "description": "Explore, query, and edit MongoDB collections directly through a Telescope-powered dashboard."
-        },
-        {
-            "path": "zerochae/dbab.nvim",
-            "owner": "zerochae",
-            "name": "dbab.nvim",
-            "config": "dbab_nvim.lua",
-            "url": "https://github.com/zerochae/dbab.nvim",
-            "description": "Lightweight database client with a modern UI and async execution."
         },
         {
             "path": "joryeugene/dadbod-grip.nvim",
