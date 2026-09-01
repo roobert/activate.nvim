@@ -755,6 +755,14 @@
             "description": "A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism."
         },
         {
+            "path": "raymondware/herdr.nvim",
+            "owner": "raymondware",
+            "name": "herdr.nvim",
+            "config": "herdr_nvim.lua",
+            "url": "https://github.com/raymondware/herdr.nvim",
+            "description": "Floating terminal and agent-state visibility for the herdr agent multiplexer: status float, statusline counts, and background polling."
+        },
+        {
             "path": "saya-ashen/agent-workbench.nvim",
             "owner": "saya-ashen",
             "name": "agent-workbench.nvim",
@@ -1129,6 +1137,14 @@
             "config": "opencode_nvim.lua",
             "url": "https://github.com/nickjvandyke/opencode.nvim",
             "description": "OpenCode AI assistant integration."
+        },
+        {
+            "path": "overflow/fs-review.nvim",
+            "owner": "overflow",
+            "name": "fs-review.nvim",
+            "config": "fs_review_nvim.lua",
+            "url": "https://github.com/overflow/fs-review.nvim",
+            "description": "Filesystem and OpenCode review panel with isolated diff tabs, project-scoped activity tracking, and live cross-process refresh."
         },
         {
             "path": "taigrr/neocrush.nvim",
@@ -7605,6 +7621,14 @@
             "config": "glaze_nvim.lua",
             "url": "https://github.com/taigrr/glaze.nvim",
             "description": "Centralized manager for Go binaries, with parallel installs, auto-update checking, and a Mason-style UI."
+        },
+        {
+            "path": "jpease/hex-outdated.nvim",
+            "owner": "jpease",
+            "name": "hex-outdated.nvim",
+            "config": "hex_outdated_nvim.lua",
+            "url": "https://github.com/jpease/hex-outdated.nvim",
+            "description": "Display latest Hex package version and status as virtual text in `mix.exs`."
         },
         {
             "path": "Darkskittlz/GitCompanion",
