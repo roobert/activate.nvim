@@ -4742,7 +4742,7 @@
             "name": "bono.nvim",
             "config": "bono_nvim.lua",
             "url": "https://github.com/aadielpr/bono.nvim",
-            "description": "**_`[TS][LSP][Lua]`_** A warm muted colorscheme with cream (light) variants."
+            "description": "**_`[TS][LSP][L/D][Lua]`_** A warm muted colorscheme with cream (light) and espresso (dark) variants."
         },
         {
             "path": "art220/dancheong.nvim",
