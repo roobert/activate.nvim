@@ -7631,6 +7631,14 @@
             "description": "Display latest Hex package version and status as virtual text in `mix.exs`."
         },
         {
+            "path": "mm4cN/nvim-conan",
+            "owner": "mm4cN",
+            "name": "nvim-conan",
+            "config": "nvim_conan.lua",
+            "url": "https://github.com/mm4cN/nvim-conan",
+            "description": "Conan 2 integration for managing profiles, packages, remotes, dependencies, and common C/C++ package workflows."
+        },
+        {
             "path": "Darkskittlz/GitCompanion",
             "owner": "Darkskittlz",
             "name": "GitCompanion",
