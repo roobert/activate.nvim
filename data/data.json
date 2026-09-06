@@ -5035,6 +5035,14 @@
             "config": "line_justice_nvim.lua",
             "url": "https://github.com/zaakiy/line-justice.nvim",
             "description": "Shows both absolute and relative line numbers simultaneously."
+        },
+        {
+            "path": "nvim-mini/mini.nvim#mini.statuscolumn",
+            "owner": "nvim-mini",
+            "name": "mini.statuscolumn",
+            "config": "mini_statuscolumn.lua",
+            "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statuscolumn.md",
+            "description": "Module of `mini.nvim` for statuscolumn. Fast and improved defaults, fully customizable content, automatic dimming inside inactive windows."
         }
     ],
     "Statusline": [
