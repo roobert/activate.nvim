@@ -10617,6 +10617,14 @@
             "description": "Interactive database client."
         },
         {
+            "path": "caskstrength/nvim-dbeer",
+            "owner": "caskstrength",
+            "name": "nvim-dbeer",
+            "config": "nvim_dbeer.lua",
+            "url": "https://codeberg.org/caskstrength/nvim-dbeer",
+            "description": "Minimal multi database client for Native and ODBC, with support for SQL, NoSQL, and Graph."
+        },
+        {
             "path": "tashikomaaa/neomongo.nvim",
             "owner": "tashikomaaa",
             "name": "neomongo.nvim",
