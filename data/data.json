@@ -5,7 +5,7 @@
             "owner": "alyxshang",
             "name": "nuwa.nvim",
             "config": "nuwa_nvim.lua",
-            "url": "https://source.alyxshang.boo/alyxshang/nuwa.nvim",
+            "url": "https://github.com/alyxshang/nuwa.nvim",
             "description": "A light package manager."
         },
         {
@@ -753,6 +753,14 @@
             "config": "compl_nvim.lua",
             "url": "https://github.com/brianaung/compl.nvim",
             "description": "A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism."
+        },
+        {
+            "path": "coder/claudecode.nvim",
+            "owner": "coder",
+            "name": "claudecode.nvim",
+            "config": "claudecode_nvim.lua",
+            "url": "https://github.com/coder/claudecode.nvim",
+            "description": "Claude Code integration using the WebSocket-based MCP protocol, with selection and diagnostics context sharing plus inline diffs."
         },
         {
             "path": "raymondware/herdr.nvim",
@@ -5043,6 +5051,14 @@
             "config": "mini_statuscolumn.lua",
             "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statuscolumn.md",
             "description": "Module of `mini.nvim` for statuscolumn. Fast and improved defaults, fully customizable content, automatic dimming inside inactive windows."
+        },
+        {
+            "path": "olivgr/winbarbuf.nvim",
+            "owner": "olivgr",
+            "name": "winbarbuf.nvim",
+            "config": "winbarbuf_nvim.lua",
+            "url": "https://github.com/olivgr/winbarbuf.nvim",
+            "description": "Clickable buffer list in the winbar."
         }
     ],
     "Statusline": [
@@ -7997,6 +8013,14 @@
             "config": "GitLab_nvim.lua",
             "url": "https://github.com/harrisoncramer/GitLab.nvim",
             "description": "Review pull requests and manage other GitLab resources."
+        },
+        {
+            "path": "mm4cN/nvim-gitlab",
+            "owner": "mm4cN",
+            "name": "nvim-gitlab",
+            "config": "nvim_gitlab.lua",
+            "url": "https://github.com/mm4cN/nvim-gitlab",
+            "description": "GitLab CI/CD integration for browsing and running pipelines, inspecting jobs and logs, retrying jobs, and downloading artifacts."
         }
     ],
     "GitHub": [
