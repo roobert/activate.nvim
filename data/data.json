@@ -3569,6 +3569,14 @@
             "description": "Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen."
         },
         {
+            "path": "rezniqov/soviet.nvim",
+            "owner": "rezniqov",
+            "name": "soviet.nvim",
+            "config": "soviet_nvim.lua",
+            "url": "https://github.com/rezniqov/soviet.nvim",
+            "description": "**_`[TS][LSP][L/D][Lua]`_** Warm colorschemes inspired by soviet visual culture."
+        },
+        {
             "path": "ThorstenRhau/token",
             "owner": "ThorstenRhau",
             "name": "token",
