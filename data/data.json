@@ -11037,6 +11037,14 @@
             "description": "Scaffold Spring Boot projects with a Telescope-powered UI."
         },
         {
+            "path": "caskstrength/nvim-springtime",
+            "owner": "caskstrength",
+            "name": "nvim-springtime",
+            "config": "nvim_springtime.lua",
+            "url": "https://codeberg.org/caskstrength/nvim-springtime",
+            "description": "A scaffold builder based on Spring Initializr."
+        },
+        {
             "path": "DrKJeff16/nvim-plugin-boilerplate",
             "owner": "DrKJeff16",
             "name": "nvim-plugin-boilerplate",
