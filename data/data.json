@@ -7023,6 +7023,14 @@
             "description": "Display code coverage."
         },
         {
+            "path": "wurli/jet.nvim",
+            "owner": "wurli",
+            "name": "jet.nvim",
+            "config": "jet_nvim.lua",
+            "url": "https://github.com/wurli/jet.nvim",
+            "description": "A LSP-enabled, extensible Jupyter client that just works."
+        },
+        {
             "path": "rafcamlet/nvim-luapad",
             "owner": "rafcamlet",
             "name": "nvim-luapad",
@@ -9035,6 +9043,14 @@
             "config": "sort_nvim.lua",
             "url": "https://github.com/sQVe/sort.nvim",
             "description": "Sorting plugin that intelligently supports line-wise and delimiter sorting."
+        },
+        {
+            "path": "Nagato-Yuzuru/bang.nvim",
+            "owner": "Nagato-Yuzuru",
+            "name": "bang.nvim",
+            "config": "bang_nvim.lua",
+            "url": "https://github.com/Nagato-Yuzuru/bang.nvim",
+            "description": "`g!` operator that filters a motion, text object or Visual selection through a shell command, like `!` without the whole-line limit."
         },
         {
             "path": "booperlv/nvim-gomove",
