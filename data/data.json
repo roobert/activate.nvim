@@ -6393,6 +6393,14 @@
             "config": "chezmoi_template_nvim.lua",
             "url": "https://github.com/dpezto/chezmoi-template.nvim",
             "description": "Edit chezmoi source files natively: target-language Tree-sitter injection, template-aware formatting, live preview, diagnostics and completion."
+        },
+        {
+            "path": "7KiLL/copybara.nvim",
+            "owner": "7KiLL",
+            "name": "copybara.nvim",
+            "config": "copybara_nvim.lua",
+            "url": "https://github.com/7KiLL/copybara.nvim",
+            "description": "Copy absolute or relative file paths, line and column references, or an LLM-friendly path and selection snippet to your clipboard."
         }
     ],
     "CSV Files": [
