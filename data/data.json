@@ -6275,6 +6275,14 @@
             "description": "Toggle between common words under the cursor such as _public_ \u21c4 _private_ \u21c4 _protected_. Easy to add and overwrite built-in toggles."
         },
         {
+            "path": "javanoo6/persist-toggle.nvim",
+            "owner": "javanoo6",
+            "name": "persist-toggle.nvim",
+            "config": "persist_toggle_nvim.lua",
+            "url": "https://github.com/javanoo6/persist-toggle.nvim",
+            "description": "Persistent registry for runtime toggle states and preferences."
+        },
+        {
             "path": "piersolenski/brewfile.nvim",
             "owner": "piersolenski",
             "name": "brewfile.nvim",
