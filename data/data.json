@@ -6445,11 +6445,11 @@
             "description": "An asynchronous CSV/TSV table viewer with real-time updates, configurable comments and delimiters, and multiple display modes."
         },
         {
-            "path": "LuxVim/nvim-luxmotion",
-            "owner": "LuxVim",
-            "name": "nvim-luxmotion",
-            "config": "nvim_luxmotion.lua",
-            "url": "https://github.com/LuxVim/nvim-luxmotion",
+            "path": "josstei/whisk.nvim",
+            "owner": "josstei",
+            "name": "whisk.nvim",
+            "config": "whisk_nvim.lua",
+            "url": "https://github.com/josstei/whisk.nvim",
             "description": "Smooth, high\u2011performance motion and scrolling animations \u2014 60fps fluid cursor moves, word jumps, and viewport scrolling, all in one."
         },
         {
