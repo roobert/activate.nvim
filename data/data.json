@@ -1457,6 +1457,14 @@
             "config": "ballerina_nvim.lua",
             "url": "https://github.com/redpierrot/ballerina.nvim",
             "description": "Syntax highlighting, LSP, debugging, package-aware format-on-save, auto-indent, and `bal` run/test/build commands for the Ballerina language."
+        },
+        {
+            "path": "jgonmor16/hdlsnip.nvim",
+            "owner": "jgonmor16",
+            "name": "hdlsnip.nvim",
+            "config": "hdlsnip_nvim.lua",
+            "url": "https://github.com/jgonmor16/hdlsnip.nvim",
+            "description": "Parameterised VHDL templates covering entities, FSMs, CDC, AXI4-Lite and testbenches, following the project's reset style and target vendor."
         }
     ],
     "Golang": [
@@ -7333,6 +7341,14 @@
             "config": "bzl_nvim.lua",
             "url": "https://github.com/JulOuellet/bzl.nvim",
             "description": "Bazel integration: target picker and tree, run/test/build with streaming output, and LSP support for Bazel-managed dependencies."
+        },
+        {
+            "path": "caskstrength/nvim-soil",
+            "owner": "caskstrength",
+            "name": "nvim-soil",
+            "config": "nvim_soil.lua",
+            "url": "https://codeberg.org/caskstrength/nvim-soil",
+            "description": "Run PlantUML script and generate UML design."
         },
         {
             "path": "saghen/blink.lib",
