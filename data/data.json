@@ -1721,6 +1721,14 @@
     ],
     "Markdown and LaTeX": [
         {
+            "path": "the-mayankjha/fk_markdown.nvim",
+            "owner": "the-mayankjha",
+            "name": "fk_markdown.nvim",
+            "config": "fk_markdown_nvim.lua",
+            "url": "https://github.com/the-mayankjha/fk_markdown.nvim",
+            "description": "Markdown renderer with live browser preview, synchronized scrolling, and support for math, diagrams, LaTeX, and local images."
+        },
+        {
             "path": "iamcco/markdown-preview.nvim",
             "owner": "iamcco",
             "name": "markdown-preview.nvim",
