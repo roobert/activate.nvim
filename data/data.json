@@ -6517,6 +6517,14 @@
             "description": "Performant cursor animations."
         },
         {
+            "path": "RedEye-Developers/starfall.nvim",
+            "owner": "RedEye-Developers",
+            "name": "starfall.nvim",
+            "config": "starfall_nvim.lua",
+            "url": "https://github.com/RedEye-Developers/starfall.nvim",
+            "description": "Star twinkling, falling and shooting star crossing animation in background."
+        },
+        {
             "path": "TheLazyCat00/termfile-nvim",
             "owner": "TheLazyCat00",
             "name": "termfile-nvim",
