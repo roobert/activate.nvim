@@ -639,6 +639,14 @@
             "config": "nvim_file_operations.lua",
             "url": "https://github.com/Crysthamus/nvim-file-operations",
             "description": "Add support for workspace file operations using built-in LSPs."
+        },
+        {
+            "path": "carldaws/miser.nvim",
+            "owner": "carldaws",
+            "name": "miser.nvim",
+            "config": "miser_nvim.lua",
+            "url": "https://github.com/carldaws/miser.nvim",
+            "description": "Start LSP servers, run formatters on save, and launch tasks straight from the tools declared in a project's `mise.toml`."
         }
     ],
     "Diagnostics": [
