@@ -1179,6 +1179,14 @@
             "description": "Frontend for the [pi](https://pi.dev) coding agent with in-editor chat, reviewed diffs, session-tree navigation, and extension prompts."
         },
         {
+            "path": "jaitd/fieldguide.nvim",
+            "owner": "jaitd",
+            "name": "fieldguide.nvim",
+            "config": "fieldguide_nvim.lua",
+            "url": "https://github.com/jaitd/fieldguide.nvim",
+            "description": "Sidebar agent for your own config; will inform you if config still boots when changing it and provides answers from your installed plugins' docs, the versions on disk, and the live session."
+        },
+        {
             "path": "alessio-vivaldelli/java-creator-nvim",
             "owner": "alessio-vivaldelli",
             "name": "java-creator-nvim",
@@ -1321,6 +1329,14 @@
             "config": "jc_nvim.lua",
             "url": "https://github.com/artur-shaik/jc.nvim",
             "description": "Java productivity layer on top of an externally managed `jdtls`, including class creation, code generation, annotation by search, refactoring, a neotest test runner, and a task runner for `gradle` and `maven`."
+        },
+        {
+            "path": "ag-libs/lathe.nvim",
+            "owner": "ag-libs",
+            "name": "lathe.nvim",
+            "config": "lathe_nvim.lua",
+            "url": "https://github.com/ag-libs/lathe.nvim",
+            "description": "Java language server for Maven \u2014 code intelligence, diagnostics, run/test/debug, no classpath setup."
         },
         {
             "path": "kiyoon/python-import.nvim",
@@ -6433,6 +6449,14 @@
             "config": "copybara_nvim.lua",
             "url": "https://github.com/7KiLL/copybara.nvim",
             "description": "Copy absolute or relative file paths, line and column references, or an LLM-friendly path and selection snippet to your clipboard."
+        },
+        {
+            "path": "rifen/timescope",
+            "owner": "rifen",
+            "name": "timescope",
+            "config": "timescope.lua",
+            "url": "https://github.com/rifen/timescope",
+            "description": "Inspect numeric durations in code and view human-readable equivalents as inline virtual text."
         }
     ],
     "CSV Files": [
