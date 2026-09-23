@@ -143,4 +143,9 @@ M.list_installed_and_configured_plugins = function()
 	)
 end
 
+M.setup = function ()
+	vim.api.nvim_create_user_command('AwesomeNvim', function() require("activate").list_plugins() end, { desc = "awesome nvim plugins" })
+	vim.api.nvim_create_user_command('AwesomeNvimInstalled', function() require("activate").list_installed_plugins() end, { desc = "awesome nvim installed plugins" })
+end
+
 return M
