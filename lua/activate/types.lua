@@ -1,0 +1,2 @@
+---@class Activate.Config
+---@field open_config_after_creation boolean Should the newly created configuration open after it is created, default: `true`
