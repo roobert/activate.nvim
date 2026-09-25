@@ -641,6 +641,14 @@
             "description": "Add support for workspace file operations using built-in LSPs."
         },
         {
+            "path": "antosha417/nvim-lsp-file-operations",
+            "owner": "antosha417",
+            "name": "nvim-lsp-file-operations",
+            "config": "nvim_lsp_file_operations.lua",
+            "url": "https://github.com/antosha417/nvim-lsp-file-operations",
+            "description": "File operations using built-in LSP support."
+        },
+        {
             "path": "carldaws/miser.nvim",
             "owner": "carldaws",
             "name": "miser.nvim",
