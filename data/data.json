@@ -7399,6 +7399,14 @@
             "description": "Run PlantUML script and generate UML design."
         },
         {
+            "path": "pewpewnor/dove.nvim",
+            "owner": "pewpewnor",
+            "name": "dove.nvim",
+            "config": "dove_nvim.lua",
+            "url": "https://github.com/pewpewnor/dove.nvim",
+            "description": "Define and execute arbitrary shell commands or Lua code on the fly for file, project, or global contexts."
+        },
+        {
             "path": "saghen/blink.lib",
             "owner": "saghen",
             "name": "blink.lib",
