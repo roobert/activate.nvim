@@ -11383,6 +11383,14 @@
             "description": "Module of `mini.nvim` for getting user input with fully customizable key and view handling. Can show as floating window, statusline/tabline/winbar, virtual line/text. Provides `vim.ui.input()` implementation."
         },
         {
+            "path": "simifalaye/minibuffer.nvim",
+            "owner": "simifalaye",
+            "name": "minibuffer.nvim",
+            "config": "minibuffer_nvim.lua",
+            "url": "https://github.com/simifalaye/minibuffer.nvim",
+            "description": "Emacs-inspired lightweight, extensible interface for displaying prompts, messages and interactive input on a dedicated area."
+        },
+        {
             "path": "Vimawesome",
             "owner": "",
             "name": "Vimawesome",
