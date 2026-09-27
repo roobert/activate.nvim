@@ -6459,6 +6459,14 @@
             "description": "Copy absolute or relative file paths, line and column references, or an LLM-friendly path and selection snippet to your clipboard."
         },
         {
+            "path": "justinhj/battery.nvim",
+            "owner": "justinhj",
+            "name": "battery.nvim",
+            "config": "battery_nvim.lua",
+            "url": "https://github.com/justinhj/battery.nvim",
+            "description": "Cross-platform battery status detection with a Lua API for statusline integration."
+        },
+        {
             "path": "rifen/timescope",
             "owner": "rifen",
             "name": "timescope",
