@@ -81,8 +81,8 @@
             "description": "A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec."
         },
         {
-            "path": "nvim-pio",
-            "owner": "",
+            "path": "batoaqaa/nvim-pio",
+            "owner": "batoaqaa",
             "name": "nvim-pio",
             "config": "nvim_pio.lua",
             "url": "https://github.com/batoaqaa/nvim-pio",
@@ -6473,6 +6473,14 @@
             "config": "timescope.lua",
             "url": "https://github.com/rifen/timescope",
             "description": "Inspect numeric durations in code and view human-readable equivalents as inline virtual text."
+        },
+        {
+            "path": "ChrisGVE/docshelf.nvim",
+            "owner": "ChrisGVE",
+            "name": "docshelf.nvim",
+            "config": "docshelf_nvim.lua",
+            "url": "https://github.com/ChrisGVE/docshelf.nvim",
+            "description": "Offline API documentation from `devdocs.io`, `Hackage`, `docs.rs`, `pkg.go.dev`, `Sphinx` / `DocC` sites and `Dash` docsets, converted to text for reading and grepping in a buffer, with per-language filtering and automatic updates."
         }
     ],
     "CSV Files": [
