@@ -7011,6 +7011,14 @@
             "config": "splitasm_nvim.lua",
             "url": "https://github.com/NickTsaizer/splitasm.nvim",
             "description": "View compiled assembly output side by side with source code, with synchronized cursor movement."
+        },
+        {
+            "path": "JarnDev/autodap.nvim",
+            "owner": "JarnDev",
+            "name": "autodap.nvim",
+            "config": "autodap_nvim.lua",
+            "url": "https://github.com/JarnDev/autodap.nvim",
+            "description": "Thin layer over `nvim-dap` that reads the current project and wires up the debugger for you; no `launch.json`, no per-language boilerplate."
         }
     ],
     "Quickfix": [
