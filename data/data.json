@@ -8821,6 +8821,14 @@
             "description": "Floating scrollbar."
         },
         {
+            "path": "mihovilrak/scroll.nvim",
+            "owner": "mihovilrak",
+            "name": "scroll.nvim",
+            "config": "scroll_nvim.lua",
+            "url": "https://github.com/mihovilrak/scroll.nvim",
+            "description": "Draggable scrollbars with support for diagnostics, Git changes and search matches and minimap."
+        },
+        {
             "path": "DrKJeff16/boolean-toggle.nvim",
             "owner": "DrKJeff16",
             "name": "boolean-toggle.nvim",
@@ -11135,6 +11143,14 @@
             "config": "nvim_pack.lua",
             "url": "https://github.com/plutowang/nvim.pack",
             "description": "Declarative, event-driven lazy-loading configuration built purely on native Vim.pack for extreme startup performance."
+        },
+        {
+            "path": "JimmyPla6z/FireVim",
+            "owner": "JimmyPla6z",
+            "name": "FireVim",
+            "config": "FireVim.lua",
+            "url": "https://gitlab.com/JimmyPla6z/Firevim",
+            "description": "A lightweight, opinionated Neovim distribution with a single `init.lua`, built on Neovim 0.12+."
         }
     ],
     "Version Manager": [
