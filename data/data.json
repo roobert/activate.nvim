@@ -10043,6 +10043,14 @@
             "description": "Provides Emacs' `M-x compile`, and the ability to wrap CLIs and TUIs as regular commands for your command line, with auto-generated tab-completions."
         },
         {
+            "path": "wurli/servery.nvim",
+            "owner": "wurli",
+            "name": "servery.nvim",
+            "config": "servery_nvim.lua",
+            "url": "https://github.com/wurli/servery.nvim",
+            "description": "Jump between sessions using your favourite fuzzy finder."
+        },
+        {
             "path": "rmagatti/auto-session",
             "owner": "rmagatti",
             "name": "auto-session",
