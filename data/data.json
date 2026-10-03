@@ -10913,14 +10913,6 @@
             "description": "Configuration to achieve the power of Modern IDE."
         },
         {
-            "path": "SpaceVim/SpaceVim",
-            "owner": "SpaceVim",
-            "name": "SpaceVim",
-            "config": "SpaceVim.lua",
-            "url": "https://spacevim.org",
-            "description": "A community-driven modular distribution, inspired by [spacemacs](https://github.com/syl20bnr/spacemacs)."
-        },
-        {
             "path": "CosmicNvim/CosmicNvim",
             "owner": "CosmicNvim",
             "name": "CosmicNvim",
