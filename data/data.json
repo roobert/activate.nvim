@@ -9777,12 +9777,12 @@
             "description": "Adds fold markers to sign column to make folds more visible while editing."
         },
         {
-            "path": "fold-logging.nvim",
-            "owner": "",
-            "name": "fold-logging.nvim",
-            "config": "fold_logging_nvim.lua",
-            "url": "https://github.com/markosnarinian/fold-logging.nvim",
-            "description": "Fold logging/debug prints without changing normal folds."
+            "path": "markosnarinian/distill.nvim",
+            "owner": "markosnarinian",
+            "name": "distill.nvim",
+            "config": "distill_nvim.lua",
+            "url": "https://github.com/markosnarinian/distill.nvim",
+            "description": "Fold logging and debug calls while preserving your function, class, and block folds."
         },
         {
             "path": "TheLazyCat00/simple-format",
@@ -11439,16 +11439,16 @@
             "description": "Extensible spinner framework for animated spinners in statusline, tabline, winbar, buffer, cmdline, or next to the cursor."
         },
         {
-            "path": "quickui.nvim",
-            "owner": "",
+            "path": "mjmjm0101/quickui.nvim",
+            "owner": "mjmjm0101",
             "name": "quickui.nvim",
             "config": "quickui_nvim.lua",
             "url": "https://github.com/mjmjm0101/quickui.nvim",
             "description": "Structured, keyboard-driven menus and context menus with nested navigation."
         },
         {
-            "path": "ln.nvim",
-            "owner": "",
+            "path": "markosnarinian/ln.nvim",
+            "owner": "markosnarinian",
             "name": "ln.nvim",
             "config": "ln_nvim.lua",
             "url": "https://github.com/markosnarinian/ln.nvim",
