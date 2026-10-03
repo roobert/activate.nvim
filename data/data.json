@@ -4823,6 +4823,14 @@
             "config": "dancheong_nvim.lua",
             "url": "https://github.com/art220/dancheong.nvim",
             "description": "**_`[TS][LSP][L/D][Lua]`_** Four variants drawn from dancheong, the 1,500-year-old Korean temple-painting palette, with every color contrast-gated at build time and a matching lualine theme."
+        },
+        {
+            "path": "jonestristand/dune.nvim",
+            "owner": "jonestristand",
+            "name": "dune.nvim",
+            "config": "dune_nvim.lua",
+            "url": "https://github.com/jonestristand/dune.nvim",
+            "description": "**_`[TS][LSP][Lua]`_** Four (plus one) variants inspired by Frank Herbert's Dune."
         }
     ],
     "Colorscheme Creation": [
