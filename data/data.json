@@ -7143,6 +7143,14 @@
             "description": "Display code coverage."
         },
         {
+            "path": "nghiant03/jove.nvim",
+            "owner": "nghiant03",
+            "name": "jove.nvim",
+            "config": "jove_nvim.lua",
+            "url": "https://github.com/nghiant03/jove.nvim",
+            "description": "Edit Jupyter notebooks as native buffers with LSP integration, rich inline outputs and interactive component rendering."
+        },
+        {
             "path": "wurli/jet.nvim",
             "owner": "wurli",
             "name": "jet.nvim",
