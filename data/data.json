@@ -4831,6 +4831,14 @@
             "config": "dune_nvim.lua",
             "url": "https://github.com/jonestristand/dune.nvim",
             "description": "**_`[TS][LSP][Lua]`_** Four (plus one) variants inspired by Frank Herbert's Dune."
+        },
+        {
+            "path": "2giosangmitom/nightfall.nvim",
+            "owner": "2giosangmitom",
+            "name": "nightfall.nvim",
+            "config": "nightfall_nvim.lua",
+            "url": "https://github.com/2giosangmitom/nightfall.nvim",
+            "description": "**_`[TS][LSP][L/D][Lua]`_** Dracula-inspired colorscheme with four flavors including a light variant."
         }
     ],
     "Colorscheme Creation": [
