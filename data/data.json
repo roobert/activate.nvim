@@ -3657,6 +3657,14 @@
             "description": "**_`[TS][LSP][Lua]`_** Dark and opinionated with selective highlighting aiming to be readable at a glance."
         },
         {
+            "path": "daaanny90/zed.nvim",
+            "owner": "daaanny90",
+            "name": "zed.nvim",
+            "config": "zed_nvim.lua",
+            "url": "https://github.com/daaanny90/zed.nvim",
+            "description": "**_`[TS][LSP][Lua]`_** Zed editor look with six dark variants, plus tmux and iTerm2 extras."
+        },
+        {
             "path": "silentium-theme/silentium.nvim",
             "owner": "silentium-theme",
             "name": "silentium.nvim",
@@ -3695,6 +3703,14 @@
             "config": "min_theme_nvim.lua",
             "url": "https://github.com/datsfilipe/min-theme.nvim",
             "description": "**_`[TS][LSP][Lua]`_** It's a port of Min, a minimal theme for VSCode, written in Lua."
+        },
+        {
+            "path": "daaanny90/claude-desktop.nvim",
+            "owner": "daaanny90",
+            "name": "claude-desktop.nvim",
+            "config": "claude_desktop_nvim.lua",
+            "url": "https://github.com/daaanny90/claude-desktop.nvim",
+            "description": "**_`[TS][LSP][Lua]`_** Warm dark colorscheme matching the Claude Desktop app, with tmux and iTerm2 extras."
         },
         {
             "path": "github-main-user/lytmode.nvim",
@@ -4433,6 +4449,14 @@
             "description": "**_`[TS][LSP][Lua]`_** A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support."
         },
         {
+            "path": "daaanny90/iterm2-dark-background.nvim",
+            "owner": "daaanny90",
+            "name": "iterm2-dark-background.nvim",
+            "config": "iterm2_dark_background_nvim.lua",
+            "url": "https://github.com/daaanny90/iterm2-dark-background.nvim",
+            "description": "**_`[TS][LSP][Lua]`_** Muted dark colorscheme inspired by iTerm2's Dark Background preset."
+        },
+        {
             "path": "polirritmico/monokai-nightasty.nvim",
             "owner": "polirritmico",
             "name": "monokai-nightasty.nvim",
@@ -4839,6 +4863,14 @@
             "config": "nightfall_nvim.lua",
             "url": "https://github.com/2giosangmitom/nightfall.nvim",
             "description": "**_`[TS][LSP][L/D][Lua]`_** Dracula-inspired colorscheme with four flavors including a light variant."
+        },
+        {
+            "path": "oxidescheme/nvim",
+            "owner": "oxidescheme",
+            "name": "nvim",
+            "config": "nvim.lua",
+            "url": "https://github.com/oxidescheme/nvim",
+            "description": "**_`[TS][LSP][Lua]`_** Minimalist dark colorscheme built on an OKLCH palette with a monochrome-first UI."
         }
     ],
     "Colorscheme Creation": [
