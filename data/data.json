@@ -1505,6 +1505,14 @@
             "config": "hdlsnip_nvim.lua",
             "url": "https://github.com/jgonmor16/hdlsnip.nvim",
             "description": "Parameterised VHDL templates covering entities, FSMs, CDC, AXI4-Lite and testbenches, following the project's reset style and target vendor."
+        },
+        {
+            "path": "upyesp/epher.nvim",
+            "owner": "upyesp",
+            "name": "epher.nvim",
+            "config": "epher_nvim.lua",
+            "url": "https://github.com/upyesp/epher.nvim",
+            "description": "Calculator language with answers inline, LSP server glue, and syntax for `.epher` scripts."
         }
     ],
     "Golang": [
@@ -3615,6 +3623,14 @@
             "config": "shadowMyName_nvim.lua",
             "url": "https://github.com/cxwx/shadowMyName.nvim",
             "description": "Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen."
+        },
+        {
+            "path": "daaanny90/interlinked.nvim",
+            "owner": "daaanny90",
+            "name": "interlinked.nvim",
+            "config": "interlinked_nvim.lua",
+            "url": "https://github.com/daaanny90/interlinked.nvim",
+            "description": "**_`[TS][LSP][Lua]`_** Melancholic Blade Runner 2049 colorscheme with ambient neon-flicker effects and a baseline-test session report."
         },
         {
             "path": "rezniqov/soviet.nvim",
@@ -10653,6 +10669,14 @@
             "config": "competitest_nvim.lua",
             "url": "https://github.com/xeluxee/competitest.nvim",
             "description": "A plugin to automate testcases management and checking for Competitive Programming contests."
+        },
+        {
+            "path": "FrancescoDerme/tuna.nvim",
+            "owner": "FrancescoDerme",
+            "name": "tuna.nvim",
+            "config": "tuna_nvim.lua",
+            "url": "https://github.com/FrancescoDerme/tuna.nvim",
+            "description": "Download problems with Competitive Companion, run testcases in parallel, stress-test against a brute-force reference solution, and submit to online judges."
         },
         {
             "path": "kawre/leetcode.nvim",
