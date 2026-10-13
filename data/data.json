@@ -2833,14 +2833,6 @@
             "description": "Easypick lets you easily create Telescope pickers from arbitrary console commands."
         },
         {
-            "path": "linrongbin16/fzfx.nvim",
-            "owner": "linrongbin16",
-            "name": "fzfx.nvim",
-            "config": "fzfx_nvim.lua",
-            "url": "https://github.com/linrongbin16/fzfx.nvim",
-            "description": "A fuzzy finder that updates on every keystroke."
-        },
-        {
             "path": "nvim-mini/mini.nvim#mini.pick",
             "owner": "nvim-mini",
             "name": "mini.pick",
