@@ -10793,11 +10793,11 @@
             "description": "Visualize and review your configuration activity with stats, insights, history, heatmaps and more."
         },
         {
-            "path": "gisketch/triforce.nvim",
-            "owner": "gisketch",
+            "path": "DrKJeff16/triforce.nvim",
+            "owner": "DrKJeff16",
             "name": "triforce.nvim",
             "config": "triforce_nvim.lua",
-            "url": "https://github.com/gisketch/triforce.nvim",
+            "url": "https://github.com/DrKJeff16/triforce.nvim",
             "description": "Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration."
         },
         {
