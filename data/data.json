@@ -11589,6 +11589,14 @@
             "config": "Neovim Cheatsheet.lua",
             "url": "https://neovimcheatsheet.com",
             "description": "Searchable, interactive cheatsheet with per-keypress search, remappable keybindings, and JSON import/export."
+        },
+        {
+            "path": "nvim-edu",
+            "owner": "",
+            "name": "nvim-edu",
+            "config": "nvim_edu.lua",
+            "url": "https://s3onghyun.github.io/nvim-edu/",
+            "description": "Interactive browser trainer for Vim motions and tmux keys with goal-state levels, drills and a daily challenge, verified against headless Neovim."
         }
     ]
 }
