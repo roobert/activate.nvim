@@ -3617,6 +3617,14 @@
             "description": "Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen."
         },
         {
+            "path": "zacesshq/zacess.nvim",
+            "owner": "zacesshq",
+            "name": "zacess.nvim",
+            "config": "zacess_nvim.lua",
+            "url": "https://github.com/zacesshq/zacess.nvim",
+            "description": "**_`[TS][LSP][L/D][Lua]`_** High contrast, yellow on black and cream color schemes with every text and syntax colour at 7:1 contrast or more."
+        },
+        {
             "path": "daaanny90/interlinked.nvim",
             "owner": "daaanny90",
             "name": "interlinked.nvim",
