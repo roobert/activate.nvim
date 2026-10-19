@@ -2145,6 +2145,14 @@
             "description": "Translate code comments and strings using online as well as local LLMs or external translators."
         },
         {
+            "path": "Imngzx/jisho.nvim",
+            "owner": "Imngzx",
+            "name": "jisho.nvim",
+            "config": "jisho_nvim.lua",
+            "url": "https://github.com/Imngzx/jisho.nvim",
+            "description": "Japanese dictionary, powered by `jisho.org`."
+        },
+        {
             "path": "nvim-treesitter/nvim-treesitter",
             "owner": "nvim-treesitter",
             "name": "nvim-treesitter",
