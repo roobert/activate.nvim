@@ -8261,6 +8261,14 @@
             "config": "nvim_gitlab.lua",
             "url": "https://github.com/mm4cN/nvim-gitlab",
             "description": "GitLab CI/CD integration for browsing and running pipelines, inspecting jobs and logs, retrying jobs, and downloading artifacts."
+        },
+        {
+            "path": "ryutaro-asada/partial-diff.nvim",
+            "owner": "ryutaro-asada",
+            "name": "partial-diff.nvim",
+            "config": "partial_diff_nvim.lua",
+            "url": "https://github.com/ryutaro-asada/partial-diff.nvim",
+            "description": "Compare any two selected regions of code with character-level diff highlighting powered by VSCode's diff algorithm."
         }
     ],
     "GitHub": [
