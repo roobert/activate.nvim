@@ -5571,6 +5571,14 @@
             "description": "Animated ASCII splash screens with bundled animations and custom image or GIF support."
         },
         {
+            "path": "zdcthomas/sprout.nvim",
+            "owner": "zdcthomas",
+            "name": "sprout.nvim",
+            "config": "sprout_nvim.lua",
+            "url": "https://github.com/zdcthomas/sprout.nvim",
+            "description": "An ASCII art bonsai for your start screen that grows as the day goes forward."
+        },
+        {
             "path": "nvim-tree/nvim-web-devicons",
             "owner": "nvim-tree",
             "name": "nvim-web-devicons",
