@@ -1773,6 +1773,14 @@
             "config": "viteenv_nvim.lua",
             "url": "https://github.com/harukikuri/viteenv.nvim",
             "description": "Shows the effective value of `import.meta.env` variables inline per mode, resolved by your project's own `Vite`."
+        },
+        {
+            "path": "mcp1766/stylepeek.nvim",
+            "owner": "mcp1766",
+            "name": "stylepeek.nvim",
+            "config": "stylepeek_nvim.lua",
+            "url": "https://github.com/mcp1766/stylepeek.nvim",
+            "description": "Browse, preview and manage CSS rules."
         }
     ],
     "Markdown and LaTeX": [
