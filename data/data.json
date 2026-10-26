@@ -1211,6 +1211,14 @@
             "description": "Sidebar agent for your own config; will inform you if config still boots when changing it and provides answers from your installed plugins' docs, the versions on disk, and the live session."
         },
         {
+            "path": "mrwatts88/ghost.nvim",
+            "owner": "mrwatts88",
+            "name": "ghost.nvim",
+            "config": "ghost_nvim.lua",
+            "url": "https://github.com/mrwatts88/ghost.nvim",
+            "description": "Write a question using a comment starting with `?` to get a response from your favourite LLM via virtual text."
+        },
+        {
             "path": "alessio-vivaldelli/java-creator-nvim",
             "owner": "alessio-vivaldelli",
             "name": "java-creator-nvim",
@@ -4903,6 +4911,14 @@
             "config": "nvim.lua",
             "url": "https://github.com/oxidescheme/nvim",
             "description": "**_`[TS][LSP][Lua]`_** Minimalist dark colorscheme built on an OKLCH palette with a monochrome-first UI."
+        },
+        {
+            "path": "RazikSF/lumina-themes",
+            "owner": "RazikSF",
+            "name": "lumina-themes",
+            "config": "lumina_themes.lua",
+            "url": "https://github.com/RazikSF/lumina-themes",
+            "description": "**_`[TS][LSP][L/D][Lua]`_** Fourteen colorschemes drawn from scenes, each in light and dark, plus a high-contrast pair."
         }
     ],
     "Colorscheme Creation": [
@@ -5585,6 +5601,14 @@
             "config": "sprout_nvim.lua",
             "url": "https://github.com/zdcthomas/sprout.nvim",
             "description": "An ASCII art bonsai for your start screen that grows as the day goes forward."
+        },
+        {
+            "path": "hawknewton/matrix-splash.nvim",
+            "owner": "hawknewton",
+            "name": "matrix-splash.nvim",
+            "config": "matrix_splash_nvim.lua",
+            "url": "https://github.com/hawknewton/matrix-splash.nvim",
+            "description": "Customizable Matrix-inspired splash screen."
         },
         {
             "path": "nvim-tree/nvim-web-devicons",
