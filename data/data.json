@@ -10637,6 +10637,14 @@
             "description": "Thin wrapper for using the `tmux` API."
         },
         {
+            "path": "minhyeoky/tmux-oil.nvim",
+            "owner": "minhyeoky",
+            "name": "tmux-oil.nvim",
+            "config": "tmux_oil_nvim.lua",
+            "url": "https://github.com/minhyeoky/tmux-oil.nvim",
+            "description": "Edit tmux sessions and windows as lines in a buffer, like `oil.nvim`."
+        },
+        {
             "path": "alec-gibson/nvim-tetris",
             "owner": "alec-gibson",
             "name": "nvim-tetris",
