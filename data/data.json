@@ -1529,6 +1529,14 @@
             "config": "epher_nvim.lua",
             "url": "https://github.com/upyesp/epher.nvim",
             "description": "Calculator language with answers inline, LSP server glue, and syntax for `.epher` scripts."
+        },
+        {
+            "path": "dobsontom/dbt-ft.nvim",
+            "owner": "dobsontom",
+            "name": "dbt-ft.nvim",
+            "config": "dbt_ft_nvim.lua",
+            "url": "https://github.com/dobsontom/dbt-ft.nvim",
+            "description": "Jinja-aware filetype for `dbt` models, with Tree-sitter support for highlighting, folding, and indentation."
         }
     ],
     "Golang": [
