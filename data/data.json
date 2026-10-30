@@ -1809,12 +1809,12 @@
             "description": "Markdown renderer with live browser preview, synchronized scrolling, and support for math, diagrams, LaTeX, and local images."
         },
         {
-            "path": "iamcco/markdown-preview.nvim",
-            "owner": "iamcco",
+            "path": "sammaji/markdown-preview.nvim",
+            "owner": "sammaji",
             "name": "markdown-preview.nvim",
             "config": "markdown_preview_nvim.lua",
-            "url": "https://github.com/iamcco/markdown-preview.nvim",
-            "description": "Preview Markdown on your modern browser with synchronised scrolling and flexible configuration."
+            "url": "https://github.com/sammaji/markdown-preview.nvim",
+            "description": "Preview Markdown files in your browser with support for math and diagrams, and synchronised scrolling."
         },
         {
             "path": "davidgranstrom/nvim-markdown-preview",
@@ -3655,6 +3655,14 @@
             "config": "shadowMyName_nvim.lua",
             "url": "https://github.com/cxwx/shadowMyName.nvim",
             "description": "Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen."
+        },
+        {
+            "path": "heritage-themes/heritage-themes.nvim",
+            "owner": "heritage-themes",
+            "name": "heritage-themes.nvim",
+            "config": "heritage_themes_nvim.lua",
+            "url": "https://github.com/heritage-themes/heritage-themes.nvim",
+            "description": "**_`[TS][LSP][L/D][Lua]`_** A collection of 65 colorschemes drawn from the colour traditions of different cultures, with support for `lualine.nvim` and `gitsigns.nvim`."
         },
         {
             "path": "zacesshq/zacess.nvim",
