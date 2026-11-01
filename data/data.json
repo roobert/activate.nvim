@@ -4935,6 +4935,14 @@
             "config": "lumina_themes.lua",
             "url": "https://github.com/RazikSF/lumina-themes",
             "description": "**_`[TS][LSP][L/D][Lua]`_** Fourteen colorschemes drawn from scenes, each in light and dark, plus a high-contrast pair."
+        },
+        {
+            "path": "kryptamine/gruber-darker-renaissance",
+            "owner": "kryptamine",
+            "name": "gruber-darker-renaissance",
+            "config": "gruber_darker_renaissance.lua",
+            "url": "https://github.com/kryptamine/gruber-darker-renaissance",
+            "description": "**_`[TS][LSP][Lua]`_** A dark, minimal colorscheme based on Gruber Darker."
         }
     ],
     "Colorscheme Creation": [
