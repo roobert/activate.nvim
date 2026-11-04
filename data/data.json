@@ -1537,6 +1537,14 @@
             "config": "dbt_ft_nvim.lua",
             "url": "https://github.com/dobsontom/dbt-ft.nvim",
             "description": "Jinja-aware filetype for `dbt` models, with Tree-sitter support for highlighting, folding, and indentation."
+        },
+        {
+            "path": "alessandropietrobelli/dotnet-tree.nvim",
+            "owner": "alessandropietrobelli",
+            "name": "dotnet-tree.nvim",
+            "config": "dotnet_tree_nvim.lua",
+            "url": "https://github.com/alessandropietrobelli/dotnet-tree.nvim",
+            "description": "A `.NET` solution explorer as a neo-tree source, showing solution folders, projects, project references and package versions, with support for many `dotnet` actions."
         }
     ],
     "Golang": [
@@ -2095,6 +2103,14 @@
             "config": "vimtex_follow.lua",
             "url": "https://github.com/itsfernn/vimtex-follow",
             "description": "Adds a toggleable \"follow mode\", synchronizing your PDF viewer with your cursor position."
+        },
+        {
+            "path": "ywsrock/nvim-md-preview",
+            "owner": "ywsrock",
+            "name": "nvim-md-preview",
+            "config": "nvim_md_preview.lua",
+            "url": "https://github.com/ywsrock/nvim-md-preview",
+            "description": "Markdown preview in your browser with two-way cursor sync, Mermaid and KaTeX support, and PDF/DOCX/HTML/EPUB export."
         },
         {
             "path": "potamides/pantran.nvim",
@@ -6625,6 +6641,14 @@
             "config": "docshelf_nvim.lua",
             "url": "https://github.com/ChrisGVE/docshelf.nvim",
             "description": "Offline API documentation from `devdocs.io`, `Hackage`, `docs.rs`, `pkg.go.dev`, `Sphinx` / `DocC` sites and `Dash` docsets, converted to text for reading and grepping in a buffer, with per-language filtering and automatic updates."
+        },
+        {
+            "path": "alexcloudstar/cheatsheet.nvim",
+            "owner": "alexcloudstar",
+            "name": "cheatsheet.nvim",
+            "config": "cheatsheet_nvim.lua",
+            "url": "https://github.com/alexcloudstar/cheatsheet.nvim",
+            "description": "Telescope cheatsheet for your keybindings; look up a key by task or keyword and add your own keys."
         }
     ],
     "CSV Files": [
@@ -10039,6 +10063,14 @@
             "config": "conform_nvim.lua",
             "url": "https://github.com/stevearc/conform.nvim",
             "description": "A lightweight formatting engine that plays nice with LSP."
+        },
+        {
+            "path": "javanoo6/intellij-formatter.nvim",
+            "owner": "javanoo6",
+            "name": "intellij-formatter.nvim",
+            "config": "intellij_formatter_nvim.lua",
+            "url": "https://github.com/javanoo6/intellij-formatter.nvim",
+            "description": "IntelliJ-powered formatting through conform.nvim, with EditorConfig support, Java import cleanup, and a reusable daemon."
         },
         {
             "path": "nvimdev/guard.nvim",
