@@ -9739,6 +9739,14 @@
             "config": "lastput_nvim.lua",
             "url": "https://codeberg.org/iago-lito/lastput.nvim",
             "description": "One mapping to (re)select the last piece of text you've pasted."
+        },
+        {
+            "path": "LongYinStudio/suda.nvim",
+            "owner": "LongYinStudio",
+            "name": "suda.nvim",
+            "config": "suda_nvim.lua",
+            "url": "https://github.com/LongYinStudio/suda.nvim",
+            "description": "Transparent, \"sudo-like\" privilege elevation without virtual URI hacks."
         }
     ],
     "Comment": [
