@@ -1545,6 +1545,14 @@
             "config": "dotnet_tree_nvim.lua",
             "url": "https://github.com/alessandropietrobelli/dotnet-tree.nvim",
             "description": "A `.NET` solution explorer as a neo-tree source, showing solution folders, projects, project references and package versions, with support for many `dotnet` actions."
+        },
+        {
+            "path": "alessandropietrobelli/dotnet-counters.nvim",
+            "owner": "alessandropietrobelli",
+            "name": "dotnet-counters.nvim",
+            "config": "dotnet_counters_nvim.lua",
+            "url": "https://github.com/alessandropietrobelli/dotnet-counters.nvim",
+            "description": "Live .NET runtime metrics (CPU, memory, GC, exceptions, HTTP latency) drawn as graphs in a side panel that opens with `nvim-dap` debug sessions."
         }
     ],
     "Golang": [
@@ -11383,6 +11391,14 @@
             "config": "earlgrey_nvim.lua",
             "url": "https://github.com/gamjagoon/earlgrey.nvim",
             "description": "A focused configuration with terminal agent notifications, per-language LSP controls, and cross-platform installers."
+        },
+        {
+            "path": "LFSCamargo/nvim.setup",
+            "owner": "LFSCamargo",
+            "name": "nvim.setup",
+            "config": "nvim_setup.lua",
+            "url": "https://github.com/LFSCamargo/nvim.setup",
+            "description": "Portable config with a file tree, editor tabs, and independent AI CLI chats in one window."
         }
     ],
     "Version Manager": [
