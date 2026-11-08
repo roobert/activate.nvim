@@ -8953,6 +8953,14 @@
             "config": "keepcursor_nvim.lua",
             "url": "https://github.com/rlychrisg/keepcursor.nvim",
             "description": "A collection of functions to control how the screen is positioned around the cursor."
+        },
+        {
+            "path": "LFSCamargo/macscroll.nvim",
+            "owner": "LFSCamargo",
+            "name": "macscroll.nvim",
+            "config": "macscroll_nvim.lua",
+            "url": "https://github.com/LFSCamargo/macscroll.nvim",
+            "description": "macOS trackpad and mouse-wheel scrolling delivered by a Darwin handler so terminals cannot drop sideways motion."
         }
     ],
     "Scrollbar": [
