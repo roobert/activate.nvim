@@ -7999,6 +7999,14 @@
             "description": "Conan 2 integration for managing profiles, packages, remotes, dependencies, and common C/C++ package workflows."
         },
         {
+            "path": "alessandropietrobelli/nuget.nvim",
+            "owner": "alessandropietrobelli",
+            "name": "nuget.nvim",
+            "config": "nuget_nvim.lua",
+            "url": "https://github.com/alessandropietrobelli/nuget.nvim",
+            "description": "NuGet package manager for .NET solutions."
+        },
+        {
             "path": "Darkskittlz/GitCompanion",
             "owner": "Darkskittlz",
             "name": "GitCompanion",
