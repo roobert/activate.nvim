@@ -1,3 +1,4 @@
+---@module "activate.types"
 local M = {}
 
 local api = vim.api
@@ -132,8 +133,7 @@ M.create_plugin_file = function(plugin_name, repo, _config, edit)
 				f:write(config)
 			else
 				local disclaimer = [[
-        -- No example configuration was found for this plugin.
-        --
+        -- No example configuration was found for this plugin, a default has been configured.
         -- For detailed information on configuring this plugin, please refer to its
         -- official documentation:
         --
@@ -148,7 +148,8 @@ M.create_plugin_file = function(plugin_name, repo, _config, edit)
 				f:write(disclaimer)
 				f:write("\n")
 				f:write("return {\n")
-				f:write(string.format('  -- "%s"\n', repo))
+				f:write(string.format('  "%s",\n', repo))
+				f:write('  opts = {}\n')
 				f:write("}")
 			end
 			f:close()
@@ -326,6 +327,8 @@ local function help()
 end
 
 M.all_plugins_mappings = function(prompt_bufnr, map)
+	---@class Activate.Config
+	local user_conf = require("activate.config").config
 	local action_state = require("telescope.actions.state")
 
 	local function install_and_or_configure_plugin()
@@ -333,7 +336,7 @@ M.all_plugins_mappings = function(prompt_bufnr, map)
 		vim.api.nvim_buf_delete(prompt_bufnr, { force = true })
 		M._install_plugin(entry)
 		local repo_path = entry.url:gsub("https://github.com/", "")
-		local edit = true
+		local edit = user_conf.open_config_after_creation
 		M.create_plugin_file(entry.plugin_name, repo_path, entry.config, edit)
 	end
 
